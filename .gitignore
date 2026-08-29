@@ -135,5 +135,7 @@ dist/
 # generated types
 .astro/
 
+external/
+
 # Temp files
 tmp/
