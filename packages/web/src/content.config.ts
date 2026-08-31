@@ -15,22 +15,30 @@ const github = z.object({
 
 const plugin = defineCollection({
   loader: glob({ base: './src/plugins', pattern: '*/index.yml' }),
-  schema: z
-    .object({
-      version: z.number(),
-      name: z.string(),
-      github: github.optional(),
-      npm: z.object({ name: z.string() }).optional(),
-      versions: z.array(
-        z
-          .object({
-            packageVersion: z.string(),
-            dshVersion: z.string(),
-          })
-          .passthrough(),
-      ),
-    })
-    .passthrough(),
+  schema: z.union([
+    z
+      .object({
+        version: z.number(),
+        redirect: z.number().int().positive(),
+      })
+      .passthrough(),
+    z
+      .object({
+        version: z.number(),
+        name: z.string(),
+        github: github.optional(),
+        npm: z.object({ name: z.string() }).optional(),
+        versions: z.array(
+          z
+            .object({
+              packageVersion: z.string(),
+              dshVersion: z.string(),
+            })
+            .passthrough(),
+        ),
+      })
+      .passthrough(),
+  ]),
 })
 
 export const collections = {
