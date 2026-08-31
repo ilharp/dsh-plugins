@@ -1,0 +1,14 @@
+version: 1
+name: dsh-cloud-gateway
+github:
+  owner: MrLukezy
+  repo: dsh-cloud-gateway
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.13
+    dshVersion: v0.1.2-alpha.1

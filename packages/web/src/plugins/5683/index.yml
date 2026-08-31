@@ -1,0 +1,11 @@
+version: 1
+name: deeptide
+github:
+  owner: paean-ai
+  repo: deeptide
+  language: Rust
+  license: MIT
+  stars: 1096
+  forks: 139
+  openIssues: 1
+versions: []

@@ -1,0 +1,13 @@
+version: 1
+name: falsify-dsh
+github:
+  owner: shi275773124
+  repo: falsify-dsh
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 1
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

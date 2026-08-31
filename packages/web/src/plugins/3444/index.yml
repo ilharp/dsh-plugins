@@ -1,0 +1,13 @@
+version: 1
+name: dsh-seo-writer
+github:
+  owner: jetheaven
+  repo: dsh-seo-writer
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

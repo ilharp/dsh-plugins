@@ -1,0 +1,14 @@
+version: 1
+name: dsh-terminal
+github:
+  owner: geebos
+  repo: dsh-terminal
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: '@geebos/dsh-terminal'
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

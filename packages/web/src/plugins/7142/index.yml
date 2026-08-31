@@ -1,0 +1,17 @@
+version: 1
+name: dsh-codex-auth
+github:
+  owner: suntianc
+  repo: dsh-codex-auth
+  language: TypeScript
+  license: MIT
+  stars: 13
+  forks: 5
+  openIssues: 1
+npm:
+  name: dsh-codex-auth
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

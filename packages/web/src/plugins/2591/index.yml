@@ -1,0 +1,14 @@
+version: 1
+name: dsh-top
+github:
+  owner: glenngit
+  repo: dsh-top
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-top
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

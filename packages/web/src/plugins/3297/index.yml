@@ -1,0 +1,15 @@
+version: 1
+name: dsh-splash-launcher
+github:
+  owner: Isilsolme
+  repo: dsh-splash-launcher
+  language: C#
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-splash-launcher
+versions:
+  - packageVersion: 1.3.0
+    dshVersion: v0.1.2-alpha.1

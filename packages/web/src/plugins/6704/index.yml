@@ -1,0 +1,12 @@
+version: 1
+name: vibe-intent-compiler
+github:
+  owner: Shhaaawwww
+  repo: vibe-intent-compiler
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

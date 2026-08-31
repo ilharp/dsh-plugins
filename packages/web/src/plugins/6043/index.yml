@@ -1,0 +1,16 @@
+version: 1
+name: dsh-omni-router
+github:
+  owner: qwe225380
+  repo: dsh-omni-router
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 2
+npm:
+  name: dsh-omni-router
+versions:
+  - packageVersion: 3.0.0-rc.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 3.0.0-rc.13
+    dshVersion: v0.1.2-alpha.1

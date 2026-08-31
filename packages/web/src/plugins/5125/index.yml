@@ -1,0 +1,11 @@
+version: 1
+name: dsh-vision-mcp
+github:
+  owner: moton16
+  repo: dsh-vision-mcp
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

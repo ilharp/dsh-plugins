@@ -1,0 +1,12 @@
+version: 1
+name: dsh-i-have-adhd
+github:
+  owner: GongYuanCaiJi
+  repo: dsh-i-have-adhd
+  language: Python
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: leppy-loop-deepseek
+github:
+  owner: aleleppy
+  repo: leppy-loop-deepseek
+  language: TypeScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.2.20
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.5
+    dshVersion: v0.1.2-alpha.1

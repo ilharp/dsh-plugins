@@ -1,0 +1,15 @@
+version: 1
+name: dsh-netcafe
+github:
+  owner: mario03690
+  repo: dsh-netcafe
+  language: unknown, esm
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-netcafe
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

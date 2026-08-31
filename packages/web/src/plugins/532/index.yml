@@ -1,0 +1,15 @@
+version: 1
+name: embedded-workbench
+github:
+  owner: AmethystLuna
+  repo: embedded-workbench
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-embedded-workbench
+versions:
+  - packageVersion: 0.7.1
+    dshVersion: v0.1.2-alpha.1

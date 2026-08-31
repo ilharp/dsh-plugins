@@ -1,0 +1,14 @@
+version: 1
+name: dsh-theme-mineradio
+github:
+  owner: dhicoc
+  repo: dsh-theme-mineradio
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+npm:
+  name: dsh-theme-mineradio
+versions:
+  - packageVersion: 2.2.9
+    dshVersion: v0.1.2-alpha.1

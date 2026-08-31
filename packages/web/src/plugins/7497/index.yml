@@ -1,0 +1,11 @@
+version: 1
+name: '@dsh-remote/workspace-plugin'
+github:
+  owner: trrrrrryg
+  repo: dsh-remote-workspace
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

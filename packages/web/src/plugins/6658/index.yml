@@ -1,0 +1,15 @@
+version: 1
+name: dsh-pocket
+github:
+  owner: shaobeichen
+  repo: dsh-pocket
+  language: JavaScript
+  license: GPL-2.0
+  stars: 831
+  forks: 43
+  openIssues: 10
+npm:
+  name: dsh-pocket
+versions:
+  - packageVersion: 1.14.5
+    dshVersion: v0.1.2-alpha.1

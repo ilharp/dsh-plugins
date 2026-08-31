@@ -1,0 +1,14 @@
+version: 1
+name: dsh-better-webui
+github:
+  owner: bLueriVerLHR
+  repo: dsh-better-webui
+  language: JavaScript
+  license: GPL-3.0
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.22.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.26.0
+    dshVersion: v0.1.2-alpha.1

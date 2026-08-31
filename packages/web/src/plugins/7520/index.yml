@@ -1,0 +1,11 @@
+version: 1
+name: dsh-assembler
+github:
+  owner: TT-Wang
+  repo: dsh-assembler
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

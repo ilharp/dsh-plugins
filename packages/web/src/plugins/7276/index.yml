@@ -1,0 +1,14 @@
+version: 1
+name: dsh-web-search-ddg
+github:
+  owner: tatselkrik
+  repo: dsh-web-search-ddg
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-web-search-ddg
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

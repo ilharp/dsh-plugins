@@ -1,0 +1,12 @@
+version: 1
+name: dsh-pet-evolve
+github:
+  owner: zoahdev
+  repo: dsh-pet-evolve
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

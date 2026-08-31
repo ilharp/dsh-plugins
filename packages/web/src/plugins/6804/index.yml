@@ -1,0 +1,12 @@
+version: 1
+name: dsh-save-balance-monitor
+github:
+  owner: sixtysevenlf
+  repo: dsh-save-balance-monitor
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 4
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

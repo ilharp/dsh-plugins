@@ -1,0 +1,8 @@
+version: 1
+name: dsh-show-image
+github:
+  owner: MKibera
+  repo: dsh-show-image
+  license: MIT
+  stars: 0
+versions: []

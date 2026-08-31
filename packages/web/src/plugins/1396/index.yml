@@ -1,0 +1,14 @@
+version: 1
+name: aura-vision
+github:
+  owner: Ck-epsilon
+  repo: aura-vision
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: aura-vision
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: archgraph
+github:
+  owner: derekhu0002
+  repo: archgraph
+  language: JavaScript
+  license: Apache-2.0
+  stars: 2
+  forks: 0
+npm:
+  name: archgraph-argo
+versions:
+  - packageVersion: 0.10.31
+    dshVersion: v0.1.2-alpha.1

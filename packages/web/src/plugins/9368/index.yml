@@ -1,0 +1,11 @@
+version: 1
+name: dshcode
+github:
+  owner: whitelonng
+  repo: dshcode
+  language: TypeScript
+  license: MIT
+  stars: 425
+  forks: 1
+  openIssues: 5
+versions: []

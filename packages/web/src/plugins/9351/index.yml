@@ -1,0 +1,14 @@
+version: 1
+name: dsh-cross-session
+github:
+  owner: Wha1eChai
+  repo: dsh-cross-session
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@wha1echai/dsh-cross-session'
+versions:
+  - packageVersion: 0.1.0-rc.1
+    dshVersion: v0.1.2-alpha.1

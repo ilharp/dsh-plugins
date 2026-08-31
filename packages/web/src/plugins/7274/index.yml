@@ -1,0 +1,13 @@
+version: 1
+name: dsh-talk-map
+github:
+  owner: Tasihi89
+  repo: dsh-talk-map
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 6
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

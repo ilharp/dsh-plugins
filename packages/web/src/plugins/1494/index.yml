@@ -1,0 +1,17 @@
+version: 1
+name: dsh-workbuddy-connect
+github:
+  owner: corrinehu
+  repo: dsh-workbuddy-connect
+  language: TypeScript
+  license: MIT
+  stars: 18
+  forks: 6
+  openIssues: 2
+npm:
+  name: dsh-workbuddy-connect
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

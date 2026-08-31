@@ -1,0 +1,14 @@
+version: 1
+name: dsh-session-drafts
+github:
+  owner: ne-ilyxa
+  repo: dsh-session-drafts
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 3
+  forks: 0
+npm:
+  name: '@ne-ilyxa/dsh-session-drafts'
+versions:
+  - packageVersion: 0.6.1
+    dshVersion: v0.1.2-alpha.1

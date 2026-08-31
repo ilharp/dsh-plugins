@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-android-app
+github:
+  owner: Jensen-Yao
+  repo: deepseek-harness-android-app
+  language: Java
+  license: MIT
+  stars: 13
+  forks: 1
+  openIssues: 0
+versions: []

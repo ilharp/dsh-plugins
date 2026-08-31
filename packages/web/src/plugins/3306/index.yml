@@ -1,0 +1,10 @@
+version: 1
+name: DeepSeek-Harness-Skill
+github:
+  owner: itmoqing
+  repo: DeepSeek-Harness-Skill
+  language: PowerShell
+  stars: 6
+  forks: 0
+  openIssues: 0
+versions: []

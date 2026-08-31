@@ -1,0 +1,14 @@
+version: 1
+name: dsh-session-toc
+github:
+  owner: notload
+  repo: dsh-session-toc
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-session-toc
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

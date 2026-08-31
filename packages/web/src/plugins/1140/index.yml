@@ -1,0 +1,12 @@
+version: 1
+name: dsh-goal-planner
+github:
+  owner: caseyyy
+  repo: dsh-goal-planner
+  language: JavaScript
+  license: GPL-2.0
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: deepseeh-harness-ultra-slash
+github:
+  owner: loadingvx
+  repo: deepseeh-harness-ultra-slash
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: deepseek-harness-ultra-slash
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

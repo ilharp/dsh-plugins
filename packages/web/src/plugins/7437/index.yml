@@ -1,0 +1,11 @@
+version: 1
+name: dsh-archived-sessions
+github:
+  owner: TOBYCAI
+  repo: dsh-archived-sessions
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-theme-kit
+github:
+  owner: ink5897
+  repo: dsh-theme-kit
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-theme-kit
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

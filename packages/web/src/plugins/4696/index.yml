@@ -1,0 +1,16 @@
+version: 1
+name: dsh-anchor-rail
+github:
+  owner: lyfZhixing
+  repo: dsh-anchor-rail
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-anchor-rail
+versions:
+  - packageVersion: 1.0.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.5
+    dshVersion: v0.1.2-alpha.1

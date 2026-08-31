@@ -1,0 +1,8 @@
+version: 1
+name: dsh-referenced-file
+github:
+  owner: sky-unicorn
+  repo: dsh-referenced-file
+  stars: 1
+  forks: 0
+versions: []

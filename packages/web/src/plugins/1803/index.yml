@@ -1,0 +1,14 @@
+version: 1
+name: dsh-focus-chat
+github:
+  owner: dingyi222666
+  repo: dsh-focus-chat
+  language: TypeScript
+  stars: 22
+  forks: 1
+  openIssues: 1
+npm:
+  name: '@dingyi222666/dsh-focus-chat'
+versions:
+  - packageVersion: 0.1.11
+    dshVersion: v0.1.2-alpha.1

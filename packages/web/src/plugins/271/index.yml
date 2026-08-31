@@ -1,0 +1,12 @@
+version: 1
+name: dsh-quote-panel
+github:
+  owner: a1297424439
+  repo: dsh-quote-panel
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 2.2.2
+    dshVersion: v0.1.2-alpha.1

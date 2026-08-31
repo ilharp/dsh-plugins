@@ -1,0 +1,10 @@
+version: 1
+name: deepseek-harness-Install
+github:
+  owner: yu-wenchao
+  repo: deepseek-harness-Install
+  license: MIT
+  stars: 4
+  forks: 2
+  openIssues: 0
+versions: []

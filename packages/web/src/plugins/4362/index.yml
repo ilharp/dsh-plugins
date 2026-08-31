@@ -1,0 +1,17 @@
+version: 1
+name: gongwen-skill
+github:
+  owner: linhut
+  repo: gongwen-skill
+  language: Python
+  license: MIT
+  stars: 27
+  forks: 5
+  openIssues: 0
+npm:
+  name: gongwen-skill
+versions:
+  - packageVersion: 2.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2.2.0
+    dshVersion: v0.1.2-alpha.1

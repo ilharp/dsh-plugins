@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-open-app
+github:
+  owner: 2nd1st
+  repo: dsh-plugin-open-app
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: '@2nd1st/dsh-plugin-open-app'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

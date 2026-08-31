@@ -1,0 +1,14 @@
+version: 1
+name: dsh-updater
+github:
+  owner: Takinggg
+  repo: dsh-updater
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-updater
+versions:
+  - packageVersion: 0.4.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-web-chat
+github:
+  owner: xmuwenxiang
+  repo: dsh-web-chat
+  language: TypeScript
+  license: Apache-2.0
+  stars: 4
+  forks: 5
+npm:
+  name: dsh-webchat
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-theme
+github:
+  owner: mux9056-bot
+  repo: dsh-theme
+  language: CSS
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-theme
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-typing-insight
+github:
+  owner: SYeShare
+  repo: dsh-typing-insight
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@sharelights/dsh-typing-insight'
+versions:
+  - packageVersion: 1.0.0-rc.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.0-rc.3
+    dshVersion: v0.1.2-alpha.1

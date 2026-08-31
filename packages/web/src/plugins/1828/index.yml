@@ -1,0 +1,11 @@
+version: 1
+name: dsh-test-workbench
+github:
+  owner: dmsobtl
+  repo: dsh-test-workbench
+  language: unknown, esm
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

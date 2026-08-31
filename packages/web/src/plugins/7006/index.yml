@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-tavern
+github:
+  owner: Star-Guest
+  repo: dsh-plugin-tavern
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

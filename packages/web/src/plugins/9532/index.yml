@@ -1,0 +1,11 @@
+version: 1
+name: dsh-native-session-delete
+github:
+  owner: WSL043
+  repo: dsh-native-session-manager
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 1.1.2
+    dshVersion: v0.1.2-alpha.1

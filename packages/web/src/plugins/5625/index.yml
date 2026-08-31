@@ -1,0 +1,14 @@
+version: 1
+name: dsh-voice-input
+github:
+  owner: opensquad-ai
+  repo: dsh-voice-input
+  language: Python
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@opensquad/dsh-voice-input'
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1

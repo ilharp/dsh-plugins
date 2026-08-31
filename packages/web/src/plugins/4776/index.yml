@@ -1,0 +1,14 @@
+version: 1
+name: dsh-grok-kit
+github:
+  owner: MaRi23333
+  repo: dsh-grok-kit
+  language: TypeScript
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-grok-kit
+versions:
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1

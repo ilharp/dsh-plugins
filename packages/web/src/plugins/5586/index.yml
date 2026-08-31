@@ -1,0 +1,14 @@
+version: 1
+name: dsh-thunderforge
+github:
+  owner: oneinitAI
+  repo: dsh-thunderforge
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-thunderforge
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

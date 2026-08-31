@@ -1,0 +1,15 @@
+version: 1
+name: dsh-workspace
+github:
+  owner: Hakunm
+  repo: dsh-workspace
+  language: TypeScript
+  license: AGPL-3.0
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-workspace
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

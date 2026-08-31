@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-topology
+github:
+  owner: sleetdrop
+  repo: dsh-plugin-topology
+  language: TypeScript
+  stars: 0
+npm:
+  name: '@sleetdrop/dsh-plugin-topology'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

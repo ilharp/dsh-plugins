@@ -1,0 +1,12 @@
+version: 1
+name: deepseek-harness-liquid-glass-theme
+github:
+  owner: Rainpomelo
+  repo: deepseek-harness-liquid-glass-theme
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+versions:
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1

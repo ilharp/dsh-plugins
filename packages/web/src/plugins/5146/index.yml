@@ -1,0 +1,16 @@
+version: 1
+name: dsh-dbhub-live
+github:
+  owner: mr-mihu
+  repo: dsh-dbhub-live
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-dbhub-live
+versions:
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 3.0.0
+    dshVersion: v0.1.2-alpha.1

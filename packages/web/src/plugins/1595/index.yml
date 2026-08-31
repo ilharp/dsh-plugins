@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-desktop
+github:
+  owner: czzzlq
+  repo: deepseek-harness-desktop
+  language: Rust
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

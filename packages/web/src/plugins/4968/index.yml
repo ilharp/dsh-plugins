@@ -1,0 +1,14 @@
+version: 1
+name: dsh-notion
+github:
+  owner: mingzeng21
+  repo: dsh-notion
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-notion-mcp
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

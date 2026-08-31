@@ -1,0 +1,11 @@
+version: 1
+name: dsh-container
+github:
+  owner: NIyueeE
+  repo: dsh-container
+  language: Dockerfile
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-firecrawl
+github:
+  owner: vcxmug
+  repo: dsh-firecrawl
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

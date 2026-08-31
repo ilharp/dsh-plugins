@@ -1,0 +1,16 @@
+version: 1
+name: dsh-voice-chat
+github:
+  owner: lak321
+  repo: dsh-voice-chat
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-voice-chat
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

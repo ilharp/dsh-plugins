@@ -1,0 +1,15 @@
+version: 1
+name: dsh-any-background
+github:
+  owner: Tkingxiao
+  repo: dsh-any-background
+  language: TypeScript
+  license: MIT
+  stars: 20
+  forks: 0
+  openIssues: 1
+npm:
+  name: dsh-any-background
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

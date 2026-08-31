@@ -1,0 +1,11 @@
+version: 1
+name: '@univer-cli/dsh-univer-plugin'
+github:
+  owner: dream-num
+  repo: dsh-univer-plugin
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

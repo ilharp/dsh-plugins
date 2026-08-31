@@ -1,0 +1,15 @@
+version: 1
+name: dsh-nested-followups
+github:
+  owner: sluminositys
+  repo: dsh-nested-followups
+  language: TypeScript
+  license: MIT
+  stars: 16
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-nested-followups
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

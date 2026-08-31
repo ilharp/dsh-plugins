@@ -1,0 +1,19 @@
+version: 1
+name: dsh-plugin-ima-sync
+github:
+  owner: nan1010082085
+  repo: dsh-plugin-ima-sync
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-plugin-ima-sync
+versions:
+  - packageVersion: 0.8.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.8.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.8.3
+    dshVersion: v0.1.2-alpha.1

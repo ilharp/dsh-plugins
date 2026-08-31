@@ -1,0 +1,15 @@
+version: 1
+name: dsh-personal-workbench
+github:
+  owner: Dely0
+  repo: dsh-personal-workbench
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 1
+  openIssues: 1
+npm:
+  name: '@dely0/dsh-personal-workbench'
+versions:
+  - packageVersion: 1.9.0
+    dshVersion: v0.1.2-alpha.1

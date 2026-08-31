@@ -1,0 +1,13 @@
+version: 1
+name: dsh-march7th-skin
+github:
+  owner: fishfromsky
+  repo: dsh-march7th-skin
+  language: CSS
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

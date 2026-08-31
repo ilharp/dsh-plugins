@@ -1,0 +1,12 @@
+version: 1
+name: dsh-message-finder
+github:
+  owner: cransmathenia666-hash
+  repo: dsh-message-finder
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1

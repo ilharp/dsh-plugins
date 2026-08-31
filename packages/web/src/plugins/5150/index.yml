@@ -1,0 +1,16 @@
+version: 1
+name: dsh-model-garden
+github:
+  owner: mrdevlorx
+  repo: dsh-model-garden
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-model-garden
+versions:
+  - packageVersion: 0.6.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.3
+    dshVersion: v0.1.2-alpha.1

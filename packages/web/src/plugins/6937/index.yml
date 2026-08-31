@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-cli
+github:
+  owner: soolaugust
+  repo: deepseek-harness-cli
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,17 @@
+version: 1
+name: dsh-smooth-stream
+github:
+  owner: Laplace-bit
+  repo: dsh-smooth-stream
+  language: JavaScript
+  license: MIT
+  stars: 62
+  forks: 7
+  openIssues: 2
+npm:
+  name: dsh-smooth-stream
+versions:
+  - packageVersion: 0.3.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

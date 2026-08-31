@@ -1,0 +1,14 @@
+version: 1
+name: dsh-multi-chat
+github:
+  owner: daetz-coder
+  repo: dsh-multi-chat
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 1
+npm:
+  name: dsh-multi-chat
+versions:
+  - packageVersion: 1.0.3
+    dshVersion: v0.1.2-alpha.1

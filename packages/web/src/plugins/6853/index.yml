@@ -1,0 +1,15 @@
+version: 1
+name: dsh-rtk-optimizer
+github:
+  owner: sleepinginsummer
+  repo: dsh-rtk-optimizer
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-rtk-optimizer
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

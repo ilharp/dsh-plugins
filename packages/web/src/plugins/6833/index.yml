@@ -1,0 +1,8 @@
+version: 1
+name: dsh-plugin-market
+github:
+  owner: sky-unicorn
+  repo: dsh-plugin-market
+  stars: 1
+  forks: 0
+versions: []

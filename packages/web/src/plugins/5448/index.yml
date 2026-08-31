@@ -1,0 +1,11 @@
+version: 1
+name: dsh-hanako
+github:
+  owner: Nyasers
+  repo: dsh-hanako
+  language: JavaScript
+  license: MIT
+  stars: 41
+  forks: 2
+  openIssues: 0
+versions: []

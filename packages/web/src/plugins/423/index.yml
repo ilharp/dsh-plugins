@@ -1,0 +1,12 @@
+version: 1
+name: wan-tavern
+github:
+  owner: aipaigyx
+  repo: wan-tavern
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

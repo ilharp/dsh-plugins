@@ -1,0 +1,17 @@
+version: 1
+name: deep-read-summarize
+github:
+  owner: PensiveFei
+  repo: deep-read-summarize
+  language: JavaScript
+  license: MIT
+  stars: 26
+  forks: 0
+  openIssues: 0
+npm:
+  name: deep-read-summarize
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.6
+    dshVersion: v0.1.2-alpha.1

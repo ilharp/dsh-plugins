@@ -1,0 +1,11 @@
+version: 1
+name: DSH-for-VSC
+github:
+  owner: yauntyour
+  repo: DSH-for-VSC
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions: []

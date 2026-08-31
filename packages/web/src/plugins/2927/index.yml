@@ -1,0 +1,15 @@
+version: 1
+name: dsh-share
+github:
+  owner: hellodigua
+  repo: dsh-share
+  language: JavaScript
+  license: MIT
+  stars: 31
+  forks: 2
+  openIssues: 2
+npm:
+  name: dsh-share
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

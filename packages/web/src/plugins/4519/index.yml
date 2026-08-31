@@ -1,0 +1,14 @@
+version: 1
+name: dsh-skill-manager
+github:
+  owner: LongSir0419
+  repo: dsh-skill-manager
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@wanghailong0419/dsh-skill-manager'
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

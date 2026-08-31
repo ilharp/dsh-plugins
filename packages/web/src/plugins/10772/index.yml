@@ -1,0 +1,16 @@
+version: 1
+name: dsh-session-explorer
+github:
+  owner: Zn-Dk
+  repo: dsh-session-explorer
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-session-explorer
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.2
+    dshVersion: v0.1.2-alpha.1

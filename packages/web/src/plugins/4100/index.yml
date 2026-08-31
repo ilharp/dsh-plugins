@@ -1,0 +1,16 @@
+version: 1
+name: dsh-tanqi
+github:
+  owner: lastplayer82
+  repo: dsh-tanqi
+  language: TypeScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: '@lastplayer82/dsh-tanqi'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

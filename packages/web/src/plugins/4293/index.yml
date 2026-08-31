@@ -1,0 +1,14 @@
+version: 1
+name: dsh-token-monitor
+github:
+  owner: licyer
+  repo: dsh-token-monitor
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+npm:
+  name: dsh-token-monitor
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

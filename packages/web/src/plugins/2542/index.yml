@@ -1,0 +1,14 @@
+version: 1
+name: glm-vision-plugin
+github:
+  owner: Gelomen
+  repo: glm-vision-plugin
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: '@gelomen/glm-vision-plugin'
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

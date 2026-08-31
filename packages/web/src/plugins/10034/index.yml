@@ -1,0 +1,12 @@
+version: 1
+name: dsh-xiaohongshu-viral-note
+github:
+  owner: xuboboo
+  repo: dsh-xiaohongshu-viral-note
+  language: Python
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

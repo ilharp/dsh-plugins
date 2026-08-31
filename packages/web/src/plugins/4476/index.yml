@@ -1,0 +1,14 @@
+version: 1
+name: dsh-balance
+github:
+  owner: lkshjd
+  repo: dsh-balance
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: '@sky_sun/dsh-balance'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

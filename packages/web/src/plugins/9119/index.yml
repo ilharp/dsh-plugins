@@ -1,0 +1,11 @@
+version: 1
+name: dsh-desktop
+github:
+  owner: vibeinging
+  repo: dsh-desktop
+  language: JavaScript
+  license: MIT
+  stars: 632
+  forks: 35
+  openIssues: 4
+versions: []

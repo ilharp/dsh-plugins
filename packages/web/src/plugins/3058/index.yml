@@ -1,0 +1,10 @@
+version: 1
+name: dsh-turn-tools
+github:
+  owner: hu669293657
+  repo: dsh-turn-tools
+  language: JavaScript
+  stars: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

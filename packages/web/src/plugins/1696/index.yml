@@ -1,0 +1,14 @@
+version: 1
+name: dsh-maestro-memory
+github:
+  owner: ddtcorex
+  repo: dsh-maestro-memory
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@ddtcorex/dsh-maestro-memory'
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

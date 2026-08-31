@@ -1,0 +1,11 @@
+version: 1
+name: dsh-desktop
+github:
+  owner: xiaoyuxiaoyuqwq
+  repo: dsh-desktop
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

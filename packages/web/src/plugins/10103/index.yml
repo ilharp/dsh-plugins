@@ -1,0 +1,16 @@
+version: 1
+name: relay-dsh-plugin-manager
+github:
+  owner: yangbobo2021
+  repo: relay-dsh-plugin-manager
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: relay-dsh-plugin-manager
+versions:
+  - packageVersion: 0.1.0-rc.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0-rc.4
+    dshVersion: v0.1.2-alpha.1

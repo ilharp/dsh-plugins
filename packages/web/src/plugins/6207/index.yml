@@ -1,0 +1,14 @@
+version: 1
+name: dsh-whois-plugin
+github:
+  owner: rjn32s
+  repo: dsh-whois-plugin
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-whois-plugin
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

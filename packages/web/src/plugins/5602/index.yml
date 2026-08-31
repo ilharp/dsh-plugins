@@ -1,0 +1,13 @@
+version: 1
+name: unity-plugin
+github:
+  owner: opdsh
+  repo: unity-plugin
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: '@opdsh/unity-plugin'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dhs-theme-plugin
+github:
+  owner: kongxiangyiren
+  repo: dhs-theme-plugin
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@kongxiangyiren/dhs-theme-plugin'
+versions:
+  - packageVersion: 0.0.3
+    dshVersion: v0.1.2-alpha.1

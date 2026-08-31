@@ -1,0 +1,15 @@
+version: 1
+name: dsh-pet-StatusLight
+github:
+  owner: kongchengavg
+  repo: dsh-pet-StatusLight
+  language: JavaScript
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-pet-statuslight
+versions:
+  - packageVersion: 1.0.37
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

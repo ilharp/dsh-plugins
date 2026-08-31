@@ -1,0 +1,15 @@
+version: 1
+name: dsh-advisor
+github:
+  owner: omdsh-dev
+  repo: dsh-advisor
+  language: TypeScript
+  license: MIT
+  stars: 18
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-advisor
+versions:
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

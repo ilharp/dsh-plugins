@@ -1,0 +1,14 @@
+version: 1
+name: cn-intel-mcp-dsh
+github:
+  owner: lory69060
+  repo: cn-intel-mcp-dsh
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: cn-intel-mcp-dsh
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

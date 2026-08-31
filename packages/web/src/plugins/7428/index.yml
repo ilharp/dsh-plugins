@@ -1,0 +1,16 @@
+version: 1
+name: dsh-otel
+github:
+  owner: tma1-ai
+  repo: dsh-otel
+  language: TypeScript
+  license: Apache-2.0
+  stars: 9
+  forks: 2
+npm:
+  name: '@tma1-ai/dsh-plugin-greptimedb'
+versions:
+  - packageVersion: 0.1.0-beta.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0-beta.4
+    dshVersion: v0.1.2-alpha.1

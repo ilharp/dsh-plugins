@@ -1,0 +1,14 @@
+version: 1
+name: dsh-antv-ava
+github:
+  owner: HellowVirgil
+  repo: dsh-antv-ava
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-antv-ava
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

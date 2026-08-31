@@ -1,0 +1,13 @@
+version: 1
+name: dsh-crosstalk
+github:
+  owner: Jesse-njx
+  repo: dsh-crosstalk
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 1
+  openIssues: 1
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

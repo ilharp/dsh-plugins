@@ -1,0 +1,14 @@
+version: 1
+name: dsh-knj-scheduler
+github:
+  owner: yangdongzhen590
+  repo: dsh-knj-scheduler
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-scheduler
+versions:
+  - packageVersion: 2026.8.251
+    dshVersion: v0.1.2-alpha.1

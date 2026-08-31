@@ -1,0 +1,15 @@
+version: 1
+name: widget-dock
+github:
+  owner: MorGogh
+  repo: widget-dock
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 1
+  openIssues: 0
+npm:
+  name: widget-dock
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-messenger-gateway
+github:
+  owner: GooDAnDReaDY
+  repo: dsh-messenger-gateway
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@goodandready/dsh-messenger-gateway'
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

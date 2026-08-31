@@ -1,0 +1,14 @@
+version: 1
+name: dsh-server-deck
+github:
+  owner: meyaomiao
+  repo: dsh-server-deck
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-server-deck
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

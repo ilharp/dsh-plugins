@@ -1,0 +1,13 @@
+version: 1
+name: dsh-project-session-store
+github:
+  owner: yangzhe1991
+  repo: dsh-project-session-store
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: '@yangzhe1991/dsh-project-session-store'
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

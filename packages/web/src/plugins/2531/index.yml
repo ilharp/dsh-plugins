@@ -1,0 +1,14 @@
+version: 1
+name: dsh-token-cost
+github:
+  owner: gdy01
+  repo: dsh-token-cost
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-token-cost
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

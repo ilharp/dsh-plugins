@@ -1,0 +1,11 @@
+version: 1
+name: vision_kit
+github:
+  owner: Seom-ingit
+  repo: vision_kit
+  language: Python
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

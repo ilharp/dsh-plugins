@@ -1,0 +1,15 @@
+version: 1
+name: dsh-skills
+github:
+  owner: CocoSgt
+  repo: dsh-skills
+  language: JavaScript
+  license: NOASSERTION
+  stars: 14
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-skills
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

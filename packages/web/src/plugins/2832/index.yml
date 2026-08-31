@@ -1,0 +1,16 @@
+version: 1
+name: dsh-better-reasoning-effort
+github:
+  owner: HaoyueQin
+  repo: dsh-better-reasoning-effort
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 0
+npm:
+  name: dsh-better-reasoning-effort
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-maestro-notifier
+github:
+  owner: ddtcorex
+  repo: dsh-maestro-notifier
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+npm:
+  name: '@ddtcorex/dsh-maestro-notifier'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

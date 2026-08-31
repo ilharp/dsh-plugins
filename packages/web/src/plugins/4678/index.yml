@@ -1,0 +1,10 @@
+version: 1
+name: dsh-edit-guardian
+github:
+  owner: LWLAymh
+  repo: dsh-edit-guardian
+  language: JavaScript
+  stars: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

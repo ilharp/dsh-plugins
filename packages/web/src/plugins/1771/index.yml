@@ -1,0 +1,15 @@
+version: 1
+name: dsh-chinese-traditional-wisdom-skill
+github:
+  owner: dhicoc
+  repo: dsh-chinese-traditional-wisdom-skill
+  language: TypeScript
+  license: NOASSERTION
+  stars: 20
+  forks: 4
+  openIssues: 5
+npm:
+  name: '@dhicoc/dsh-chinese-traditional-wisdom-skill'
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

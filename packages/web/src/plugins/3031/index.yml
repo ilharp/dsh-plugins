@@ -1,0 +1,12 @@
+version: 1
+name: dsh-session-archive-plugin
+github:
+  owner: honyKing
+  repo: dsh-session-archive-plugin
+  language: Python
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

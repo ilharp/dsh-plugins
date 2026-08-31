@@ -1,0 +1,14 @@
+version: 1
+name: dsh-taskswarm
+github:
+  owner: february2015
+  repo: dsh-taskswarm
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-taskswarm
+versions:
+  - packageVersion: 0.2.38
+    dshVersion: v0.1.2-alpha.1

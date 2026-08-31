@@ -1,0 +1,12 @@
+version: 1
+name: dsh-sandbox-argument-normalizer
+github:
+  owner: Hanihahaha
+  repo: dsh-sandbox-argument-normalizer
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

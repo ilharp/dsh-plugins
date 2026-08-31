@@ -1,0 +1,14 @@
+version: 1
+name: dsh-maestro-config
+github:
+  owner: ddtcorex
+  repo: dsh-maestro-config
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+npm:
+  name: '@ddtcorex/dsh-maestro-config'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

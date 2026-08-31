@@ -1,0 +1,17 @@
+version: 1
+name: Baton
+github:
+  owner: kakadeka
+  repo: Baton
+  language: JavaScript
+  license: Apache-2.0
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@kakadeka/dsh-baton'
+versions:
+  - packageVersion: 0.1.52
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.55
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugins
+github:
+  owner: kestiny18
+  repo: dsh-plugins
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-skill-importer
+github:
+  owner: saitamahang
+  repo: dsh-skill-importer
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-skill-importer
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

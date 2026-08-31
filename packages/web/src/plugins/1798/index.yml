@@ -1,0 +1,12 @@
+version: 1
+name: dsh-connect-workbuddy
+github:
+  owner: dingminhua
+  repo: dsh-connect-workbuddy
+  language: TypeScript
+  stars: 0
+npm:
+  name: dsh-connect-workbuddy
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-composer-alcove
+github:
+  owner: Nixz0824
+  repo: dsh-composer-alcove
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.5.8
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,7 @@
+version: 1
+name: '@shaoshi/dshscan'
+github:
+  owner: shaoshi20
+  repo: shaoshi-dshscan
+  stars: 10
+versions: []

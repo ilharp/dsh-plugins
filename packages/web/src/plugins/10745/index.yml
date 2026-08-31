@@ -1,0 +1,11 @@
+version: 1
+name: '@zink_ning/dsh-ui-state'
+github:
+  owner: zink-ning
+  repo: dsh-ui-state
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

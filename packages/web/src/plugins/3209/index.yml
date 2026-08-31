@@ -1,0 +1,14 @@
+version: 1
+name: dsh-memory-spaces
+github:
+  owner: icearia0219
+  repo: dsh-memory-spaces
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-memory-spaces
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

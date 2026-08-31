@@ -1,0 +1,16 @@
+version: 1
+name: dsh-sight
+github:
+  owner: ericfetch
+  repo: dsh-sight
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@eric.wen/dsh-sight'
+versions:
+  - packageVersion: 0.1.12
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.13
+    dshVersion: v0.1.2-alpha.1

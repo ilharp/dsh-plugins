@@ -1,0 +1,14 @@
+version: 1
+name: dsh-free-web-search
+github:
+  owner: sjlgg
+  repo: dsh-free-web-search
+  language: TypeScript
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-web-search-free
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-what-changed
+github:
+  owner: sjh9714
+  repo: dsh-what-changed
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 1
+npm:
+  name: dsh-what-changed
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

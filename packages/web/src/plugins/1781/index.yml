@@ -1,0 +1,14 @@
+version: 1
+name: dsh-safe-launch
+github:
+  owner: dHR-P
+  repo: dsh-safe-launch
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.1-rc.2-v0.5.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1

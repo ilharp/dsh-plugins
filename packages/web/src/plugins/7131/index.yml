@@ -1,0 +1,11 @@
+version: 1
+name: dsh-index
+github:
+  owner: Sunrisepeak
+  repo: dsh-index
+  language: Python
+  license: Apache-2.0
+  stars: 3
+  forks: 3
+  openIssues: 2
+versions: []

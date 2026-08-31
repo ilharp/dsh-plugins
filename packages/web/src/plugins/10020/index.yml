@@ -1,0 +1,16 @@
+version: 1
+name: dsh-instance-manager
+github:
+  owner: xswt442-cmd
+  repo: dsh-instance-manager
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-instance-manager
+versions:
+  - packageVersion: 0.7.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.9.0
+    dshVersion: v0.1.2-alpha.1

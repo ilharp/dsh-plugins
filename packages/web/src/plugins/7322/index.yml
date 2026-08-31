@@ -1,0 +1,15 @@
+version: 1
+name: dsh-pi
+github:
+  owner: TGYD-helige
+  repo: dsh-pi
+  language: TypeScript
+  license: Apache-2.0
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-pi-host
+versions:
+  - packageVersion: 0.1.0-rc.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-web-search-brave
+github:
+  owner: cnChenKai
+  repo: dsh-web-search-brave
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 2
+npm:
+  name: dsh-web-search-brave
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

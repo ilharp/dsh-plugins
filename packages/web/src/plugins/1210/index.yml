@@ -1,0 +1,10 @@
+version: 1
+name: dsh-b2us-schedule
+github:
+  owner: changyinliangbaikai
+  repo: dsh-b2us-schedule
+  language: TypeScript
+  stars: 0
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

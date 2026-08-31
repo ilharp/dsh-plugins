@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-message-timeline-navigation
+github:
+  owner: cokiscarazo-rgb
+  repo: dsh-plugin-message-timeline-navigation
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

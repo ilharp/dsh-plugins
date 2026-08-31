@@ -1,0 +1,14 @@
+version: 1
+name: dsh-ui-turn-rail
+github:
+  owner: HenryHwong
+  repo: dsh-ui-turn-rail
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@huanghanheng/dsh-ui-turn-rail'
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

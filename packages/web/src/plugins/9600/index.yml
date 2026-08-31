@@ -1,0 +1,14 @@
+version: 1
+name: dsh-elegent-balance-tracker
+github:
+  owner: X-avier-W
+  repo: dsh-elegent-balance-tracker
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-elegent-balance-tracker
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

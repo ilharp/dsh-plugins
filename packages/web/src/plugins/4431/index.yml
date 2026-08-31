@@ -1,0 +1,17 @@
+version: 1
+name: modlens
+github:
+  owner: liustack
+  repo: modlens
+  language: TypeScript
+  license: MIT
+  stars: 3773
+  forks: 111
+  openIssues: 2
+npm:
+  name: '@liustack/modlens'
+versions:
+  - packageVersion: 3.25.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 3.25.2
+    dshVersion: v0.1.2-alpha.1

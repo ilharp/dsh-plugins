@@ -1,0 +1,14 @@
+version: 1
+name: dsh-windows-tray
+github:
+  owner: GZMULDY
+  repo: dsh-windows-tray
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@gzmuldyxx/dsh-windows-tray'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

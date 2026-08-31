@@ -1,0 +1,14 @@
+version: 1
+name: gh-tea-npm-dsh
+github:
+  owner: TommyFang2077
+  repo: gh-tea-npm-dsh
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@tommyfang/gh-tea-npm-dsh'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

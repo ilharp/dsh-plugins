@@ -1,0 +1,12 @@
+version: 1
+name: dsh-unknown-theme
+github:
+  owner: ycqaq233
+  repo: dsh-unknown-theme
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

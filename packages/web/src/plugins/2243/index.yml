@@ -1,0 +1,15 @@
+version: 1
+name: dsh-plugin-deepeye
+github:
+  owner: Favio8
+  repo: dsh-plugin-deepeye
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 1
+  openIssues: 1
+npm:
+  name: dsh-plugin-deepeye
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

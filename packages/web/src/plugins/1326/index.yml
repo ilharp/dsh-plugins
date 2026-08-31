@@ -1,0 +1,16 @@
+version: 1
+name: dsh-roleplay
+github:
+  owner: chinosk6
+  repo: dsh-roleplay
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 1
+npm:
+  name: dsh-roleplay
+versions:
+  - packageVersion: 0.2.6
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

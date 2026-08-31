@@ -1,0 +1,13 @@
+version: 1
+name: dsh-skill-viewer
+github:
+  owner: Fishquito7
+  repo: dsh-skill-viewer
+  language: JavaScript
+  license: MIT
+  stars: 59
+  forks: 7
+  openIssues: 1
+versions:
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1

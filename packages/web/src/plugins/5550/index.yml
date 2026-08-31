@@ -1,0 +1,12 @@
+version: 1
+name: fabric
+github:
+  owner: omdsh-dev
+  repo: fabric
+  language: TypeScript
+  stars: 18
+  forks: 1
+  openIssues: 0
+npm:
+  name: fabric
+versions: []

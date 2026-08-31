@@ -1,0 +1,17 @@
+version: 1
+name: dsh-claude-move
+github:
+  owner: PerryLink
+  repo: dsh-claude-move
+  language: JavaScript
+  license: Apache-2.0
+  stars: 12
+  forks: 1
+  openIssues: 1
+npm:
+  name: dsh-claude-move
+versions:
+  - packageVersion: 0.2.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

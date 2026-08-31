@@ -1,0 +1,11 @@
+version: 1
+name: ai-sdk-provider-dsh
+github:
+  owner: krislavten
+  repo: ai-sdk-provider-dsh
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

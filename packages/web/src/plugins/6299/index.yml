@@ -1,0 +1,16 @@
+version: 1
+name: dsh-a2a
+github:
+  owner: ryubyte
+  repo: dsh-a2a
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 0
+npm:
+  name: '@ryubyte/dsh-a2a'
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

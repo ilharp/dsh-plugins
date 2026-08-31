@@ -1,0 +1,14 @@
+version: 1
+name: dsh-git-worktree
+github:
+  owner: LaoYueHanNi
+  repo: dsh-git-worktree
+  language: TypeScript
+  license: NOASSERTION
+  stars: 5
+  forks: 1
+npm:
+  name: dsh-git-worktree
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

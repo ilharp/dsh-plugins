@@ -1,0 +1,14 @@
+version: 1
+name: token-usage-counter
+github:
+  owner: Mu-scorpio
+  repo: token-usage-counter
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-token-usage-counter
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-base64url
+github:
+  owner: uckkk
+  repo: dsh-base64url
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-base64url
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

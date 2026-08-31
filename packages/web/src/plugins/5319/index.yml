@@ -1,0 +1,14 @@
+version: 1
+name: dsh-web-access
+github:
+  owner: NexusAgentX
+  repo: dsh-web-access
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-web-access
+versions:
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

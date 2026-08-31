@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-dosage
+github:
+  owner: qingfeng200410
+  repo: dsh-plugin-dosage
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-plugin-dosage
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

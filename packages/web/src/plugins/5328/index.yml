@@ -1,0 +1,14 @@
+version: 1
+name: dsh-matrix-skin
+github:
+  owner: nicecx
+  repo: dsh-matrix-skin
+  language: CSS
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+npm:
+  name: '@linxin666/dsh-client-ui-skin-matrix'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

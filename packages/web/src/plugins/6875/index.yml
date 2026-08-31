@@ -1,0 +1,10 @@
+version: 1
+name: dsh-deepcel
+github:
+  owner: Small-tailqwq
+  repo: dsh-deepcel
+  language: TypeScript
+  stars: 15
+  forks: 0
+  openIssues: 0
+versions: []

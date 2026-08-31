@@ -1,0 +1,11 @@
+version: 1
+name: dsh-terminal-panel
+github:
+  owner: wuwuzhige-sudo
+  repo: dsh-terminal-panel
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

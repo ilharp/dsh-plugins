@@ -1,0 +1,15 @@
+version: 1
+name: deepseek-harness-auth
+github:
+  owner: taichuy
+  repo: deepseek-harness-auth
+  language: TypeScript
+  license: Apache-2.0
+  stars: 15
+  forks: 3
+  openIssues: 2
+npm:
+  name: deepseek-harness-auth
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

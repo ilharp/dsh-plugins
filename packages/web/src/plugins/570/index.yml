@@ -1,0 +1,15 @@
+version: 1
+name: dsh-approval-ai
+github:
+  owner: ang-XWBWZ
+  repo: dsh-approval-ai
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@llangtop/dsh-approval-ai'
+versions:
+  - packageVersion: 0.1.0-rc.7
+    dshVersion: v0.1.2-alpha.1

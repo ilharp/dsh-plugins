@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-ux
+github:
+  owner: ayuanwong
+  repo: deepseek-harness-ux
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 14
+  forks: 1
+  openIssues: 2
+versions: []

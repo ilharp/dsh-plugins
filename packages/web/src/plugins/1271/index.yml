@@ -1,0 +1,12 @@
+version: 1
+name: deepseek-harness-reliability-governor
+github:
+  owner: chenjie1129
+  repo: deepseek-harness-reliability-governor
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: adhdgofly-dsh-ext
+github:
+  owner: zuoguyoupan2023
+  repo: adhdgofly-dsh-ext
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+npm:
+  name: adhdgofly-dsh-ext
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

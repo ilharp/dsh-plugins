@@ -1,0 +1,11 @@
+version: 1
+name: dsh-subagent-status
+github:
+  owner: zzy2210
+  repo: dsh-subagent-status
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

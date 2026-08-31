@@ -1,0 +1,13 @@
+version: 1
+name: dsh-mic-input
+github:
+  owner: QT-Chen
+  repo: dsh-mic-input
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 2
+  openIssues: 1
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

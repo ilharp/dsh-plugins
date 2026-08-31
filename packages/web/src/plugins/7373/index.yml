@@ -1,0 +1,10 @@
+version: 1
+name: xiaoliuren-skill
+github:
+  owner: tianmingwangluo
+  repo: xiaoliuren-skill
+  license: MIT
+  stars: 7
+  forks: 2
+  openIssues: 0
+versions: []

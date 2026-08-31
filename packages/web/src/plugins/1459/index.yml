@@ -1,0 +1,15 @@
+version: 1
+name: dsh-plugin-web-search-tavily
+github:
+  owner: coderdailyone
+  repo: dsh-plugin-web-search-tavily
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-plugin-web-search-tavily
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

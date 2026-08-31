@@ -1,0 +1,14 @@
+version: 1
+name: dsh-dcp
+github:
+  owner: fan56
+  repo: dsh-dcp
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@aiwayds/dsh-dcp'
+versions:
+  - packageVersion: 0.5.1
+    dshVersion: v0.1.2-alpha.1

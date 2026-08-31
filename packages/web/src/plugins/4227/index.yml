@@ -1,0 +1,14 @@
+version: 1
+name: dsh-task-worktree
+github:
+  owner: Letter2025
+  repo: dsh-task-worktree
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-task-worktree
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

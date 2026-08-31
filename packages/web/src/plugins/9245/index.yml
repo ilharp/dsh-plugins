@@ -1,0 +1,11 @@
+version: 1
+name: image-vision
+github:
+  owner: wangyang10
+  repo: image-vision
+  language: JavaScript
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+versions: []

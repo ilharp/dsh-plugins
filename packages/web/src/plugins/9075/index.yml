@@ -1,0 +1,11 @@
+version: 1
+name: skills
+github:
+  owner: upstash
+  repo: skills
+  language: JavaScript
+  license: MIT
+  stars: 23
+  forks: 7
+  openIssues: 0
+versions: []

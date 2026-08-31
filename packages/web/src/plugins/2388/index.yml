@@ -1,0 +1,14 @@
+version: 1
+name: dsh-web-auth
+github:
+  owner: fonlan
+  repo: dsh-web-auth
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@fonlan/dsh-web-auth'
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

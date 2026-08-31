@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-uisfx
+github:
+  owner: XanthanL
+  repo: dsh-plugin-uisfx
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 2
+npm:
+  name: dsh-plugin-uisfx
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

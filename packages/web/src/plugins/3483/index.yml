@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-weaknet-adaptor
+github:
+  owner: jiay98528-dev
+  repo: dsh-plugin-weaknet-adaptor
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-plugin-weaknet-adaptor
+versions:
+  - packageVersion: 1.0.5
+    dshVersion: v0.1.2-alpha.1

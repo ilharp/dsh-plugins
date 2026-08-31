@@ -1,0 +1,13 @@
+version: 1
+name: dsh-answer-pet
+github:
+  owner: Nanki-nn
+  repo: dsh-answer-pet
+  language: JavaScript
+  license: MIT
+  stars: 10
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

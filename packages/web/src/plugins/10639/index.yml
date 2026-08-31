@@ -1,0 +1,14 @@
+version: 1
+name: weread-export
+github:
+  owner: zhengjy01
+  repo: weread-export
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: weread-export
+versions:
+  - packageVersion: 0.1.12
+    dshVersion: v0.1.2-alpha.1

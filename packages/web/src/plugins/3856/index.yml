@@ -1,0 +1,15 @@
+version: 1
+name: '@khalilhsu/dsh-ui-query-navigator'
+github:
+  owner: KhalilHsu
+  repo: dsh-plugins
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@khalilhsu/dsh-ui-query-navigator'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

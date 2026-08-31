@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-codex-import
+github:
+  owner: Gordonynh
+  repo: dsh-plugin-codex-import
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

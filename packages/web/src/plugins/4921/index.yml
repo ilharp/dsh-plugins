@@ -1,0 +1,14 @@
+version: 1
+name: DSH-Wallpaper-Engine
+github:
+  owner: mhwww
+  repo: DSH-Wallpaper-Engine
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-wallpaper-engine
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

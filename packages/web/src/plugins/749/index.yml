@@ -1,0 +1,17 @@
+version: 1
+name: dsh-stock-watch
+github:
+  owner: Awu12277
+  repo: dsh-stock-watch
+  language: JavaScript
+  license: MIT
+  stars: 69
+  forks: 6
+  openIssues: 0
+npm:
+  name: dsh-stock-watch
+versions:
+  - packageVersion: 1.0.9
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

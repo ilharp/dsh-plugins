@@ -1,0 +1,12 @@
+version: 1
+name: dsh-cmp-skill-index
+github:
+  owner: malaxiya2019
+  repo: dsh-cmp-skill-index
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

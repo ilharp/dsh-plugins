@@ -1,0 +1,11 @@
+version: 1
+name: wemeet-openapi
+github:
+  owner: xiangpc
+  repo: wemeet-openapi
+  language: Go
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

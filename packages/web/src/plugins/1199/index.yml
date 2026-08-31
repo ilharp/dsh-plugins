@@ -1,0 +1,14 @@
+version: 1
+name: dsh-model-search-plugin
+github:
+  owner: chancoki
+  repo: dsh-model-search-plugin
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-model-search-plugin
+versions:
+  - packageVersion: 1.1.1
+    dshVersion: v0.1.2-alpha.1

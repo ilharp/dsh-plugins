@@ -1,0 +1,15 @@
+version: 1
+name: software-project-governance
+github:
+  owner: peterwangze
+  repo: software-project-governance
+  language: Python
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.77.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.78.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-file-explorer
+github:
+  owner: joejojoking-cloud
+  repo: dsh-file-explorer
+  language: JavaScript
+  license: NOASSERTION
+  stars: 19
+  forks: 4
+  openIssues: 0
+npm:
+  name: dsh-file-explorer
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

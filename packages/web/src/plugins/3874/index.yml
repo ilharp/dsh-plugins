@@ -1,0 +1,14 @@
+version: 1
+name: dsh-ios
+github:
+  owner: Kickstartparty3459
+  repo: dsh-ios
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@zseven-w/dsh-ios'
+versions:
+  - packageVersion: 0.1.0-rc.3
+    dshVersion: v0.1.2-alpha.1

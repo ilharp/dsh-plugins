@@ -1,0 +1,14 @@
+version: 1
+name: dsh-quick-prompts
+github:
+  owner: lcsdg
+  repo: dsh-quick-prompts
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@max1997/dsh-quick-prompts'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

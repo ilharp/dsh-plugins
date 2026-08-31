@@ -1,0 +1,12 @@
+version: 1
+name: dsh-codex-file-panel
+github:
+  owner: JesonChou
+  repo: dsh-codex-file-panel
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

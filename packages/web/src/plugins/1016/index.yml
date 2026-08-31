@@ -1,0 +1,13 @@
+version: 1
+name: dsh-cyber-pet
+github:
+  owner: BorisShaw6
+  repo: dsh-cyber-pet
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@borisshaw6/dsh-cyber-pet'
+versions: []

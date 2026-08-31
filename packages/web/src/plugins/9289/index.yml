@@ -1,0 +1,11 @@
+version: 1
+name: dsh-remote-sandbox
+github:
+  owner: weijiafu14
+  repo: dsh-remote-sandbox
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

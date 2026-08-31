@@ -1,0 +1,14 @@
+version: 1
+name: dsh-serendipity
+github:
+  owner: PocketSWPU
+  repo: dsh-serendipity
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@pocket30/dsh-serendipity'
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

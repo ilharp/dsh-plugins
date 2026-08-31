@@ -1,0 +1,12 @@
+version: 1
+name: dsh-edit-diff
+github:
+  owner: better-er
+  repo: dsh-edit-diff
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-usage-stats
+github:
+  owner: jianweideng0515-create
+  repo: dsh-usage-stats
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 3
+  forks: 0
+npm:
+  name: '@abcdefu_cja/dsh-usage-stats'
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

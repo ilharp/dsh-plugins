@@ -1,0 +1,11 @@
+version: 1
+name: '@whatsmore-nf/dsh-context-steward'
+github:
+  owner: Whatsmore-nf
+  repo: dsh-context-steward
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.20.0
+    dshVersion: v0.1.2-alpha.1

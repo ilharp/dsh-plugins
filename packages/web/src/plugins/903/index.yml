@@ -1,0 +1,14 @@
+version: 1
+name: dsh-classic-coding
+github:
+  owner: better-er
+  repo: dsh-classic-coding
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-classic-coding
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

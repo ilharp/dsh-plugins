@@ -1,0 +1,14 @@
+version: 1
+name: dsh-ai-prompt-optimizer
+github:
+  owner: wuchubuzai2018
+  repo: dsh-ai-prompt-optimizer
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-ai-prompt-optimizer
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

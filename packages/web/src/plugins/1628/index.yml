@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-toggle
+github:
+  owner: DamonKoy
+  repo: dsh-plugin-toggle
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-plugin-toggle
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

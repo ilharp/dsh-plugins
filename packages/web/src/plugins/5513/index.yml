@@ -1,0 +1,13 @@
+version: 1
+name: dsh-longbridge
+github:
+  owner: omdsh-dev
+  repo: dsh-longbridge
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

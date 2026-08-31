@@ -1,0 +1,11 @@
+version: 1
+name: dsh-multi-user-gateway
+github:
+  owner: AnkoCD
+  repo: dsh-multi-user-gateway
+  language: JavaScript
+  license: MIT
+  stars: 18
+  forks: 0
+  openIssues: 0
+versions: []

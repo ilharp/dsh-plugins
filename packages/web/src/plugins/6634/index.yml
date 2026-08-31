@@ -1,0 +1,16 @@
+version: 1
+name: dsh-skills-mcp-group-manager
+github:
+  owner: SeverusZh
+  repo: dsh-skills-mcp-group-manager
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-skills-mcp-group-manager
+versions:
+  - packageVersion: 0.2.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

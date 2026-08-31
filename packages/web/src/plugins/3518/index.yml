@@ -1,0 +1,11 @@
+version: 1
+name: dsh-client-ui-slingshot
+github:
+  owner: JingkaiTang
+  repo: dsh-client-ui-slingshot
+  language: JavaScript
+  license: MIT
+  stars: 1
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

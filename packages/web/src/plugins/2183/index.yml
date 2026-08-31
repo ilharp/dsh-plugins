@@ -1,0 +1,15 @@
+version: 1
+name: dsh-tool-hongtou
+github:
+  owner: ExElectron
+  repo: dsh-tool-hongtou
+  language: JavaScript
+  license: MIT
+  stars: 17
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-tool-hongtou
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

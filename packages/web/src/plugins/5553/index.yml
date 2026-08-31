@@ -1,0 +1,13 @@
+version: 1
+name: plugin-template
+github:
+  owner: omdsh-dev
+  repo: plugin-template
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 12
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1

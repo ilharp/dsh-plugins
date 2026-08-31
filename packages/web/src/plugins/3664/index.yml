@@ -1,0 +1,14 @@
+version: 1
+name: dsh-mcp-manager
+github:
+  owner: Js2Hou
+  repo: dsh-mcp-manager
+  language: TypeScript
+  license: MIT
+  stars: 17
+  forks: 3
+npm:
+  name: '@js2hou/dsh-mcp-manager'
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-artifact-preview
+github:
+  owner: nirvanaslash
+  repo: dsh-artifact-preview
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-artifact-preview
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

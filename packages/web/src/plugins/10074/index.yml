@@ -1,0 +1,11 @@
+version: 1
+name: '@y2zyyr/dsh-restart-button'
+github:
+  owner: y2zyyr
+  repo: dsh-restart-button
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

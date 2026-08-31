@@ -1,0 +1,18 @@
+version: 1
+name: dsh-message-gateway
+github:
+  owner: a792883583
+  repo: dsh-message-gateway
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-message-gateway
+versions:
+  - packageVersion: 0.1.11
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.14
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.17
+    dshVersion: v0.1.2-alpha.1

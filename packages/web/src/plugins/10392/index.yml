@@ -1,0 +1,16 @@
+version: 1
+name: dsh-pdf-mineru
+github:
+  owner: Yurzi
+  repo: dsh-pdf-mineru
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-pdf-mineru
+versions:
+  - packageVersion: 0.0.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.0.5
+    dshVersion: v0.1.2-alpha.1

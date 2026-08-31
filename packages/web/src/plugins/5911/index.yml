@@ -1,0 +1,11 @@
+version: 1
+name: phi
+github:
+  owner: pulseaiclub
+  repo: phi
+  language: Go
+  license: MIT
+  stars: 198
+  forks: 7
+  openIssues: 6
+versions: []

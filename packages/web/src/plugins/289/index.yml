@@ -1,0 +1,15 @@
+version: 1
+name: dsh-hud
+github:
+  owner: a903067276-rgb
+  repo: dsh-hud
+  language: JavaScript
+  license: MIT
+  stars: 10
+  forks: 1
+  openIssues: 1
+npm:
+  name: dsh-hud
+versions:
+  - packageVersion: 1.2.16
+    dshVersion: v0.1.2-alpha.1

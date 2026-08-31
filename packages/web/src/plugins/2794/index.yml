@@ -1,0 +1,14 @@
+version: 1
+name: dsh-wps-plugings
+github:
+  owner: handsomeboyck
+  repo: dsh-wps-plugings
+  language: TypeScript
+  license: AGPL-3.0
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-wps-plugin
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-maid-whale-webUI
+github:
+  owner: yunxiiQwQ
+  repo: dsh-maid-whale-webUI
+  language: TypeScript
+  license: NOASSERTION
+  stars: 25
+  forks: 1
+  openIssues: 0
+versions: []

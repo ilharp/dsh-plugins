@@ -1,0 +1,11 @@
+version: 1
+name: dsh-tianshu-tui-placeholder
+github:
+  owner: huiliyi37
+  repo: dsh-tianshu-tui-placeholder
+  language: TypeScript
+  license: Apache-2.0
+  stars: 38
+  forks: 2
+  openIssues: 2
+versions: []

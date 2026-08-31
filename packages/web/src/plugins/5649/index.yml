@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-manager
+github:
+  owner: OSSKn4w7
+  repo: dsh-plugin-manager
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@osskn4w7/dsh-plugin-manager'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

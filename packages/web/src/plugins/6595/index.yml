@@ -1,0 +1,15 @@
+version: 1
+name: dsh-youmind-plugin
+github:
+  owner: seamas0825-lab
+  repo: dsh-youmind-plugin
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

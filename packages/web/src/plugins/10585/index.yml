@@ -1,0 +1,16 @@
+version: 1
+name: dsh-claude-code
+github:
+  owner: zhangjunjesse
+  repo: dsh-claude-code
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 1
+npm:
+  name: dsh-claude-code
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.5
+    dshVersion: v0.1.2-alpha.1

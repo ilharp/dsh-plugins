@@ -1,0 +1,14 @@
+version: 1
+name: backpack
+github:
+  owner: gxx950224
+  repo: backpack
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@ggame/backpack'
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-token-heatmap
+github:
+  owner: KIDLi1412
+  repo: dsh-token-heatmap
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@kidli1412/dsh-token-heatmap'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

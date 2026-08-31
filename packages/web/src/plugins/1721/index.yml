@@ -1,0 +1,13 @@
+version: 1
+name: Dcode
+github:
+  owner: Deklan-Deng
+  repo: Dcode
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dcode
+versions: []

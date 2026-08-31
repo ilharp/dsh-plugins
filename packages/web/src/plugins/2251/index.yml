@@ -1,0 +1,13 @@
+version: 1
+name: dsh-opencode-palette
+github:
+  owner: FeatherHunter
+  repo: dsh-opencode-palette
+  language: JavaScript
+  license: MIT
+  stars: 12
+  forks: 0
+  openIssues: 3
+versions:
+  - packageVersion: 1.6.4
+    dshVersion: v0.1.2-alpha.1

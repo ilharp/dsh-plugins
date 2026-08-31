@@ -1,0 +1,14 @@
+version: 1
+name: dsh-omicos
+github:
+  owner: omicverse
+  repo: dsh-omicos
+  language: TypeScript
+  license: GPL-3.0
+  stars: 0
+  forks: 0
+npm:
+  name: '@omicverse/dsh-omicos'
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

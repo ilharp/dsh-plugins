@@ -1,0 +1,17 @@
+version: 1
+name: dsh-update-checker
+github:
+  owner: Airmetro
+  repo: dsh-update-checker
+  language: JavaScript
+  license: MIT
+  stars: 14
+  forks: 3
+  openIssues: 0
+npm:
+  name: dsh-update-checker
+versions:
+  - packageVersion: 1.4.15
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.4.16
+    dshVersion: v0.1.2-alpha.1

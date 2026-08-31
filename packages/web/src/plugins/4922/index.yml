@@ -1,0 +1,11 @@
+version: 1
+name: dsh-Mmem
+github:
+  owner: mianyoubiaoqing
+  repo: dsh-Mmem
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+versions: []

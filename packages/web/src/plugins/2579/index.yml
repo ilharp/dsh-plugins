@@ -1,0 +1,16 @@
+version: 1
+name: dsh-memory-gate
+github:
+  owner: GIT121995
+  repo: dsh-memory-gate
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-memory-gate
+versions:
+  - packageVersion: 0.11.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.11.2
+    dshVersion: v0.1.2-alpha.1

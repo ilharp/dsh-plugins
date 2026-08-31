@@ -1,0 +1,15 @@
+version: 1
+name: unified-agent-memory
+github:
+  owner: Noelune
+  repo: unified-agent-memory
+  language: Python
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 1
+npm:
+  name: dsh-unified-agent-memory
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

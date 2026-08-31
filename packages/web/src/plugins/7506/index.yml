@@ -1,0 +1,14 @@
+version: 1
+name: dsh-browser-agent
+github:
+  owner: try-works
+  repo: dsh-browser-agent
+  language: TypeScript
+  license: ISC
+  stars: 2
+  forks: 0
+npm:
+  name: '@try-works/dsh-browser-agent'
+versions:
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1

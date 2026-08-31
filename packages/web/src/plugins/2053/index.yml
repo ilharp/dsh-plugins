@@ -1,0 +1,14 @@
+version: 1
+name: dsh-tool-web-enhanced
+github:
+  owner: edusrez
+  repo: dsh-tool-web-enhanced
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-tool-web-enhanced
+versions:
+  - packageVersion: 0.4.0-rc.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-heartbeat
+github:
+  owner: LittleBlackTong
+  repo: dsh-plugin-heartbeat
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-plugin-heartbeat
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

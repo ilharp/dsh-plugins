@@ -1,0 +1,13 @@
+version: 1
+name: dsh-schematic
+github:
+  owner: Mason-1011
+  repo: dsh-schematic
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-schematic
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

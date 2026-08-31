@@ -1,0 +1,15 @@
+version: 1
+name: dsh-plugin-manager
+github:
+  owner: sorry123maker
+  repo: dsh-plugin-manager
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@zhuyh-sai7n/dsh-plugin-manager'
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

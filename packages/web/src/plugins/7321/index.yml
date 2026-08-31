@@ -1,0 +1,15 @@
+version: 1
+name: dsh-minecraft-ui
+github:
+  owner: TFboy1
+  repo: dsh-minecraft-ui
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-minecraft-ui
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

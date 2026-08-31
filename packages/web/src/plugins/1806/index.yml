@@ -1,0 +1,12 @@
+version: 1
+name: dsh-conversation-rail
+github:
+  owner: dingyi580
+  repo: dsh-conversation-rail
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

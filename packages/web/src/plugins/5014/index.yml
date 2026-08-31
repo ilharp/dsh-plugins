@@ -1,0 +1,14 @@
+version: 1
+name: dsh-context-pack
+github:
+  owner: MkaliezZ
+  repo: dsh-context-pack
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@mkaliezz/dsh-context-pack'
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

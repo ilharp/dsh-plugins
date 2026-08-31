@@ -1,0 +1,12 @@
+version: 1
+name: dsh-issue2pr
+github:
+  owner: LONGSASASASASA
+  repo: dsh-issue2pr
+  language: JavaScript
+  stars: 1
+npm:
+  name: dsh-issue2pr
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

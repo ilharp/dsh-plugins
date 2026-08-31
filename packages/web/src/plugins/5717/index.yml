@@ -1,0 +1,13 @@
+version: 1
+name: dsh-all-usage
+github:
+  owner: ParticleLight
+  repo: dsh-all-usage
+  language: JavaScript
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-all-usage
+versions:
+  - packageVersion: 1.1.1
+    dshVersion: v0.1.2-alpha.1

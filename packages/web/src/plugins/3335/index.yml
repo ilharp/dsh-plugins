@@ -1,0 +1,14 @@
+version: 1
+name: dsh-file-picker
+github:
+  owner: JackeyWilder
+  repo: dsh-file-picker
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@jackeywilder/dsh-file-picker'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

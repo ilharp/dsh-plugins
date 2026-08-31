@@ -1,0 +1,14 @@
+version: 1
+name: dsh-prompt-optimizer
+github:
+  owner: rayhanlu0519-a11y
+  repo: dsh-prompt-optimizer
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-prompt-optimizer
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: omdsh-remdev
+github:
+  owner: omdsh-plugins
+  repo: omdsh-remdev
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-remote-ssh
+github:
+  owner: Yan-Zero
+  repo: dsh-remote-ssh
+  language: TypeScript
+  license: Apache-2.0
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-remote-ssh
+versions:
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

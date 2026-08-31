@@ -1,0 +1,15 @@
+version: 1
+name: dsh-messager
+github:
+  owner: ly6170
+  repo: dsh-messager
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-messager
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

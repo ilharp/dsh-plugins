@@ -1,0 +1,12 @@
+version: 1
+name: dsh-ecc
+github:
+  owner: staavanothanh
+  repo: dsh-ecc
+  language: Python
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1

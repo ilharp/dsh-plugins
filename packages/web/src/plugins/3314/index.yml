@@ -1,0 +1,16 @@
+version: 1
+name: dsh-dev-crew
+github:
+  owner: ivanon
+  repo: dsh-dev-crew
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-dev-crew
+versions:
+  - packageVersion: 0.1.12
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.14
+    dshVersion: v0.1.2-alpha.1

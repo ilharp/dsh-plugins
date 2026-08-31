@@ -1,0 +1,13 @@
+version: 1
+name: dsh-check-update
+github:
+  owner: HuiHuitie-zhu
+  repo: dsh-check-update
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-check-update
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

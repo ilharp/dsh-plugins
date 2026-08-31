@@ -1,0 +1,13 @@
+version: 1
+name: dsh-deepseek-billing
+github:
+  owner: golitter
+  repo: dsh-deepseek-billing
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

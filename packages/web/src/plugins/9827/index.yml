@@ -1,0 +1,14 @@
+version: 1
+name: dsh-turn-nav
+github:
+  owner: xiaheng1
+  repo: dsh-turn-nav
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-turn-nav
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

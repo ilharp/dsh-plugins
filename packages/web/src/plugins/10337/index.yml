@@ -1,0 +1,14 @@
+version: 1
+name: dsh-github-manager
+github:
+  owner: yuan-source-666
+  repo: dsh-github-manager
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

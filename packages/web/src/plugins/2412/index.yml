@@ -1,0 +1,10 @@
+version: 1
+name: dsh-ui-models-invert-selection
+github:
+  owner: FraYoshi
+  repo: dsh-ui-models-invert-selection
+  language: JavaScript
+  stars: 2
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

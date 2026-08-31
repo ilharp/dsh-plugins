@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-fnos
+github:
+  owner: techysy
+  repo: deepseek-harness-fnos
+  language: Shell
+  license: MIT
+  stars: 25
+  forks: 0
+  openIssues: 0
+versions: []

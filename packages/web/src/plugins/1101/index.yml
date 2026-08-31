@@ -1,0 +1,13 @@
+version: 1
+name: dsh-toy
+github:
+  owner: c3ll256
+  repo: dsh-toy
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 58
+  forks: 6
+  openIssues: 2
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

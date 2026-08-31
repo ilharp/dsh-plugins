@@ -1,0 +1,11 @@
+version: 1
+name: oh-my-dsh
+github:
+  owner: wangshunnn
+  repo: oh-my-dsh
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-streaming-mcp-bridge
+github:
+  owner: yabolee-kkk
+  repo: dsh-streaming-mcp-bridge
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-streaming-mcp-bridge
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

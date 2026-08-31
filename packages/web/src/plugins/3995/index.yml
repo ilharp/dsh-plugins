@@ -1,0 +1,12 @@
+version: 1
+name: dsh-nvim-tui
+github:
+  owner: kovey
+  repo: dsh-nvim-tui
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

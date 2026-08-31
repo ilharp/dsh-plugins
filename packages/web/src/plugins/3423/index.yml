@@ -1,0 +1,14 @@
+version: 1
+name: dsh-wewrite
+github:
+  owner: jerryjiao
+  repo: dsh-wewrite
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-wewrite
+versions:
+  - packageVersion: 0.5.3
+    dshVersion: v0.1.2-alpha.1

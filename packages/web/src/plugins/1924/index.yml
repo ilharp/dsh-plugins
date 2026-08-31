@@ -1,0 +1,14 @@
+version: 1
+name: dsh-web-search-pool
+github:
+  owner: DreamRift
+  repo: dsh-web-search-pool
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 0.1.0-rc.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

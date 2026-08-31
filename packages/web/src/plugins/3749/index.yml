@@ -1,0 +1,15 @@
+version: 1
+name: dsh-aigc-radar
+github:
+  owner: Kaixxrua
+  repo: dsh-aigc-radar
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-aigc-radar
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

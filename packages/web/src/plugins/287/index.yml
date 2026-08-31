@@ -1,0 +1,13 @@
+version: 1
+name: dsh-file-mentions
+github:
+  owner: a903067276-rgb
+  repo: dsh-file-mentions
+  language: JavaScript
+  license: MIT
+  stars: 12
+  forks: 5
+  openIssues: 4
+versions:
+  - packageVersion: 1.0.11
+    dshVersion: v0.1.2-alpha.1

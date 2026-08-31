@@ -1,0 +1,10 @@
+version: 1
+name: dsh-subscription-antigravity
+github:
+  owner: shaomingbo
+  repo: dsh-subscription-antigravity
+  language: JavaScript
+  stars: 0
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

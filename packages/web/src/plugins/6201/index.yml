@@ -1,0 +1,11 @@
+version: 1
+name: dsh-endfield-ui
+github:
+  owner: rison114514
+  repo: dsh-endfield-ui
+  language: JavaScript
+  license: NOASSERTION
+  stars: 49
+  forks: 3
+  openIssues: 3
+versions: []

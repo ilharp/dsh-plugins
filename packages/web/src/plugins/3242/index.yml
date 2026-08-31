@@ -1,0 +1,13 @@
+version: 1
+name: dsh-video-understand
+github:
+  owner: ilps2
+  repo: dsh-video-understand
+  language: Python
+  stars: 6
+  forks: 0
+npm:
+  name: dsh-video-understand
+versions:
+  - packageVersion: 0.5.2
+    dshVersion: v0.1.2-alpha.1

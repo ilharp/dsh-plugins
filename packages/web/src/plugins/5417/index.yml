@@ -1,0 +1,16 @@
+version: 1
+name: dsh-claude
+github:
+  owner: Norman-else
+  repo: dsh-claude
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 1
+npm:
+  name: '@norman-else/dsh-claude'
+versions:
+  - packageVersion: 0.1.25
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.32
+    dshVersion: v0.1.2-alpha.1

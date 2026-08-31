@@ -1,0 +1,14 @@
+version: 1
+name: skill-filesystem-plus
+github:
+  owner: sidleo
+  repo: skill-filesystem-plus
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: '@sidleo3/skill-filesystem-plus'
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

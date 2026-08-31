@@ -1,0 +1,11 @@
+version: 1
+name: dsh-client-ui-question-history
+github:
+  owner: dhj-l
+  repo: dsh-client-ui-question-history
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

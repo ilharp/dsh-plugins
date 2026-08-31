@@ -1,0 +1,14 @@
+version: 1
+name: dsh-llm-ollama
+github:
+  owner: NOirBRight
+  repo: dsh-llm-ollama
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 1
+versions:
+  - packageVersion: 0.6.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.9
+    dshVersion: v0.1.2-alpha.1

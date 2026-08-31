@@ -1,0 +1,11 @@
+version: 1
+name: pi-mm-vision
+github:
+  owner: Elohia
+  repo: pi-mm-vision
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,15 @@
+version: 1
+name: git-worktree
+github:
+  owner: KHG420
+  repo: git-worktree
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-git-worktree
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

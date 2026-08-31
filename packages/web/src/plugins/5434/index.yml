@@ -1,0 +1,10 @@
+version: 1
+name: dsh-crystal-viewer
+github:
+  owner: Nth-5620
+  repo: dsh-crystal-viewer
+  language: TypeScript
+  stars: 0
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

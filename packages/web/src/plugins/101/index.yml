@@ -1,0 +1,12 @@
+version: 1
+name: DevTools-Custom-Beautification-Plugin-for-DeepseekHarness-Class
+github:
+  owner: '1739321142'
+  repo: DevTools-Custom-Beautification-Plugin-for-DeepseekHarness-Class
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-plugin-manager
+github:
+  owner: hrhgit
+  repo: deepseek-harness-plugin-manager
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

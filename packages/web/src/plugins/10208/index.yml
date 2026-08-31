@@ -1,0 +1,15 @@
+version: 1
+name: dsh-failure-capsule
+github:
+  owner: YiHarvest
+  repo: dsh-failure-capsule
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-failure-capsule
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

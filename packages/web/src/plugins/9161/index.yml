@@ -1,0 +1,12 @@
+version: 1
+name: dsh-glassic-mist-theme
+github:
+  owner: VlanTech
+  repo: dsh-glassic-mist-theme
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

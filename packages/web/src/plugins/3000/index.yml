@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-token-usage
+github:
+  owner: Hjay1101
+  repo: dsh-plugin-token-usage
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-plugin-token-usage
+versions:
+  - packageVersion: 2.1.0
+    dshVersion: v0.1.2-alpha.1

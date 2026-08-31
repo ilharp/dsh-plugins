@@ -1,0 +1,12 @@
+version: 1
+name: dsh-session-pin
+github:
+  owner: OpenSaozi
+  repo: dsh-session-pin
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 1
+versions:
+  - packageVersion: 0.1.0-rc.5
+    dshVersion: v0.1.2-alpha.1

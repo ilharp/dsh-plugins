@@ -1,0 +1,11 @@
+version: 1
+name: DeepSeek-Harness-Desktop
+github:
+  owner: feiyang-dev
+  repo: DeepSeek-Harness-Desktop
+  language: JavaScript
+  license: MIT
+  stars: 7
+  forks: 0
+  openIssues: 0
+versions: []

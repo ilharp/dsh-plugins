@@ -1,0 +1,17 @@
+version: 1
+name: dsh-auxiliary
+github:
+  owner: dsh-plugins
+  repo: dsh-auxiliary
+  language: TypeScript
+  license: LGPL-3.0
+  stars: 5
+  forks: 2
+  openIssues: 0
+npm:
+  name: '@dsh-plugin/dsh-auxiliary'
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.1
+    dshVersion: v0.1.2-alpha.1

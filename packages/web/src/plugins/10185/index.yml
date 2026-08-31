@@ -1,0 +1,14 @@
+version: 1
+name: dsh-home-migrate
+github:
+  owner: ygcdsj
+  repo: dsh-home-migrate
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-migrate
+versions:
+  - packageVersion: 0.0.11
+    dshVersion: v0.1.2-alpha.1

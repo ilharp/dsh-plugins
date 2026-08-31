@@ -1,0 +1,14 @@
+version: 1
+name: dsh-dock
+github:
+  owner: wycto
+  repo: dsh-dock
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-dock
+versions:
+  - packageVersion: 0.8.0
+    dshVersion: v0.1.2-alpha.1

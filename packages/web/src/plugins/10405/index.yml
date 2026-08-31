@@ -1,0 +1,15 @@
+version: 1
+name: dsh-blue-whale-maid
+github:
+  owner: yuxino
+  repo: dsh-blue-whale-maid
+  language: JavaScript
+  license: NOASSERTION
+  stars: 6
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 1.10.6
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.10.7
+    dshVersion: v0.1.2-alpha.1

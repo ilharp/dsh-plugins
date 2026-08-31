@@ -1,0 +1,15 @@
+version: 1
+name: dsh-agent-message
+github:
+  owner: GengDaPeng
+  repo: dsh-agent-message
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-agent-message
+versions:
+  - packageVersion: 1.5.1
+    dshVersion: v0.1.2-alpha.1

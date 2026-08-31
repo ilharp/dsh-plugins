@@ -1,0 +1,13 @@
+version: 1
+name: dsh-plugin-store
+github:
+  owner: wink-run
+  repo: dsh-plugin-store
+  language: Python
+  license: NOASSERTION
+  stars: 4
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-plugin-store
+versions: []

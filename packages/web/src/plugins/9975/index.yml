@@ -1,0 +1,12 @@
+version: 1
+name: dsh-gitmodules-dir
+github:
+  owner: xiongjiamu
+  repo: dsh-gitmodules-dir
+  language: Python
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

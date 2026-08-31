@@ -1,0 +1,11 @@
+version: 1
+name: dsh-desktop-tools
+github:
+  owner: fan969690
+  repo: dsh-desktop-tools
+  language: C#
+  license: MIT
+  stars: 2
+  forks: 1
+  openIssues: 0
+versions: []

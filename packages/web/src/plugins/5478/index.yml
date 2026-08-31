@@ -1,0 +1,14 @@
+version: 1
+name: dsh-peak-pricing
+github:
+  owner: Oliver0804
+  repo: dsh-peak-pricing
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-peak-pricing
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-beauty-skins
+github:
+  owner: XieRW
+  repo: dsh-beauty-skins
+  language: TypeScript
+  license: MIT
+  stars: 101
+  forks: 0
+  openIssues: 0
+versions: []

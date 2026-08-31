@@ -1,0 +1,11 @@
+version: 1
+name: claude-paper
+github:
+  owner: alaliqing
+  repo: claude-paper
+  language: Vue
+  license: MIT
+  stars: 328
+  forks: 24
+  openIssues: 0
+versions: []

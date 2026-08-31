@@ -1,0 +1,15 @@
+version: 1
+name: dsh-tether
+github:
+  owner: zexadev
+  repo: dsh-tether
+  language: JavaScript
+  license: MIT
+  stars: 36
+  forks: 5
+  openIssues: 0
+npm:
+  name: dsh-plugin-tether
+versions:
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1

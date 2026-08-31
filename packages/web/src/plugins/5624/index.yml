@@ -1,0 +1,11 @@
+version: 1
+name: dsh-xiaohei
+github:
+  owner: opensetk
+  repo: dsh-xiaohei
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-skill-manager
+github:
+  owner: AKS1st
+  repo: dsh-skill-manager
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 1
+npm:
+  name: dsh-skill-manager
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

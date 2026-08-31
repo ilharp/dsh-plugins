@@ -1,0 +1,14 @@
+version: 1
+name: dsh-automode
+github:
+  owner: log-li
+  repo: dsh-automode
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@log.li/dsh-automode'
+versions:
+  - packageVersion: 0.8.0
+    dshVersion: v0.1.2-alpha.1

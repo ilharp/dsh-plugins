@@ -1,0 +1,11 @@
+version: 1
+name: tmcra-deepseek-harness-memory
+github:
+  owner: reshuibuduo
+  repo: tmcra-deepseek-harness-memory
+  language: TypeScript
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

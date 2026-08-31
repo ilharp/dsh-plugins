@@ -1,0 +1,17 @@
+version: 1
+name: dsh-codex-connect
+github:
+  owner: franksong2702
+  repo: dsh-codex-connect
+  language: TypeScript
+  license: Apache-2.0
+  stars: 66
+  forks: 23
+  openIssues: 0
+npm:
+  name: dsh-codex-connect
+versions:
+  - packageVersion: 0.1.0-alpha.4.19
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0-alpha.4.21
+    dshVersion: v0.1.2-alpha.1

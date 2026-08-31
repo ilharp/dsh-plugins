@@ -1,0 +1,15 @@
+version: 1
+name: tuning-engines-cli
+github:
+  owner: cerebrixos-org
+  repo: tuning-engines-cli
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 3
+  openIssues: 2
+npm:
+  name: tuningengines-cli
+versions:
+  - packageVersion: 0.4.35
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-shadow-mind
+github:
+  owner: winterhuan
+  repo: dsh-shadow-mind
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@winterchenhuan/dsh-shadow-mind'
+versions:
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.9
+    dshVersion: v0.1.2-alpha.1

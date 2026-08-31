@@ -1,0 +1,11 @@
+version: 1
+name: dsh-mihome
+github:
+  owner: loki888666
+  repo: dsh-mihome
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

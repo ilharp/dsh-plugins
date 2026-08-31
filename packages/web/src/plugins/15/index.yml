@@ -1,0 +1,17 @@
+version: 1
+name: dsh-plugin-greet
+github:
+  owner: 0lidaxiang
+  repo: dsh-plugin-greet
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-plugin-greet
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

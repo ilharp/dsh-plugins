@@ -1,0 +1,14 @@
+version: 1
+name: dsh-agfs
+github:
+  owner: openAGFS
+  repo: dsh-agfs
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 1
+npm:
+  name: '@open-agfs/dsh-agfs'
+versions:
+  - packageVersion: 0.1.9
+    dshVersion: v0.1.2-alpha.1

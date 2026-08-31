@@ -1,0 +1,11 @@
+version: 1
+name: dsh-mobile-apk
+github:
+  owner: kelai141
+  repo: dsh-mobile-apk
+  language: Kotlin
+  license: MIT
+  stars: 252
+  forks: 3
+  openIssues: 3
+versions: []

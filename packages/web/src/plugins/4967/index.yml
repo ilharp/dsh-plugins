@@ -1,0 +1,12 @@
+version: 1
+name: dsh-https-fix
+github:
+  owner: MingYU-kalo
+  repo: dsh-https-fix
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.1-rc.3
+    dshVersion: v0.1.2-alpha.1

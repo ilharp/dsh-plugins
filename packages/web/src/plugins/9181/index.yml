@@ -1,0 +1,13 @@
+version: 1
+name: dsh-ocr-bridge
+github:
+  owner: vuvanmai936-dot
+  repo: dsh-ocr-bridge
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-ocr-bridge
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

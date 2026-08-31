@@ -1,0 +1,10 @@
+version: 1
+name: ego-browser
+github:
+  owner: Fisfzy
+  repo: ego-browser
+  language: JavaScript
+  stars: 53
+  forks: 2
+  openIssues: 3
+versions: []

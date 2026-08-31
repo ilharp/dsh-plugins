@@ -1,0 +1,11 @@
+version: 1
+name: voyager
+github:
+  owner: Nagi-ovo
+  repo: voyager
+  language: TypeScript
+  license: GPL-3.0
+  stars: 19889
+  forks: 657
+  openIssues: 11
+versions: []

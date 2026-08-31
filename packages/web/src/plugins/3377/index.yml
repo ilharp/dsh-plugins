@@ -1,0 +1,15 @@
+version: 1
+name: dsh-archive-manager
+github:
+  owner: jasonrale
+  repo: dsh-archive-manager
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-archive-manager
+versions:
+  - packageVersion: 1.1.1
+    dshVersion: v0.1.2-alpha.1

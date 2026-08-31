@@ -1,0 +1,14 @@
+version: 1
+name: dsh-json-tools
+github:
+  owner: uckkk
+  repo: dsh-json-tools
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-json-tools
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

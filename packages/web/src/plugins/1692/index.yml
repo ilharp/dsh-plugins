@@ -1,0 +1,16 @@
+version: 1
+name: dsh-maestro-devkit
+github:
+  owner: ddtcorex
+  repo: dsh-maestro-devkit
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@ddtcorex/dsh-maestro-devkit'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

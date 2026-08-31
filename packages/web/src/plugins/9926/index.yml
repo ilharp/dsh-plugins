@@ -1,0 +1,15 @@
+version: 1
+name: coding-coach
+github:
+  owner: xiehuan123
+  repo: coding-coach
+  language: Python
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: coding-coach
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

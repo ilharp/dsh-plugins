@@ -1,0 +1,14 @@
+version: 1
+name: dsh-custom-plugin
+github:
+  owner: AlexPeng07
+  repo: dsh-custom-plugin
+  language: TypeScript
+  license: Apache-2.0
+  stars: 4
+  forks: 0
+npm:
+  name: '@alexpeng/dsh-custom-plugin'
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

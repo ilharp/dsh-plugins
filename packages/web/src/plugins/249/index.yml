@@ -1,0 +1,17 @@
+version: 1
+name: dsh-usage-billing
+github:
+  owner: '940842546'
+  repo: dsh-usage-billing
+  language: JavaScript
+  license: MIT
+  stars: 10
+  forks: 1
+  openIssues: 2
+npm:
+  name: dsh-usage-billing
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

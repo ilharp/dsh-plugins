@@ -1,0 +1,11 @@
+version: 1
+name: tencentmeeting-cli
+github:
+  owner: TencentCloud
+  repo: tencentmeeting-cli
+  language: Go
+  license: NOASSERTION
+  stars: 228
+  forks: 16
+  openIssues: 6
+versions: []

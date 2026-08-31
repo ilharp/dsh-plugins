@@ -1,0 +1,11 @@
+version: 1
+name: dsh-wechat-bridge
+github:
+  owner: gtaifu
+  repo: dsh-wechat-bridge
+  language: JavaScript
+  license: MIT
+  stars: 9
+  forks: 0
+  openIssues: 0
+versions: []

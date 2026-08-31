@@ -1,0 +1,14 @@
+version: 1
+name: dsh-ponytail
+github:
+  owner: MengYuil
+  repo: dsh-ponytail
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 0
+npm:
+  name: '@mengyuly/dsh-ponytail'
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-llms-forge
+github:
+  owner: zoahdev
+  repo: dsh-llms-forge
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-llms-forge
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

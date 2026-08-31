@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-portal
+github:
+  owner: cooljser
+  repo: dsh-plugin-portal
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

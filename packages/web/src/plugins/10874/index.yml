@@ -1,0 +1,11 @@
+version: 1
+name: dsh-postmortem
+github:
+  owner: zzh-newlearner
+  repo: dsh-postmortem
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

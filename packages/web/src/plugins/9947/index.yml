@@ -1,0 +1,12 @@
+version: 1
+name: dsh-zhipu-vision
+github:
+  owner: xingling80
+  repo: dsh-zhipu-vision
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.6.2
+    dshVersion: v0.1.2-alpha.1

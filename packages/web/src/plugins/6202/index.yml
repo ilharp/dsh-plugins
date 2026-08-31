@@ -1,0 +1,12 @@
+version: 1
+name: dsh-image-understanding
+github:
+  owner: rison114514
+  repo: dsh-image-understanding
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

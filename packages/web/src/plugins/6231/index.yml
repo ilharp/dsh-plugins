@@ -1,0 +1,12 @@
+version: 1
+name: dsh-thinking-summary
+github:
+  owner: Rosmarinus-Young
+  repo: dsh-thinking-summary
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

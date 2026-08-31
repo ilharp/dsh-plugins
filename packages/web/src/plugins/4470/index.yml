@@ -1,0 +1,16 @@
+version: 1
+name: Genshin-odette-skin-dsh
+github:
+  owner: lkdx0220
+  repo: Genshin-odette-skin-dsh
+  language: TypeScript
+  license: CC-BY-4.0
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-odette-skin
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

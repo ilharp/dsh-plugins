@@ -1,0 +1,14 @@
+version: 1
+name: dsh-service-watchdog
+github:
+  owner: LucienLL
+  repo: dsh-service-watchdog
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-service-watchdog
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

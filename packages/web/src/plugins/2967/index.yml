@@ -1,0 +1,16 @@
+version: 1
+name: dsh-update-copilot
+github:
+  owner: hezhongtang
+  repo: dsh-update-copilot
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 1
+npm:
+  name: dsh-update-copilot
+versions:
+  - packageVersion: 0.4.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.1
+    dshVersion: v0.1.2-alpha.1

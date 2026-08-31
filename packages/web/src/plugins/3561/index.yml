@@ -1,0 +1,10 @@
+version: 1
+name: dsh-strudel-studio
+github:
+  owner: jo32
+  repo: dsh-strudel-studio
+  language: JavaScript
+  stars: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

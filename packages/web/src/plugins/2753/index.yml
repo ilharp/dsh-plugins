@@ -1,0 +1,13 @@
+version: 1
+name: dsh-plugins
+github:
+  owner: HackSing
+  repo: dsh-plugins
+  language: Python
+  license: CC-BY-4.0
+  stars: 6
+  forks: 3
+  openIssues: 6
+npm:
+  name: dsh-plugins
+versions: []

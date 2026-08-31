@@ -1,0 +1,12 @@
+version: 1
+name: context-graph-deepseek-harness
+github:
+  owner: Mshir0
+  repo: context-graph-deepseek-harness
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.10.3
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-favicon-status
+github:
+  owner: bf185003
+  repo: dsh-favicon-status
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-favicon-status
+versions:
+  - packageVersion: 0.1.0-rc.5
+    dshVersion: v0.1.2-alpha.1

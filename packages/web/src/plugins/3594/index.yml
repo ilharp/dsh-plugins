@@ -1,0 +1,14 @@
+version: 1
+name: apply-patch
+github:
+  owner: JohnXu22786
+  repo: apply-patch
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-patch-apply
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

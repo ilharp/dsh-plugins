@@ -1,0 +1,14 @@
+version: 1
+name: dsh-liquid-glass-ui
+github:
+  owner: xiaoxianasd
+  repo: dsh-liquid-glass-ui
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-liquid-glass-ui
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

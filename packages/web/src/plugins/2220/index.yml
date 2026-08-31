@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-Kylin-desktop
+github:
+  owner: FancyJR
+  repo: deepseek-harness-Kylin-desktop
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

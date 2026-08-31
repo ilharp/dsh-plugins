@@ -1,0 +1,16 @@
+version: 1
+name: dsh-mnemon-gc
+github:
+  owner: Zn-Dk
+  repo: dsh-mnemon-gc
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-mnemon-gc
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

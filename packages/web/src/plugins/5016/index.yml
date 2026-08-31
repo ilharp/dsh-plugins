@@ -1,0 +1,14 @@
+version: 1
+name: dsh-dev-server
+github:
+  owner: MkaliezZ
+  repo: dsh-dev-server
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@mkaliezz/dsh-dev-server'
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

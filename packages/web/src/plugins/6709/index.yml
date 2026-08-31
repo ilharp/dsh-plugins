@@ -1,0 +1,8 @@
+version: 1
+name: dsh-file-upload-deepseek-harness-plug-in
+github:
+  owner: shililinghu
+  repo: dsh-file-upload-deepseek-harness-plug-in
+  license: MIT
+  stars: 2
+versions: []

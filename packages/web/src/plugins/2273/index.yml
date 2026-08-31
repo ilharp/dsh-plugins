@@ -1,0 +1,12 @@
+version: 1
+name: dsh-theme-aurum
+github:
+  owner: fengb3
+  repo: dsh-theme-aurum
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 1.2.0
+    dshVersion: v0.1.2-alpha.1

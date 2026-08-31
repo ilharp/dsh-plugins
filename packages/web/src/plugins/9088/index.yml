@@ -1,0 +1,15 @@
+version: 1
+name: dsh-ssh
+github:
+  owner: UynajGI
+  repo: dsh-ssh
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-ssh
+versions:
+  - packageVersion: 0.3.0-pre
+    dshVersion: v0.1.2-alpha.1

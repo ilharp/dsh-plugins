@@ -1,0 +1,14 @@
+version: 1
+name: dsh-vision-adapter
+github:
+  owner: motongv
+  repo: dsh-vision-adapter
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-vision-adapter
+versions:
+  - packageVersion: 0.6.4
+    dshVersion: v0.1.2-alpha.1

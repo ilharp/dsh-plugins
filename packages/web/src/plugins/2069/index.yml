@@ -1,0 +1,8 @@
+version: 1
+name: dsh-task-completion
+github:
+  owner: EIGHTfs
+  repo: dsh-task-completion
+  stars: 0
+  forks: 0
+versions: []

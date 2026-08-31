@@ -1,0 +1,14 @@
+version: 1
+name: dsh-model-accordion
+github:
+  owner: lakabuji-arch
+  repo: dsh-model-accordion
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-model-accordion
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

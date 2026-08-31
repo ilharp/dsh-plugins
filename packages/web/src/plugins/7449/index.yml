@@ -1,0 +1,17 @@
+version: 1
+name: dsh-qq-bridge
+github:
+  owner: TomoyoNatsume
+  repo: dsh-qq-bridge
+  language: TypeScript
+  license: MIT
+  stars: 11
+  forks: 1
+  openIssues: 0
+npm:
+  name: '@yachangchang/dsh-qq-bridge'
+versions:
+  - packageVersion: 1.0.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.5
+    dshVersion: v0.1.2-alpha.1

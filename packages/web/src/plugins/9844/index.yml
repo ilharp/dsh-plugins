@@ -1,0 +1,16 @@
+version: 1
+name: dsh-prompt-history
+github:
+  owner: Xiaofei-fei
+  repo: dsh-prompt-history
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-prompt-history
+versions:
+  - packageVersion: 1.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.2.5
+    dshVersion: v0.1.2-alpha.1

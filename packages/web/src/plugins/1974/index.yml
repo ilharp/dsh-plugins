@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-registry
+github:
+  owner: dshplugin-app
+  repo: dsh-plugin-registry
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dshplugin-registry
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

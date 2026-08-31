@@ -1,0 +1,12 @@
+version: 1
+name: dsh-chat-rail
+github:
+  owner: shao-01-test
+  repo: dsh-chat-rail
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

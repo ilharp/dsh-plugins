@@ -1,0 +1,11 @@
+version: 1
+name: DeepSeekHarness----Desktop
+github:
+  owner: InkWord01
+  repo: DeepSeekHarness----Desktop
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-acp
+github:
+  owner: dushaobindoudou
+  repo: dsh-acp
+  language: TypeScript
+  license: MIT
+  stars: 6
+  forks: 4
+npm:
+  name: dsh-acp-server
+versions:
+  - packageVersion: 0.10.0
+    dshVersion: v0.1.2-alpha.1

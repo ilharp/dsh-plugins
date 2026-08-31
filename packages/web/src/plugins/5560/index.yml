@@ -1,0 +1,11 @@
+version: 1
+name: toybox
+github:
+  owner: omdsh-dev
+  repo: toybox
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

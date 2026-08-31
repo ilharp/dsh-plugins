@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-omoslim
+github:
+  owner: tevenfeng
+  repo: dsh-plugin-omoslim
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-plugin-omoslim
+versions:
+  - packageVersion: 0.5.2
+    dshVersion: v0.1.2-alpha.1

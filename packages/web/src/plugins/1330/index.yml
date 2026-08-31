@@ -1,0 +1,11 @@
+version: 1
+name: Deepseek-Harness-Desktop
+github:
+  owner: ChisaAlter
+  repo: Deepseek-Harness-Desktop
+  language: JavaScript
+  license: MIT
+  stars: 141
+  forks: 7
+  openIssues: 2
+versions: []

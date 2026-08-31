@@ -1,0 +1,11 @@
+version: 1
+name: dsh-desktop
+github:
+  owner: zsyu9779
+  repo: dsh-desktop
+  language: HTML
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-alert-sound
+github:
+  owner: Machine-126
+  repo: dsh-alert-sound
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@machine-126/dsh-alert-sound'
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

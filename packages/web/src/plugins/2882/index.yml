@@ -1,0 +1,14 @@
+version: 1
+name: dsh-usage-guard
+github:
+  owner: hb-degithub
+  repo: dsh-usage-guard
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-usage-guard
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

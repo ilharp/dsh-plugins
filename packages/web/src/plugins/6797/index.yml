@@ -1,0 +1,11 @@
+version: 1
+name: northstar-exam
+github:
+  owner: sisyphus-iambe
+  repo: northstar-exam
+  language: Python
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

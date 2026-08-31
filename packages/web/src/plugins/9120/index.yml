@@ -1,0 +1,14 @@
+version: 1
+name: dsh-red-alert
+github:
+  owner: vibeinging
+  repo: dsh-red-alert
+  language: JavaScript
+  license: GPL-3.0
+  stars: 2
+  forks: 0
+npm:
+  name: '@vibeinging/dsh-red-alert'
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

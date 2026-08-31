@@ -1,0 +1,14 @@
+version: 1
+name: dsh-butler-memory
+github:
+  owner: AndyYang12345
+  repo: dsh-butler-memory
+  language: TypeScript
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-butler-memory
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

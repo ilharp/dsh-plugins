@@ -1,0 +1,12 @@
+version: 1
+name: dsh-route-resilience
+github:
+  owner: lokic7123-star
+  repo: dsh-route-resilience
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 1
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-voice
+github:
+  owner: '3274375092'
+  repo: dsh-voice
+  language: TypeScript
+  license: MIT
+  stars: 6
+  forks: 0
+npm:
+  name: '@nn12138/dsh-voice'
+versions:
+  - packageVersion: 0.2.6
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,7 @@
+version: 1
+name: plugin-manager
+github:
+  owner: whyihaveyou
+  repo: plugin-manager
+  stars: 49
+versions: []

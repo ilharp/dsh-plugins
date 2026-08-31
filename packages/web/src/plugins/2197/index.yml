@@ -1,0 +1,14 @@
+version: 1
+name: dsh-gamemode
+github:
+  owner: Fafaisa6305
+  repo: dsh-gamemode
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-gamemode
+versions:
+  - packageVersion: 0.0.3
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-release
+github:
+  owner: LeslieWylie
+  repo: dsh-plugin-release
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

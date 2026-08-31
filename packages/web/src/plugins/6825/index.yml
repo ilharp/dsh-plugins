@@ -1,0 +1,14 @@
+version: 1
+name: dsh-running-liang
+github:
+  owner: skiuniverse
+  repo: dsh-running-liang
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-running-liang
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

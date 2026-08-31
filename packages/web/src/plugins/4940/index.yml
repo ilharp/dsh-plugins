@@ -1,0 +1,14 @@
+version: 1
+name: dsh-unsloth-hands
+github:
+  owner: MicroHEROX
+  repo: dsh-unsloth-hands
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-unsloth-hands
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

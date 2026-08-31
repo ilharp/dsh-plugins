@@ -1,0 +1,17 @@
+version: 1
+name: dsh-mcp-lens
+github:
+  owner: labmimors
+  repo: dsh-mcp-lens
+  language: TypeScript
+  license: MIT
+  stars: 6
+  forks: 2
+  openIssues: 4
+npm:
+  name: dsh-mcp-lens
+versions:
+  - packageVersion: 0.1.0-rc.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0-rc.9
+    dshVersion: v0.1.2-alpha.1

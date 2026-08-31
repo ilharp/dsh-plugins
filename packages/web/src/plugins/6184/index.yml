@@ -1,0 +1,14 @@
+version: 1
+name: dsh-lan-gateway
+github:
+  owner: rice-awa
+  repo: dsh-lan-gateway
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@riceawa/dsh-lan-gateway'
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

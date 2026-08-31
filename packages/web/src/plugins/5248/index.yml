@@ -1,0 +1,15 @@
+version: 1
+name: dsh-auto-mode
+github:
+  owner: NanmiCoder
+  repo: dsh-auto-mode
+  language: TypeScript
+  license: MIT
+  stars: 115
+  forks: 4
+  openIssues: 0
+npm:
+  name: '@nanmicoder/dsh-auto-mode'
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: deepseek-harness-blaxel-sandbox
+github:
+  owner: blaxel-ai
+  repo: deepseek-harness-blaxel-sandbox
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

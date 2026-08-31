@@ -1,0 +1,17 @@
+version: 1
+name: dsh-ui-usage-billing
+github:
+  owner: kenz1117
+  repo: dsh-ui-usage-billing
+  language: TypeScript
+  license: MIT
+  stars: 24
+  forks: 5
+  openIssues: 0
+npm:
+  name: '@kenz1117/dsh-ui-usage-billing'
+versions:
+  - packageVersion: 0.9.19
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.10
+    dshVersion: v0.1.2-alpha.1

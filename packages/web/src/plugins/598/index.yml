@@ -1,0 +1,13 @@
+version: 1
+name: dsh-credits
+github:
+  owner: AnLifeX
+  repo: dsh-credits
+  language: JavaScript
+  stars: 3
+  forks: 1
+npm:
+  name: dsh-credits
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

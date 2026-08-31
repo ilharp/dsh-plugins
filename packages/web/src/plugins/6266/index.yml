@@ -1,0 +1,13 @@
+version: 1
+name: dsh-launcher
+github:
+  owner: Ruler4396
+  repo: dsh-launcher
+  language: C#
+  license: MIT
+  stars: 182
+  forks: 3
+  openIssues: 3
+npm:
+  name: dsh-launcher
+versions: []

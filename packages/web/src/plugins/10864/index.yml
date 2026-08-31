@@ -1,0 +1,14 @@
+version: 1
+name: dsh-notify-bell
+github:
+  owner: ZYar-er
+  repo: dsh-notify-bell
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-notify-bell
+versions:
+  - packageVersion: 0.12.0
+    dshVersion: v0.1.2-alpha.1

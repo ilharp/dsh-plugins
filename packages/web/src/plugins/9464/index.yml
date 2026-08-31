@@ -1,0 +1,14 @@
+version: 1
+name: dsh-model-capabilities
+github:
+  owner: WJZ-P
+  repo: dsh-model-capabilities
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-model-capability
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-guardian
+github:
+  owner: songoao25
+  repo: dsh-plugin-guardian
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

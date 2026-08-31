@@ -1,0 +1,13 @@
+version: 1
+name: dsh-plugin-git-workflow
+github:
+  owner: truelove-dreamer
+  repo: dsh-plugin-git-workflow
+  language: JavaScript
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-plugin-git-workflow
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

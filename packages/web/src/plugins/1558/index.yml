@@ -1,0 +1,15 @@
+version: 1
+name: dsh-usage-meter
+github:
+  owner: cute-baobao
+  repo: dsh-usage-meter
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@dsh-usage-meter/usage'
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

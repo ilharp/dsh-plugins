@@ -1,0 +1,14 @@
+version: 1
+name: dsh-git-conventions
+github:
+  owner: CN-WenYu
+  repo: dsh-git-conventions
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-git-conventions
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

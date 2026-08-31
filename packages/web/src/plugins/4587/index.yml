@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-device-info
+github:
+  owner: lsz-asd
+  repo: dsh-plugin-device-info
+  language: TypeScript
+  license: GPL-3.0
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

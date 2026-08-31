@@ -1,0 +1,16 @@
+version: 1
+name: dsh-agora
+github:
+  owner: AgoraIO-Community
+  repo: dsh-agora
+  language: Shell
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-agora
+versions:
+  - packageVersion: 0.2.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.8
+    dshVersion: v0.1.2-alpha.1

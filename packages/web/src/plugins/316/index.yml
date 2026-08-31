@@ -1,0 +1,11 @@
+version: 1
+name: dsh-panel-tint
+github:
+  owner: abbccdd
+  repo: dsh-panel-tint
+  language: JavaScript
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.6.2
+    dshVersion: v0.1.2-alpha.1

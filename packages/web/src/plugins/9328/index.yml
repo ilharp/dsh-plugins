@@ -1,0 +1,12 @@
+version: 1
+name: dsh-delegation-suite
+github:
+  owner: wenheguo2
+  repo: dsh-delegation-suite
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

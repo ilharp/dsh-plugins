@@ -1,0 +1,12 @@
+version: 1
+name: dsh-self-memory
+github:
+  owner: cyanxi69-jpg
+  repo: dsh-self-memory
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-tool-chaos
+github:
+  owner: cyanseek
+  repo: dsh-tool-chaos
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 2
+versions:
+  - packageVersion: 0.1.0-next.0
+    dshVersion: v0.1.2-alpha.1

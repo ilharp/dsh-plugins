@@ -1,0 +1,17 @@
+version: 1
+name: dsh-memory
+github:
+  owner: FuRongJun-1999
+  repo: dsh-memory
+  language: TypeScript
+  license: MIT
+  stars: 77
+  forks: 3
+  openIssues: 0
+npm:
+  name: '@furongjun1999/dsh-memory'
+versions:
+  - packageVersion: 0.2.9
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

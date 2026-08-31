@@ -1,0 +1,11 @@
+version: 1
+name: amadeus-for-dsh
+github:
+  owner: yyxcnasd
+  repo: amadeus-for-dsh
+  language: JavaScript
+  license: MIT
+  stars: 19
+  forks: 1
+  openIssues: 0
+versions: []

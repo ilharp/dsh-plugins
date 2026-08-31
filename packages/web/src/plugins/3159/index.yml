@@ -1,0 +1,11 @@
+version: 1
+name: dsh-spark-input
+github:
+  owner: hyizhou
+  repo: dsh-spark-input
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

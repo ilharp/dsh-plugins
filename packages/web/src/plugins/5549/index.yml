@@ -1,0 +1,13 @@
+version: 1
+name: ex-setting
+github:
+  owner: omdsh-dev
+  repo: ex-setting
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

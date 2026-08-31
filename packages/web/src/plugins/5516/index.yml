@@ -1,0 +1,11 @@
+version: 1
+name: dsh-mygo
+github:
+  owner: omdsh-dev
+  repo: dsh-mygo
+  language: TypeScript
+  license: MIT
+  stars: 12
+  forks: 0
+  openIssues: 0
+versions: []

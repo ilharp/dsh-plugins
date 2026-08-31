@@ -1,0 +1,16 @@
+version: 1
+name: dsh-cbx-orch
+github:
+  owner: zerosloney
+  repo: dsh-cbx-orch
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-cbx-orch
+versions:
+  - packageVersion: 0.4.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1

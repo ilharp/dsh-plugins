@@ -1,0 +1,15 @@
+version: 1
+name: dsh-compat
+github:
+  owner: rvaim
+  repo: dsh-compat
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@rvaim/dsh-compat'
+versions:
+  - packageVersion: 0.4.4
+    dshVersion: v0.1.2-alpha.1

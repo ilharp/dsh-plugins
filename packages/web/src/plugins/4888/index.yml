@@ -1,0 +1,12 @@
+version: 1
+name: DSH-Claude-Style-Reasoning-Slider
+github:
+  owner: MEMZ-JZY
+  repo: DSH-Claude-Style-Reasoning-Slider
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1

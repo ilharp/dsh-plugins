@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-skin-studio
+github:
+  owner: JueMing2049
+  repo: deepseek-skin-studio
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

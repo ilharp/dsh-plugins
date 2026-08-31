@@ -1,0 +1,12 @@
+version: 1
+name: dsh-tool-read-tiff
+github:
+  owner: fulander0301
+  repo: dsh-tool-read-tiff
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-delete-session
+github:
+  owner: dream12347
+  repo: dsh-delete-session
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

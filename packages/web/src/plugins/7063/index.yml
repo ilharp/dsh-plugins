@@ -1,0 +1,12 @@
+version: 1
+name: dsh-msg-index
+github:
+  owner: stnt04
+  repo: dsh-msg-index
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

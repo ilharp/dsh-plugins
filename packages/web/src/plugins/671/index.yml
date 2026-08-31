@@ -1,0 +1,13 @@
+version: 1
+name: prismrelay-mcp
+github:
+  owner: Arnoldkevin
+  repo: prismrelay-mcp
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

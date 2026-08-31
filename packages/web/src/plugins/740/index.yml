@@ -1,0 +1,17 @@
+version: 1
+name: dsh-find-plugin
+github:
+  owner: awesome-dsh-plugin
+  repo: dsh-find-plugin
+  language: TypeScript
+  license: MIT
+  stars: 78
+  forks: 3
+  openIssues: 0
+npm:
+  name: dsh-find-plugin
+versions:
+  - packageVersion: 0.3.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.7
+    dshVersion: v0.1.2-alpha.1

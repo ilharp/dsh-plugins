@@ -1,0 +1,16 @@
+version: 1
+name: dsh-multi-model-provider
+github:
+  owner: AlexKaiqi
+  repo: dsh-multi-model-provider
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-multi-model-provider
+versions:
+  - packageVersion: 0.1.0-rc.11
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0-rc.18
+    dshVersion: v0.1.2-alpha.1

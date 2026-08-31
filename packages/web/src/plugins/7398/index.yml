@@ -1,0 +1,8 @@
+version: 1
+name: dsh-claude-import
+github:
+  owner: TimeCraker
+  repo: dsh-claude-import
+  stars: 1
+  forks: 0
+versions: []

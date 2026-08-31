@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-wecom-bot
+github:
+  owner: zhao999
+  repo: dsh-plugin-wecom-bot
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

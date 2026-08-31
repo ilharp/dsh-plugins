@@ -1,0 +1,16 @@
+version: 1
+name: dsh-tavern-v2
+github:
+  owner: chen731215-dev
+  repo: dsh-tavern-v2
+  language: JavaScript
+  license: NOASSERTION
+  stars: 6
+  forks: 0
+npm:
+  name: dsh-tavern
+versions:
+  - packageVersion: 2.0.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2.1.2
+    dshVersion: v0.1.2-alpha.1

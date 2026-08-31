@@ -1,0 +1,14 @@
+version: 1
+name: dsh-workbench-layout
+github:
+  owner: lsq-dsh-plugins
+  repo: dsh-workbench-layout
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@lsq64737/dsh-workbench-layout'
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

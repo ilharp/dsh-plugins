@@ -1,0 +1,11 @@
+version: 1
+name: dsh-context-taxonomy
+github:
+  owner: ArtificialNotImbecile
+  repo: dsh-context-taxonomy
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

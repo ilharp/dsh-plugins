@@ -1,0 +1,17 @@
+version: 1
+name: dsh-visual-plugin
+github:
+  owner: jyh20030112
+  repo: dsh-visual-plugin
+  language: TypeScript
+  license: MIT
+  stars: 12
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-visual-plugin
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

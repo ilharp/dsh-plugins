@@ -1,0 +1,16 @@
+version: 1
+name: dsh-mall
+github:
+  owner: hoyyang
+  repo: dsh-mall
+  language: JavaScript
+  license: MIT
+  stars: 7
+  forks: 0
+npm:
+  name: dsh-mall
+versions:
+  - packageVersion: 1.7.89
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.7.90
+    dshVersion: v0.1.2-alpha.1

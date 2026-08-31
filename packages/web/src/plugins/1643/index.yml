@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-desktop-linux
+github:
+  owner: darven-cs
+  repo: deepseek-harness-desktop-linux
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

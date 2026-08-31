@@ -1,0 +1,16 @@
+version: 1
+name: dsh-minimax-usage
+github:
+  owner: pan17
+  repo: dsh-minimax-usage
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-minimax-usage
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

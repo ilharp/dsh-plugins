@@ -1,0 +1,15 @@
+version: 1
+name: dsh-bisect-debug
+github:
+  owner: PangYiMing
+  repo: dsh-bisect-debug
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-bisect-debug
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

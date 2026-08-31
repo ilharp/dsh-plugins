@@ -1,0 +1,14 @@
+version: 1
+name: dsh-auth-proxy
+github:
+  owner: wxyzh
+  repo: dsh-auth-proxy
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@wxyzh/dsh-auth-proxy'
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

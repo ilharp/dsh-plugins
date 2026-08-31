@@ -1,0 +1,13 @@
+version: 1
+name: dsh-at-mention
+github:
+  owner: Lan-zk
+  repo: dsh-at-mention
+  language: TypeScript
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-at-mention
+versions:
+  - packageVersion: 0.1.11
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-failbook
+github:
+  owner: G1en-114
+  repo: dsh-failbook
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

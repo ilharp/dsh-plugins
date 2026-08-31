@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-mobile
+github:
+  owner: sorsama
+  repo: deepseek-harness-mobile
+  language: Kotlin
+  license: MIT
+  stars: 47
+  forks: 0
+  openIssues: 0
+versions: []

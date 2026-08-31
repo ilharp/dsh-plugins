@@ -1,0 +1,11 @@
+version: 1
+name: dsh-jingle
+github:
+  owner: rxh1999
+  repo: dsh-jingle
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

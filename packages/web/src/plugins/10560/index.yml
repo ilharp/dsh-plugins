@@ -1,0 +1,10 @@
+version: 1
+name: dsh-humanize
+github:
+  owner: zevorn
+  repo: dsh-humanize
+  language: Shell
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

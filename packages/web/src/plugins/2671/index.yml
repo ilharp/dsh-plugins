@@ -1,0 +1,10 @@
+version: 1
+name: dsh-plugin-dev-skill
+github:
+  owner: green-dalii
+  repo: dsh-plugin-dev-skill
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

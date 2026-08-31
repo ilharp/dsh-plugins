@@ -1,0 +1,14 @@
+version: 1
+name: dsh-tmux-cc
+github:
+  owner: adrianleb
+  repo: dsh-tmux-cc
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 1
+npm:
+  name: dsh-tmux-cc
+versions:
+  - packageVersion: 0.5.3
+    dshVersion: v0.1.2-alpha.1

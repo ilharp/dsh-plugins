@@ -1,0 +1,7 @@
+version: 1
+name: '@moyu-good/dsh-lark-bridge'
+github:
+  owner: moyu-good
+  repo: moyu-good-dsh-lark-bridge
+  stars: 1
+versions: []

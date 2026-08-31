@@ -1,0 +1,7 @@
+version: 1
+name: dsh-sessions
+npm:
+  name: dsh-sessions
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

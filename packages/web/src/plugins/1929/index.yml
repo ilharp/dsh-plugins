@@ -1,0 +1,12 @@
+version: 1
+name: dsh-api-usage-monitor
+github:
+  owner: DrFaithinT
+  repo: dsh-api-usage-monitor
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 2.0.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-akn-plugin
+github:
+  owner: symmetryseeker
+  repo: dsh-akn-plugin
+  language: TypeScript
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-akn-plugin
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

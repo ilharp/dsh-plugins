@@ -1,0 +1,14 @@
+version: 1
+name: dsh-git-chain
+github:
+  owner: ShinonomeAya
+  repo: dsh-git-chain
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: computer-control
+github:
+  owner: JohnXu22786
+  repo: computer-control
+  language: Python
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-computer-control
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

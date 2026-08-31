@@ -1,0 +1,13 @@
+version: 1
+name: dsh-accounts
+github:
+  owner: kangshifu1
+  repo: dsh-accounts
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-accounts
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

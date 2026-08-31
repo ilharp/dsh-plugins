@@ -1,0 +1,15 @@
+version: 1
+name: dsh-minigames
+github:
+  owner: omdsh-dev
+  repo: dsh-minigames
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 7
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.6
+    dshVersion: v0.1.2-alpha.1

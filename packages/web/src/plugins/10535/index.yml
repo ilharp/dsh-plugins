@@ -1,0 +1,11 @@
+version: 1
+name: dsh-security-suite
+github:
+  owner: Zenquiem
+  repo: dsh-security-suite
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

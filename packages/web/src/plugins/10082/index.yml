@@ -1,0 +1,11 @@
+version: 1
+name: dsh-session-favorites
+github:
+  owner: yaindrop
+  repo: dsh-session-favorites
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

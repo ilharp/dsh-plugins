@@ -1,0 +1,12 @@
+version: 1
+name: dsh-small-fix
+github:
+  owner: uckkk
+  repo: dsh-small-fix
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

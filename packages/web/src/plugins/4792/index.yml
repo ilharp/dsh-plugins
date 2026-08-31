@@ -1,0 +1,17 @@
+version: 1
+name: dsh-commandcode-provider
+github:
+  owner: Mars-Sea
+  repo: dsh-commandcode-provider
+  language: TypeScript
+  license: MIT
+  stars: 126
+  forks: 9
+  openIssues: 0
+npm:
+  name: '@mars-sea/dsh-commandcode-provider'
+versions:
+  - packageVersion: 0.8.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.9.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,10 @@
+version: 1
+name: deepseek-plugins
+github:
+  owner: bitterSmilezzz
+  repo: deepseek-plugins
+  language: JavaScript
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-relay-models
+github:
+  owner: Xichun123
+  repo: dsh-relay-models
+  language: TypeScript
+  stars: 1
+npm:
+  name: dsh-relay-models
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

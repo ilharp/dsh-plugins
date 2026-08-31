@@ -1,0 +1,9 @@
+version: 1
+name: dsh-muse-total-tps
+github:
+  owner: sd1g1
+  repo: dsh-muse-total-tps
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions: []

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-hub-plugin
+github:
+  owner: sliverp
+  repo: dsh-hub-plugin
+  language: TypeScript
+  license: NOASSERTION
+  stars: 16
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-hub
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

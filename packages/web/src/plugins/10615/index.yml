@@ -1,0 +1,11 @@
+version: 1
+name: notes
+github:
+  owner: zhaoolee
+  repo: notes
+  language: TypeScript
+  license: NOASSERTION
+  stars: 154
+  forks: 3
+  openIssues: 0
+versions: []

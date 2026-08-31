@@ -1,0 +1,11 @@
+version: 1
+name: dsh-agent-compact
+github:
+  owner: jonah791
+  repo: dsh-agent-compact
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-agent-driver-writehere
+github:
+  owner: Player-YN
+  repo: dsh-agent-driver-writehere
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

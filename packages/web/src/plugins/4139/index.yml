@@ -1,0 +1,17 @@
+version: 1
+name: dsh-workbench
+github:
+  owner: lee259
+  repo: dsh-workbench
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 7
+npm:
+  name: dsh-workbench
+versions:
+  - packageVersion: 0.10.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.11.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-image-tools
+github:
+  owner: Pasumao
+  repo: dsh-plugin-image-tools
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-plugin-image-tools
+versions:
+  - packageVersion: 0.6.3
+    dshVersion: v0.1.2-alpha.1

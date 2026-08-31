@@ -1,0 +1,14 @@
+version: 1
+name: dsh-auto-continue-429
+github:
+  owner: haochi72
+  repo: dsh-auto-continue-429
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-auto-continue-429
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

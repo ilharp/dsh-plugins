@@ -1,0 +1,17 @@
+version: 1
+name: dsh-skill-pack-security
+github:
+  owner: PerryLink
+  repo: dsh-skill-pack-security
+  language: TypeScript
+  license: Apache-2.0
+  stars: 6
+  forks: 0
+  openIssues: 5
+npm:
+  name: '@perrylink/dsh-skill-pack-security-provider'
+versions:
+  - packageVersion: 2.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2.2.0
+    dshVersion: v0.1.2-alpha.1

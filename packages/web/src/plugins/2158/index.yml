@@ -1,0 +1,11 @@
+version: 1
+name: glm4v-vision-mcp
+github:
+  owner: ethanweave
+  repo: glm4v-vision-mcp
+  language: Python
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

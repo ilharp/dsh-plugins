@@ -1,0 +1,14 @@
+version: 1
+name: dsh-kanban
+github:
+  owner: zhouStar7
+  repo: dsh-kanban
+  language: Vue
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

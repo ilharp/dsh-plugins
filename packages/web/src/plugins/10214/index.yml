@@ -1,0 +1,11 @@
+version: 1
+name: dsh-usage-plugin
+github:
+  owner: Yihong89
+  repo: dsh-usage-plugin
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

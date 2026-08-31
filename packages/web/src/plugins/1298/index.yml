@@ -1,0 +1,16 @@
+version: 1
+name: dsh-ui-ux-pro-max
+github:
+  owner: ChenYiming-aaa
+  repo: dsh-ui-ux-pro-max
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-ui-ux-pro-max
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

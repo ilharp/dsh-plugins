@@ -1,0 +1,14 @@
+version: 1
+name: dsh-open-in
+github:
+  owner: NevermindZZT
+  repo: dsh-open-in
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-open-in
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

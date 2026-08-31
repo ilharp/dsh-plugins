@@ -1,0 +1,13 @@
+version: 1
+name: dsh-document-parser
+github:
+  owner: miaobuao
+  repo: dsh-document-parser
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

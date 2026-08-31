@@ -1,0 +1,16 @@
+version: 1
+name: dsh-side-chat
+github:
+  owner: KarlOfLaw
+  repo: dsh-side-chat
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-side-chat
+versions:
+  - packageVersion: 1.1.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.2.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,9 @@
+version: 1
+name: dsh-vision-helper
+github:
+  owner: statem-li
+  repo: dsh-vision-helper
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions: []

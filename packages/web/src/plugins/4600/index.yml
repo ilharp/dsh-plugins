@@ -1,0 +1,14 @@
+version: 1
+name: totoro-pet
+github:
+  owner: Lucasli2018
+  repo: totoro-pet
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: totoro-pet
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

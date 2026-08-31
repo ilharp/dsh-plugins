@@ -1,0 +1,14 @@
+version: 1
+name: dsh-adaptive-effort
+github:
+  owner: imkingjh999
+  repo: dsh-adaptive-effort
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-adaptive-effort
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

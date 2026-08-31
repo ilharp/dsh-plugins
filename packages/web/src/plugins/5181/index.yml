@@ -1,0 +1,13 @@
+version: 1
+name: write-chinese-long-screenplay
+github:
+  owner: mudden2380078550-creator
+  repo: write-chinese-long-screenplay
+  language: Python
+  license: GPL-3.0
+  stars: 10
+  forks: 3
+  openIssues: 2
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-sandbox-escalation-fix
+github:
+  owner: HakureiMonika
+  repo: dsh-sandbox-escalation-fix
+  language: TypeScript
+  license: MIT
+  stars: 35
+  forks: 5
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.2-alpha1
+    dshVersion: v0.1.2-alpha.1

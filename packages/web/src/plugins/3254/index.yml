@@ -1,0 +1,14 @@
+version: 1
+name: dsh-deepsea
+github:
+  owner: imkingjh999
+  repo: dsh-deepsea
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-deepsea
+versions:
+  - packageVersion: 1.0.11
+    dshVersion: v0.1.2-alpha.1

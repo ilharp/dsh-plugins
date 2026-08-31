@@ -1,0 +1,10 @@
+version: 1
+name: dsh-ventus-plugins
+github:
+  owner: mmzm0808
+  repo: dsh-ventus-plugins
+  language: JavaScript
+  stars: 10
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-chat-image
+github:
+  owner: Niobium-41-nb
+  repo: dsh-chat-image
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-chat-image
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

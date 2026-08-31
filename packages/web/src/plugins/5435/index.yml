@@ -1,0 +1,12 @@
+version: 1
+name: dsh-readwrite-hub
+github:
+  owner: Nth-5620
+  repo: dsh-readwrite-hub
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

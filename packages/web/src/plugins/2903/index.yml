@@ -1,0 +1,16 @@
+version: 1
+name: dsh-session-plugin
+github:
+  owner: Heeweelee
+  repo: dsh-session-plugin
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@heeweelee/dsh-session-plugin'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

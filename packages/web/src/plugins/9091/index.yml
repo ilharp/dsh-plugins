@@ -1,0 +1,14 @@
+version: 1
+name: dsh-smart-input
+github:
+  owner: v-quest123456
+  repo: dsh-smart-input
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

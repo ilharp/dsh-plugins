@@ -1,0 +1,11 @@
+version: 1
+name: deep-structural-analysis-skill
+github:
+  owner: tetckx
+  repo: deep-structural-analysis-skill
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 1.9.5
+    dshVersion: v0.1.2-alpha.1

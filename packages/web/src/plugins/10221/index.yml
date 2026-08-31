@@ -1,0 +1,14 @@
+version: 1
+name: dsh-notify-yimit
+github:
+  owner: YiMlT
+  repo: dsh-notify-yimit
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-notify-yimit
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

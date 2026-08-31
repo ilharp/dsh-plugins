@@ -1,0 +1,9 @@
+version: 1
+name: dsh-skill-karpathy-guidelines
+github:
+  owner: oThTJx
+  repo: dsh-skill-karpathy-guidelines
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions: []

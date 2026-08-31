@@ -1,0 +1,7 @@
+version: 1
+name: dsh-codex-shell
+npm:
+  name: dsh-codex-shell
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

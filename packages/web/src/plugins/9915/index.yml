@@ -1,0 +1,12 @@
+version: 1
+name: dsh-skills-nexus
+github:
+  owner: xiaxi626
+  repo: dsh-skills-nexus
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

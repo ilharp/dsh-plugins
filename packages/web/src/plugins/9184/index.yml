@@ -1,0 +1,14 @@
+version: 1
+name: dsh-settings-mcp-skills
+github:
+  owner: w123456789zy
+  repo: dsh-settings-mcp-skills
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-settings-mcp-skills
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

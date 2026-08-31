@@ -1,0 +1,14 @@
+version: 1
+name: ghost-refresh
+github:
+  owner: ZomiCC
+  repo: ghost-refresh
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-ghost-refresh
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

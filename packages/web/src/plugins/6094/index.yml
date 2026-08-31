@@ -1,0 +1,11 @@
+version: 1
+name: vibemeter
+github:
+  owner: RangeKing
+  repo: vibemeter
+  language: Rust
+  license: MIT
+  stars: 4
+  forks: 1
+  openIssues: 6
+versions: []

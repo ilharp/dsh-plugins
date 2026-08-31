@@ -1,0 +1,15 @@
+version: 1
+name: mindspace-dsh-local-rag
+github:
+  owner: Spirtxiaoqi7
+  repo: mindspace-dsh-local-rag
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.7
+    dshVersion: v0.1.2-alpha.1

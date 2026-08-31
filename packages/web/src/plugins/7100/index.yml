@@ -1,0 +1,14 @@
+version: 1
+name: dsh-safety
+github:
+  owner: sugarxl
+  repo: dsh-safety
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@suagr_xl/dsh-safety'
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-hooks-claude-code-per-workspace
+github:
+  owner: chendefine
+  repo: dsh-hooks-claude-code-per-workspace
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-hooks-claude-code-per-workspace
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

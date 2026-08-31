@@ -1,0 +1,11 @@
+version: 1
+name: dsh-find-plugins
+github:
+  owner: Nagi-ovo
+  repo: dsh-find-plugins
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 169
+  forks: 1
+  openIssues: 2
+versions: []

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-file-explorer-preview-molstar
+github:
+  owner: wolfsonliu
+  repo: dsh-file-explorer-preview-molstar
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-hindsight-plugins
+github:
+  owner: With-With
+  repo: dsh-hindsight-plugins
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3
+  forks: 1
+versions:
+  - packageVersion: 0.4.3
+    dshVersion: v0.1.2-alpha.1

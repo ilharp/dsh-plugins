@@ -1,0 +1,11 @@
+version: 1
+name: smart-subagent
+github:
+  owner: ZekaiShi
+  repo: smart-subagent
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

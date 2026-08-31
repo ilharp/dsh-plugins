@@ -1,0 +1,14 @@
+version: 1
+name: dsh-jumpserver
+github:
+  owner: easyv-ai
+  repo: dsh-jumpserver
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.8.0
+    dshVersion: v0.1.2-alpha.1

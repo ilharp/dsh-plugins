@@ -1,0 +1,15 @@
+version: 1
+name: Dsh-UI-Enhance
+github:
+  owner: xjackzenvey
+  repo: Dsh-UI-Enhance
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-ui-enhance
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

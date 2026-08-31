@@ -1,0 +1,13 @@
+version: 1
+name: dsh-mobile-xc
+github:
+  owner: xchannel1987
+  repo: dsh-mobile-xc
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-mobile-xc
+versions:
+  - packageVersion: 0.5.2
+    dshVersion: v0.1.2-alpha.1

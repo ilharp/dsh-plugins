@@ -1,0 +1,16 @@
+version: 1
+name: dsh-usage-statistics-panel
+github:
+  owner: HaoyueQin
+  repo: dsh-usage-statistics-panel
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-usage-statistics-panel
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1

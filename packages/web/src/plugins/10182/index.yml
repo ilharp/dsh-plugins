@@ -1,0 +1,16 @@
+version: 1
+name: dsh-session-hotkeys
+github:
+  owner: YEYEYEYESHIFU
+  repo: dsh-session-hotkeys
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-session-hotkeys
+versions:
+  - packageVersion: 1.5.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.6.0
+    dshVersion: v0.1.2-alpha.1

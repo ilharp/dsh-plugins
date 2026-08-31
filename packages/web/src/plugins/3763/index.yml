@@ -1,0 +1,14 @@
+version: 1
+name: dsh-file-upload
+github:
+  owner: kamilhzn
+  repo: dsh-file-upload
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-file-uploader
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

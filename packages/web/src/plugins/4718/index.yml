@@ -1,0 +1,13 @@
+version: 1
+name: dsh-search-hub
+github:
+  owner: Lzh3070
+  repo: dsh-search-hub
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-search-hub
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

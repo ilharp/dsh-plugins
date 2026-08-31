@@ -1,0 +1,12 @@
+version: 1
+name: dsh-resume-on-restart
+github:
+  owner: nickkkkkk123123
+  repo: dsh-resume-on-restart
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

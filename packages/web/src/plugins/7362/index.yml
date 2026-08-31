@@ -1,0 +1,10 @@
+version: 1
+name: dsh-official-port-nav
+github:
+  owner: tianhanly
+  repo: dsh-official-port-nav
+  language: JavaScript
+  stars: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

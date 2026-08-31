@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-store
+github:
+  owner: 0xKcyzz
+  repo: dsh-plugin-store
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 1
+npm:
+  name: dsh-plugin-store
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

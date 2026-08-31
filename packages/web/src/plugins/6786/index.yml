@@ -1,0 +1,12 @@
+version: 1
+name: dsh-memory-hermes
+github:
+  owner: SipengXie2024
+  repo: dsh-memory-hermes
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.5.3
+    dshVersion: v0.1.2-alpha.1

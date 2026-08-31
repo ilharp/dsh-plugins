@@ -1,0 +1,10 @@
+version: 1
+name: dsh-workspace
+github:
+  owner: wenliang9527
+  repo: dsh-workspace
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

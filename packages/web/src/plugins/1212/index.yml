@@ -1,0 +1,11 @@
+version: 1
+name: dsh-reviewer-bot
+github:
+  owner: chaojixinren
+  repo: dsh-reviewer-bot
+  language: TypeScript
+  license: MIT
+  stars: 14
+  forks: 2
+  openIssues: 10
+versions: []

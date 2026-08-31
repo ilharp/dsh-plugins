@@ -1,0 +1,14 @@
+version: 1
+name: dsh-chinese-thinking
+github:
+  owner: Max-Null
+  repo: dsh-chinese-thinking
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 0
+npm:
+  name: '@max-null/dsh-chinese-thinking'
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

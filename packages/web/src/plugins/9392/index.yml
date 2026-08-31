@@ -1,0 +1,12 @@
+version: 1
+name: dsh-visual-trace
+github:
+  owner: wikiiizhao
+  repo: dsh-visual-trace
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

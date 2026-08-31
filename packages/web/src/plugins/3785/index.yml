@@ -1,0 +1,10 @@
+version: 1
+name: dsh-plugins
+github:
+  owner: Karuisawa-Mrs
+  repo: dsh-plugins
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

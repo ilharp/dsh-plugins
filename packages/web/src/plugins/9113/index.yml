@@ -1,0 +1,11 @@
+version: 1
+name: sai-dsh-plugins
+github:
+  owner: Very12345
+  repo: sai-dsh-plugins
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

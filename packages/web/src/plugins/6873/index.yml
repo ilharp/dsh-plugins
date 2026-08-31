@@ -1,0 +1,14 @@
+version: 1
+name: dsh-statusbar
+github:
+  owner: Small-Miao
+  repo: dsh-statusbar
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-statusbar
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

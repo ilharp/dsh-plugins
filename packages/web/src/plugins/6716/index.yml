@@ -1,0 +1,10 @@
+version: 1
+name: dsh-context-viewer
+github:
+  owner: shiningsprk-arch
+  repo: dsh-context-viewer
+  language: TypeScript
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,11 @@
+version: 1
+name: awesome-dsh-plugins
+github:
+  owner: cccakeee
+  repo: awesome-dsh-plugins
+  language: Python
+  license: MIT
+  stars: 5
+  forks: 2
+  openIssues: 3
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-always-status-bar
+github:
+  owner: Bobnemimimmi
+  repo: dsh-always-status-bar
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-always-status-bar
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

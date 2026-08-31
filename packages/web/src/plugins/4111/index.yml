@@ -1,0 +1,14 @@
+version: 1
+name: dsh-local-llm-controller
+github:
+  owner: Lbunc
+  repo: dsh-local-llm-controller
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-local-llm-controller
+versions:
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1

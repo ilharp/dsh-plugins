@@ -1,0 +1,16 @@
+version: 1
+name: dsh-kanban
+github:
+  owner: alpacachen
+  repo: dsh-kanban
+  language: JavaScript
+  license: MIT
+  stars: 10
+  forks: 0
+npm:
+  name: '@alpacachen/dsh-kanban'
+versions:
+  - packageVersion: 1.3.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.3.4
+    dshVersion: v0.1.2-alpha.1

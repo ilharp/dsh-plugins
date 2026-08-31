@@ -1,0 +1,16 @@
+version: 1
+name: dsh-mcp-connector
+github:
+  owner: duhu2000
+  repo: dsh-mcp-connector
+  language: JavaScript
+  license: MIT
+  stars: 8
+  forks: 2
+npm:
+  name: dsh-mcp-connector
+versions:
+  - packageVersion: 0.2.24
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.27
+    dshVersion: v0.1.2-alpha.1

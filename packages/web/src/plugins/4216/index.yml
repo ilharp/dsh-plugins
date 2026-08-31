@@ -1,0 +1,12 @@
+version: 1
+name: dsh-gateway-billing
+github:
+  owner: LeslieWylie
+  repo: dsh-gateway-billing
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

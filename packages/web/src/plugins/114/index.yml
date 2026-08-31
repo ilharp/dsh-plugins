@@ -1,0 +1,14 @@
+version: 1
+name: dsh-usage-dashboard-plus
+github:
+  owner: 1HelloMan1
+  repo: dsh-usage-dashboard-plus
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 1
+npm:
+  name: dsh-usage-dashboard-plus
+versions:
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

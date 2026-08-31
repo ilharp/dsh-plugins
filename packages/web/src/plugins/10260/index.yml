@@ -1,0 +1,12 @@
+version: 1
+name: dsh-scheduled
+github:
+  owner: ylxmf2005
+  repo: dsh-scheduled
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

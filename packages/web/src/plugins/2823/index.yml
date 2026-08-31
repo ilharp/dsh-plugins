@@ -1,0 +1,14 @@
+version: 1
+name: dsh-budget-guard
+github:
+  owner: haoku123
+  repo: dsh-budget-guard
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-budget-guard
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

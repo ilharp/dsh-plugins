@@ -1,0 +1,11 @@
+version: 1
+name: dsh-lean
+github:
+  owner: sjh9714
+  repo: dsh-lean
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.8.0
+    dshVersion: v0.1.2-alpha.1

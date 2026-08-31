@@ -1,0 +1,14 @@
+version: 1
+name: dsh-markdown-memory
+github:
+  owner: SYMlp
+  repo: dsh-markdown-memory
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-markdown-memory
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

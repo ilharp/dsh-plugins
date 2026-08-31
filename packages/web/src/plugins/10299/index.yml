@@ -1,0 +1,16 @@
+version: 1
+name: dsh-ui-gitworkbench
+github:
+  owner: young1lin
+  repo: dsh-ui-gitworkbench
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@young1lin/dsh-ui-gitworkbench'
+versions:
+  - packageVersion: 0.1.12
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.13
+    dshVersion: v0.1.2-alpha.1

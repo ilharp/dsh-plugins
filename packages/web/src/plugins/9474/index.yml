@@ -1,0 +1,14 @@
+version: 1
+name: dsh-codex-oauth
+github:
+  owner: WNJXYK
+  repo: dsh-codex-oauth
+  language: JavaScript
+  license: MIT
+  stars: 14
+  forks: 4
+npm:
+  name: '@wnjxyk/dsh-codex-oauth'
+versions:
+  - packageVersion: 0.4.2
+    dshVersion: v0.1.2-alpha.1

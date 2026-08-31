@@ -1,0 +1,15 @@
+version: 1
+name: dsh-gitflow
+github:
+  owner: lonelymoon87
+  repo: dsh-gitflow
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-gitflow
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: spike-faye-lei-dsh-skills
+github:
+  owner: spike-faye-lei
+  repo: spike-faye-lei-dsh-skills
+  language: Python
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

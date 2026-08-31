@@ -1,0 +1,17 @@
+version: 1
+name: dsh-codex-sync
+github:
+  owner: Walvez
+  repo: dsh-codex-sync
+  language: JavaScript
+  license: MIT
+  stars: 25
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-codex-sync
+versions:
+  - packageVersion: 1.3.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.6.1
+    dshVersion: v0.1.2-alpha.1

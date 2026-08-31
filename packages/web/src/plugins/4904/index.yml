@@ -1,0 +1,15 @@
+version: 1
+name: dsh-sticky-note
+github:
+  owner: Meredith2328
+  repo: dsh-sticky-note
+  language: JavaScript
+  license: MIT
+  stars: 12
+  forks: 0
+  openIssues: 2
+npm:
+  name: dsh-sticky-note
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

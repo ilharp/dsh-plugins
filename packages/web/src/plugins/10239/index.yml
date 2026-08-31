@@ -1,0 +1,12 @@
+version: 1
+name: dsh-engram-relay
+github:
+  owner: yjh051108
+  repo: dsh-engram-relay
+  language: Python
+  license: BSD-3-Clause
+  stars: 5
+  forks: 1
+versions:
+  - packageVersion: 0.3.74
+    dshVersion: v0.1.2-alpha.1

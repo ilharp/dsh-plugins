@@ -1,0 +1,15 @@
+version: 1
+name: jumpserver-dsh
+github:
+  owner: jumpserver-east
+  repo: jumpserver-dsh
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@jumpserver-east/jumpserver-dsh'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-skin-universe
+github:
+  owner: springbrand-lab
+  repo: dsh-skin-universe
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions: []

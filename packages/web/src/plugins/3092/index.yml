@@ -1,0 +1,15 @@
+version: 1
+name: dsh-plugin-sleep
+github:
+  owner: HuanLinOTO
+  repo: dsh-plugin-sleep
+  language: TypeScript
+  license: NOASSERTION
+  stars: 10
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@huanlin/dsh-plugin-sleep'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

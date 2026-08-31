@@ -1,0 +1,15 @@
+version: 1
+name: dsh-cachescope
+github:
+  owner: kober-basket
+  repo: dsh-cachescope
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@kober-basket/dsh-cachescope'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

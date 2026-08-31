@@ -1,0 +1,14 @@
+version: 1
+name: dsh-client-ui-elasticsearch
+github:
+  owner: SaitoAsuka1121
+  repo: dsh-client-ui-elasticsearch
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@asuka1121/dsh-client-ui-elasticsearch'
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

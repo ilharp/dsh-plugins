@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-verify
+github:
+  owner: '863683348'
+  repo: dsh-plugin-verify
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-plugin-verify
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

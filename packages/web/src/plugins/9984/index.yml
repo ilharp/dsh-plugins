@@ -1,0 +1,15 @@
+version: 1
+name: omdp
+github:
+  owner: XJungit
+  repo: omdp
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@omdp/dsh-connector'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,10 @@
+version: 1
+name: dsh-git
+github:
+  owner: walavave
+  repo: dsh-git
+  language: JavaScript
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

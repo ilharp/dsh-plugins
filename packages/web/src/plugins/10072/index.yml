@@ -1,0 +1,19 @@
+version: 1
+name: dsh-prompt-optimizer
+github:
+  owner: Y1X1n
+  repo: dsh-prompt-optimizer
+  language: JavaScript
+  license: NOASSERTION
+  stars: 9
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-prompt-optimizer
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.6
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.1.1
+    dshVersion: v0.1.2-alpha.1

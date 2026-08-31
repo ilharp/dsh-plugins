@@ -1,0 +1,15 @@
+version: 1
+name: dsh-meme
+github:
+  owner: yyh-001
+  repo: dsh-meme
+  language: JavaScript
+  license: MIT
+  stars: 47
+  forks: 4
+  openIssues: 10
+npm:
+  name: dsh-meme
+versions:
+  - packageVersion: 0.1.39
+    dshVersion: v0.1.2-alpha.1

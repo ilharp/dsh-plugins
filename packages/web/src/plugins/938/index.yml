@@ -1,0 +1,14 @@
+version: 1
+name: dsh-review-checkout
+github:
+  owner: Binaryinject
+  repo: dsh-review-checkout
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-review-checkout
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

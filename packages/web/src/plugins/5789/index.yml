@@ -1,0 +1,17 @@
+version: 1
+name: dsh-github
+github:
+  owner: PerryLink
+  repo: dsh-github
+  language: TypeScript
+  license: Apache-2.0
+  stars: 3
+  forks: 1
+  openIssues: 0
+npm:
+  name: '@perrylink/dsh-github'
+versions:
+  - packageVersion: 0.6.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1

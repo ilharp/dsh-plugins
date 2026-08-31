@@ -1,0 +1,12 @@
+version: 1
+name: dsh-web-polysearch
+github:
+  owner: zeroUsr0721
+  repo: dsh-web-polysearch
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-turn-marks
+github:
+  owner: magicOF2
+  repo: dsh-turn-marks
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

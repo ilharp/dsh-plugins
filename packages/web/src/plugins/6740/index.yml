@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-installer
+github:
+  owner: showlibia
+  repo: dsh-plugin-installer
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

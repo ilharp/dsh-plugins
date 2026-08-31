@@ -1,0 +1,14 @@
+version: 1
+name: dsh-github-reviewer
+github:
+  owner: Xinlong-Wu
+  repo: dsh-github-reviewer
+  language: TypeScript
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-github-reviewer
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-reasoning-effort
+github:
+  owner: HanaAyane
+  repo: dsh-reasoning-effort
+  language: TypeScript
+  license: MIT
+  stars: 104
+  forks: 10
+  openIssues: 4
+npm:
+  name: dsh-reasoning-effort
+versions:
+  - packageVersion: 0.6.2
+    dshVersion: v0.1.2-alpha.1

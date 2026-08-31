@@ -1,0 +1,13 @@
+version: 1
+name: yuque-notes-plugin
+github:
+  owner: cchenbin042
+  repo: yuque-notes-plugin
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: yuque-notes-plugin
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

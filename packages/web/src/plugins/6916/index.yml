@@ -1,0 +1,15 @@
+version: 1
+name: dsh_plugin_swift_cycle
+github:
+  owner: Solismuchengxue
+  repo: dsh_plugin_swift_cycle
+  language: JavaScript
+  license: MIT
+  stars: 20
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-plugin-swift-cycle
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-visionary
+github:
+  owner: xlight
+  repo: deepseek-visionary
+  language: Rust
+  license: NOASSERTION
+  stars: 17
+  forks: 0
+  openIssues: 0
+versions: []

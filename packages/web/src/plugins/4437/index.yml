@@ -1,0 +1,14 @@
+version: 1
+name: dsh-trust-check
+github:
+  owner: liuwenji007
+  repo: dsh-trust-check
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 1
+npm:
+  name: dsh-trust-check
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-siliconflow-vision
+github:
+  owner: ShiXiangYu2
+  repo: dsh-siliconflow-vision
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-siliconflow-vision
+versions:
+  - packageVersion: 1.1.1
+    dshVersion: v0.1.2-alpha.1

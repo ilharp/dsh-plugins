@@ -1,0 +1,10 @@
+version: 1
+name: dsh-tool-emoji
+github:
+  owner: LWLAymh
+  repo: dsh-tool-emoji
+  language: JavaScript
+  stars: 0
+versions:
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

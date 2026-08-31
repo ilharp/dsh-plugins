@@ -1,0 +1,16 @@
+version: 1
+name: dsh-version-autoupdate
+github:
+  owner: Z-6354
+  repo: dsh-version-autoupdate
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-version-autoupdate
+versions:
+  - packageVersion: 0.1.14
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.21
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: '@liustack/pptfast'
+github:
+  owner: liustack
+  repo: pptfast
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.20.0
+    dshVersion: v0.1.2-alpha.1

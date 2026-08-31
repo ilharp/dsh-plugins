@@ -1,0 +1,11 @@
+version: 1
+name: DeepSeek-Harness-Desktop
+github:
+  owner: pig1et7
+  repo: DeepSeek-Harness-Desktop
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

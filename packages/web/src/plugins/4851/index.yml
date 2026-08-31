@@ -1,0 +1,14 @@
+version: 1
+name: dsh-edit-resend
+github:
+  owner: mbj733
+  repo: dsh-edit-resend
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-edit-resend
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

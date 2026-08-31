@@ -1,0 +1,13 @@
+version: 1
+name: onebox-dsh-bridge
+github:
+  owner: wangzhishou
+  repo: onebox-dsh-bridge
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: onebox-dsh-bridge
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

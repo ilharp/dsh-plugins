@@ -1,0 +1,14 @@
+version: 1
+name: dsh-session-lens
+github:
+  owner: bobostudio
+  repo: dsh-session-lens
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-session-lens
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

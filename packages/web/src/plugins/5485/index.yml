@@ -1,0 +1,13 @@
+version: 1
+name: dsh-at-file
+github:
+  owner: omdsh-dev
+  repo: dsh-at-file
+  language: JavaScript
+  license: MIT
+  stars: 439
+  forks: 17
+  openIssues: 0
+versions:
+  - packageVersion: 0.6.7
+    dshVersion: v0.1.2-alpha.1

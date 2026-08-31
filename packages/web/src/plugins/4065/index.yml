@@ -1,0 +1,13 @@
+version: 1
+name: dsh-fail-soft
+github:
+  owner: lanbaolu
+  repo: dsh-fail-soft
+  language: JavaScript
+  stars: 8
+  forks: 0
+npm:
+  name: '@lanbaolu/dsh-fail-soft'
+versions:
+  - packageVersion: 0.1.15
+    dshVersion: v0.1.2-alpha.1

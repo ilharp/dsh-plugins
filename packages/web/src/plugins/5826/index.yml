@@ -1,0 +1,11 @@
+version: 1
+name: dsh-acp-paseo
+github:
+  owner: Pheobe-Southwood
+  repo: dsh-acp-paseo
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+versions: []

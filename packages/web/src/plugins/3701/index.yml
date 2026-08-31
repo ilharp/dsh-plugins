@@ -1,0 +1,12 @@
+version: 1
+name: mattpocock-skills-dsh
+github:
+  owner: JUNQINGV587
+  repo: mattpocock-skills-dsh
+  language: Shell
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.2.3-dsh.1
+    dshVersion: v0.1.2-alpha.1

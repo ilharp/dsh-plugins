@@ -1,0 +1,11 @@
+version: 1
+name: dsh-sfversion
+github:
+  owner: sparkmio
+  repo: dsh-sfversion
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

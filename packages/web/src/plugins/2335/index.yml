@@ -1,0 +1,15 @@
+version: 1
+name: dsh-prompt-enhancer
+github:
+  owner: Fishsb
+  repo: dsh-prompt-enhancer
+  language: JavaScript
+  license: MIT
+  stars: 57
+  forks: 2
+  openIssues: 0
+versions:
+  - packageVersion: 3.1.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 3.3.2
+    dshVersion: v0.1.2-alpha.1

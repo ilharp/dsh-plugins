@@ -1,0 +1,10 @@
+version: 1
+name: MuseAI
+github:
+  owner: yejiming
+  repo: MuseAI
+  language: TypeScript
+  stars: 621
+  forks: 46
+  openIssues: 7
+versions: []

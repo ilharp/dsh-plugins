@@ -1,0 +1,13 @@
+version: 1
+name: dsh-lines
+github:
+  owner: mario03690
+  repo: dsh-lines
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-lines
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

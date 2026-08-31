@@ -1,0 +1,14 @@
+version: 1
+name: dsh-models-radar
+github:
+  owner: hi-fangj
+  repo: dsh-models-radar
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.12
+    dshVersion: v0.1.2-alpha.1

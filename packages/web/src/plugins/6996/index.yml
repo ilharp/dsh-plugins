@@ -1,0 +1,14 @@
+version: 1
+name: dsh-message-cleaner
+github:
+  owner: SsTtone1
+  repo: dsh-message-cleaner
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@stone129/dsh-message-cleaner'
+versions:
+  - packageVersion: 0.7.3
+    dshVersion: v0.1.2-alpha.1

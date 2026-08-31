@@ -1,0 +1,12 @@
+version: 1
+name: dsh-floor-nav
+github:
+  owner: thirsty5034
+  repo: dsh-floor-nav
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

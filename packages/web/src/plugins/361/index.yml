@@ -1,0 +1,15 @@
+version: 1
+name: graph-memory
+github:
+  owner: adoresever
+  repo: graph-memory
+  language: TypeScript
+  license: MIT
+  stars: 584
+  forks: 85
+  openIssues: 16
+npm:
+  name: graph-memory
+versions:
+  - packageVersion: 1.6.0-beta.9
+    dshVersion: v0.1.2-alpha.1

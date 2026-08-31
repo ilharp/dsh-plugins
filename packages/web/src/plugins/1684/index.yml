@@ -1,0 +1,17 @@
+version: 1
+name: dsh-free-search
+github:
+  owner: DDDMUC
+  repo: dsh-free-search
+  language: JavaScript
+  license: MIT
+  stars: 85
+  forks: 5
+  openIssues: 0
+npm:
+  name: dsh-free-search
+versions:
+  - packageVersion: 0.4.12
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.17
+    dshVersion: v0.1.2-alpha.1

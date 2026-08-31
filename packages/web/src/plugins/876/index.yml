@@ -1,0 +1,11 @@
+version: 1
+name: dsh-voice-ai-girlfriend
+github:
+  owner: beiyege-01
+  repo: dsh-voice-ai-girlfriend
+  language: TypeScript
+  license: NOASSERTION
+  stars: 48
+  forks: 13
+  openIssues: 0
+versions: []

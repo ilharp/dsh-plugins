@@ -1,0 +1,12 @@
+version: 1
+name: dsh-local-llm
+github:
+  owner: wertyBSd
+  repo: dsh-local-llm
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

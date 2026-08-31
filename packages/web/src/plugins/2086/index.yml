@@ -1,0 +1,14 @@
+version: 1
+name: dsh-sentinel-scanner
+github:
+  owner: Eligahyu
+  repo: dsh-sentinel-scanner
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 0
+npm:
+  name: deepseek-harness-sentinel
+versions:
+  - packageVersion: 0.4.4
+    dshVersion: v0.1.2-alpha.1

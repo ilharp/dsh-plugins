@@ -1,0 +1,15 @@
+version: 1
+name: dsh-plugin-anti-ads
+github:
+  owner: HuanLinOTO
+  repo: dsh-plugin-anti-ads
+  language: TypeScript
+  license: NOASSERTION
+  stars: 11
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@huanlin/dsh-plugin-anti-ads'
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

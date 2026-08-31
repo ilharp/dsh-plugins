@@ -1,0 +1,11 @@
+version: 1
+name: zhuzhiliao
+github:
+  owner: imsai-sh
+  repo: zhuzhiliao
+  language: HTML
+  license: NOASSERTION
+  stars: 2870
+  forks: 343
+  openIssues: 14
+versions: []

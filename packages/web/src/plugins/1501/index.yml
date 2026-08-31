@@ -1,0 +1,16 @@
+version: 1
+name: EmotionPet
+github:
+  owner: cpt-kenvie
+  repo: EmotionPet
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-emotion-pet
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

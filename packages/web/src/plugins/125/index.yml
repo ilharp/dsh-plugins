@@ -1,0 +1,14 @@
+version: 1
+name: dsh-md-overlay
+github:
+  owner: 2017java
+  repo: dsh-md-overlay
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-md-overlay
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

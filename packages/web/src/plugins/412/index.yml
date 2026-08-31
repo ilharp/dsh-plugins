@@ -1,0 +1,14 @@
+version: 1
+name: dsh-draw-gacha
+github:
+  owner: Aik358
+  repo: dsh-draw-gacha
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@a9i5k4/dsh-draw-gacha'
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

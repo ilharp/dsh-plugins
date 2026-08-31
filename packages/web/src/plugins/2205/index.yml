@@ -1,0 +1,16 @@
+version: 1
+name: dsh-web-ding
+github:
+  owner: falling-ts
+  repo: dsh-web-ding
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@falling-ts/dsh-web-ding'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

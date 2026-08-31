@@ -1,0 +1,11 @@
+version: 1
+name: dsh-apex-standard
+github:
+  owner: rinDBeans
+  repo: dsh-apex-standard
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 2
+  openIssues: 1
+versions: []

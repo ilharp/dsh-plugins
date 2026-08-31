@@ -1,0 +1,14 @@
+version: 1
+name: dsh-always-require-tools-approval
+github:
+  owner: J0ss077
+  repo: dsh-always-require-tools-approval
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@j0ss077/dsh-always-require-tools-approval'
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

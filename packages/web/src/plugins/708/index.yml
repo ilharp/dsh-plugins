@@ -1,0 +1,12 @@
+version: 1
+name: dsh-voice-by-edge
+github:
+  owner: astr0mfly
+  repo: dsh-voice-by-edge
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

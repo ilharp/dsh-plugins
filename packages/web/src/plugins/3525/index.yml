@@ -1,0 +1,15 @@
+version: 1
+name: dsh-autonomy
+github:
+  owner: JinkaiLiu
+  repo: dsh-autonomy
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-autonomy
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-opg-usage
+github:
+  owner: M4sh1r0-444
+  repo: dsh-opg-usage
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

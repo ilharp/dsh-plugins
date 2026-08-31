@@ -1,0 +1,12 @@
+version: 1
+name: dsh-ssh-pro
+github:
+  owner: WODE25500
+  repo: dsh-ssh-pro
+  language: JavaScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

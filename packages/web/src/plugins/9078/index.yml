@@ -1,0 +1,12 @@
+version: 1
+name: dsh-wukong-zenfire
+github:
+  owner: Ury479
+  repo: dsh-wukong-zenfire
+  language: TypeScript
+  license: CC-BY-4.0
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

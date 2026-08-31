@@ -1,0 +1,11 @@
+version: 1
+name: Dsh-FileExplorer
+github:
+  owner: bearllfleed
+  repo: Dsh-FileExplorer
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 0
+  openIssues: 0
+versions: []

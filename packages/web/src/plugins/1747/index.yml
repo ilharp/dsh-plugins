@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-design
+github:
+  owner: Devin-AXIS
+  repo: deepseek-design
+  language: JavaScript
+  license: NOASSERTION
+  stars: 552
+  forks: 109
+  openIssues: 2
+versions: []

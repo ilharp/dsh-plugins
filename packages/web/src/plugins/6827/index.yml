@@ -1,0 +1,14 @@
+version: 1
+name: dsh-usage-dashboard
+github:
+  owner: skkjkk
+  repo: dsh-usage-dashboard
+  language: JavaScript
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+npm:
+  name: '@skkjkk/dsh-usage-dashboard'
+versions:
+  - packageVersion: 0.3.8
+    dshVersion: v0.1.2-alpha.1

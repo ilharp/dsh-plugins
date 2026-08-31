@@ -1,0 +1,8 @@
+version: 1
+name: dsh-plugin-workspace-files
+github:
+  owner: Skylarking
+  repo: dsh-plugin-workspace-files
+  stars: 0
+  forks: 0
+versions: []

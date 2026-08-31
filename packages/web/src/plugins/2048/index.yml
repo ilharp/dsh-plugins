@@ -1,0 +1,15 @@
+version: 1
+name: dsh-better-deepseek
+github:
+  owner: EdgeTypE
+  repo: dsh-better-deepseek
+  language: TypeScript
+  license: NOASSERTION
+  stars: 16
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-better-deepseek
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

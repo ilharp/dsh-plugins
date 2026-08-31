@@ -1,0 +1,17 @@
+version: 1
+name: dsh-sentinel
+github:
+  owner: fuhefei
+  repo: dsh-sentinel
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 15
+  forks: 2
+  openIssues: 1
+npm:
+  name: dsh-sentinel
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.11.0
+    dshVersion: v0.1.2-alpha.1

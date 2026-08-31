@@ -1,0 +1,11 @@
+version: 1
+name: dsh-wechat-notify
+github:
+  owner: wssfk12138
+  repo: dsh-wechat-notify
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+versions: []

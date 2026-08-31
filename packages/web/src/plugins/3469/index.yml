@@ -1,0 +1,11 @@
+version: 1
+name: dsh-guard-mode
+github:
+  owner: jiangsuyuan
+  repo: dsh-guard-mode
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

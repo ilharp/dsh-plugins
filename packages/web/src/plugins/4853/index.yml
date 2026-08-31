@@ -1,0 +1,12 @@
+version: 1
+name: dsh-desktop-browser
+github:
+  owner: Mby159
+  repo: dsh-desktop-browser
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.15
+    dshVersion: v0.1.2-alpha.1

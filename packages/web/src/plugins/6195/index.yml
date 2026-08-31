@@ -1,0 +1,13 @@
+version: 1
+name: dsh-miraculous-standard
+github:
+  owner: rinDBeans
+  repo: dsh-miraculous-standard
+  language: JavaScript
+  license: MIT
+  stars: 10
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-office-tools
+github:
+  owner: kw78
+  repo: dsh-office-tools
+  language: TypeScript
+  license: MIT
+  stars: 12
+  forks: 1
+  openIssues: 1
+npm:
+  name: dsh-office-tools
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

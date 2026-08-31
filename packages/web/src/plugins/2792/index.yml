@@ -1,0 +1,13 @@
+version: 1
+name: hanai-investment-dsh
+github:
+  owner: hancao97
+  repo: hanai-investment-dsh
+  language: TypeScript
+  license: MIT
+  stars: 107
+  forks: 13
+  openIssues: 3
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

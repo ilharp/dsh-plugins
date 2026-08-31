@@ -1,0 +1,11 @@
+version: 1
+name: dsh-chat-tools
+github:
+  owner: yj060464-commits
+  repo: dsh-chat-tools
+  language: Python
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

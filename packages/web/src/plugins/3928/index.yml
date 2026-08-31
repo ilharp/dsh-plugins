@@ -1,0 +1,14 @@
+version: 1
+name: dsh-scientific-computing
+github:
+  owner: kiwifruit13
+  repo: dsh-scientific-computing
+  language: Python
+  license: GPL-3.0
+  stars: 0
+  forks: 0
+npm:
+  name: '@kiwifruit/dsh-scientific-computing'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

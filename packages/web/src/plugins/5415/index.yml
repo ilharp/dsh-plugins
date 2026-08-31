@@ -1,0 +1,15 @@
+version: 1
+name: dsh-plugin-hub
+github:
+  owner: Noob-stupid
+  repo: dsh-plugin-hub
+  language: JavaScript
+  license: MIT
+  stars: 75
+  forks: 8
+  openIssues: 1
+npm:
+  name: '@noob-stupid/dsh-plugin-console'
+versions:
+  - packageVersion: 0.3.20
+    dshVersion: v0.1.2-alpha.1

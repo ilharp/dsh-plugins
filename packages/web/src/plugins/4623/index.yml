@@ -1,0 +1,11 @@
+version: 1
+name: dsh-frontend-tools
+github:
+  owner: lukaiwuyi
+  repo: dsh-frontend-tools
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

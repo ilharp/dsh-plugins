@@ -1,0 +1,12 @@
+version: 1
+name: dsh-weixin-clawbot
+github:
+  owner: zp-home
+  repo: dsh-weixin-clawbot
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 1
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-screenshot-capture
+github:
+  owner: wangzhanchao883
+  repo: dsh-screenshot-capture
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

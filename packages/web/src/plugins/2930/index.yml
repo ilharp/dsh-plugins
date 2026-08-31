@@ -1,0 +1,14 @@
+version: 1
+name: dsh-fabric
+github:
+  owner: hellosky983
+  repo: dsh-fabric
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-fabric
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

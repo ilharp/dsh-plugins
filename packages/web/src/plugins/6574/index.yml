@@ -1,0 +1,16 @@
+version: 1
+name: dsh-guardian-approval
+github:
+  owner: Scotlight
+  repo: dsh-guardian-approval
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-guardian-approval
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-workflow-templates
+github:
+  owner: 988hj7tczd-oss
+  repo: dsh-workflow-templates
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-workflow-templates
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

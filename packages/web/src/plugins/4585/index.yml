@@ -1,0 +1,14 @@
+version: 1
+name: dsh-todo-dock
+github:
+  owner: lsxblh
+  repo: dsh-todo-dock
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

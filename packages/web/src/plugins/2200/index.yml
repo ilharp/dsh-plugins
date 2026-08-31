@@ -1,0 +1,11 @@
+version: 1
+name: dsh-harness-ops
+github:
+  owner: fakechris
+  repo: dsh-harness-ops
+  language: Shell
+  license: MIT
+  stars: 13
+  forks: 0
+  openIssues: 0
+versions: []

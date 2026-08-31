@@ -1,0 +1,12 @@
+version: 1
+name: airesearch-plugin
+github:
+  owner: WOOK98
+  repo: airesearch-plugin
+  language: HTML
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.5.1
+    dshVersion: v0.1.2-alpha.1

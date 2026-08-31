@@ -1,0 +1,12 @@
+version: 1
+name: dsh-theme-hacker-terminal
+github:
+  owner: XiaoluoFoxington
+  repo: dsh-theme-hacker-terminal
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

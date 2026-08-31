@@ -1,0 +1,11 @@
+version: 1
+name: EasyDSH
+github:
+  owner: rpvvn
+  repo: EasyDSH
+  language: C#
+  license: MIT
+  stars: 6
+  forks: 0
+  openIssues: 0
+versions: []

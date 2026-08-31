@@ -1,0 +1,16 @@
+version: 1
+name: dsh-watch
+github:
+  owner: dshworks
+  repo: dsh-watch
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@dshworks/dsh-watch'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

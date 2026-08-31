@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-neon
+github:
+  owner: xinyuquan985-coder
+  repo: deepseek-harness-neon
+  language: TypeScript
+  license: NOASSERTION
+  stars: 12
+  forks: 2
+  openIssues: 0
+versions: []

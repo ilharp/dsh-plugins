@@ -1,0 +1,14 @@
+version: 1
+name: dsh-llm-aws-kiro
+github:
+  owner: joshryandavis
+  repo: dsh-llm-aws-kiro
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@joshryandavis/dsh-llm-kiro'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

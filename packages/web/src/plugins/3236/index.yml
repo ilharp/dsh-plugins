@@ -1,0 +1,16 @@
+version: 1
+name: dsh-testkit
+github:
+  owner: iiwish
+  repo: dsh-testkit
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 1
+npm:
+  name: dsh-testkit
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

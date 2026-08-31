@@ -1,0 +1,11 @@
+version: 1
+name: dsh-server-deployment
+github:
+  owner: AnkoCD
+  repo: dsh-server-deployment
+  language: JavaScript
+  license: MIT
+  stars: 18
+  forks: 0
+  openIssues: 0
+versions: []

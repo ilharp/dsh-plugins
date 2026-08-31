@@ -1,0 +1,11 @@
+version: 1
+name: dsh-tavern
+github:
+  owner: LingyeSoul
+  repo: dsh-tavern
+  language: TypeScript
+  license: GPL-3.0
+  stars: 15
+  forks: 0
+  openIssues: 0
+versions: []

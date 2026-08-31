@@ -1,0 +1,14 @@
+version: 1
+name: dsh-ths-holdings
+github:
+  owner: PM25000
+  repo: dsh-ths-holdings
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-ths-holdings
+versions:
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1

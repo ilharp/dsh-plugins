@@ -1,0 +1,12 @@
+version: 1
+name: dsh-cybernetics
+github:
+  owner: boomzikazita
+  repo: dsh-cybernetics
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

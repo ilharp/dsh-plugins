@@ -1,0 +1,12 @@
+version: 1
+name: dsh-mem0-plugins
+github:
+  owner: runfali
+  repo: dsh-mem0-plugins
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

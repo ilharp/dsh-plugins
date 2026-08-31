@@ -1,0 +1,11 @@
+version: 1
+name: dsh-browser
+github:
+  owner: xylt369
+  repo: dsh-browser
+  language: TypeScript
+  license: MIT
+  stars: 11
+  forks: 1
+  openIssues: 2
+versions: []

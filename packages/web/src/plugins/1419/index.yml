@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-web-search-plugin
+github:
+  owner: cloveric
+  repo: deepseek-harness-web-search-plugin
+  language: TypeScript
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

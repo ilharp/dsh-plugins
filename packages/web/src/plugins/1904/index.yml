@@ -1,0 +1,12 @@
+version: 1
+name: dsh-ops-console
+github:
+  owner: DonnieTangzhili
+  repo: dsh-ops-console
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

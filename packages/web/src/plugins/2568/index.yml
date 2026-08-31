@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-container
+github:
+  owner: GHJIVHIDD
+  repo: dsh-plugin-container
+  language: JavaScript
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 1.0.3
+    dshVersion: v0.1.2-alpha.1

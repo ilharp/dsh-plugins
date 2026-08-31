@@ -1,0 +1,11 @@
+version: 1
+name: dsh-webUI-pets
+github:
+  owner: pineapple880066
+  repo: dsh-webUI-pets
+  language: TypeScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

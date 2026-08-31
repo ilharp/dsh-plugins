@@ -1,0 +1,12 @@
+version: 1
+name: dsh-share-page
+github:
+  owner: huazhiliange
+  repo: dsh-share-page
+  language: JavaScript
+  stars: 0
+npm:
+  name: dsh-share-page
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

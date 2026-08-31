@@ -1,0 +1,12 @@
+version: 1
+name: dockyard-dsh
+github:
+  owner: 4sa1ary9
+  repo: dockyard-dsh
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

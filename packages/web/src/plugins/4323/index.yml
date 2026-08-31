@@ -1,0 +1,15 @@
+version: 1
+name: garmin-connect-plugin-for-dsh
+github:
+  owner: Likenttt
+  repo: garmin-connect-plugin-for-dsh
+  language: TypeScript
+  license: MIT
+  stars: 10
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-plugin-garmin-connect
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

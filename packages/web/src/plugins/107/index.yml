@@ -1,0 +1,14 @@
+version: 1
+name: dsh-prompt-optimize
+github:
+  owner: '1847123733'
+  repo: dsh-prompt-optimize
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 0
+npm:
+  name: dsh-prompt-optimize
+versions:
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1

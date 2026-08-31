@@ -1,0 +1,13 @@
+version: 1
+name: DSH-Think-zh
+github:
+  owner: Len7183
+  repo: DSH-Think-zh
+  language: TypeScript
+  license: MIT
+  stars: 11
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

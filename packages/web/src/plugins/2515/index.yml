@@ -1,0 +1,14 @@
+version: 1
+name: dsh-github-bridge
+github:
+  owner: gaolei-mark43
+  repo: dsh-github-bridge
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-github-bridge
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

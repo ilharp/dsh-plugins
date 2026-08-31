@@ -1,0 +1,15 @@
+version: 1
+name: dsh-balance-plugin
+github:
+  owner: stevenx65
+  repo: dsh-balance-plugin
+  language: JavaScript
+  license: MIT
+  stars: 7
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-balance-plugin
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

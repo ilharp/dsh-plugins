@@ -1,0 +1,13 @@
+version: 1
+name: dsh-client-pricing
+github:
+  owner: Miyazawai
+  repo: dsh-client-pricing
+  language: TypeScript
+  license: MIT
+  stars: 16
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-client-pricing
+versions: []

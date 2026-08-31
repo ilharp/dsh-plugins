@@ -1,0 +1,14 @@
+version: 1
+name: dsh-restart-control
+github:
+  owner: y2zyyr
+  repo: dsh-restart-control
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@y2zyyr/dsh-restart-control'
+versions:
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1

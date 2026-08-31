@@ -1,0 +1,14 @@
+version: 1
+name: dsh-token-usage
+github:
+  owner: joyiok
+  repo: dsh-token-usage
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-token-usage
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

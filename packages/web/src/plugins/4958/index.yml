@@ -1,0 +1,11 @@
+version: 1
+name: jina-dsh-plugin
+github:
+  owner: minatoAI
+  repo: jina-dsh-plugin
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

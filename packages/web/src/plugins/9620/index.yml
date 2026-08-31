@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-conversation-outline
+github:
+  owner: XavierMarquis93
+  repo: dsh-plugin-conversation-outline
+  language: TypeScript
+  license: NOASSERTION
+  stars: 6
+  forks: 0
+  openIssues: 0
+versions: []

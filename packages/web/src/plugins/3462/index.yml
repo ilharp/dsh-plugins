@@ -1,0 +1,13 @@
+version: 1
+name: dsh-gpt-oauth
+github:
+  owner: jiangliuhong
+  repo: dsh-gpt-oauth
+  language: JavaScript
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-login-chatgpt
+versions:
+  - packageVersion: 0.2.6
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: mindgarden
+github:
+  owner: hyyhf
+  repo: mindgarden
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0-rc.7
+    dshVersion: v0.1.2-alpha.1

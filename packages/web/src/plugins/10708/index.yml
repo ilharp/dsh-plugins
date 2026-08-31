@@ -1,0 +1,14 @@
+version: 1
+name: dsh-adaptive-reasoning
+github:
+  owner: zhuifengqug
+  repo: dsh-adaptive-reasoning
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-adaptive-reasoning
+versions:
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1

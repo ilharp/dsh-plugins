@@ -1,0 +1,12 @@
+version: 1
+name: dsh-market-github
+github:
+  owner: loker66fan
+  repo: dsh-market-github
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

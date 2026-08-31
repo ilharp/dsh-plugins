@@ -1,0 +1,14 @@
+version: 1
+name: dsh-evolution-lab
+github:
+  owner: JayDong9130
+  repo: dsh-evolution-lab
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-evolution-lab
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugins
+github:
+  owner: ZenMux
+  repo: dsh-plugins
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@zenmux/dsh-plugins'
+versions:
+  - packageVersion: 0.1.11
+    dshVersion: v0.1.2-alpha.1

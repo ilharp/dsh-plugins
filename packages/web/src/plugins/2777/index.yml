@@ -1,0 +1,14 @@
+version: 1
+name: DSH-Session-Sync
+github:
+  owner: hajimimaodie8
+  repo: DSH-Session-Sync
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-session-sync
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

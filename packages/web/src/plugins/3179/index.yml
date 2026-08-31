@@ -1,0 +1,14 @@
+version: 1
+name: dsh-columbina-theme
+github:
+  owner: hyposelen1a
+  repo: dsh-columbina-theme
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-columbina-theme
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

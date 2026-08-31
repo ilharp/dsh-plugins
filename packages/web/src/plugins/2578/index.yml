@@ -1,0 +1,15 @@
+version: 1
+name: dsh-pet-remielle
+github:
+  owner: Gin-7
+  repo: dsh-pet-remielle
+  language: JavaScript
+  license: NOASSERTION
+  stars: 34
+  forks: 4
+  openIssues: 2
+npm:
+  name: dsh-pet-remielle
+versions:
+  - packageVersion: 0.3.6
+    dshVersion: v0.1.2-alpha.1

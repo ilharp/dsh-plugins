@@ -1,0 +1,11 @@
+version: 1
+name: harness-ui-enhancer
+github:
+  owner: Physicolor
+  repo: harness-ui-enhancer
+  license: MIT
+  stars: 8
+  forks: 0
+versions:
+  - packageVersion: 0.6.1
+    dshVersion: v0.1.2-alpha.1

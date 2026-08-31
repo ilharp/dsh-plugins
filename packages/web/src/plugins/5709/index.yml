@@ -1,0 +1,15 @@
+version: 1
+name: dsh-screenshot-diff
+github:
+  owner: PangYiMing
+  repo: dsh-screenshot-diff
+  language: Shell
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-screenshot-diff
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

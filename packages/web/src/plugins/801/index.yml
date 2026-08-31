@@ -1,0 +1,14 @@
+version: 1
+name: dsh-llm-api-pool
+github:
+  owner: bainianlaoyao
+  repo: dsh-llm-api-pool
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-llm-api-pool
+versions:
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1

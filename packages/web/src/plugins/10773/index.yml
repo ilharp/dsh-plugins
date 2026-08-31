@@ -1,0 +1,14 @@
+version: 1
+name: dsh-session-repair
+github:
+  owner: Zn-Dk
+  repo: dsh-session-repair
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-session-repair
+versions:
+  - packageVersion: 0.6.2
+    dshVersion: v0.1.2-alpha.1

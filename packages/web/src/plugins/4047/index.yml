@@ -1,0 +1,14 @@
+version: 1
+name: dsh-mingmu
+github:
+  owner: Lab-sku
+  repo: dsh-mingmu
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-mingmu
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

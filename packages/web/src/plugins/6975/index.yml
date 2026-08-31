@@ -1,0 +1,14 @@
+version: 1
+name: dsh-media-guard
+github:
+  owner: spyfree
+  repo: dsh-media-guard
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-media-guard
+versions:
+  - packageVersion: 0.1.0-alpha.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: DSH-Terminal
+github:
+  owner: lanshuye123
+  repo: DSH-Terminal
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

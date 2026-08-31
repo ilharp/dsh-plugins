@@ -1,0 +1,12 @@
+version: 1
+name: dsh-rss-reader
+github:
+  owner: rocklau
+  repo: dsh-rss-reader
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0-rc.2
+    dshVersion: v0.1.2-alpha.1

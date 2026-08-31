@@ -1,0 +1,11 @@
+version: 1
+name: pilot-harness
+github:
+  owner: op7418
+  repo: pilot-harness
+  language: TypeScript
+  license: MIT
+  stars: 261
+  forks: 18
+  openIssues: 19
+versions: []

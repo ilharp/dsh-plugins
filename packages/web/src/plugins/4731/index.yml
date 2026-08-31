@@ -1,0 +1,14 @@
+version: 1
+name: deepspider
+github:
+  owner: ma-pony
+  repo: deepspider
+  language: JavaScript
+  stars: 19
+  forks: 5
+  openIssues: 6
+npm:
+  name: deepspider
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,8 @@
+version: 1
+name: dsh-tool-manager
+github:
+  owner: SiriusWJ
+  repo: dsh-tool-manager
+  stars: 2
+  forks: 0
+versions: []

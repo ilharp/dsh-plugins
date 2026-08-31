@@ -1,0 +1,17 @@
+version: 1
+name: dsh-auth-gateway
+github:
+  owner: xbzbing
+  repo: dsh-auth-gateway
+  language: JavaScript
+  license: MIT
+  stars: 9
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-auth-gateway
+versions:
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.1
+    dshVersion: v0.1.2-alpha.1

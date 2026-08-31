@@ -1,0 +1,15 @@
+version: 1
+name: dsh-session-timeline
+github:
+  owner: XiLuovo
+  repo: dsh-session-timeline
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-session-timeline
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-vision
+github:
+  owner: 237229953-create
+  repo: dsh-vision
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

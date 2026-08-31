@@ -1,0 +1,12 @@
+version: 1
+name: dsh-webui-market-plugin-plus
+github:
+  owner: condaThinker
+  repo: dsh-webui-market-plugin-plus
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 1
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

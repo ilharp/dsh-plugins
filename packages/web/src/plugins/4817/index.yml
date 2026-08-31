@@ -1,0 +1,11 @@
+version: 1
+name: dsh-git
+github:
+  owner: mattismegevand
+  repo: dsh-git
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0-rc.1
+    dshVersion: v0.1.2-alpha.1

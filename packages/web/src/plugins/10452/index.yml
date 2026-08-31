@@ -1,0 +1,13 @@
+version: 1
+name: dsh-plugin-workshop
+github:
+  owner: yyyyukari
+  repo: dsh-plugin-workshop
+  language: JavaScript
+  license: MIT
+  stars: 25
+  forks: 3
+  openIssues: 2
+versions:
+  - packageVersion: 1.6.2
+    dshVersion: v0.1.2-alpha.1

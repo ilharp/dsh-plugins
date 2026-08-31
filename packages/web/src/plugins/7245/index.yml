@@ -1,0 +1,14 @@
+version: 1
+name: dsh-egress-guard
+github:
+  owner: tancheng33
+  repo: dsh-egress-guard
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-egress-guard
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

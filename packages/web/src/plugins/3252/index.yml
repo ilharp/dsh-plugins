@@ -1,0 +1,14 @@
+version: 1
+name: DSH-RAG
+github:
+  owner: imkelt
+  repo: DSH-RAG
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@kai232/dsh-rag'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

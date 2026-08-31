@@ -1,0 +1,11 @@
+version: 1
+name: dsh-sandbox-audit
+github:
+  owner: zoahdev
+  repo: dsh-sandbox-audit
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

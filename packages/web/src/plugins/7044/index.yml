@@ -1,0 +1,12 @@
+version: 1
+name: dsh-secure-remote
+github:
+  owner: startGalway
+  repo: dsh-secure-remote
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

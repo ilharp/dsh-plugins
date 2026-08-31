@@ -1,0 +1,11 @@
+version: 1
+name: dsh-opencode-whale-widget
+github:
+  owner: functy23
+  repo: Opencode-Whale-Widget
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

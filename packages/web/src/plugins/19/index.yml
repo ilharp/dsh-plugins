@@ -1,0 +1,14 @@
+version: 1
+name: dsh-neo-skin
+github:
+  owner: 0nt-one
+  repo: dsh-neo-skin
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 1
+npm:
+  name: dsh-neo-skin
+versions:
+  - packageVersion: 0.6.1
+    dshVersion: v0.1.2-alpha.1

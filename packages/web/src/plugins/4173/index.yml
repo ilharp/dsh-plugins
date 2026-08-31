@@ -1,0 +1,16 @@
+version: 1
+name: dsh-web-search
+github:
+  owner: lemoncat7
+  repo: dsh-web-search
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@lemoncat7/dsh-web-search'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

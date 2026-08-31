@@ -1,0 +1,11 @@
+version: 1
+name: dsh-ui-skins
+github:
+  owner: edwardyang0011
+  repo: dsh-ui-skins
+  language: TypeScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

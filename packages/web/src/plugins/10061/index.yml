@@ -1,0 +1,15 @@
+version: 1
+name: dsh-notify-sound
+github:
+  owner: xxxxxxxyu
+  repo: dsh-notify-sound
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-notify-sound
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

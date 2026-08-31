@@ -1,0 +1,16 @@
+version: 1
+name: dsh-custom-ui
+github:
+  owner: lsaa4
+  repo: dsh-custom-ui
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-glass-ui
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

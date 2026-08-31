@@ -1,0 +1,12 @@
+version: 1
+name: my-image-drop
+github:
+  owner: yangpeng-space
+  repo: my-image-drop
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

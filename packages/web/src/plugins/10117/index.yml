@@ -1,0 +1,14 @@
+version: 1
+name: dsh-editor
+github:
+  owner: yangshen830-eng
+  repo: dsh-editor
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-editor
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

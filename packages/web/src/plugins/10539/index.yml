@@ -1,0 +1,14 @@
+version: 1
+name: dsh-auth-gate
+github:
+  owner: zephaniahwang94-cmyk
+  repo: dsh-auth-gate
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-auth-gate
+versions:
+  - packageVersion: 1.2.0
+    dshVersion: v0.1.2-alpha.1

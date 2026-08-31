@@ -1,0 +1,16 @@
+version: 1
+name: dsh-cron
+github:
+  owner: squirrel20
+  repo: dsh-cron
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-cron
+versions:
+  - packageVersion: 0.9.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.9.8
+    dshVersion: v0.1.2-alpha.1

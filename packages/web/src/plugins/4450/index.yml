@@ -1,0 +1,12 @@
+version: 1
+name: deepseek-harness-tool-palette
+github:
+  owner: lizhecome
+  repo: deepseek-harness-tool-palette
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

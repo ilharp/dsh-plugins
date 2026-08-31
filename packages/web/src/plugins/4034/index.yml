@@ -1,0 +1,16 @@
+version: 1
+name: dsh-zen-remote
+github:
+  owner: KyoMio
+  repo: dsh-zen-remote
+  language: JavaScript
+  stars: 8
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-zen-remote
+versions:
+  - packageVersion: 1.1.6
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.1.10
+    dshVersion: v0.1.2-alpha.1

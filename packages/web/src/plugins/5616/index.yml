@@ -1,0 +1,16 @@
+version: 1
+name: dsh-agents-plugins
+github:
+  owner: openma-ai
+  repo: dsh-agents-plugins
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@openma/dsh-agents-plugins-bridge'
+versions:
+  - packageVersion: 0.0.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.0.8
+    dshVersion: v0.1.2-alpha.1

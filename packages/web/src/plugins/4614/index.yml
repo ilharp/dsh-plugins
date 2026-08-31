@@ -1,0 +1,12 @@
+version: 1
+name: dsh-doc-guard
+github:
+  owner: lucky8197
+  repo: dsh-doc-guard
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

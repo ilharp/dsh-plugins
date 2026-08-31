@@ -1,0 +1,11 @@
+version: 1
+name: open-design
+github:
+  owner: nexu-io
+  repo: open-design
+  language: TypeScript
+  license: Apache-2.0
+  stars: 92007
+  forks: 10071
+  openIssues: 796
+versions: []

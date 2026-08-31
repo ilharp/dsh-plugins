@@ -1,0 +1,16 @@
+version: 1
+name: qa-skills
+github:
+  owner: fishzjp
+  repo: qa-skills
+  language: Python
+  license: MIT
+  stars: 16
+  forks: 1
+npm:
+  name: dsh-qa-skills
+versions:
+  - packageVersion: 0.5.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1

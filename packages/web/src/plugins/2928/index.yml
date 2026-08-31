@@ -1,0 +1,14 @@
+version: 1
+name: dsh-simple-view
+github:
+  owner: hellofuture2068
+  repo: dsh-simple-view
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-simple-view
+versions:
+  - packageVersion: 1.1.1
+    dshVersion: v0.1.2-alpha.1

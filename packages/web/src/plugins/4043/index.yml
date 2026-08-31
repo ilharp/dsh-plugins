@@ -1,0 +1,14 @@
+version: 1
+name: dsh-resume
+github:
+  owner: L3n3L
+  repo: dsh-resume
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-resume
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

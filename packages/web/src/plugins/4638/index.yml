@@ -1,0 +1,12 @@
+version: 1
+name: dsh-review-squad
+github:
+  owner: luomeii
+  repo: dsh-review-squad
+  language: JavaScript
+  stars: 0
+npm:
+  name: dsh-review-squad
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

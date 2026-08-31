@@ -1,0 +1,13 @@
+version: 1
+name: dsh-turn-budget
+github:
+  owner: randerous
+  repo: dsh-turn-budget
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-turn-budget
+versions: []

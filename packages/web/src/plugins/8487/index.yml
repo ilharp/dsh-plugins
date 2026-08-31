@@ -1,0 +1,12 @@
+version: 1
+name: dsh-loan-prepay
+github:
+  owner: uckkk
+  repo: dsh-loan-prepay
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

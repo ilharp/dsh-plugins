@@ -1,0 +1,13 @@
+version: 1
+name: dsh-shunshun-wallpaper
+github:
+  owner: Ddamage
+  repo: dsh-shunshun-wallpaper
+  language: JavaScript
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-shunshun-wallpaper
+versions:
+  - packageVersion: 1.0.3
+    dshVersion: v0.1.2-alpha.1

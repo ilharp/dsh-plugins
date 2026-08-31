@@ -1,0 +1,13 @@
+version: 1
+name: dsh-dev-actions
+github:
+  owner: skitse
+  repo: dsh-dev-actions
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 3
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

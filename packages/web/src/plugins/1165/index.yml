@@ -1,0 +1,17 @@
+version: 1
+name: dsh-side-panel
+github:
+  owner: ccq1
+  repo: dsh-side-panel
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 16
+  forks: 3
+  openIssues: 1
+npm:
+  name: dsh-side-panel
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

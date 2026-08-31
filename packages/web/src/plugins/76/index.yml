@@ -1,0 +1,11 @@
+version: 1
+name: dsh-portable-launcher
+github:
+  owner: '15828148'
+  repo: dsh-portable-launcher
+  language: Batchfile
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-open-ecosystem
+github:
+  owner: tc206107
+  repo: dsh-open-ecosystem
+  language: HTML
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

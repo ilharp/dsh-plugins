@@ -1,0 +1,12 @@
+version: 1
+name: dsh-account-usage
+github:
+  owner: Ycet
+  repo: dsh-account-usage
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.21
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: deepseek-harness-replay
+github:
+  owner: zoyluoblue
+  repo: deepseek-harness-replay
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@zoytown/dsh-replay'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

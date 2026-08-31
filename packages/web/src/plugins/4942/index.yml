@@ -1,0 +1,14 @@
+version: 1
+name: openharness-find-plugin
+github:
+  owner: MicroSpotlight
+  repo: openharness-find-plugin
+  language: TypeScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: '@microspotlight/openharness-find-plugin'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

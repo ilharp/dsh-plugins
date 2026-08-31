@@ -1,0 +1,12 @@
+version: 1
+name: dsh-router-traework
+github:
+  owner: CARVIN94
+  repo: dsh-router-traework
+  language: TypeScript
+  stars: 0
+npm:
+  name: dsh-router-traework
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

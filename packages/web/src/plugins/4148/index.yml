@@ -1,0 +1,13 @@
+version: 1
+name: dsh-task-dag
+github:
+  owner: LeemanCheung
+  repo: dsh-task-dag
+  language: JavaScript
+  license: MIT
+  stars: 9
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 1.4.0
+    dshVersion: v0.1.2-alpha.1

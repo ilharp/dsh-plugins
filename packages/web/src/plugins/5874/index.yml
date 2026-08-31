@@ -1,0 +1,16 @@
+version: 1
+name: dsh-arc-context
+github:
+  owner: PlxloYzb
+  repo: dsh-arc-context
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-arc-context
+versions:
+  - packageVersion: 0.2.0-beta.14
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0-beta.15
+    dshVersion: v0.1.2-alpha.1

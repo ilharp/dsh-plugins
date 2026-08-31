@@ -1,0 +1,15 @@
+version: 1
+name: dsh-sandbox-escalation-fix
+github:
+  owner: inmny
+  repo: dsh-sandbox-escalation-fix
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-plugin-sandbox-escalation-fix
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

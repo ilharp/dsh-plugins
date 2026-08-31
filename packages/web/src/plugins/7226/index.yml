@@ -1,0 +1,12 @@
+version: 1
+name: dsh-game-studio
+github:
+  owner: T-Markus-Liang
+  repo: dsh-game-studio
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

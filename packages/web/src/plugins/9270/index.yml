@@ -1,0 +1,13 @@
+version: 1
+name: dsh-agent-pricing
+github:
+  owner: Way2LOose4
+  repo: dsh-agent-pricing
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 1.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-chrome
+github:
+  owner: YJSoooooo
+  repo: dsh-chrome
+  language: TypeScript
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-chrome
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

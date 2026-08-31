@@ -1,0 +1,14 @@
+version: 1
+name: dsh-kimi-webbridge
+github:
+  owner: Bernardxu123
+  repo: dsh-kimi-webbridge
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-kimi-webbridge
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

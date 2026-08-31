@@ -1,0 +1,12 @@
+version: 1
+name: dsh-hacker-terminal-theme
+github:
+  owner: chengwill45-bot
+  repo: dsh-hacker-terminal-theme
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

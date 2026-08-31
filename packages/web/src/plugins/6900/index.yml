@@ -1,0 +1,15 @@
+version: 1
+name: dsh-llm-gateway-compat
+github:
+  owner: snowshadow
+  repo: dsh-llm-gateway-compat
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-llm-gateway-compat
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

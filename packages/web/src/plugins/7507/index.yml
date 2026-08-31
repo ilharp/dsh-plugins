@@ -1,0 +1,14 @@
+version: 1
+name: dsh-paper-design
+github:
+  owner: try-works
+  repo: dsh-paper-design
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@try-works/dsh-paper-design'
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

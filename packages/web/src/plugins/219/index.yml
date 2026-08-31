@@ -1,0 +1,11 @@
+version: 1
+name: HoloGram
+github:
+  owner: 834063245-creator
+  repo: HoloGram
+  language: TypeScript
+  license: MIT
+  stars: 25
+  forks: 1
+  openIssues: 12
+versions: []

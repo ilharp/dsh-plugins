@@ -1,0 +1,13 @@
+version: 1
+name: deepseek-harness-retry
+github:
+  owner: syncended
+  repo: deepseek-harness-retry
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: '@syncended/dsh-retry'
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

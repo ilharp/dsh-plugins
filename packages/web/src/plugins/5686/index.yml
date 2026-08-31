@@ -1,0 +1,16 @@
+version: 1
+name: dsh-screenshot
+github:
+  owner: paicat1
+  repo: dsh-screenshot
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: '@paicat1/dsh-screenshot'
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.4
+    dshVersion: v0.1.2-alpha.1

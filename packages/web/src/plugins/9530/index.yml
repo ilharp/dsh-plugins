@@ -1,0 +1,11 @@
+version: 1
+name: dsh-native-reasoning-slider
+github:
+  owner: WSL043
+  repo: dsh-native-reasoning-slider
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1

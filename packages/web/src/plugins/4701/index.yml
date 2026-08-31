@@ -1,0 +1,11 @@
+version: 1
+name: ProMentor
+github:
+  owner: Lyn-77
+  repo: ProMentor
+  language: TypeScript
+  license: NOASSERTION
+  stars: 65
+  forks: 1
+  openIssues: 0
+versions: []

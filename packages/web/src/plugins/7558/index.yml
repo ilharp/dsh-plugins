@@ -1,0 +1,11 @@
+version: 1
+name: qqbot-clawbot
+github:
+  owner: twinsant
+  repo: qqbot-clawbot
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

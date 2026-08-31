@@ -1,0 +1,16 @@
+version: 1
+name: dsh-im-gateway
+github:
+  owner: lijian-ui
+  repo: dsh-im-gateway
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 3
+npm:
+  name: '@lijian-ui/dsh-im-gateway'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

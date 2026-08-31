@@ -1,0 +1,10 @@
+version: 1
+name: dsh-roleplay-preset
+github:
+  owner: oliblue-evan
+  repo: dsh-roleplay-preset
+  license: MIT
+  stars: 19
+  forks: 0
+  openIssues: 0
+versions: []

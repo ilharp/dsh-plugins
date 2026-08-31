@@ -1,0 +1,13 @@
+version: 1
+name: dsh-web-search-tavily
+github:
+  owner: fan56
+  repo: dsh-web-search-tavily
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: '@aiwayds/dsh-web-search-tavily'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

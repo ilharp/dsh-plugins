@@ -1,0 +1,15 @@
+version: 1
+name: dsh-plugin-verified-search
+github:
+  owner: f0909172434
+  repo: dsh-plugin-verified-search
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0-experiment.0
+    dshVersion: v0.1.2-alpha.1

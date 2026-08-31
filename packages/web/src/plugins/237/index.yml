@@ -1,0 +1,14 @@
+version: 1
+name: dsh-starter-zh
+github:
+  owner: '863683348'
+  repo: dsh-starter-zh
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-starter-zh
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

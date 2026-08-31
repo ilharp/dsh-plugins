@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-pet-rs
+github:
+  owner: HuanLinOTO
+  repo: dsh-plugin-pet-rs
+  language: Rust
+  license: NOASSERTION
+  stars: 23
+  forks: 1
+  openIssues: 1
+versions: []

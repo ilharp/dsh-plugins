@@ -1,0 +1,13 @@
+version: 1
+name: dsh-plugin-session-delete
+github:
+  owner: lsz-asd
+  repo: dsh-plugin-session-delete
+  language: JavaScript
+  license: NOASSERTION
+  stars: 26
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

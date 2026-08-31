@@ -1,0 +1,11 @@
+version: 1
+name: dsh-tui
+github:
+  owner: openguardrails
+  repo: dsh-tui
+  language: TypeScript
+  license: NOASSERTION
+  stars: 29
+  forks: 0
+  openIssues: 0
+versions: []

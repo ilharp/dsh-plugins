@@ -1,0 +1,14 @@
+version: 1
+name: dsh-suite
+github:
+  owner: andrepontesmelo
+  repo: dsh-suite
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-suite
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

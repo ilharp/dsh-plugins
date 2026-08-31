@@ -1,0 +1,14 @@
+version: 1
+name: dsh-browser-use
+github:
+  owner: zoahdev
+  repo: dsh-browser-use
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-browser-use
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

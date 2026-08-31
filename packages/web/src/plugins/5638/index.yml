@@ -1,0 +1,10 @@
+version: 1
+name: dsh-math-team
+github:
+  owner: OrinVoss
+  repo: dsh-math-team
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions: []

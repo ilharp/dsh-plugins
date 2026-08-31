@@ -1,0 +1,16 @@
+version: 1
+name: dsh-service
+github:
+  owner: gehennawu
+  repo: dsh-service
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 1
+npm:
+  name: '@gehennawu/dsh-service'
+versions:
+  - packageVersion: 0.31.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.40.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-academic-skill
+github:
+  owner: TohsakaRIN521
+  repo: dsh-academic-skill
+  language: Python
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

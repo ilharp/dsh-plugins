@@ -1,0 +1,14 @@
+version: 1
+name: open-in-vscode
+github:
+  owner: alex-dsh-plugin
+  repo: open-in-vscode
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@alex-dsh-plugin/open-in-vscode'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

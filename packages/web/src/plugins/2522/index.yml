@@ -1,0 +1,14 @@
+version: 1
+name: Matrix-code
+github:
+  owner: Gastronomicluna
+  repo: Matrix-code
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-plugin-matrix
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

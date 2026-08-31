@@ -1,0 +1,12 @@
+version: 1
+name: dsh-qq-notify
+github:
+  owner: kuyueliuhun-ctrl
+  repo: dsh-qq-notify
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

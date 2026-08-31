@@ -1,0 +1,14 @@
+version: 1
+name: mermaid2aichat-dsh
+github:
+  owner: supergameboy
+  repo: mermaid2aichat-dsh
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: mermaid2aichat-dsh
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-mineru-parse-plugin
+github:
+  owner: 83079Vermont
+  repo: dsh-mineru-parse-plugin
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

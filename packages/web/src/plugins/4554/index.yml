@@ -1,0 +1,16 @@
+version: 1
+name: dsh-memory-palace
+github:
+  owner: lovezi0
+  repo: dsh-memory-palace
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-memory-palace
+versions:
+  - packageVersion: 1.4.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.4.1
+    dshVersion: v0.1.2-alpha.1

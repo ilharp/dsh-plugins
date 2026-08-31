@@ -1,0 +1,12 @@
+version: 1
+name: dsh-rp-composer
+github:
+  owner: wuzhigouno-collab
+  repo: dsh-rp-composer
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

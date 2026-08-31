@@ -1,0 +1,12 @@
+version: 1
+name: SeekMaid-pet
+github:
+  owner: DoloresCaritasAngelus
+  repo: SeekMaid-pet
+  language: Python
+  license: MIT
+  stars: 2
+  forks: 1
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: deepseek-harness-background
+github:
+  owner: HaoyueQin
+  repo: deepseek-harness-background
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: deepseek-harness-background
+versions:
+  - packageVersion: 0.4.2
+    dshVersion: v0.1.2-alpha.1

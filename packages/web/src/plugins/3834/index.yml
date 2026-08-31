@@ -1,0 +1,12 @@
+version: 1
+name: dsh-org-panel
+github:
+  owner: kevin-luo
+  repo: dsh-org-panel
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+versions:
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1

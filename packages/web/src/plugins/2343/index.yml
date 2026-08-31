@@ -1,0 +1,13 @@
+version: 1
+name: dsh-envelope-highlight
+github:
+  owner: flashyiyi
+  repo: dsh-envelope-highlight
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-envelope-highlight
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

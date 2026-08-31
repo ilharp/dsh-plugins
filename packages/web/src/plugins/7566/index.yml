@@ -1,0 +1,19 @@
+version: 1
+name: billion-context-dsh
+github:
+  owner: Tyan66666
+  repo: billion-context-dsh
+  language: TypeScript
+  license: MIT
+  stars: 59
+  forks: 9
+  openIssues: 0
+npm:
+  name: billion-context-dsh
+versions:
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.12
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.13
+    dshVersion: v0.1.2-alpha.1

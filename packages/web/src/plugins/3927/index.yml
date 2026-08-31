@@ -1,0 +1,16 @@
+version: 1
+name: dsh-context-pro
+github:
+  owner: kiwifruit13
+  repo: dsh-context-pro
+  language: TypeScript
+  license: GPL-3.0
+  stars: 1
+  forks: 0
+npm:
+  name: '@kiwifruit/dsh-context-pro'
+versions:
+  - packageVersion: 0.6.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.6
+    dshVersion: v0.1.2-alpha.1

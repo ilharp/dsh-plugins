@@ -1,0 +1,14 @@
+version: 1
+name: dsh-tool-terminal-search
+github:
+  owner: ystyle
+  repo: dsh-tool-terminal-search
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-tool-terminal-search
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-tool-plus
+github:
+  owner: xiaoso456
+  repo: dsh-tool-plus
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@xiaoso/dsh-tool-plus'
+versions:
+  - packageVersion: 0.1.0-beta.3
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-auto-review
+github:
+  owner: aa2246740
+  repo: dsh-auto-review
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-approve-for-me
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

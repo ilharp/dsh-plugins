@@ -1,0 +1,17 @@
+version: 1
+name: dsh-file-review-tab
+github:
+  owner: Lzh3070
+  repo: dsh-file-review-tab
+  language: JavaScript
+  license: MIT
+  stars: 16
+  forks: 2
+  openIssues: 5
+npm:
+  name: dsh-file-review-tab
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

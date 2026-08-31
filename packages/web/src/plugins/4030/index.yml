@@ -1,0 +1,14 @@
+version: 1
+name: dsh-hooks-plugin
+github:
+  owner: KYinCode
+  repo: dsh-hooks-plugin
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-hooks-plugin
+versions:
+  - packageVersion: 0.2.15
+    dshVersion: v0.1.2-alpha.1

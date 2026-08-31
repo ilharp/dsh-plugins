@@ -1,0 +1,10 @@
+version: 1
+name: math-lean
+github:
+  owner: Fisfzy
+  repo: math-lean
+  language: TypeScript
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

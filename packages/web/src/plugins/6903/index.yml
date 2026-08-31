@@ -1,0 +1,10 @@
+version: 1
+name: amazon-sucareer
+github:
+  owner: soberbiak
+  repo: amazon-sucareer
+  language: HTML
+  stars: 0
+versions:
+  - packageVersion: 0.3.0-alpha.6
+    dshVersion: v0.1.2-alpha.1

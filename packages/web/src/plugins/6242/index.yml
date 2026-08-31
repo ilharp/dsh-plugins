@@ -1,0 +1,14 @@
+version: 1
+name: dsh-cad
+github:
+  owner: roymina
+  repo: dsh-cad
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-cad-plugin
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

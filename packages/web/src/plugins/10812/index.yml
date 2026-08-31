@@ -1,0 +1,14 @@
+version: 1
+name: deepseek-harness-billing
+github:
+  owner: zoyluoblue
+  repo: deepseek-harness-billing
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: '@zoytown/dsh-billing'
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

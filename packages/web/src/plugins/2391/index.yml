@@ -1,0 +1,15 @@
+version: 1
+name: forgeax-dsh-game-plugin
+github:
+  owner: ForgeaX-Games
+  repo: forgeax-dsh-game-plugin
+  language: TypeScript
+  license: MIT
+  stars: 6
+  forks: 1
+  openIssues: 0
+npm:
+  name: '@forgeax/dsh-game'
+versions:
+  - packageVersion: 0.1.0-rc.3
+    dshVersion: v0.1.2-alpha.1

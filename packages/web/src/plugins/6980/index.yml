@@ -1,0 +1,11 @@
+version: 1
+name: dsh-docling
+github:
+  owner: Sqhao-O
+  repo: dsh-docling
+  language: TypeScript
+  license: MIT
+  stars: 13
+  forks: 0
+  openIssues: 6
+versions: []

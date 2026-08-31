@@ -1,0 +1,11 @@
+version: 1
+name: dsh-oauth-api
+github:
+  owner: hahaha-taotao
+  repo: dsh-oauth-api
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

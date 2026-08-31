@@ -1,0 +1,16 @@
+version: 1
+name: dsh-session-buddy
+github:
+  owner: Shrbuz
+  repo: dsh-session-buddy
+  language: JavaScript
+  license: Apache-2.0
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-session-buddy
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

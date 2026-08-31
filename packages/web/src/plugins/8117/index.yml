@@ -1,0 +1,14 @@
+version: 1
+name: dsh-duration
+github:
+  owner: uckkk
+  repo: dsh-duration
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-duration
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

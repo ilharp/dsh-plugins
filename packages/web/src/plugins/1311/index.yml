@@ -1,0 +1,14 @@
+version: 1
+name: dsh-drop-preview
+github:
+  owner: Cheyeah
+  repo: dsh-drop-preview
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.10.10
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.10.11
+    dshVersion: v0.1.2-alpha.1

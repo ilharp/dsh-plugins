@@ -1,0 +1,12 @@
+version: 1
+name: dsh-composer-keys
+github:
+  owner: kexin8
+  repo: dsh-composer-keys
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

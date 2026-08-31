@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-lan
+github:
+  owner: oitsukiii
+  repo: deepseek-harness-lan
+  language: Shell
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+versions: []

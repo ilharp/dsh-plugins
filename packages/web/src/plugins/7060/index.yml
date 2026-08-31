@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-graph
+github:
+  owner: steven95
+  repo: dsh-plugin-graph
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-plugin-graph-engine
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

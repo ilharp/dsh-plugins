@@ -1,0 +1,11 @@
+version: 1
+name: awesome-dsh-plugin
+github:
+  owner: billLiao
+  repo: awesome-dsh-plugin
+  language: Shell
+  license: CC0-1.0
+  stars: 12
+  forks: 3
+  openIssues: 2
+versions: []

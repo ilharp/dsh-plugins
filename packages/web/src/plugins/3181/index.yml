@@ -1,0 +1,10 @@
+version: 1
+name: A-share-Ai
+github:
+  owner: hyqibot
+  repo: A-share-Ai
+  license: NOASSERTION
+  stars: 128
+  forks: 13
+  openIssues: 3
+versions: []

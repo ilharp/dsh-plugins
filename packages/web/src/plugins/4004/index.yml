@@ -1,0 +1,16 @@
+version: 1
+name: dsh-custom-subagents
+github:
+  owner: ktdhhc
+  repo: dsh-custom-subagents
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-custom-subagents
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

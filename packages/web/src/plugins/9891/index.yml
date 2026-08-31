@@ -1,0 +1,16 @@
+version: 1
+name: dsh-skin-manager
+github:
+  owner: xiaoyangcheng84-svg
+  repo: dsh-skin-manager
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 0
+npm:
+  name: dsh-skin-manager
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,17 @@
+version: 1
+name: dsh-token-cost
+github:
+  owner: le-soleil-se-couche
+  repo: dsh-token-cost
+  language: TypeScript
+  license: NOASSERTION
+  stars: 9
+  forks: 3
+  openIssues: 0
+npm:
+  name: dsh-token-cost
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

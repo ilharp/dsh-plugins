@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-sdk-rs
+github:
+  owner: Loner1024
+  repo: deepseek-harness-sdk-rs
+  language: Rust
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

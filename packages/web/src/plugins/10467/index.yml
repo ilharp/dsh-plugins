@@ -1,0 +1,16 @@
+version: 1
+name: dsh-plugin-repo
+github:
+  owner: Z-6354
+  repo: dsh-plugin-repo
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-plugin-repo
+versions:
+  - packageVersion: 1.5.11
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.9.17
+    dshVersion: v0.1.2-alpha.1

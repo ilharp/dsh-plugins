@@ -1,0 +1,14 @@
+version: 1
+name: dsh-deepseek-peak-indicator
+github:
+  owner: DDA-DIGITAL
+  repo: dsh-deepseek-peak-indicator
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-deepseek-peak-indicator
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-self-improved
+github:
+  owner: madage
+  repo: dsh-self-improved
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 2
+npm:
+  name: dsh-self-improved
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

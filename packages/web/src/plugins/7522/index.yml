@@ -1,0 +1,11 @@
+version: 1
+name: dsh-dcp
+github:
+  owner: TT432
+  repo: dsh-dcp
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

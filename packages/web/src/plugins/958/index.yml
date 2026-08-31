@@ -1,0 +1,12 @@
+version: 1
+name: dsh-token-ledger-pro
+github:
+  owner: bjzkhy
+  repo: dsh-token-ledger-pro
+  language: JavaScript
+  stars: 0
+npm:
+  name: dsh-token-ledger-pro
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-archived-sessions
+github:
+  owner: Jiangdl0220
+  repo: dsh-archived-sessions
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: '@jiangdaoli/dsh-archived-sessions'
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

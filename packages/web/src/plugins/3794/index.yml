@@ -1,0 +1,11 @@
+version: 1
+name: dsh-minimal-anchored
+github:
+  owner: KDB-Wind
+  repo: dsh-minimal-anchored
+  language: JavaScript
+  license: NOASSERTION
+  stars: 7
+  forks: 2
+  openIssues: 4
+versions: []

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-usage-center
+github:
+  owner: Tieboyh
+  repo: dsh-usage-center
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-usage-center
+versions:
+  - packageVersion: 0.4.2
+    dshVersion: v0.1.2-alpha.1

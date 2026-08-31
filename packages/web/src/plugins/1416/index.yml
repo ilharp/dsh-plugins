@@ -1,0 +1,16 @@
+version: 1
+name: dsh-taskboard
+github:
+  owner: cloader
+  repo: dsh-taskboard
+  language: TypeScript
+  license: Apache-2.0
+  stars: 29
+  forks: 12
+npm:
+  name: dsh-taskboard
+versions:
+  - packageVersion: 0.5.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.4
+    dshVersion: v0.1.2-alpha.1

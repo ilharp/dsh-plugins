@@ -1,0 +1,11 @@
+version: 1
+name: dsh-theme-taffy
+github:
+  owner: Misaki14987
+  repo: dsh-theme-taffy
+  language: JavaScript
+  license: NOASSERTION
+  stars: 6
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-tui
+github:
+  owner: tomowang
+  repo: dsh-tui
+  language: TypeScript
+  license: MIT
+  stars: 13
+  forks: 2
+  openIssues: 3
+npm:
+  name: '@tomowang/dsh-tui'
+versions:
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1

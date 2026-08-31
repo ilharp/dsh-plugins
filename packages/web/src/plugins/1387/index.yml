@@ -1,0 +1,13 @@
+version: 1
+name: dsh-change-review
+github:
+  owner: cirelir
+  repo: dsh-change-review
+  language: JavaScript
+  license: MIT
+  stars: 9
+  forks: 2
+  openIssues: 2
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

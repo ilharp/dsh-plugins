@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-zh-cn
+github:
+  owner: imlishiyuan
+  repo: deepseek-harness-zh-cn
+  language: TypeScript
+  license: Apache-2.0
+  stars: 11
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-cost-meter
+github:
+  owner: Creakono
+  repo: dsh-cost-meter
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

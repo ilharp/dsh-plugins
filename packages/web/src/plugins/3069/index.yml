@@ -1,0 +1,14 @@
+version: 1
+name: dsh-user-message-timeline
+github:
+  owner: huang-chunc
+  repo: dsh-user-message-timeline
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-user-message-timeline
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

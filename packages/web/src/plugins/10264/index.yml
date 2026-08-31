@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-peak
+github:
+  owner: YMRYMR
+  repo: deepseek-peak
+  language: TypeScript
+  license: MIT
+  stars: 15
+  forks: 1
+  openIssues: 2
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: DSH-Store
+github:
+  owner: AI-Scarlett
+  repo: DSH-Store
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 3
+versions:
+  - packageVersion: 0.8.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.8.5
+    dshVersion: v0.1.2-alpha.1

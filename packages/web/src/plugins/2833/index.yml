@@ -1,0 +1,14 @@
+version: 1
+name: dsh-deepseek-monitor
+github:
+  owner: HaoyueQin
+  repo: dsh-deepseek-monitor
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-deepseek-monitor
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

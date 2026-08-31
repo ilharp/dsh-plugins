@@ -1,0 +1,14 @@
+version: 1
+name: dsh-mysql
+github:
+  owner: '1321928757'
+  repo: dsh-mysql
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-mysql
+versions:
+  - packageVersion: 0.1.10
+    dshVersion: v0.1.2-alpha.1

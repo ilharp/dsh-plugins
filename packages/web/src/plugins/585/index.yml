@@ -1,0 +1,15 @@
+version: 1
+name: dsh-computer-use
+github:
+  owner: Anionex
+  repo: dsh-computer-use
+  language: TypeScript
+  license: MIT
+  stars: 26
+  forks: 4
+  openIssues: 1
+npm:
+  name: '@anionex/dsh-computer-use'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

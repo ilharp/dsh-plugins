@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-aflare
+github:
+  owner: alib8b8
+  repo: dsh-plugin-aflare
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: '@alib8b8/dsh-plugin-aflare'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

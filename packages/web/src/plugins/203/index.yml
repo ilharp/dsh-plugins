@@ -1,0 +1,12 @@
+version: 1
+name: dsh-thinking-notifier
+github:
+  owner: 6-debug-6
+  repo: dsh-thinking-notifier
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+versions:
+  - packageVersion: 1.2.0
+    dshVersion: v0.1.2-alpha.1

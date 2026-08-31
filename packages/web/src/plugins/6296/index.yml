@@ -1,0 +1,14 @@
+version: 1
+name: dsh-remote-gateway
+github:
+  owner: RyensX
+  repo: dsh-remote-gateway
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-remote-gateway
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

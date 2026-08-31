@@ -1,0 +1,11 @@
+version: 1
+name: humanizer-ru
+github:
+  owner: Vladimir-Human
+  repo: humanizer-ru
+  language: Python
+  license: MIT
+  stars: 118
+  forks: 8
+  openIssues: 4
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-question-nav
+github:
+  owner: AbelKeithsun
+  repo: dsh-question-nav
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@luziyang2026/dsh-question-nav'
+versions:
+  - packageVersion: 0.7.5
+    dshVersion: v0.1.2-alpha.1

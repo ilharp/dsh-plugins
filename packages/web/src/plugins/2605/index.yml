@@ -1,0 +1,14 @@
+version: 1
+name: dsh-sub2api
+github:
+  owner: GodD6366
+  repo: dsh-sub2api
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@godd6366/dsh-sub2api'
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

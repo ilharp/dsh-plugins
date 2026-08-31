@@ -1,0 +1,15 @@
+version: 1
+name: oh-my-knowledge
+github:
+  owner: lizhiyao
+  repo: oh-my-knowledge
+  language: TypeScript
+  license: MIT
+  stars: 18
+  forks: 2
+  openIssues: 9
+npm:
+  name: oh-my-knowledge
+versions:
+  - packageVersion: 0.54.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-plugin-store
+github:
+  owner: sandbaseai
+  repo: dsh-plugin-store
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 8
+versions:
+  - packageVersion: 0.1.0-preview.5
+    dshVersion: v0.1.2-alpha.1

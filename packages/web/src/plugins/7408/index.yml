@@ -1,0 +1,13 @@
+version: 1
+name: engramory
+github:
+  owner: tinqiao-oss
+  repo: engramory
+  language: Python
+  license: MIT
+  stars: 167
+  forks: 11
+  openIssues: 2
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

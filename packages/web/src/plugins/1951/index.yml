@@ -1,0 +1,15 @@
+version: 1
+name: dsh-client-ui-settings-mcp
+github:
+  owner: dsh-mixxed
+  repo: dsh-client-ui-settings-mcp
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@dsh-mixxed/dsh-client-ui-settings-mcp'
+versions:
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1

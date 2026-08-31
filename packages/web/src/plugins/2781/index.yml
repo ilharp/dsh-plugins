@@ -1,0 +1,14 @@
+version: 1
+name: dsh-approve-for-me
+github:
+  owner: Hakunm
+  repo: dsh-approve-for-me
+  language: TypeScript
+  license: GPL-3.0
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-approve-for-me
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

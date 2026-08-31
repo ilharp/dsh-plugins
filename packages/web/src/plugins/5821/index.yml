@@ -1,0 +1,17 @@
+version: 1
+name: dsh-meow-smooth
+github:
+  owner: Phant0Meow
+  repo: dsh-meow-smooth
+  language: JavaScript
+  license: MIT
+  stars: 33
+  forks: 0
+  openIssues: 0
+npm:
+  name: meow-smooth
+versions:
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

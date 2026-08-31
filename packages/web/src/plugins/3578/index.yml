@@ -1,0 +1,12 @@
+version: 1
+name: dsh-workspace-native-open
+github:
+  owner: JoeyLearnsToCode
+  repo: dsh-workspace-native-open
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

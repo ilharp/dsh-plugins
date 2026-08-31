@@ -1,0 +1,14 @@
+version: 1
+name: dsh-concurrency-guard
+github:
+  owner: fu827707013
+  repo: dsh-concurrency-guard
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-concurrency-guard
+versions:
+  - packageVersion: 1.3.11
+    dshVersion: v0.1.2-alpha.1

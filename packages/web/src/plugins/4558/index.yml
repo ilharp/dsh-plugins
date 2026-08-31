@@ -1,0 +1,13 @@
+version: 1
+name: dsh-better-command
+github:
+  owner: lovstudio
+  repo: dsh-better-command
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: '@lovstudio/dsh-better-command'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

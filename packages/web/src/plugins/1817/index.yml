@@ -1,0 +1,12 @@
+version: 1
+name: dsh-drag-to-attachment
+github:
+  owner: djt889
+  repo: dsh-drag-to-attachment
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.3
+    dshVersion: v0.1.2-alpha.1

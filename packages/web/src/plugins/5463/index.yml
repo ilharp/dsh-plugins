@@ -1,0 +1,15 @@
+version: 1
+name: '@ohoyo/dsh-file-mention'
+github:
+  owner: ohoyour
+  repo: dsh-file-mention
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@ohoyo/dsh-file-mention'
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

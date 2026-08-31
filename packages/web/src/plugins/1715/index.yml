@@ -1,0 +1,15 @@
+version: 1
+name: dsh-bash-rtk
+github:
+  owner: DeepTrial
+  repo: dsh-bash-rtk
+  language: TypeScript
+  license: MIT
+  stars: 10
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@deeptrial/dsh-bash-rtk'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: sandbase-harness
+github:
+  owner: sandbaseai
+  repo: sandbase-harness
+  language: TypeScript
+  license: Apache-2.0
+  stars: 638
+  forks: 61
+  openIssues: 2
+versions:
+  - packageVersion: 0.3.7
+    dshVersion: v0.1.2-alpha.1

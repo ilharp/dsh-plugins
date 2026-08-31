@@ -1,0 +1,11 @@
+version: 1
+name: DSH-CyberWorkStation
+github:
+  owner: WZZNNE
+  repo: DSH-CyberWorkStation
+  language: TypeScript
+  license: NOASSERTION
+  stars: 10
+  forks: 0
+  openIssues: 0
+versions: []

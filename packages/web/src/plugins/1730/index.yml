@@ -1,0 +1,11 @@
+version: 1
+name: dsh-workbench
+github:
+  owner: Dely0
+  repo: dsh-workbench
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.5.2
+    dshVersion: v0.1.2-alpha.1

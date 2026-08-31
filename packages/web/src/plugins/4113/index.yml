@@ -1,0 +1,11 @@
+version: 1
+name: DeepSeekHarnessRemoteGateway
+github:
+  owner: lbwnb666-ai
+  repo: DeepSeekHarnessRemoteGateway
+  language: JavaScript
+  license: MIT
+  stars: 20
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-ajw
+github:
+  owner: rsagacom
+  repo: dsh-ajw
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

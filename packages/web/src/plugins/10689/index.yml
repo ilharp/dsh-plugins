@@ -1,0 +1,13 @@
+version: 1
+name: easyeda-agent
+github:
+  owner: zhoushoujianwork
+  repo: easyeda-agent
+  language: Go
+  license: NOASSERTION
+  stars: 321
+  forks: 47
+  openIssues: 6
+versions:
+  - packageVersion: 0.25.1
+    dshVersion: v0.1.2-alpha.1

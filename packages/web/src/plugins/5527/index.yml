@@ -1,0 +1,13 @@
+version: 1
+name: dsh-science
+github:
+  owner: omdsh-dev
+  repo: dsh-science
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 8
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-science
+versions: []

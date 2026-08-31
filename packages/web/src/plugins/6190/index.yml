@@ -1,0 +1,11 @@
+version: 1
+name: dshline
+github:
+  owner: riesbri
+  repo: dshline
+  language: TypeScript
+  license: MIT
+  stars: 9
+  forks: 1
+  openIssues: 3
+versions: []

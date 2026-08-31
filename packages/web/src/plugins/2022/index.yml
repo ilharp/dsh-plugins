@@ -1,0 +1,11 @@
+version: 1
+name: dsh-client-ui-skin-pixel-kingdom
+github:
+  owner: EachSheep
+  repo: dsh-mario-pixel-skin
+  license: BSD-3-Clause
+  stars: 5
+  forks: 0
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

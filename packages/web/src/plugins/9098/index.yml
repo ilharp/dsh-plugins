@@ -1,0 +1,11 @@
+version: 1
+name: dsh-multimodal-skill
+github:
+  owner: v587d
+  repo: dsh-multimodal-skill
+  language: Python
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

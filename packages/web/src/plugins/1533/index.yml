@@ -1,0 +1,12 @@
+version: 1
+name: stavros-dsh-redteamer
+github:
+  owner: CSI-entitymorton
+  repo: stavros-dsh-redteamer
+  language: JavaScript
+  stars: 1
+npm:
+  name: stavros-dsh-redteamer
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

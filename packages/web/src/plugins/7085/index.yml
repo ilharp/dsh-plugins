@@ -1,0 +1,13 @@
+version: 1
+name: dsh-miku-skin
+github:
+  owner: stushansusu
+  repo: dsh-miku-skin
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

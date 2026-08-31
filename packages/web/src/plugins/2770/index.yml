@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-desktop
+github:
+  owner: hairyf
+  repo: deepseek-harness-desktop
+  language: Rust
+  license: MIT
+  stars: 860
+  forks: 49
+  openIssues: 5
+versions: []

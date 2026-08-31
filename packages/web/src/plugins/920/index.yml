@@ -1,0 +1,16 @@
+version: 1
+name: dsh-conversation-anchors
+github:
+  owner: biggerboy
+  repo: dsh-conversation-anchors
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+npm:
+  name: '@biggerboy123/dsh-conversation-anchors'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.13
+    dshVersion: v0.1.2-alpha.1

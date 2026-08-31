@@ -1,0 +1,14 @@
+version: 1
+name: auto-pwa
+github:
+  owner: BHXiang
+  repo: auto-pwa
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: auto-pwa
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

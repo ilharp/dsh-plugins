@@ -1,0 +1,13 @@
+version: 1
+name: dsh-cipher
+github:
+  owner: NoxTyrannus
+  repo: dsh-cipher
+  language: TypeScript
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-cipher
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

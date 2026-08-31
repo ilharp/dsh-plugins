@@ -1,0 +1,11 @@
+version: 1
+name: dsh-minimal-turbo
+github:
+  owner: ChangedenCZD
+  repo: dsh-minimal-turbo
+  language: HTML
+  license: MIT
+  stars: 44
+  forks: 0
+  openIssues: 0
+versions: []

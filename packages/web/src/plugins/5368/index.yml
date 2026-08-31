@@ -1,0 +1,14 @@
+version: 1
+name: dsh-git-ai
+github:
+  owner: NiuZhuang
+  repo: dsh-git-ai
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-git-ai
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

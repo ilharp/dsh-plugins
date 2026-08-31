@@ -1,0 +1,13 @@
+version: 1
+name: dsh-agent-eval
+github:
+  owner: ShawnSiao
+  repo: dsh-agent-eval
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-agent-eval
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

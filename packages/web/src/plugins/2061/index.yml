@@ -1,0 +1,11 @@
+version: 1
+name: dsh-browser-bridge
+github:
+  owner: egnmosk
+  repo: dsh-browser-bridge
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

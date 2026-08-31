@@ -1,0 +1,15 @@
+version: 1
+name: dsh-client-ui-trajectory-categories
+github:
+  owner: QWQ-nn
+  repo: dsh-client-ui-trajectory-categories
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-client-ui-trajectory-categories
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

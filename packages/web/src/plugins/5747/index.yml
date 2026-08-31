@@ -1,0 +1,15 @@
+version: 1
+name: dsh-open-browser
+github:
+  owner: peach0x33a
+  repo: dsh-open-browser
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-open-browser
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

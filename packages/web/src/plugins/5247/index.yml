@@ -1,0 +1,17 @@
+version: 1
+name: dsh-agent-teams
+github:
+  owner: NanmiCoder
+  repo: dsh-agent-teams
+  language: TypeScript
+  license: MIT
+  stars: 1199
+  forks: 102
+  openIssues: 8
+npm:
+  name: '@nanmicoder/dsh-agent-teams'
+versions:
+  - packageVersion: 0.1.13
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.14
+    dshVersion: v0.1.2-alpha.1

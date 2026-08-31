@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-github-market
+github:
+  owner: w1661884010-jpg
+  repo: dsh-plugin-github-market
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

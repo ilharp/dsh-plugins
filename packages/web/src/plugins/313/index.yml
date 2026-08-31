@@ -1,0 +1,15 @@
+version: 1
+name: dsh-subagent-max
+github:
+  owner: aaravarr
+  repo: dsh-subagent-max
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@aaravarr/dsh-subagent-max'
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

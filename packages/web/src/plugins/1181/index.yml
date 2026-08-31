@@ -1,0 +1,13 @@
+version: 1
+name: dsh-mimo-agent-tools
+github:
+  owner: ch1bug
+  repo: dsh-mimo-agent-tools
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

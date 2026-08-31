@@ -1,0 +1,13 @@
+version: 1
+name: dsh-whale-usage
+github:
+  owner: YpipaQ
+  repo: dsh-whale-usage
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-whale-usage
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

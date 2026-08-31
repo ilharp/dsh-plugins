@@ -1,0 +1,11 @@
+version: 1
+name: cosyncing
+github:
+  owner: cosyncing
+  repo: cosyncing
+  language: TypeScript
+  license: Apache-2.0
+  stars: 35
+  forks: 5
+  openIssues: 0
+versions: []

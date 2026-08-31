@@ -1,0 +1,14 @@
+version: 1
+name: dsh-lan-pass
+github:
+  owner: x2802490130-prog
+  repo: dsh-lan-pass
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-lan-pass
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

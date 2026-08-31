@@ -1,0 +1,11 @@
+version: 1
+name: Oh-My-DSH
+github:
+  owner: like-study1
+  repo: Oh-My-DSH
+  language: Python
+  license: MIT
+  stars: 74
+  forks: 4
+  openIssues: 3
+versions: []

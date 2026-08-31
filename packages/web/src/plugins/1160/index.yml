@@ -1,0 +1,11 @@
+version: 1
+name: dsh-working-activity
+github:
+  owner: ccch1mneyyy
+  repo: dsh-working-activity
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

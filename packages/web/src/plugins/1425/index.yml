@@ -1,0 +1,14 @@
+version: 1
+name: dsh-deepseek-quota
+github:
+  owner: cn-scuo-oo
+  repo: dsh-deepseek-quota
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-deepseek-quota
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

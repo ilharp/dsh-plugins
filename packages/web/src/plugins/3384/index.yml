@@ -1,0 +1,14 @@
+version: 1
+name: dsh-project-memory
+github:
+  owner: JasperGuWP
+  repo: dsh-project-memory
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-project-memory
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

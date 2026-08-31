@@ -1,0 +1,13 @@
+version: 1
+name: dsh-audiogen
+github:
+  owner: shimingming520
+  repo: dsh-audiogen
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-audiogen
+versions:
+  - packageVersion: 0.4.13
+    dshVersion: v0.1.2-alpha.1

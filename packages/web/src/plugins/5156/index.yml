@@ -1,0 +1,16 @@
+version: 1
+name: knotline
+github:
+  owner: MrMaii
+  repo: knotline
+  language: JavaScript
+  license: Apache-2.0
+  stars: 1
+  forks: 1
+npm:
+  name: knotline-dsh
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

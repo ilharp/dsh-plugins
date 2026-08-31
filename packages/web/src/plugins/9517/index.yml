@@ -1,0 +1,16 @@
+version: 1
+name: dsh-model-pro
+github:
+  owner: wqy8593521
+  repo: dsh-model-pro
+  language: TypeScript
+  license: MIT
+  stars: 6
+  forks: 0
+npm:
+  name: dsh-model-pro
+versions:
+  - packageVersion: 1.1.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.1.8
+    dshVersion: v0.1.2-alpha.1

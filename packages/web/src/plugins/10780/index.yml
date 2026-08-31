@@ -1,0 +1,14 @@
+version: 1
+name: dsh-dep-audit
+github:
+  owner: zoahdev
+  repo: dsh-dep-audit
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-dep-audit
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

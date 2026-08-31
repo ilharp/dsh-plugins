@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugins
+github:
+  owner: hyls9527
+  repo: dsh-plugins
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

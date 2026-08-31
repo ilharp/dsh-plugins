@@ -1,0 +1,15 @@
+version: 1
+name: dsh-vision-router
+github:
+  owner: ysr666
+  repo: dsh-vision-router
+  language: JavaScript
+  license: MIT
+  stars: 1031
+  forks: 44
+  openIssues: 1
+npm:
+  name: dsh-vision-router
+versions:
+  - packageVersion: 2.0.1
+    dshVersion: v0.1.2-alpha.1

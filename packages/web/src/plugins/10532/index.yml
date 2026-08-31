@@ -1,0 +1,12 @@
+version: 1
+name: llmtrim-stats-plugin
+github:
+  owner: Zenjibad
+  repo: llmtrim-stats-plugin
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 1.1.1
+    dshVersion: v0.1.2-alpha.1

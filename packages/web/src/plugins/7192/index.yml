@@ -1,0 +1,12 @@
+version: 1
+name: dsh-memos-bridge
+github:
+  owner: Swd146296
+  repo: dsh-memos-bridge
+  language: Python
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

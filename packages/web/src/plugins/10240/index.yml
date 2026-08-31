@@ -1,0 +1,11 @@
+version: 1
+name: dsh-router-standard
+github:
+  owner: yjh051108
+  repo: dsh-router-standard
+  language: JavaScript
+  license: MIT
+  stars: 370
+  forks: 33
+  openIssues: 43
+versions: []

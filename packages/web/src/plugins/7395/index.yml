@@ -1,0 +1,12 @@
+version: 1
+name: task-router
+github:
+  owner: Tiko9527
+  repo: task-router
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

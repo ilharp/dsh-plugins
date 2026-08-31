@@ -1,0 +1,13 @@
+version: 1
+name: api-relay-audit
+github:
+  owner: toby-bridges
+  repo: api-relay-audit
+  language: Python
+  license: AGPL-3.0
+  stars: 819
+  forks: 78
+  openIssues: 24
+versions:
+  - packageVersion: 2.4.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,17 @@
+version: 1
+name: dsh-hdc-bridge
+github:
+  owner: 1na-ko
+  repo: dsh-hdc-bridge
+  language: JavaScript
+  license: MIT
+  stars: 16
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-hdc-bridge
+versions:
+  - packageVersion: 0.7.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.8.2
+    dshVersion: v0.1.2-alpha.1

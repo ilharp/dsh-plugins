@@ -1,0 +1,14 @@
+version: 1
+name: dsh-deepseek-balance
+github:
+  owner: CN-Leo
+  repo: dsh-deepseek-balance
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-deepseek-balance
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

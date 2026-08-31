@@ -1,0 +1,11 @@
+version: 1
+name: Better_Deepseek_Harkness
+github:
+  owner: silencieuxzero
+  repo: Better_Deepseek_Harkness
+  language: JavaScript
+  license: GPL-3.0
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-ui-manager
+github:
+  owner: FURO2170
+  repo: dsh-ui-manager
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

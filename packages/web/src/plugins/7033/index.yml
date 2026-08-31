@@ -1,0 +1,14 @@
+version: 1
+name: dsh-status-bar
+github:
+  owner: Starlight-bananice
+  repo: dsh-status-bar
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 1
+npm:
+  name: '@bananiceee/dsh-status-bar'
+versions:
+  - packageVersion: 0.1.10
+    dshVersion: v0.1.2-alpha.1

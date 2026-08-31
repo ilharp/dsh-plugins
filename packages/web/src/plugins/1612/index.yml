@@ -1,0 +1,13 @@
+version: 1
+name: dsh-ego-browser
+github:
+  owner: Da1dr1em
+  repo: dsh-ego-browser
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

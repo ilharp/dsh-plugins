@@ -1,0 +1,13 @@
+version: 1
+name: better-model-provider
+github:
+  owner: sanshanya
+  repo: better-model-provider
+  language: TypeScript
+  license: MIT
+  stars: 11
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.0.2
+    dshVersion: v0.1.2-alpha.1

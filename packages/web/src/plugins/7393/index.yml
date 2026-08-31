@@ -1,0 +1,14 @@
+version: 1
+name: dsh-model-reasoning
+github:
+  owner: TikaFlow
+  repo: dsh-model-reasoning
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-model-reasoning
+versions:
+  - packageVersion: 0.4.9
+    dshVersion: v0.1.2-alpha.1

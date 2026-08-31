@@ -1,0 +1,17 @@
+version: 1
+name: dsh-agy-link
+github:
+  owner: amlyczz
+  repo: dsh-agy-link
+  language: TypeScript
+  license: MIT
+  stars: 29
+  forks: 3
+  openIssues: 2
+npm:
+  name: dsh-agy-link
+versions:
+  - packageVersion: 0.4.20
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.24
+    dshVersion: v0.1.2-alpha.1

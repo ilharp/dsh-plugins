@@ -1,0 +1,12 @@
+version: 1
+name: dsh-custom-theme-import
+github:
+  owner: Juryorca
+  repo: dsh-custom-theme-import
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

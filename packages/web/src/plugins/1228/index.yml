@@ -1,0 +1,14 @@
+version: 1
+name: dsh-qq-onebot-bridge
+github:
+  owner: cheesehaqi
+  repo: dsh-qq-onebot-bridge
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+versions:
+  - packageVersion: 0.2.9
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

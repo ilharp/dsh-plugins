@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-panel
+github:
+  owner: Dylan37670
+  repo: dsh-plugin-panel
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 0.6.16
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-web-search-aggregation
+github:
+  owner: chendefine
+  repo: dsh-web-search-aggregation
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-web-search-aggregation
+versions:
+  - packageVersion: 0.1.10
+    dshVersion: v0.1.2-alpha.1

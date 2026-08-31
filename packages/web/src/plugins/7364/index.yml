@@ -1,0 +1,12 @@
+version: 1
+name: dsh-memoryos
+github:
+  owner: tianhao8687
+  repo: dsh-memoryos
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

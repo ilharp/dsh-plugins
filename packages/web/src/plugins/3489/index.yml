@@ -1,0 +1,16 @@
+version: 1
+name: dsh-cline-free-provider
+github:
+  owner: jiesou
+  repo: dsh-cline-free-provider
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 1
+npm:
+  name: '@jiesou/dsh-cline-free-provider'
+versions:
+  - packageVersion: 0.1.10
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.12
+    dshVersion: v0.1.2-alpha.1

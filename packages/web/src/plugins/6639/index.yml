@@ -1,0 +1,14 @@
+version: 1
+name: dsh-global-task-list
+github:
+  owner: sgzxs
+  repo: dsh-global-task-list
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-global-task-list
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

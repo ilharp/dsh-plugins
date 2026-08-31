@@ -1,0 +1,13 @@
+version: 1
+name: dsh-agent-team-gui
+github:
+  owner: toolclub
+  repo: dsh-agent-team-gui
+  language: TypeScript
+  license: MIT
+  stars: 160
+  forks: 2
+  openIssues: 5
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

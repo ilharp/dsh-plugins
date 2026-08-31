@@ -1,0 +1,14 @@
+version: 1
+name: dsh-chrome-app-launcher
+github:
+  owner: SchrodiL
+  repo: dsh-chrome-app-launcher
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-chrome-app-launcher
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-suhuang-scroll
+github:
+  owner: YZDame
+  repo: dsh-suhuang-scroll
+  language: JavaScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-suhuang-scroll
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

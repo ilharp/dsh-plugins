@@ -1,0 +1,19 @@
+version: 1
+name: dsh-windows-ocr
+github:
+  owner: maxwell-feng
+  repo: dsh-windows-ocr
+  language: JavaScript
+  license: MIT
+  stars: 7
+  forks: 1
+  openIssues: 0
+npm:
+  name: '@maxwell-feng/dsh-windows-ocr'
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.6
+    dshVersion: v0.1.2-alpha.1

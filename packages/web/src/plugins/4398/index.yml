@@ -1,0 +1,14 @@
+version: 1
+name: dsh-qq-skin
+github:
+  owner: lispking
+  repo: dsh-qq-skin
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-qq-skin
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

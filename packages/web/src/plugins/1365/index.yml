@@ -1,0 +1,14 @@
+version: 1
+name: prompt-for-me
+github:
+  owner: ChuanTianML
+  repo: prompt-for-me
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-prompt-for-me
+versions:
+  - packageVersion: 0.5.1
+    dshVersion: v0.1.2-alpha.1

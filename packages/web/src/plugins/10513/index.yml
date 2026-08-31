@@ -1,0 +1,11 @@
+version: 1
+name: DPwhale-plugin
+github:
+  owner: zed1902209846-dotcom
+  repo: DPwhale-plugin
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

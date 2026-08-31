@@ -1,0 +1,8 @@
+version: 1
+name: dsh-easy-lsp
+github:
+  owner: amazing-tree-keeper
+  repo: dsh-easy-lsp
+  stars: 1
+  forks: 0
+versions: []

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-timeline-rail
+github:
+  owner: lcthe
+  repo: dsh-timeline-rail
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 1
+npm:
+  name: '@lcthe/dsh-timeline-rail'
+versions:
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.11
+    dshVersion: v0.1.2-alpha.1

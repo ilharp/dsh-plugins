@@ -1,0 +1,16 @@
+version: 1
+name: dsh-model-selector
+github:
+  owner: DeepVite
+  repo: dsh-model-selector
+  language: TypeScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-model-selector
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

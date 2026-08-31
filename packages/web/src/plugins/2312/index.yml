@@ -1,0 +1,11 @@
+version: 1
+name: dsh-token-usage-calendar
+github:
+  owner: Fiennes4590
+  repo: dsh-token-usage-calendar
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

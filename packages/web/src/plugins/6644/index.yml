@@ -1,0 +1,12 @@
+version: 1
+name: dsh-shadowgarden-ui-suite
+github:
+  owner: ShadowBruceMeaningLau
+  repo: dsh-shadowgarden-ui-suite
+  language: HTML
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

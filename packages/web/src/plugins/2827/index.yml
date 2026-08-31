@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-live-preset-switch
+github:
+  owner: HaoyanZhang123
+  repo: deepseek-harness-live-preset-switch
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

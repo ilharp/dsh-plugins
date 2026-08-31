@@ -1,0 +1,14 @@
+version: 1
+name: dsh-global-prompt
+github:
+  owner: CouplingArtist
+  repo: dsh-global-prompt
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-global-prompt
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

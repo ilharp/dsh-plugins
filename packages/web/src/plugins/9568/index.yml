@@ -1,0 +1,12 @@
+version: 1
+name: dsh-workspace-toolbox
+github:
+  owner: wuyh
+  repo: dsh-workspace-toolbox
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

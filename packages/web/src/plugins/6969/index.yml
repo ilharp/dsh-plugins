@@ -1,0 +1,13 @@
+version: 1
+name: dsh-vision-link
+github:
+  owner: sprainJinyu
+  repo: dsh-vision-link
+  language: JavaScript
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-vision-link
+versions:
+  - packageVersion: 1.2.2
+    dshVersion: v0.1.2-alpha.1

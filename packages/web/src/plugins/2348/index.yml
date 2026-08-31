@@ -1,0 +1,12 @@
+version: 1
+name: dsh-llm-agy
+github:
+  owner: flg1217
+  repo: dsh-llm-agy
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

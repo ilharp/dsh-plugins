@@ -1,0 +1,12 @@
+version: 1
+name: dsh-approval-auto-review
+github:
+  owner: perlied03
+  repo: dsh-approval-auto-review
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

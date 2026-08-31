@@ -1,0 +1,11 @@
+version: 1
+name: dsh-turtle-ui-prompt-extra
+github:
+  owner: changguo1998
+  repo: dsh-turtle-ui-prompt-extra
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

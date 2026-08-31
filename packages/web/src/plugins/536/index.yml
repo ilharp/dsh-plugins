@@ -1,0 +1,14 @@
+version: 1
+name: routine-taskboard
+github:
+  owner: Amoss-1
+  repo: routine-taskboard
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: routine-taskboard
+versions:
+  - packageVersion: 0.1.10
+    dshVersion: v0.1.2-alpha.1

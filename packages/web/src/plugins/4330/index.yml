@@ -1,0 +1,16 @@
+version: 1
+name: dsh-mcp-skill-panel
+github:
+  owner: lilyblessing
+  repo: dsh-mcp-skill-panel
+  language: TypeScript
+  license: MIT
+  stars: 6
+  forks: 1
+npm:
+  name: dsh-mcp-skill-panel
+versions:
+  - packageVersion: 0.5.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.3
+    dshVersion: v0.1.2-alpha.1

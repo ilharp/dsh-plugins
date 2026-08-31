@@ -1,0 +1,12 @@
+version: 1
+name: dsh-web-scroll-flow
+github:
+  owner: TYOPXN360
+  repo: dsh-web-scroll-flow
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0-rc.8
+    dshVersion: v0.1.2-alpha.1

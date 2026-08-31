@@ -1,0 +1,14 @@
+version: 1
+name: dsh-code-studio
+github:
+  owner: WindyPro-rourou
+  repo: dsh-code-studio
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@windypro-rourou/dsh-code-studio'
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

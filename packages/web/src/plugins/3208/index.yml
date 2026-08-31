@@ -1,0 +1,15 @@
+version: 1
+name: dsh-remote-mobile
+github:
+  owner: IceApriler
+  repo: dsh-remote-mobile
+  language: JavaScript
+  license: MIT
+  stars: 11
+  forks: 3
+  openIssues: 1
+npm:
+  name: dsh-remote-mobile
+versions:
+  - packageVersion: 1.4.2
+    dshVersion: v0.1.2-alpha.1

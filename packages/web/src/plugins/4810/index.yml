@@ -1,0 +1,16 @@
+version: 1
+name: dsh-prompt-library
+github:
+  owner: master1Sun
+  repo: dsh-prompt-library
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@sunjuntao/dsh-prompt-library'
+versions:
+  - packageVersion: 0.9.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.9.2
+    dshVersion: v0.1.2-alpha.1

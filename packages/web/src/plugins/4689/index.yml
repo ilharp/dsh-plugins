@@ -1,0 +1,15 @@
+version: 1
+name: dsh-tool-git
+github:
+  owner: lxj808624
+  repo: dsh-tool-git
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-tool-git
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

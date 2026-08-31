@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-j-space
+github:
+  owner: kolawong
+  repo: dsh-plugin-j-space
+  language: Python
+  license: Apache-2.0
+  stars: 5
+  forks: 1
+versions:
+  - packageVersion: 3.6.0
+    dshVersion: v0.1.2-alpha.1

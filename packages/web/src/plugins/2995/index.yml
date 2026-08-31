@@ -1,0 +1,12 @@
+version: 1
+name: dsh-agent-outputs-reader
+github:
+  owner: HiSeax
+  repo: dsh-agent-outputs-reader
+  language: JavaScript
+  stars: 0
+npm:
+  name: dsh-agent-outputs-reader
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

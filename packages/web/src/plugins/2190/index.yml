@@ -1,0 +1,14 @@
+version: 1
+name: dsh-authorize-app
+github:
+  owner: extension-hunter
+  repo: dsh-authorize-app
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-authorize-app
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

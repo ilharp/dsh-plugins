@@ -1,0 +1,17 @@
+version: 1
+name: DSH-EasyRewrite
+github:
+  owner: Renzic-Stone
+  repo: DSH-EasyRewrite
+  language: JavaScript
+  license: MIT
+  stars: 96
+  forks: 8
+  openIssues: 0
+npm:
+  name: dsh-easyrewrite
+versions:
+  - packageVersion: 2.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2.3.0
+    dshVersion: v0.1.2-alpha.1

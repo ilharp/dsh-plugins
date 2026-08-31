@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugins
+github:
+  owner: Ceelog
+  repo: dsh-plugins
+  language: TypeScript
+  license: NOASSERTION
+  stars: 8
+  forks: 1
+  openIssues: 0
+versions: []

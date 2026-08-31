@@ -1,0 +1,12 @@
+version: 1
+name: dsh-code-reference
+github:
+  owner: victorzhong0110
+  repo: dsh-code-reference
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 4.3.0
+    dshVersion: v0.1.2-alpha.1

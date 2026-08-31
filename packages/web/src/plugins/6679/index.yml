@@ -1,0 +1,14 @@
+version: 1
+name: dsh-theme-tuner
+github:
+  owner: shawnlone
+  repo: dsh-theme-tuner
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-theme-tuner
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

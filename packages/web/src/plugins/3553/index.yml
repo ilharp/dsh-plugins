@@ -1,0 +1,14 @@
+version: 1
+name: dsh-ssh
+github:
+  owner: jmcc-guo
+  repo: dsh-ssh
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: '@jmcc-guo/dsh-ssh'
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-client-paste-image
+github:
+  owner: quei4r
+  repo: dsh-client-paste-image
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

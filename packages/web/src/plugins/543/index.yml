@@ -1,0 +1,13 @@
+version: 1
+name: dsh-stock-market
+github:
+  owner: AnacondaKC
+  repo: dsh-stock-market
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 15
+  forks: 3
+  openIssues: 2
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

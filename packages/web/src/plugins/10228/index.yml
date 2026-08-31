@@ -1,0 +1,13 @@
+version: 1
+name: yinchao-ai-music-skill
+github:
+  owner: yinhcao
+  repo: yinchao-ai-music-skill
+  language: Python
+  license: MIT
+  stars: 10
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 1.4.0
+    dshVersion: v0.1.2-alpha.1

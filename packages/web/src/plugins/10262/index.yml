@@ -1,0 +1,13 @@
+version: 1
+name: dsh-theme-endfield
+github:
+  owner: ymh0000123
+  repo: dsh-theme-endfield
+  language: JavaScript
+  license: MIT
+  stars: 62
+  forks: 2
+  openIssues: 1
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,8 @@
+version: 1
+name: dsh-remote-workspace
+github:
+  owner: torrid-fish
+  repo: dsh-remote-workspace
+  stars: 0
+  forks: 0
+versions: []

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-turn-meta
+github:
+  owner: randerous
+  repo: dsh-turn-meta
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

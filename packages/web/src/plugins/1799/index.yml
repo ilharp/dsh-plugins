@@ -1,0 +1,12 @@
+version: 1
+name: dsh-conversation-language
+github:
+  owner: Dingpenghui-good
+  repo: dsh-conversation-language
+  language: TypeScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 1.2.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: deepseek-style-theme
+github:
+  owner: Lichtspur
+  repo: deepseek-style-theme
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.37.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.38.0
+    dshVersion: v0.1.2-alpha.1

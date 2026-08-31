@@ -1,0 +1,16 @@
+version: 1
+name: dsh-remote-settings-compat
+github:
+  owner: lemoncat7
+  repo: dsh-remote-settings-compat
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@lemoncat7/dsh-remote-settings-compat'
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.6
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,10 @@
+version: 1
+name: Awesome-DeepSeek-Harness-Plugins
+github:
+  owner: Zhiyuan-Fan
+  repo: Awesome-DeepSeek-Harness-Plugins
+  license: MIT
+  stars: 461
+  forks: 42
+  openIssues: 6
+versions: []

@@ -1,0 +1,7 @@
+version: 1
+name: '@sandbaseai/dsh-plugin-store'
+github:
+  owner: sandbaseai
+  repo: sandbaseai-dsh-plugin-store
+  stars: 2
+versions: []

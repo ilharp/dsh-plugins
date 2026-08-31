@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-applicants
+github:
+  owner: Octo-o-o-o
+  repo: deepseek-harness-applicants
+  language: JavaScript
+  license: MIT
+  stars: 54
+  forks: 2
+  openIssues: 1
+versions: []

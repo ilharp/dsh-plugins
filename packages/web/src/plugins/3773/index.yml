@@ -1,0 +1,16 @@
+version: 1
+name: dsh-ptc-cordis-preset
+github:
+  owner: KannaKuron
+  repo: dsh-ptc-cordis-preset
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-ptc-cordis-preset
+versions:
+  - packageVersion: 0.6.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1

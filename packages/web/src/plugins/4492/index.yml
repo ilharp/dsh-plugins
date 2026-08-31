@@ -1,0 +1,17 @@
+version: 1
+name: deepseek-harness-workbench-plugin
+github:
+  owner: loadingvx
+  repo: deepseek-harness-workbench-plugin
+  language: TypeScript
+  license: MIT
+  stars: 29
+  forks: 7
+  openIssues: 1
+npm:
+  name: dsh-workbench-plugin
+versions:
+  - packageVersion: 0.1.30
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.32
+    dshVersion: v0.1.2-alpha.1

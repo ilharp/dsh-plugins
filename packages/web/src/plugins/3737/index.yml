@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-lookatstudy
+github:
+  owner: Kaiji-Z
+  repo: dsh-plugin-lookatstudy
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-plugin-lookatstudy
+versions:
+  - packageVersion: 0.11.1
+    dshVersion: v0.1.2-alpha.1

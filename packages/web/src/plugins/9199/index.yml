@@ -1,0 +1,10 @@
+version: 1
+name: awesome-deepseek-harness-plugins
+github:
+  owner: walkinglabs
+  repo: awesome-deepseek-harness-plugins
+  license: NOASSERTION
+  stars: 15
+  forks: 5
+  openIssues: 7
+versions: []

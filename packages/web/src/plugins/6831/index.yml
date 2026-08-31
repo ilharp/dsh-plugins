@@ -1,0 +1,14 @@
+version: 1
+name: dsh-enhanced-plugins
+github:
+  owner: sky-unicorn
+  repo: dsh-enhanced-plugins
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

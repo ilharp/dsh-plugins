@@ -1,0 +1,10 @@
+version: 1
+name: tonghuashun-webui
+github:
+  owner: renat3u
+  repo: tonghuashun-webui
+  language: TypeScript
+  stars: 18
+  forks: 0
+  openIssues: 0
+versions: []

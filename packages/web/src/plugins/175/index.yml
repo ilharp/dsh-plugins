@@ -1,0 +1,11 @@
+version: 1
+name: pawin-brain-deepseek-harness
+github:
+  owner: 384961890-ui
+  repo: pawin-brain-deepseek-harness
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

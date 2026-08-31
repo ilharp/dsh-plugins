@@ -1,0 +1,11 @@
+version: 1
+name: DeepSeek-Harness-billing-plugin
+github:
+  owner: WilliamLIiii
+  repo: DeepSeek-Harness-billing-plugin
+  language: TypeScript
+  license: MIT
+  stars: 9
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-workspace-explorer
+github:
+  owner: Jiyr0119
+  repo: dsh-workspace-explorer
+  language: JavaScript
+  license: MIT
+  stars: 14
+  forks: 0
+npm:
+  name: '@jiyr0119/dsh-workspace-explorer'
+versions:
+  - packageVersion: 0.6.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.3
+    dshVersion: v0.1.2-alpha.1

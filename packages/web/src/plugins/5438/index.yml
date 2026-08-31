@@ -1,0 +1,14 @@
+version: 1
+name: dsh-turn-budget
+github:
+  owner: Nunchakus888
+  repo: dsh-turn-budget
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-turn-budget
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

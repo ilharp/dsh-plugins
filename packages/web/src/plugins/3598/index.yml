@@ -1,0 +1,14 @@
+version: 1
+name: calendar
+github:
+  owner: JohnXu22786
+  repo: calendar
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-calendar
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

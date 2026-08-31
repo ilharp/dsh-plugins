@@ -1,0 +1,14 @@
+version: 1
+name: dsh-custom-font
+github:
+  owner: Vergil-long
+  repo: dsh-custom-font
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-custom-font
+versions:
+  - packageVersion: 2.1.0
+    dshVersion: v0.1.2-alpha.1

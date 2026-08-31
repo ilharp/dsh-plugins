@@ -1,0 +1,14 @@
+version: 1
+name: dsh-spec-collab
+github:
+  owner: zx490336534
+  repo: dsh-spec-collab
+  language: TypeScript
+  license: Apache-2.0
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-spec-collab
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

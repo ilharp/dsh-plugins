@@ -1,0 +1,16 @@
+version: 1
+name: dsh-patchouli
+github:
+  owner: memorax-ai
+  repo: dsh-patchouli
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-patchouli
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

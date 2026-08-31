@@ -1,0 +1,17 @@
+version: 1
+name: DeepSeek-harness-wecom
+github:
+  owner: sliverp
+  repo: DeepSeek-harness-wecom
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: deepseek-harness-wecom
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

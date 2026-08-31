@@ -1,0 +1,13 @@
+version: 1
+name: orbis
+github:
+  owner: icodesign
+  repo: orbis
+  language: TypeScript
+  license: Apache-2.0
+  stars: 10
+  forks: 0
+  openIssues: 0
+npm:
+  name: orbis
+versions: []

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-compat-guard
+github:
+  owner: Shizuku-keop
+  repo: dsh-compat-guard
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-compat-guard
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

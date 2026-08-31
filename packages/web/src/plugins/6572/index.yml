@@ -1,0 +1,17 @@
+version: 1
+name: dsh-tdai-memory
+github:
+  owner: Scorp1o117
+  repo: dsh-tdai-memory
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 0
+  openIssues: 1
+npm:
+  name: dsh-tdai-memory
+versions:
+  - packageVersion: 0.2.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.14
+    dshVersion: v0.1.2-alpha.1

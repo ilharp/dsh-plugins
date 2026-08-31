@@ -1,0 +1,13 @@
+version: 1
+name: oh-dsh
+github:
+  owner: hust-open-atom-club
+  repo: oh-dsh
+  language: TypeScript
+  license: MIT
+  stars: 294
+  forks: 25
+  openIssues: 7
+versions:
+  - packageVersion: 0.1.10
+    dshVersion: v0.1.2-alpha.1

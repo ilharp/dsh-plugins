@@ -1,0 +1,14 @@
+version: 1
+name: dsh-codex
+github:
+  owner: ryanzhou
+  repo: dsh-codex
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@ryantzhou/dsh-codex'
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

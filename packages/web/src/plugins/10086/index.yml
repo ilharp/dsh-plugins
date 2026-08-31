@@ -1,0 +1,14 @@
+version: 1
+name: dsh-sandbox-permissions-not-strictly-wider-justification-empty-fix
+github:
+  owner: yajiangandchenchen
+  repo: dsh-sandbox-permissions-not-strictly-wider-justification-empty-fix
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.3
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,10 @@
+version: 1
+name: deepseek-harness-huggingface
+github:
+  owner: emredeveloper
+  repo: deepseek-harness-huggingface
+  language: TypeScript
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

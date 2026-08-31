@@ -1,0 +1,17 @@
+version: 1
+name: dsh-ears
+github:
+  owner: WizisCool
+  repo: dsh-ears
+  language: TypeScript
+  license: MIT
+  stars: 13
+  forks: 4
+  openIssues: 0
+npm:
+  name: dsh-ears
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: TokenLedger
+github:
+  owner: zh667
+  repo: TokenLedger
+  language: JavaScript
+  license: MIT
+  stars: 190
+  forks: 14
+  openIssues: 0
+npm:
+  name: dsh-tokenledger
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-codebuddy-models
+github:
+  owner: evlon
+  repo: dsh-codebuddy-models
+  language: JavaScript
+  stars: 0
+npm:
+  name: dsh-codebuddy-models
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

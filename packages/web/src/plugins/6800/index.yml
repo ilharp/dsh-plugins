@@ -1,0 +1,14 @@
+version: 1
+name: dsh-novel-writer
+github:
+  owner: siweina
+  repo: dsh-novel-writer
+  language: JavaScript
+  license: MIT
+  stars: 14
+  forks: 0
+npm:
+  name: dsh-novel-writer
+versions:
+  - packageVersion: 3.7.0
+    dshVersion: v0.1.2-alpha.1

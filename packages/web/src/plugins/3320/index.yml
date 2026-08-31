@@ -1,0 +1,15 @@
+version: 1
+name: dsh-flowglass
+github:
+  owner: Iwctwbh
+  repo: dsh-flowglass
+  language: JavaScript
+  license: MIT
+  stars: 15
+  forks: 1
+  openIssues: 1
+npm:
+  name: dsh-flowglass
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

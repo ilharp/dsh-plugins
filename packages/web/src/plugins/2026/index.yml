@@ -1,0 +1,12 @@
+version: 1
+name: dsh-gacha-calendar
+github:
+  owner: EastMG
+  repo: dsh-gacha-calendar
+  language: JavaScript
+  stars: 1
+npm:
+  name: dsh-gacha-calendar
+versions:
+  - packageVersion: 0.8.6
+    dshVersion: v0.1.2-alpha.1

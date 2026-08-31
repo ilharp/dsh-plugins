@@ -1,0 +1,13 @@
+version: 1
+name: dsh-server-login
+github:
+  owner: pointer-a
+  repo: dsh-server-login
+  language: TypeScript
+  license: MIT
+  stars: 14
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

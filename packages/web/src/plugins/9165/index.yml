@@ -1,0 +1,13 @@
+version: 1
+name: plugin-registry
+github:
+  owner: vlln
+  repo: plugin-registry
+  language: TypeScript
+  license: MIT
+  stars: 57
+  forks: 3
+  openIssues: 9
+npm:
+  name: plugin-registry
+versions: []

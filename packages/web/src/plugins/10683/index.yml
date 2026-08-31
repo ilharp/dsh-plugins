@@ -1,0 +1,12 @@
+version: 1
+name: dsh-codex-continue
+github:
+  owner: zhoujianbin
+  repo: dsh-codex-continue
+  language: TypeScript
+  stars: 0
+npm:
+  name: dsh-codex-continue
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

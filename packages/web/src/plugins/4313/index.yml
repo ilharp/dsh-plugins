@@ -1,0 +1,14 @@
+version: 1
+name: dsh-session-cleaner
+github:
+  owner: lijian-ui
+  repo: dsh-session-cleaner
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 1
+npm:
+  name: '@lijian-ui/dsh-session-cleaner'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

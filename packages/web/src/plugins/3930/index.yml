@@ -1,0 +1,14 @@
+version: 1
+name: dsh-lcx-codex
+github:
+  owner: kk3ya03-star
+  repo: dsh-lcx-codex
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-lcx-codex
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

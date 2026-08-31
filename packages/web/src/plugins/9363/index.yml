@@ -1,0 +1,15 @@
+version: 1
+name: dsh-niulai-pet
+github:
+  owner: whitefirer
+  repo: dsh-niulai-pet
+  language: JavaScript
+  license: MIT
+  stars: 15
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-niulai-pet
+versions:
+  - packageVersion: 0.4.9
+    dshVersion: v0.1.2-alpha.1

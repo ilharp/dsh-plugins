@@ -1,0 +1,11 @@
+version: 1
+name: deepSea
+github:
+  owner: evil7
+  repo: deepSea
+  language: TypeScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,17 @@
+version: 1
+name: dsh-wallpaper_share
+github:
+  owner: YRN-playmaker
+  repo: dsh-wallpaper_share
+  language: JavaScript
+  license: GPL-3.0
+  stars: 11
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-wallpaper_share
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 26.8.23
+    dshVersion: v0.1.2-alpha.1

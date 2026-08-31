@@ -1,0 +1,11 @@
+version: 1
+name: multimodal-bridge
+github:
+  owner: Spirit4471
+  repo: multimodal-bridge
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

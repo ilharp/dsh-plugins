@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-store
+github:
+  owner: w769721503
+  repo: dsh-plugin-store
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,7 @@
+version: 1
+name: dsh-overleaf-workbench
+github:
+  owner: gychen-NJU
+  repo: dsh-overleaf-workbench
+  stars: 0
+versions: []

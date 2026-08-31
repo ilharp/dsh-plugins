@@ -1,0 +1,15 @@
+version: 1
+name: dsh-navigation-bar
+github:
+  owner: KeLearns
+  repo: dsh-navigation-bar
+  language: JavaScript
+  license: MIT
+  stars: 7
+  forks: 0
+  openIssues: 1
+npm:
+  name: '@kelearns/dsh-navigation-bar'
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-nous-portal-free-provider
+github:
+  owner: jiesou
+  repo: dsh-nous-portal-free-provider
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@jiesou/dsh-nous-portal-free-provider'
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

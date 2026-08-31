@@ -1,0 +1,15 @@
+version: 1
+name: dsh-whale-report
+github:
+  owner: SenmuuuuW
+  repo: dsh-whale-report
+  language: TypeScript
+  license: MIT
+  stars: 31
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-whale-report
+versions:
+  - packageVersion: 0.5.2
+    dshVersion: v0.1.2-alpha.1

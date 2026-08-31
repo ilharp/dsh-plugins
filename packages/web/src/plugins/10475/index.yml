@@ -1,0 +1,8 @@
+version: 1
+name: dsh-background-plugin
+github:
+  owner: z827439974
+  repo: dsh-background-plugin
+  license: MIT
+  stars: 2
+versions: []

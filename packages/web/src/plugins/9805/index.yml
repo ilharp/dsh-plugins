@@ -1,0 +1,13 @@
+version: 1
+name: dsh-token-usage-xc
+github:
+  owner: xchannel1987
+  repo: dsh-token-usage-xc
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-token-usage-xc
+versions:
+  - packageVersion: 0.2.16
+    dshVersion: v0.1.2-alpha.1

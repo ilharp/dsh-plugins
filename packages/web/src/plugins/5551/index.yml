@@ -1,0 +1,11 @@
+version: 1
+name: omdsh
+github:
+  owner: omdsh-dev
+  repo: omdsh
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

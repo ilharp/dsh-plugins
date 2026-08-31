@@ -1,0 +1,15 @@
+version: 1
+name: dsh-web-search-exa
+github:
+  owner: TonyDua
+  repo: dsh-web-search-exa
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 2
+  openIssues: 1
+npm:
+  name: '@tonydua/dsh-web-search-exa'
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

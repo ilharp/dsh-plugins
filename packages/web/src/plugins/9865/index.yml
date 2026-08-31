@@ -1,0 +1,14 @@
+version: 1
+name: dsh-music-player
+github:
+  owner: xiaoqiezi-china
+  repo: dsh-music-player
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-music-player
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

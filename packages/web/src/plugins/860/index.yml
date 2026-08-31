@@ -1,0 +1,11 @@
+version: 1
+name: dsh-desktop-plugin
+github:
+  owner: beex-labs
+  repo: dsh-desktop-plugin
+  language: C#
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-turn-fold
+github:
+  owner: CH4ACKO3
+  repo: dsh-turn-fold
+  language: JavaScript
+  license: MIT
+  stars: 11
+  forks: 2
+  openIssues: 0
+npm:
+  name: '@ch4acko3/dsh-turn-fold'
+versions:
+  - packageVersion: 0.4.2
+    dshVersion: v0.1.2-alpha.1

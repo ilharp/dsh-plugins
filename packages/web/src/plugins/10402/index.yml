@@ -1,0 +1,14 @@
+version: 1
+name: dsh-cache-hit-decimal
+github:
+  owner: Yuuu0109
+  repo: dsh-cache-hit-decimal
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@yuuu0109/dsh-cache-hit-decimal'
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

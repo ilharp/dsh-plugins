@@ -1,0 +1,15 @@
+version: 1
+name: dsh-client-shortcuts
+github:
+  owner: blue-a11y
+  repo: dsh-client-shortcuts
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@blue-a11y/dsh-client-shortcuts'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-network-settings
+github:
+  owner: kanneiren
+  repo: dsh-network-settings
+  language: TypeScript
+  license: MIT
+  stars: 13
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-network-settings
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1

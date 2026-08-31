@@ -1,0 +1,19 @@
+version: 1
+name: pack-agent
+github:
+  owner: sakikoTGW
+  repo: pack-agent
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@sakikotgw/pack-agent'
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.4
+    dshVersion: v0.1.2-alpha.1

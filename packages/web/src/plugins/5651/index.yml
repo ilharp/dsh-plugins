@@ -1,0 +1,13 @@
+version: 1
+name: dsh-always-apply
+github:
+  owner: oThTJx
+  repo: dsh-always-apply
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: '@firefly0621/dsh-always-apply'
+versions:
+  - packageVersion: 0.1.0-rc.11
+    dshVersion: v0.1.2-alpha.1

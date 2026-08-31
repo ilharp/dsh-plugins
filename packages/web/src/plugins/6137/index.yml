@@ -1,0 +1,15 @@
+version: 1
+name: dsh-us-stocks
+github:
+  owner: Realyujie
+  repo: dsh-us-stocks
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-us-stocks
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

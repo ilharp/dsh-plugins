@@ -1,0 +1,12 @@
+version: 1
+name: deepseek_herdr
+github:
+  owner: qinglang8609
+  repo: deepseek_herdr
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

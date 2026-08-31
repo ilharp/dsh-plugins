@@ -1,0 +1,14 @@
+version: 1
+name: dsh-session-nexus
+github:
+  owner: qiushi-dev
+  repo: dsh-session-nexus
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-session-nexus
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

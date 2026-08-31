@@ -1,0 +1,12 @@
+version: 1
+name: dsh-soundscape
+github:
+  owner: berserk0501
+  repo: dsh-soundscape
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1

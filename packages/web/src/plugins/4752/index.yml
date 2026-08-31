@@ -1,0 +1,14 @@
+version: 1
+name: dsh-swarm
+github:
+  owner: Makoveli89
+  repo: dsh-swarm
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-swarm
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

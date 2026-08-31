@@ -1,0 +1,12 @@
+version: 1
+name: dsh-agent-gate
+github:
+  owner: xingyingyuzhui
+  repo: dsh-agent-gate
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.13
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: slcatwujian-dsh-vision-plugin
+github:
+  owner: yan5236
+  repo: slcatwujian-dsh-vision-plugin
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

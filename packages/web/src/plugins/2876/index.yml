@@ -1,0 +1,12 @@
+version: 1
+name: dsh-notebooks
+github:
+  owner: havingautism
+  repo: dsh-notebooks
+  language: JavaScript
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

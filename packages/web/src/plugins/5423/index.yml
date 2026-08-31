@@ -1,0 +1,12 @@
+version: 1
+name: voco-input-sh
+github:
+  owner: Nothree-code
+  repo: voco-input-sh
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

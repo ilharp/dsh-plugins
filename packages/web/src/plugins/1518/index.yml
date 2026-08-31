@@ -1,0 +1,14 @@
+version: 1
+name: dsh-expmem
+github:
+  owner: creativedswork
+  repo: dsh-expmem
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 1
+npm:
+  name: '@creative-dswork/dsh-expmem'
+versions:
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1

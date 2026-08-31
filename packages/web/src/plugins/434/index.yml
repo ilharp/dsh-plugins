@@ -1,0 +1,12 @@
+version: 1
+name: dsh-bcc
+github:
+  owner: aixlb
+  repo: dsh-bcc
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

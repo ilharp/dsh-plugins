@@ -1,0 +1,8 @@
+version: 1
+name: dsh-tool-council
+github:
+  owner: vinoth4v
+  repo: dsh-tool-council
+  license: MIT
+  stars: 0
+versions: []

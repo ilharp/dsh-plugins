@@ -1,0 +1,13 @@
+version: 1
+name: dsh-tool-calculator
+github:
+  owner: omdsh-dev
+  repo: dsh-tool-calculator
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1

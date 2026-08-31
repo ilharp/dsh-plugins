@@ -1,0 +1,8 @@
+version: 1
+name: dsh-md2pdf
+github:
+  owner: Raymond-Leung7
+  repo: dsh-md2pdf
+  license: NOASSERTION
+  stars: 0
+versions: []

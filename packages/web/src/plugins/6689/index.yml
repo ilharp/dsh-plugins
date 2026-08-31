@@ -1,0 +1,15 @@
+version: 1
+name: DSH-taskboard
+github:
+  owner: shengsheng90
+  repo: DSH-taskboard
+  language: TypeScript
+  license: Apache-2.0
+  stars: 97
+  forks: 6
+  openIssues: 1
+npm:
+  name: '@shengsheng/dsh-taskboard'
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

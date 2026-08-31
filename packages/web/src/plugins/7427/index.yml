@@ -1,0 +1,15 @@
+version: 1
+name: dsh-persist
+github:
+  owner: tluoluo
+  repo: dsh-persist
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-persist
+versions:
+  - packageVersion: 0.2.5
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,10 @@
+version: 1
+name: dsh-client-usage
+github:
+  owner: jLeon-account
+  repo: dsh-client-usage
+  language: JavaScript
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions: []

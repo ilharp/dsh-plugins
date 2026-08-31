@@ -1,0 +1,15 @@
+version: 1
+name: dsh-builtin-toggles
+github:
+  owner: Starfie1d1272
+  repo: dsh-builtin-toggles
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 1
+  openIssues: 1
+npm:
+  name: dsh-builtin-toggles
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

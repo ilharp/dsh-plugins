@@ -1,0 +1,14 @@
+version: 1
+name: dsh-whale-girl
+github:
+  owner: nickkkkkk123123
+  repo: dsh-whale-girl
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 1
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

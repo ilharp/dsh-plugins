@@ -1,0 +1,11 @@
+version: 1
+name: dsh-desktop
+github:
+  owner: mrbbbaixue
+  repo: dsh-desktop
+  language: C#
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 1
+versions: []

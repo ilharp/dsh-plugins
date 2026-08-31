@@ -1,0 +1,12 @@
+version: 1
+name: dsh-ventus-whale
+github:
+  owner: mmzm0808
+  repo: dsh-ventus-whale
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

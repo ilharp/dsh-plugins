@@ -1,0 +1,15 @@
+version: 1
+name: risk-rule-design
+github:
+  owner: pypcfx-glitch
+  repo: risk-rule-design
+  language: JavaScript
+  license: MIT
+  stars: 11
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-plugin-risk-rule-design
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: DSH-Skill-Security-Inspector
+github:
+  owner: kakapengta
+  repo: DSH-Skill-Security-Inspector
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+versions:
+  - packageVersion: 0.1.0-rc.8
+    dshVersion: v0.1.2-alpha.1

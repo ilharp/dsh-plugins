@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugins
+github:
+  owner: NinjaSln-labs
+  repo: dsh-plugins
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

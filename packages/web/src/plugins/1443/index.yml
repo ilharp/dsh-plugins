@@ -1,0 +1,11 @@
+version: 1
+name: cocode
+github:
+  owner: cocode-agency
+  repo: cocode
+  language: TypeScript
+  license: MIT
+  stars: 162
+  forks: 37
+  openIssues: 2
+versions: []

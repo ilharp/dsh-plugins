@@ -1,0 +1,15 @@
+version: 1
+name: dsh-track
+github:
+  owner: fakechris
+  repo: dsh-track
+  language: HTML
+  license: BSD-3-Clause
+  stars: 6
+  forks: 1
+  openIssues: 0
+npm:
+  name: '@fakechris/dsh-track'
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

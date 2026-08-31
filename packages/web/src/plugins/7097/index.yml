@@ -1,0 +1,12 @@
+version: 1
+name: dsh-tab-alert
+github:
+  owner: Suef-666
+  repo: dsh-tab-alert
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

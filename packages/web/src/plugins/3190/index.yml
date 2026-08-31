@@ -1,0 +1,14 @@
+version: 1
+name: dsh-lens-rail
+github:
+  owner: hzpeng57
+  repo: dsh-lens-rail
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@hzpeng/dsh-lens-rail'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

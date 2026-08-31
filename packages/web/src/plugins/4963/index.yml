@@ -1,0 +1,12 @@
+version: 1
+name: dsh-infinite-gen-2
+github:
+  owner: Minglink
+  repo: dsh-infinite-gen-2
+  language: PowerShell
+  license: MIT
+  stars: 657
+  forks: 32
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

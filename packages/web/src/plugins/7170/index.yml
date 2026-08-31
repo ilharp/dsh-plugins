@@ -1,0 +1,10 @@
+version: 1
+name: dsh-voice-assistant
+github:
+  owner: supersyh-sss
+  repo: dsh-voice-assistant
+  language: JavaScript
+  stars: 1
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

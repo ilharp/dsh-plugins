@@ -1,0 +1,14 @@
+version: 1
+name: dsh-token-usage
+github:
+  owner: wycto
+  repo: dsh-token-usage
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: '@wycto/dsh-token-usage'
+versions:
+  - packageVersion: 0.1.14
+    dshVersion: v0.1.2-alpha.1

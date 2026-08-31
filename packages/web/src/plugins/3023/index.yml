@@ -1,0 +1,14 @@
+version: 1
+name: dsh-file-upload
+github:
+  owner: HongMing-Huang
+  repo: dsh-file-upload
+  language: TypeScript
+  license: MIT
+  stars: 14
+  forks: 4
+npm:
+  name: dsh-file-upload
+versions:
+  - packageVersion: 0.5.2
+    dshVersion: v0.1.2-alpha.1

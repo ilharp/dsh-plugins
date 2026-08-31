@@ -1,0 +1,14 @@
+version: 1
+name: dsh-dual-plugin-guide
+github:
+  owner: Fectivnfy112357
+  repo: dsh-dual-plugin-guide
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-dual-plugin-guide
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

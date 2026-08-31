@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-meow-speech
+github:
+  owner: tumi-huakai
+  repo: dsh-plugin-meow-speech
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@tumi-huakai/dsh-plugin-meow-speech'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

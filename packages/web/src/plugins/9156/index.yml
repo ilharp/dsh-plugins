@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-live-catalog
+github:
+  owner: vivi77-max
+  repo: dsh-plugin-live-catalog
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-skill-manager
+github:
+  owner: ZBCs-StudioCr-CN
+  repo: dsh-skill-manager
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

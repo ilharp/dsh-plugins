@@ -1,0 +1,14 @@
+version: 1
+name: dsh-mini-games
+github:
+  owner: aga-j
+  repo: dsh-mini-games
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-mini-games
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

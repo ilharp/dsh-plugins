@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin
+github:
+  owner: Gandufu
+  repo: dsh-plugin
+  language: CSS
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

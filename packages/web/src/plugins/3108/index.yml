@@ -1,0 +1,11 @@
+version: 1
+name: news-agent
+github:
+  owner: huawolf
+  repo: news-agent
+  language: Python
+  license: MIT
+  stars: 13
+  forks: 3
+  openIssues: 2
+versions: []

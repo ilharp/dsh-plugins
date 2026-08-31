@@ -1,0 +1,16 @@
+version: 1
+name: deepseek-harness-relay
+github:
+  owner: sorsama
+  repo: deepseek-harness-relay
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 2
+npm:
+  name: dsh-relay
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-usage
+github:
+  owner: GHJIVHIDD
+  repo: dsh-plugin-usage
+  language: JavaScript
+  license: Apache-2.0
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

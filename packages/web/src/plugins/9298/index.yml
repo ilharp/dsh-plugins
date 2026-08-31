@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-vsc-extension
+github:
+  owner: weinibuliu
+  repo: deepseek-harness-vsc-extension
+  language: TypeScript
+  license: MIT
+  stars: 23
+  forks: 2
+  openIssues: 1
+versions: []

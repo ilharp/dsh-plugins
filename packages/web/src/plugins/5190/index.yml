@@ -1,0 +1,14 @@
+version: 1
+name: dsh-model-memory
+github:
+  owner: Mutx163
+  repo: dsh-model-memory
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-model-memory
+versions:
+  - packageVersion: 0.1.11
+    dshVersion: v0.1.2-alpha.1

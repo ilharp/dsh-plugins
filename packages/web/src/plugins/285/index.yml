@@ -1,0 +1,12 @@
+version: 1
+name: dsh-constellation
+github:
+  owner: a805026135
+  repo: dsh-constellation
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.5.6
+    dshVersion: v0.1.2-alpha.1

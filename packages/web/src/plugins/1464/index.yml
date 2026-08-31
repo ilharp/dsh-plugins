@@ -1,0 +1,11 @@
+version: 1
+name: dsh-liang-rheostat
+github:
+  owner: Codingendless
+  repo: dsh-liang-rheostat
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

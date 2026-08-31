@@ -1,0 +1,13 @@
+version: 1
+name: dsh-quota-meter
+github:
+  owner: ai-shushu
+  repo: dsh-quota-meter
+  language: JavaScript
+  license: NOASSERTION
+  stars: 16
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

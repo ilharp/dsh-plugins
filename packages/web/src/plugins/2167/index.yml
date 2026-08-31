@@ -1,0 +1,14 @@
+version: 1
+name: dsh-mermaid-zoom
+github:
+  owner: evanfang0054
+  repo: dsh-mermaid-zoom
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-mermaid-zoom
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

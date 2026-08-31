@@ -1,0 +1,9 @@
+version: 1
+name: dsh-tool-summary
+github:
+  owner: statem-li
+  repo: dsh-tool-summary
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions: []

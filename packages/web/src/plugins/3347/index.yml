@@ -1,0 +1,14 @@
+version: 1
+name: DSH-Creator
+github:
+  owner: Jackywxsz
+  repo: DSH-Creator
+  language: TypeScript
+  license: MIT
+  stars: 59
+  forks: 10
+versions:
+  - packageVersion: 0.1.0-beta.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0-beta.5
+    dshVersion: v0.1.2-alpha.1

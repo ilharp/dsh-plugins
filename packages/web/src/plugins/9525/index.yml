@@ -1,0 +1,14 @@
+version: 1
+name: dsh-deepseek-dashboard
+github:
+  owner: WSL043
+  repo: dsh-deepseek-dashboard
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-deepseek-dashboard
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

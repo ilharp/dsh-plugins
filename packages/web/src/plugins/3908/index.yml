@@ -1,0 +1,13 @@
+version: 1
+name: dsh-plugin-subhub
+github:
+  owner: kinoward
+  repo: dsh-plugin-subhub
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 1.8.1
+    dshVersion: v0.1.2-alpha.1

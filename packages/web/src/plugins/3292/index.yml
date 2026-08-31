@@ -1,0 +1,16 @@
+version: 1
+name: dsh-hermes-memory
+github:
+  owner: isheng-eqi
+  repo: dsh-hermes-memory
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 0
+npm:
+  name: dsh-hermes-memory
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.1.8
+    dshVersion: v0.1.2-alpha.1

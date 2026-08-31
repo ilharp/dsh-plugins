@@ -1,0 +1,16 @@
+version: 1
+name: Kabutack
+github:
+  owner: SunQingyuan0
+  repo: Kabutack
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 3
+  forks: 0
+npm:
+  name: '@galactus/kabutack'
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.0.2
+    dshVersion: v0.1.2-alpha.1

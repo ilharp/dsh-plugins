@@ -1,0 +1,11 @@
+version: 1
+name: dsh-cc-connect
+github:
+  owner: whiteguo233
+  repo: dsh-cc-connect
+  language: Go
+  license: BSD-3-Clause
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

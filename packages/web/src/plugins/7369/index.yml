@@ -1,0 +1,11 @@
+version: 1
+name: dsh-vision-LMstudio
+github:
+  owner: TiankunDai
+  repo: dsh-vision-LMstudio
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

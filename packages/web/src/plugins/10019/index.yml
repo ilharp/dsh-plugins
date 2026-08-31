@@ -1,0 +1,11 @@
+version: 1
+name: dsh-easy-port-manager
+github:
+  owner: xswt442-cmd
+  repo: dsh-easy-port-manager
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

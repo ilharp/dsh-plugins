@@ -1,0 +1,9 @@
+version: 1
+name: dsh-local-vision
+github:
+  owner: hyls9527
+  repo: dsh-local-vision
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+versions: []

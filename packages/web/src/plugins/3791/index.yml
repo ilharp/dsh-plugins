@@ -1,0 +1,17 @@
+version: 1
+name: dsh-bottom-bar
+github:
+  owner: kc0ed
+  repo: dsh-bottom-bar
+  language: JavaScript
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@kc0ed/dsh-bottom-bar'
+versions:
+  - packageVersion: 1.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.2.0
+    dshVersion: v0.1.2-alpha.1

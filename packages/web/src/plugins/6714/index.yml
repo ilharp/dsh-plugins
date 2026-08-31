@@ -1,0 +1,10 @@
+version: 1
+name: eyes-for-deepseek
+github:
+  owner: shinelon
+  repo: eyes-for-deepseek
+  language: TypeScript
+  stars: 6
+  forks: 2
+  openIssues: 0
+versions: []

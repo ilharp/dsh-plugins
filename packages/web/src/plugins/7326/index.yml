@@ -1,0 +1,10 @@
+version: 1
+name: dsh-meme-hub
+github:
+  owner: the-beating-light-of-the-nail
+  repo: dsh-meme-hub
+  license: NOASSERTION
+  stars: 30
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,13 @@
+version: 1
+name: prompt-optimizer
+github:
+  owner: x118111
+  repo: prompt-optimizer
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: prompt-optimizer
+versions: []

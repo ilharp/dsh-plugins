@@ -1,0 +1,14 @@
+version: 1
+name: dsh-session-delete
+github:
+  owner: Yicijiuhaobala
+  repo: dsh-session-delete
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-session-delete
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

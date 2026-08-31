@@ -1,0 +1,13 @@
+version: 1
+name: dsh-wallpaper-skin
+github:
+  owner: ddbj-hub
+  repo: dsh-wallpaper-skin
+  language: JavaScript
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-wallpaper-skin
+versions:
+  - packageVersion: 1.4.1
+    dshVersion: v0.1.2-alpha.1

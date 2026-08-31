@@ -1,0 +1,11 @@
+version: 1
+name: dsh-agentfuse-plugin
+github:
+  owner: MkaliezZ
+  repo: dsh-agentfuse-plugin
+  language: TypeScript
+  license: Apache-2.0
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

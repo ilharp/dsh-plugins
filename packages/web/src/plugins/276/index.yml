@@ -1,0 +1,12 @@
+version: 1
+name: dsh-arcaea-theme
+github:
+  owner: a1swg1159-pixel
+  repo: dsh-arcaea-theme
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1

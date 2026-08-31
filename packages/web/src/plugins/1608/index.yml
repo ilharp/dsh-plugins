@@ -1,0 +1,11 @@
+version: 1
+name: dsh-beacons
+github:
+  owner: Da-Mie
+  repo: dsh-beacons
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

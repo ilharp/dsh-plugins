@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-docker
+github:
+  owner: runzhliu
+  repo: deepseek-harness-docker
+  language: JavaScript
+  license: MIT
+  stars: 42
+  forks: 2
+  openIssues: 5
+versions: []

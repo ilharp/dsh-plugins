@@ -1,0 +1,17 @@
+version: 1
+name: dsh-codex-timeline
+github:
+  owner: Wine-Red
+  repo: dsh-codex-timeline
+  language: JavaScript
+  license: MIT
+  stars: 11
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-codex-timeline
+versions:
+  - packageVersion: 0.5.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.5
+    dshVersion: v0.1.2-alpha.1

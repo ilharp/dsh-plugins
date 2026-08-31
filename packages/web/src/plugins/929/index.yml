@@ -1,0 +1,13 @@
+version: 1
+name: dsh-101
+github:
+  owner: bill9109
+  repo: dsh-101
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 6
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-session-management
+github:
+  owner: cokiscarazo-rgb
+  repo: dsh-session-management
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-session-management
+versions:
+  - packageVersion: 1.0.6
+    dshVersion: v0.1.2-alpha.1

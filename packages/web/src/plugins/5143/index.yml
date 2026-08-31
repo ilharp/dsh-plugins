@@ -1,0 +1,12 @@
+version: 1
+name: dsh-liangwengu
+github:
+  owner: mozhuanzuojing
+  repo: dsh-liangwengu
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1

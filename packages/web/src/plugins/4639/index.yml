@@ -1,0 +1,14 @@
+version: 1
+name: dsh-catnap-studio
+github:
+  owner: luoyan96
+  repo: dsh-catnap-studio
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-catnap-plugins
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1

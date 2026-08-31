@@ -1,0 +1,16 @@
+version: 1
+name: dsh-code-index
+github:
+  owner: lemonxiny55
+  repo: dsh-code-index
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-code-index
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

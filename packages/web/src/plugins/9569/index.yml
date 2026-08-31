@@ -1,0 +1,14 @@
+version: 1
+name: dsh-read-image-jpeg-fallback
+github:
+  owner: wuyiwuaa1-ship-it
+  repo: dsh-read-image-jpeg-fallback
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-read-image-jpeg-fallback
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

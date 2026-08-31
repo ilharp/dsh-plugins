@@ -1,0 +1,14 @@
+version: 1
+name: dsh-co-authored-by
+github:
+  owner: shelken
+  repo: dsh-co-authored-by
+  language: TypeScript
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@shelken/dsh-co-authored-by'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

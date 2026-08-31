@@ -1,0 +1,14 @@
+version: 1
+name: dsh-file-upload
+github:
+  owner: zhangbo1201
+  repo: dsh-file-upload
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-local-file-upload
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

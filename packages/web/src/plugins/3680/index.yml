@@ -1,0 +1,15 @@
+version: 1
+name: dsh-galgame-localization-reverse
+github:
+  owner: julescules
+  repo: dsh-galgame-localization-reverse
+  language: Python
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 1
+versions:
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

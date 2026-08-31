@@ -1,0 +1,11 @@
+version: 1
+name: dsh-work
+github:
+  owner: vibeinging
+  repo: dsh-work
+  language: JavaScript
+  license: MIT
+  stars: 632
+  forks: 4
+  openIssues: 3
+versions: []

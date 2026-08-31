@@ -1,0 +1,14 @@
+version: 1
+name: dsh-openclaw-persona
+github:
+  owner: lynsucceed
+  repo: dsh-openclaw-persona
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@lynsucceed/dsh-openclaw-persona'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

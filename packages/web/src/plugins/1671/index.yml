@@ -1,0 +1,13 @@
+version: 1
+name: dsh-wending-git-workbench
+github:
+  owner: dd2673
+  repo: dsh-wending-git-workbench
+  language: TypeScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

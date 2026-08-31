@@ -1,0 +1,14 @@
+version: 1
+name: dsh-workspace-jump
+github:
+  owner: fogmodel
+  repo: dsh-workspace-jump
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-workspace-jump
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

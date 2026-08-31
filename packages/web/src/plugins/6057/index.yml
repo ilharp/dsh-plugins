@@ -1,0 +1,16 @@
+version: 1
+name: dsh-hotspots
+github:
+  owner: qys0012
+  repo: dsh-hotspots
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 1
+npm:
+  name: dsh-hotspots
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

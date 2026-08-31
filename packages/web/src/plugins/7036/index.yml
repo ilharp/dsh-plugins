@@ -1,0 +1,15 @@
+version: 1
+name: dsh-custom-background
+github:
+  owner: StarryHui
+  repo: dsh-custom-background
+  language: TypeScript
+  license: MIT
+  stars: 6
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@starryhui/dsh-background'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

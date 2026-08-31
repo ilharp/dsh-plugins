@@ -1,0 +1,11 @@
+version: 1
+name: cli
+github:
+  owner: AtlasCloudAI
+  repo: cli
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

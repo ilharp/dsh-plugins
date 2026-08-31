@@ -1,0 +1,11 @@
+version: 1
+name: raphael-loop
+github:
+  owner: raphael-liu
+  repo: raphael-loop
+  language: Python
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions: []

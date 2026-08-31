@@ -1,0 +1,12 @@
+version: 1
+name: dsh-workspace-menu
+github:
+  owner: 0imzero
+  repo: dsh-workspace-menu
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 1.2.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-project-anchor
+github:
+  owner: KKLL2025
+  repo: dsh-project-anchor
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0-preview.1
+    dshVersion: v0.1.2-alpha.1

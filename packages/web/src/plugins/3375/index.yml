@@ -1,0 +1,15 @@
+version: 1
+name: dsh-sound-effects-plugin
+github:
+  owner: JasonJin2006
+  repo: dsh-sound-effects-plugin
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@jasonjin06/dsh-sound-effects'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

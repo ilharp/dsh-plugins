@@ -1,0 +1,14 @@
+version: 1
+name: dsh-video-player
+github:
+  owner: fuhuonvshen
+  repo: dsh-video-player
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-video-player
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

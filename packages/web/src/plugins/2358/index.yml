@@ -1,0 +1,14 @@
+version: 1
+name: dsh-msg-rewind
+github:
+  owner: flow2dream
+  repo: dsh-msg-rewind
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+npm:
+  name: '@flow2dream/dsh-msg-rewind'
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

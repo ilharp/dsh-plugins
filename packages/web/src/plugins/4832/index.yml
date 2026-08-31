@@ -1,0 +1,19 @@
+version: 1
+name: dsh-bash-terminal
+github:
+  owner: MAXeaglet
+  repo: dsh-bash-terminal
+  language: JavaScript
+  license: MIT
+  stars: 13
+  forks: 2
+  openIssues: 1
+npm:
+  name: dsh-bash-terminal
+versions:
+  - packageVersion: 0.3.10
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.11
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.14
+    dshVersion: v0.1.2-alpha.1

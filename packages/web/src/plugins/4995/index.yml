@@ -1,0 +1,16 @@
+version: 1
+name: dsh-subagent-ui
+github:
+  owner: miuzel
+  repo: dsh-subagent-ui
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-subagent-workspace-ui
+versions:
+  - packageVersion: 1.0.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.2.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-desktop-operator
+github:
+  owner: zjh02249
+  repo: dsh-desktop-operator
+  language: PowerShell
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.10.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.12.1
+    dshVersion: v0.1.2-alpha.1

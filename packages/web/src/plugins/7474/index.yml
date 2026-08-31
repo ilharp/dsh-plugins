@@ -1,0 +1,14 @@
+version: 1
+name: dsh-restart
+github:
+  owner: Towzai
+  repo: dsh-restart
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-restart
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

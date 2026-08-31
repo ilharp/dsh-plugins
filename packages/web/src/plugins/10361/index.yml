@@ -1,0 +1,14 @@
+version: 1
+name: dsh-mobile-shell
+github:
+  owner: Yui-Little
+  repo: dsh-mobile-shell
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1

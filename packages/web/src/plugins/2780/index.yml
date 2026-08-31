@@ -1,0 +1,11 @@
+version: 1
+name: dsh-android-app
+github:
+  owner: Hakunm
+  repo: dsh-android-app
+  language: Kotlin
+  license: AGPL-3.0
+  stars: 7
+  forks: 0
+  openIssues: 0
+versions: []

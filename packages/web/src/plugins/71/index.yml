@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-miliastra-toolbox
+github:
+  owner: '1475505'
+  repo: dsh-plugin-miliastra-toolbox
+  language: TypeScript
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

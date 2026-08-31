@@ -1,0 +1,14 @@
+version: 1
+name: dsh-long-term-memory
+github:
+  owner: windrover
+  repo: dsh-long-term-memory
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.2.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.6
+    dshVersion: v0.1.2-alpha.1

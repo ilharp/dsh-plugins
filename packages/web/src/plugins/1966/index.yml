@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-desktop
+github:
+  owner: dsh-tauri-desk
+  repo: deepseek-harness-desktop
+  language: Rust
+  license: MIT
+  stars: 1280
+  forks: 60
+  openIssues: 8
+versions: []

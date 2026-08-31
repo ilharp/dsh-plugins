@@ -1,0 +1,12 @@
+version: 1
+name: dsh-angelina-theme
+github:
+  owner: Demigod-cyber
+  repo: dsh-angelina-theme
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

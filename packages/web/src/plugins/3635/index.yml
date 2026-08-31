@@ -1,0 +1,12 @@
+version: 1
+name: worktree-mgr
+github:
+  owner: JohnXu22786
+  repo: worktree-mgr
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 1
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

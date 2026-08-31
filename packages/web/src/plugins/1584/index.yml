@@ -1,0 +1,16 @@
+version: 1
+name: dsh-coding-kit
+github:
+  owner: Cyning12
+  repo: dsh-coding-kit
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-coding-kit
+versions:
+  - packageVersion: 1.7.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.9.2
+    dshVersion: v0.1.2-alpha.1

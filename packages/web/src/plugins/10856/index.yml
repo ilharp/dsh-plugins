@@ -1,0 +1,16 @@
+version: 1
+name: lunheng-article-pipeline-dsh
+github:
+  owner: zuoyunlai
+  repo: lunheng-article-pipeline-dsh
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: lunheng-article-pipeline
+versions:
+  - packageVersion: 2.3.7-dsh.8
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2.5.2-dsh.4
+    dshVersion: v0.1.2-alpha.1

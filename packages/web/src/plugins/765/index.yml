@@ -1,0 +1,14 @@
+version: 1
+name: dsh-token-usage
+github:
+  owner: az7627
+  repo: dsh-token-usage
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@az7627/dsh-token-usage'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

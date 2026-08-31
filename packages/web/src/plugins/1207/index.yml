@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-claude-import
+github:
+  owner: changhang155
+  repo: dsh-plugin-claude-import
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-plugin-claude-import
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-provider-model-configurator
+github:
+  owner: LiangYin233
+  repo: dsh-provider-model-configurator
+  language: JavaScript
+  license: MIT
+  stars: 11
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.3.9
+    dshVersion: v0.1.2-alpha.1

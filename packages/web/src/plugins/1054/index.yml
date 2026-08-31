@@ -1,0 +1,15 @@
+version: 1
+name: awesome-dsh-plugin
+github:
+  owner: bruc3van
+  repo: awesome-dsh-plugin
+  language: JavaScript
+  license: MIT
+  stars: 292
+  forks: 23
+  openIssues: 3
+npm:
+  name: awesome-dsh-plugin
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

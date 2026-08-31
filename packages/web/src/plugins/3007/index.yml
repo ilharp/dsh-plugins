@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-sysmon
+github:
+  owner: hnmrxz
+  repo: dsh-plugin-sysmon
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

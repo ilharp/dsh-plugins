@@ -1,0 +1,15 @@
+version: 1
+name: dsh-opencode-go-usage
+github:
+  owner: v587d
+  repo: dsh-opencode-go-usage
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-ocgo-usage
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

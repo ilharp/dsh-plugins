@@ -1,0 +1,9 @@
+version: 1
+name: dsh-shots
+github:
+  owner: dat-lequoc
+  repo: dsh-shots
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions: []

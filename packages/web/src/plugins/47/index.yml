@@ -1,0 +1,14 @@
+version: 1
+name: dsh-perlica-ding
+github:
+  owner: 117BS
+  repo: dsh-perlica-ding
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+npm:
+  name: dsh-perlica-ding
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

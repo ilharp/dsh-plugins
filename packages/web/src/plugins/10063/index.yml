@@ -1,0 +1,10 @@
+version: 1
+name: dsh-plugin-recycle-bin
+github:
+  owner: Xylocarpro
+  repo: dsh-plugin-recycle-bin
+  language: JavaScript
+  stars: 0
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

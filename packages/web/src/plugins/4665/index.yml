@@ -1,0 +1,14 @@
+version: 1
+name: dsh-exec-extension
+github:
+  owner: LvDAO
+  repo: dsh-exec-extension
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-exec-extension
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

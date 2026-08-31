@@ -1,0 +1,16 @@
+version: 1
+name: dsh-result-only-view
+github:
+  owner: YEYEYEYESHIFU
+  repo: dsh-result-only-view
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-result-only-view
+versions:
+  - packageVersion: 1.5.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.6.3
+    dshVersion: v0.1.2-alpha.1

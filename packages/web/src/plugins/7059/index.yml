@@ -1,0 +1,14 @@
+version: 1
+name: dsh-office-suite
+github:
+  owner: steven95
+  repo: dsh-office-suite
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-office-suite
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

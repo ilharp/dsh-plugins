@@ -1,0 +1,8 @@
+version: 1
+name: dsh-plugin-session-rewind
+github:
+  owner: lijx122
+  repo: dsh-plugin-session-rewind
+  stars: 0
+  forks: 0
+versions: []

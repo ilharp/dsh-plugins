@@ -1,0 +1,12 @@
+version: 1
+name: dsh-subagent-model
+github:
+  owner: shenzhantu
+  repo: dsh-subagent-model
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.2.1
+    dshVersion: v0.1.2-alpha.1

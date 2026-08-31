@@ -1,0 +1,14 @@
+version: 1
+name: dsh-codex-keychain
+github:
+  owner: CpfPatrick
+  repo: dsh-codex-keychain
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-codex-keychain
+versions:
+  - packageVersion: 0.1.0-alpha.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-repo-context
+github:
+  owner: qing3a
+  repo: dsh-repo-context
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: '@qing3a/dsh-repo-context'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

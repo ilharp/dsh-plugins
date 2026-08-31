@@ -1,0 +1,15 @@
+version: 1
+name: dsh-dir-tree
+github:
+  owner: bentong-chain
+  repo: dsh-dir-tree
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-dir-tree
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-cookie-bridge
+github:
+  owner: xiaoheizi1212
+  repo: dsh-cookie-bridge
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

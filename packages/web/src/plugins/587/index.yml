@@ -1,0 +1,15 @@
+version: 1
+name: dsh-suggested-replies
+github:
+  owner: Anionex
+  repo: dsh-suggested-replies
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@anionex/dsh-suggested-replies'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

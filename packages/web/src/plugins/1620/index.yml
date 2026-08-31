@@ -1,0 +1,16 @@
+version: 1
+name: dsh-my-go
+github:
+  owner: daizihan233
+  repo: dsh-my-go
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 1
+npm:
+  name: dsh-my-go
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.3
+    dshVersion: v0.1.2-alpha.1

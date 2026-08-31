@@ -1,0 +1,16 @@
+version: 1
+name: dsh-split-view
+github:
+  owner: luckybilly
+  repo: dsh-split-view
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-split-view
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

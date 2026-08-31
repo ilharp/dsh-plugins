@@ -1,0 +1,11 @@
+version: 1
+name: ds-image-skin
+github:
+  owner: ahren112
+  repo: ds-image-skin
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

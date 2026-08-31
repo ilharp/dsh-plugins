@@ -1,0 +1,11 @@
+version: 1
+name: dsh-web-search-duckduckgo
+github:
+  owner: qwased
+  repo: dsh-web-search-duckduckgo
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

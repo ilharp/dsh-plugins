@@ -1,0 +1,9 @@
+version: 1
+name: dsh-llm-bounded-retry
+github:
+  owner: 911218sky
+  repo: dsh-llm-bounded-retry
+  license: CC-BY-4.0
+  stars: 0
+  forks: 0
+versions: []

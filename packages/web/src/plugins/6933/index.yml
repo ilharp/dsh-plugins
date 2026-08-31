@@ -1,0 +1,10 @@
+version: 1
+name: ds-spec-loop
+github:
+  owner: songyang0603
+  repo: ds-spec-loop
+  license: MIT
+  stars: 38
+  forks: 1
+  openIssues: 0
+versions: []

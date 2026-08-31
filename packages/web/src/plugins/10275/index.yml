@@ -1,0 +1,19 @@
+version: 1
+name: dsh-openai-codex-auth
+github:
+  owner: yoke233
+  repo: dsh-openai-codex-auth
+  language: JavaScript
+  license: GPL-3.0
+  stars: 12
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-openai-codex-auth
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.7
+    dshVersion: v0.1.2-alpha.1

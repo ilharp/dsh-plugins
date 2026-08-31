@@ -1,0 +1,15 @@
+version: 1
+name: dsh-weixin
+github:
+  owner: xiaoshihou514
+  repo: dsh-weixin
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-weixin
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

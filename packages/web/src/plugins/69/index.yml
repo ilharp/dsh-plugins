@@ -1,0 +1,11 @@
+version: 1
+name: dsh-xiaoyao-skins
+github:
+  owner: '147228'
+  repo: dsh-xiaoyao-skins
+  language: CSS
+  license: NOASSERTION
+  stars: 23
+  forks: 1
+  openIssues: 1
+versions: []

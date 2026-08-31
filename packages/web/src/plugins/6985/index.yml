@@ -1,0 +1,14 @@
+version: 1
+name: dsh-global-prompt
+github:
+  owner: sryimnoob123
+  repo: dsh-global-prompt
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-global-prompt
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

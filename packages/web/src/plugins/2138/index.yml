@@ -1,0 +1,13 @@
+version: 1
+name: deepseek-plugin-store
+github:
+  owner: Ericwong5021
+  repo: deepseek-plugin-store
+  language: JavaScript
+  license: CC0-1.0
+  stars: 26
+  forks: 4
+  openIssues: 1
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

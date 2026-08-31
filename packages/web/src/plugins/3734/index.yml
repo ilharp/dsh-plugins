@@ -1,0 +1,14 @@
+version: 1
+name: TabNexus-DSH
+github:
+  owner: KaichenCurry
+  repo: TabNexus-DSH
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.4
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-thrum
+github:
+  owner: lhf6623
+  repo: dsh-thrum
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-thrum
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

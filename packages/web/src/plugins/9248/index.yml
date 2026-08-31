@@ -1,0 +1,14 @@
+version: 1
+name: dsh-computer-use-macos
+github:
+  owner: wangyong1972
+  repo: dsh-computer-use-macos
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@wangyong1972/dsh-computer-use-macos'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

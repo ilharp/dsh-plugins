@@ -1,0 +1,14 @@
+version: 1
+name: dsh-cost-crystal
+github:
+  owner: xxvk
+  repo: dsh-cost-crystal
+  language: JavaScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-cost-crystal
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

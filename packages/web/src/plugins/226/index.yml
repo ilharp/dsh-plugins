@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-audit
+github:
+  owner: '863683348'
+  repo: dsh-plugin-audit
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-audit
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

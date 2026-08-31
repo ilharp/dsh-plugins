@@ -1,0 +1,11 @@
+version: 1
+name: dsh-cowork
+github:
+  owner: Jesse-njx
+  repo: dsh-cowork
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 1
+versions: []

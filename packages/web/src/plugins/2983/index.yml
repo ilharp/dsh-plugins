@@ -1,0 +1,10 @@
+version: 1
+name: dshfind
+github:
+  owner: hikariming
+  repo: dshfind
+  language: MDX
+  stars: 231
+  forks: 2
+  openIssues: 4
+versions: []

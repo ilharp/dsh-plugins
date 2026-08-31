@@ -1,0 +1,13 @@
+version: 1
+name: dsh-mc-launcher
+github:
+  owner: hellosky983
+  repo: dsh-mc-launcher
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,17 @@
+version: 1
+name: dsh-deepread
+github:
+  owner: xiehuan123
+  repo: dsh-deepread
+  language: JavaScript
+  license: MIT
+  stars: 42
+  forks: 3
+  openIssues: 0
+npm:
+  name: dsh-deepread
+versions:
+  - packageVersion: 0.5.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

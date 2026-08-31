@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-abtest
+github:
+  owner: Morriaty-The-Murderer
+  repo: dsh-plugin-abtest
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-plugin-abtest
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-preset-minimal-windows
+github:
+  owner: zeroa234
+  repo: dsh-preset-minimal-windows
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

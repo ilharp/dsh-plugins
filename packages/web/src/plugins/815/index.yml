@@ -1,0 +1,11 @@
+version: 1
+name: intent-gate
+github:
+  owner: baixinghao
+  repo: intent-gate
+  language: Python
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-rewind
+github:
+  owner: XSJUSTC
+  repo: dsh-rewind
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+versions:
+  - packageVersion: 2.1.1
+    dshVersion: v0.1.2-alpha.1

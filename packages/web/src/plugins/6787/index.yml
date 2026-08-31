@@ -1,0 +1,14 @@
+version: 1
+name: dsh-rewind
+github:
+  owner: SipengXie2024
+  repo: dsh-rewind
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-rewind
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

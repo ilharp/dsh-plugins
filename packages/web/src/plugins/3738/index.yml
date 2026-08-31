@@ -1,0 +1,16 @@
+version: 1
+name: dsh-sidebar
+github:
+  owner: kaijia323
+  repo: dsh-sidebar
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@kaijia/dsh-sidebar'
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-wechat-maid
+github:
+  owner: skylar-fei
+  repo: dsh-wechat-maid
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

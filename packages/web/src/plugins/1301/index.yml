@@ -1,0 +1,15 @@
+version: 1
+name: dsh-browser-playwright
+github:
+  owner: ChenyuHeee
+  repo: dsh-browser-playwright
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-browser-playwright
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

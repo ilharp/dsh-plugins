@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-desktop
+github:
+  owner: WJZ-P
+  repo: deepseek-harness-desktop
+  language: TypeScript
+  license: MIT
+  stars: 15
+  forks: 3
+  openIssues: 1
+versions: []

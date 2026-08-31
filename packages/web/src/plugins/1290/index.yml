@@ -1,0 +1,11 @@
+version: 1
+name: dsh-easyssh
+github:
+  owner: chenw2759-wq
+  repo: dsh-easyssh
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 27
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-marketplace
+github:
+  owner: mengxingGG
+  repo: dsh-plugin-marketplace
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-plugin-marketplace
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

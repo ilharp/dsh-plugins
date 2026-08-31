@@ -1,0 +1,15 @@
+version: 1
+name: dsh-noema
+github:
+  owner: ZSeven-W
+  repo: dsh-noema
+  language: TypeScript
+  license: MIT
+  stars: 120
+  forks: 7
+  openIssues: 0
+npm:
+  name: '@zseven-w/dsh-noema'
+versions:
+  - packageVersion: 0.1.0-rc.3
+    dshVersion: v0.1.2-alpha.1

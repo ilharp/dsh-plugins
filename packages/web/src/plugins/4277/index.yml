@@ -1,0 +1,11 @@
+version: 1
+name: dsh-model-config-sync
+github:
+  owner: LiangYin233
+  repo: dsh-model-config-sync
+  language: JavaScript
+  license: MIT
+  stars: 18
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: img-preview
+github:
+  owner: dhb861832993-star
+  repo: img-preview
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: img-preview
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

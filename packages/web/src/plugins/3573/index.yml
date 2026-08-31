@@ -1,0 +1,12 @@
+version: 1
+name: dsh-workspace-history
+github:
+  owner: joao-paulo-santos
+  repo: dsh-workspace-history
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

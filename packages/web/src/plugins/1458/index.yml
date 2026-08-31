@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-browser-use
+github:
+  owner: coderdailyone
+  repo: dsh-plugin-browser-use
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-plugin-browser-use
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

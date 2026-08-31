@@ -1,0 +1,12 @@
+version: 1
+name: BigSeedSkill
+github:
+  owner: kobenfang
+  repo: BigSeedSkill
+  language: Python
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

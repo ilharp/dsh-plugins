@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-cc
+github:
+  owner: cpj-dev
+  repo: dsh-plugin-cc
+  language: JavaScript
+  license: MIT
+  stars: 84
+  forks: 2
+  openIssues: 1
+versions: []

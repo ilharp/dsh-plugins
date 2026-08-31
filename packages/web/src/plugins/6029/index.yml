@@ -1,0 +1,14 @@
+version: 1
+name: dsh-subagent-watchdog
+github:
+  owner: quaner1234-cmd
+  repo: dsh-subagent-watchdog
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-subagent-watchdog
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

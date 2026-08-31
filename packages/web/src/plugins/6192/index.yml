@@ -1,0 +1,10 @@
+version: 1
+name: skill
+github:
+  owner: riffkit
+  repo: skill
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

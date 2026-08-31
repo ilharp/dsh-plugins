@@ -1,0 +1,14 @@
+version: 1
+name: dsh-file-path
+github:
+  owner: dkjsiogu
+  repo: dsh-file-path
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-file-path
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-agent-teams
+github:
+  owner: jypjypjypjyp
+  repo: dsh-agent-teams
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@nanmicoder/dsh-agent-teams'
+versions:
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.13
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-desktop
+github:
+  owner: Quan-Robin
+  repo: dsh-plugin-desktop
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-plugin-desktop
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

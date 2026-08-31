@@ -1,0 +1,8 @@
+version: 1
+name: ds-harness-remote
+github:
+  owner: liguobao
+  repo: ds-harness-remote
+  stars: 132
+  forks: 12
+versions: []

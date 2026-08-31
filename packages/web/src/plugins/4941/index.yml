@@ -1,0 +1,17 @@
+version: 1
+name: upstream-radar
+github:
+  owner: MicroMilo
+  repo: upstream-radar
+  language: TypeScript
+  license: Apache-2.0
+  stars: 8
+  forks: 1
+  openIssues: 0
+npm:
+  name: upstream-radar
+versions:
+  - packageVersion: 0.43.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.45.0
+    dshVersion: v0.1.2-alpha.1

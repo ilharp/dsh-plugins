@@ -1,0 +1,11 @@
+version: 1
+name: dsh-minimal-desktop
+github:
+  owner: zhangzheng25
+  repo: dsh-minimal-desktop
+  language: C#
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

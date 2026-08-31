@@ -1,0 +1,15 @@
+version: 1
+name: reef
+github:
+  owner: huey1in
+  repo: reef
+  language: TypeScript
+  license: MIT
+  stars: 13
+  forks: 5
+  openIssues: 1
+npm:
+  name: dsh-reef
+versions:
+  - packageVersion: 1.5.2
+    dshVersion: v0.1.2-alpha.1

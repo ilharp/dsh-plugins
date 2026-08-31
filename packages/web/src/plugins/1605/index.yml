@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-manager
+github:
+  owner: D4Cluv-Train
+  repo: dsh-plugin-manager
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+npm:
+  name: '@d4cluvtrain/dsh-plugin-manager'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-web-pass
+github:
+  owner: linz919
+  repo: dsh-web-pass
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-web-pass
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

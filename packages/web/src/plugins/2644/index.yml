@@ -1,0 +1,16 @@
+version: 1
+name: dsh-grok-xsearch
+github:
+  owner: GooDAnDReaDY
+  repo: dsh-grok-xsearch
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@goodandready/dsh-grok-xsearch'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

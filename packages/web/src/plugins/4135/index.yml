@@ -1,0 +1,10 @@
+version: 1
+name: dsh-minecraft-dev
+github:
+  owner: Leawind
+  repo: dsh-minecraft-dev
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

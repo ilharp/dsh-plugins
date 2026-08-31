@@ -1,0 +1,14 @@
+version: 1
+name: dao-zang-skill
+github:
+  owner: Godners-Code
+  repo: dao-zang-skill
+  language: Python
+  license: MIT
+  stars: 1
+  forks: 1
+npm:
+  name: dao-zang-skill
+versions:
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: computer-use-plus
+github:
+  owner: Ethanout
+  repo: computer-use-plus
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

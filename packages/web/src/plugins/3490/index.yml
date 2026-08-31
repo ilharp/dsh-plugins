@@ -1,0 +1,17 @@
+version: 1
+name: dsh-commandcode-go-provider
+github:
+  owner: jiesou
+  repo: dsh-commandcode-go-provider
+  language: TypeScript
+  license: MIT
+  stars: 6
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@jiesou/dsh-commandcode-go-provider'
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

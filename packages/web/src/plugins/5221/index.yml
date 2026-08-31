@@ -1,0 +1,11 @@
+version: 1
+name: dsh_desktop
+github:
+  owner: myYangyunfan
+  repo: dsh_desktop
+  language: JavaScript
+  license: MIT
+  stars: 592
+  forks: 27
+  openIssues: 11
+versions: []

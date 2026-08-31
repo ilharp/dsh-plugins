@@ -1,0 +1,14 @@
+version: 1
+name: jspace-harness
+github:
+  owner: 2006spy
+  repo: jspace-harness
+  language: Python
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: '@spy2006/dsh-jspace-harness'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-ui-font
+github:
+  owner: linshufan21
+  repo: dsh-ui-font
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-tool-memory
+github:
+  owner: sikwoxy
+  repo: dsh-tool-memory
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 1
+npm:
+  name: dsh-tool-memory
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

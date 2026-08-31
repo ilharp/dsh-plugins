@@ -1,0 +1,15 @@
+version: 1
+name: dsh-galgame
+github:
+  owner: Lanxing6480
+  repo: dsh-galgame
+  language: TypeScript
+  license: NOASSERTION
+  stars: 16
+  forks: 1
+  openIssues: 0
+npm:
+  name: '@lanxing/dsh-galgame'
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

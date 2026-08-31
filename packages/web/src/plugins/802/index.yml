@@ -1,0 +1,12 @@
+version: 1
+name: easy-archive
+github:
+  owner: bainianlaoyao
+  repo: easy-archive
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

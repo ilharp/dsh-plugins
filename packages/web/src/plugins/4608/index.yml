@@ -1,0 +1,14 @@
+version: 1
+name: dsh-gateway-provider
+github:
+  owner: Luck9Star
+  repo: dsh-gateway-provider
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 2
+npm:
+  name: dsh-gateway-provider
+versions:
+  - packageVersion: 1.0.4
+    dshVersion: v0.1.2-alpha.1

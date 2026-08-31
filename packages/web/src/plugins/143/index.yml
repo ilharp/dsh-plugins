@@ -1,0 +1,14 @@
+version: 1
+name: dsh-websearch
+github:
+  owner: 240xu
+  repo: dsh-websearch
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 1
+npm:
+  name: '@240xu/dsh-websearch'
+versions:
+  - packageVersion: 2.4.0
+    dshVersion: v0.1.2-alpha.1

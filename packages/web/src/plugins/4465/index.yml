@@ -1,0 +1,11 @@
+version: 1
+name: AgentFrame-v3
+github:
+  owner: ljsysfurryACE
+  repo: AgentFrame-v3
+  language: Python
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

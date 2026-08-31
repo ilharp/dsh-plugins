@@ -1,0 +1,11 @@
+version: 1
+name: oardsh
+github:
+  owner: GreatV
+  repo: oardsh
+  language: Rust
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

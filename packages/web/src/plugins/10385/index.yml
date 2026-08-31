@@ -1,0 +1,11 @@
+version: 1
+name: illusion-agent
+github:
+  owner: YunTaiHua
+  repo: illusion-agent
+  language: Python
+  license: MIT
+  stars: 22
+  forks: 7
+  openIssues: 1
+versions: []

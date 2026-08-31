@@ -1,0 +1,12 @@
+version: 1
+name: dsh-claude-antidote
+github:
+  owner: FolioTemp
+  repo: dsh-claude-antidote
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

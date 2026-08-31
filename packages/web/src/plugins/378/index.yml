@@ -1,0 +1,17 @@
+version: 1
+name: dsh-awiki
+github:
+  owner: AgentConnect
+  repo: dsh-awiki
+  language: TypeScript
+  license: MIT
+  stars: 14
+  forks: 0
+  openIssues: 1
+npm:
+  name: '@awiki/dsh-plugin'
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.5
+    dshVersion: v0.1.2-alpha.1

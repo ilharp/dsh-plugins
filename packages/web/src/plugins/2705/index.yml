@@ -1,0 +1,13 @@
+version: 1
+name: gitlearnos
+github:
+  owner: Guojiz
+  repo: gitlearnos
+  language: HTML
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 2.0.0-alpha.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,17 @@
+version: 1
+name: deepseek-harness-control-center
+github:
+  owner: feibi-mochi
+  repo: deepseek-harness-control-center
+  language: JavaScript
+  license: MIT
+  stars: 66
+  forks: 2
+  openIssues: 2
+npm:
+  name: deepseek-harness-wallet
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.6
+    dshVersion: v0.1.2-alpha.1

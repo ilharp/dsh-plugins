@@ -1,0 +1,16 @@
+version: 1
+name: dsh-self-update
+github:
+  owner: Shane-Jay
+  repo: dsh-self-update
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-self-update
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

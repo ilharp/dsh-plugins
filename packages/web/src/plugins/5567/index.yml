@@ -1,0 +1,11 @@
+version: 1
+name: 取名大师 MCP
+github:
+  owner: omdsh-dev
+  repo: toybox
+  path: plugins/naming-master-mcp
+  license: MIT
+  stars: 2
+versions:
+  - packageVersion: 0.1.0-rc.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: '@local/dsh-subagent-custom-model'
+github:
+  owner: u9521
+  repo: dsh-subagent-custom-model
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

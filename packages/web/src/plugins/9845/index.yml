@@ -1,0 +1,12 @@
+version: 1
+name: dsh-qr-share
+github:
+  owner: xiaoguomeiyitian
+  repo: dsh-qr-share
+  language: TypeScript
+  stars: 1
+npm:
+  name: dsh-qr-share
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

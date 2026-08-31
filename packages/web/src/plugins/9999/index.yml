@@ -1,0 +1,17 @@
+version: 1
+name: dsh-pi-tui
+github:
+  owner: XMoon
+  repo: dsh-pi-tui
+  language: TypeScript
+  license: MIT
+  stars: 16
+  forks: 1
+  openIssues: 0
+npm:
+  name: '@xmoon76/dsh-pi-tui'
+versions:
+  - packageVersion: 0.3.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.5
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-mobile-control
+github:
+  owner: PangYiMing
+  repo: dsh-mobile-control
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-mobile-control
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: superpowers-dsh
+github:
+  owner: LayneChai
+  repo: superpowers-dsh
+  language: JavaScript
+  license: NOASSERTION
+  stars: 75
+  forks: 3
+  openIssues: 0
+npm:
+  name: superpowers-dsh
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

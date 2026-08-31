@@ -1,0 +1,13 @@
+version: 1
+name: dsh-schedule-view
+github:
+  owner: lijian-ui
+  repo: dsh-schedule-view
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: '@lijian-ui/dsh-schedule-view'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

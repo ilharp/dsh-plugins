@@ -1,0 +1,15 @@
+version: 1
+name: dsh-traffic-light
+github:
+  owner: yimeng-dev
+  repo: dsh-traffic-light
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-traffic-light
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

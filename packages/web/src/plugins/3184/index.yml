@@ -1,0 +1,14 @@
+version: 1
+name: dsh-client-ui-shortcuts
+github:
+  owner: hytime
+  repo: dsh-client-ui-shortcuts
+  language: TypeScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+npm:
+  name: '@hytime/dsh-client-ui-shortcuts'
+versions:
+  - packageVersion: 0.1.15
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-colorscheme
+github:
+  owner: Civitasv
+  repo: dsh-plugin-colorscheme
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

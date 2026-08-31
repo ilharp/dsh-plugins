@@ -1,0 +1,14 @@
+version: 1
+name: dsh-dungeon-party
+github:
+  owner: DamonBao
+  repo: dsh-dungeon-party
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+npm:
+  name: '@jcy2387/dsh-dungeon-party'
+versions:
+  - packageVersion: 0.1.11
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,7 @@
+version: 1
+name: pack-agent-dsh
+github:
+  owner: sakikoTGW
+  repo: pack-agent-dsh
+  stars: 2
+versions: []

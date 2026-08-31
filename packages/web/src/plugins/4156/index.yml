@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-rust-harness
+github:
+  owner: leemiracle
+  repo: deepseek-rust-harness
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

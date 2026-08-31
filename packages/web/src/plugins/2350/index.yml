@@ -1,0 +1,12 @@
+version: 1
+name: dsh-subagent-codebuddy
+github:
+  owner: flg1217
+  repo: dsh-subagent-codebuddy
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

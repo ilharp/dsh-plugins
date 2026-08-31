@@ -1,0 +1,14 @@
+version: 1
+name: dsh-clipboard
+github:
+  owner: ZhijiangTang
+  repo: dsh-clipboard
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-clipboard
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

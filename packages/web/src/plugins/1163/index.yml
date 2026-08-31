@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-hub
+github:
+  owner: cclank
+  repo: dsh-plugin-hub
+  language: TypeScript
+  license: MIT
+  stars: 15
+  forks: 3
+  openIssues: 0
+versions: []

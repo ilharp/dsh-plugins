@@ -1,0 +1,14 @@
+version: 1
+name: dsh-humanizer
+github:
+  owner: lynote-ai
+  repo: dsh-humanizer
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-humanizer
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

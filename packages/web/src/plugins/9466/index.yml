@@ -1,0 +1,17 @@
+version: 1
+name: dsh-ui-tweaks
+github:
+  owner: wlj521
+  repo: dsh-ui-tweaks
+  language: TypeScript
+  license: MIT
+  stars: 14
+  forks: 0
+  openIssues: 2
+npm:
+  name: dsh-ui-tweaks
+versions:
+  - packageVersion: 0.11.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.11.2
+    dshVersion: v0.1.2-alpha.1

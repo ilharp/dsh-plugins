@@ -1,0 +1,10 @@
+version: 1
+name: dsh-plugin-verify
+github:
+  owner: qing3a
+  repo: dsh-plugin-verify
+  language: TypeScript
+  stars: 2
+  forks: 1
+  openIssues: 1
+versions: []

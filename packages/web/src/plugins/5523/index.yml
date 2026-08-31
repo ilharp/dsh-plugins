@@ -1,0 +1,9 @@
+version: 1
+name: dsh-plugin-dev
+github:
+  owner: omdsh-dev
+  repo: dsh-plugin-dev
+  stars: 13
+  forks: 0
+  openIssues: 0
+versions: []

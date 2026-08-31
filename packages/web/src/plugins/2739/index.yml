@@ -1,0 +1,12 @@
+version: 1
+name: dsh-cloud-connector
+github:
+  owner: gzr123166
+  repo: dsh-cloud-connector
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-plugin-discussion-intent
+github:
+  owner: JinPLu
+  repo: dsh-plugin-discussion-intent
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@jinplu/dsh-plugin-discussion-intent'
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.6.2
+    dshVersion: v0.1.2-alpha.1

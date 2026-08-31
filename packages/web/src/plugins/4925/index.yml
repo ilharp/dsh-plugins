@@ -1,0 +1,11 @@
+version: 1
+name: new-litigation-visualization
+github:
+  owner: MiaoQichuan
+  repo: new-litigation-visualization
+  language: Python
+  license: MIT
+  stars: 49
+  forks: 7
+  openIssues: 0
+versions: []

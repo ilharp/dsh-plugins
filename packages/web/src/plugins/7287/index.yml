@@ -1,0 +1,14 @@
+version: 1
+name: dsh-replay-lab
+github:
+  owner: tbxy09
+  repo: dsh-replay-lab
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@webwalkerhq/dsh-replay-lab'
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

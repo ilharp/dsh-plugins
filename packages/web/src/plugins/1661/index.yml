@@ -1,0 +1,14 @@
+version: 1
+name: dsh-token-data
+github:
+  owner: dawsondx
+  repo: dsh-token-data
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-token-data
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

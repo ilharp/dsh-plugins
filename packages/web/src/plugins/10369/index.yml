@@ -1,0 +1,14 @@
+version: 1
+name: dsh-ezprot-plugin
+github:
+  owner: YukunR
+  repo: dsh-ezprot-plugin
+  language: R
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-ezprot-plugin
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

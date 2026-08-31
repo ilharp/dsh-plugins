@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-sdr-plugin
+github:
+  owner: Xuxchloris
+  repo: deepseek-harness-sdr-plugin
+  language: Python
+  license: MIT
+  stars: 26
+  forks: 7
+  openIssues: 1
+versions: []

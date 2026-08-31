@@ -1,0 +1,14 @@
+version: 1
+name: dsh-setting-restart
+github:
+  owner: 893413974-bit
+  repo: dsh-setting-restart
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-setting-restart
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

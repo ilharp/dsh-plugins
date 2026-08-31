@@ -1,0 +1,12 @@
+version: 1
+name: dsh-client-plugin-manager
+github:
+  owner: mccxs
+  repo: dsh-client-plugin-manager
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-git-graph
+github:
+  owner: 1841220388zzzcccxxx-star
+  repo: dsh-git-graph
+  language: HTML
+  license: MIT
+  stars: 13
+  forks: 2
+  openIssues: 0
+versions:
+  - packageVersion: 0.11.0
+    dshVersion: v0.1.2-alpha.1

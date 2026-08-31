@@ -1,0 +1,16 @@
+version: 1
+name: dsh-command-code-review
+github:
+  owner: JasonFreeLab
+  repo: dsh-command-code-review
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-command-code-review
+versions:
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.9
+    dshVersion: v0.1.2-alpha.1

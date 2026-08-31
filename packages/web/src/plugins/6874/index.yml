@@ -1,0 +1,10 @@
+version: 1
+name: dsh-deep-whale
+github:
+  owner: Small-tailqwq
+  repo: dsh-deep-whale
+  language: TypeScript
+  stars: 1769
+  forks: 22
+  openIssues: 18
+versions: []

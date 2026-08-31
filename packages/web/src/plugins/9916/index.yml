@@ -1,0 +1,14 @@
+version: 1
+name: dsh-auto-exit
+github:
+  owner: xiaxingtianxia2-glitch
+  repo: dsh-auto-exit
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-auto-exit
+versions:
+  - packageVersion: 0.0.4
+    dshVersion: v0.1.2-alpha.1

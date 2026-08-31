@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-shiori-role
+github:
+  owner: YinFengWindy
+  repo: dsh-plugin-shiori-role
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 2
+versions: []

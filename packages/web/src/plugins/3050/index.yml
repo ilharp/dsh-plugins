@@ -1,0 +1,14 @@
+version: 1
+name: dsh-ref-lib
+github:
+  owner: hpyperry
+  repo: dsh-ref-lib
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@hpyperry/dsh-ref-lib'
+versions:
+  - packageVersion: 0.11.0
+    dshVersion: v0.1.2-alpha.1

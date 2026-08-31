@@ -1,0 +1,15 @@
+version: 1
+name: dsh-docs-panel
+github:
+  owner: mlosun
+  repo: dsh-docs-panel
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-docs-panel
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

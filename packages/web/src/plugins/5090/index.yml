@@ -1,0 +1,14 @@
+version: 1
+name: dsh-factory
+github:
+  owner: monotykamary
+  repo: dsh-factory
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+npm:
+  name: dsh-factory
+versions:
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1

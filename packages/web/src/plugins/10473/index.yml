@@ -1,0 +1,13 @@
+version: 1
+name: silk-background
+github:
+  owner: z21for99
+  repo: silk-background
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: academica-mcp
+github:
+  owner: academica-sh
+  repo: academica-mcp
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.4.0
+    dshVersion: v0.1.2-alpha.1

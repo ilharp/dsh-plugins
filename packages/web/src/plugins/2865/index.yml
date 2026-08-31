@@ -1,0 +1,14 @@
+version: 1
+name: dsh-colorschemes
+github:
+  owner: hatanokokosa
+  repo: dsh-colorschemes
+  language: TypeScript
+  license: BSD-2-Clause
+  stars: 0
+  forks: 0
+npm:
+  name: color-schemes
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-daoing-memory
+github:
+  owner: daoing
+  repo: dsh-daoing-memory
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-daoing-memory
+versions:
+  - packageVersion: 0.1.20
+    dshVersion: v0.1.2-alpha.1

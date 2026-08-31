@@ -1,0 +1,16 @@
+version: 1
+name: dsh-qingagent
+github:
+  owner: void2anything
+  repo: dsh-qingagent
+  language: TypeScript
+  license: Apache-2.0
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-qingagent
+versions:
+  - packageVersion: 0.1.45
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.47
+    dshVersion: v0.1.2-alpha.1

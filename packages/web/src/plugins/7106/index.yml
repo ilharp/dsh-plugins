@@ -1,0 +1,12 @@
+version: 1
+name: dsh-session-migrator
+github:
+  owner: Suixin04
+  repo: dsh-session-migrator
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

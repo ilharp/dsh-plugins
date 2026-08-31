@@ -1,0 +1,14 @@
+version: 1
+name: dsh-web-search-firecrawl
+github:
+  owner: elves-ai
+  repo: dsh-web-search-firecrawl
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@elves-ai/dsh-web-search-firecrawl'
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

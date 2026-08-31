@@ -1,0 +1,14 @@
+version: 1
+name: dsh-more-models-thinking-level
+github:
+  owner: Henta111
+  repo: dsh-more-models-thinking-level
+  language: PowerShell
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-more-models-thinking-level
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

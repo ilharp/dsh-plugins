@@ -1,0 +1,14 @@
+version: 1
+name: dsh-i-have-adhd
+github:
+  owner: yongshuai0314
+  repo: dsh-i-have-adhd
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-i-have-adhd
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

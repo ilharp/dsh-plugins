@@ -1,0 +1,14 @@
+version: 1
+name: agnes-media
+github:
+  owner: LittleBeaverStudio
+  repo: agnes-media
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 1.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.4.0
+    dshVersion: v0.1.2-alpha.1

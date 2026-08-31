@@ -1,0 +1,11 @@
+version: 1
+name: dsh-ark-quota
+github:
+  owner: lordqyxz
+  repo: dsh-ark-quota
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

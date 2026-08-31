@@ -1,0 +1,11 @@
+version: 1
+name: dsh-openscience
+github:
+  owner: Asukaleo-aa
+  repo: dsh-openscience
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

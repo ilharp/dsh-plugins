@@ -1,0 +1,14 @@
+version: 1
+name: secret-guard
+github:
+  owner: JohnXu22786
+  repo: secret-guard
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-secret-guard
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

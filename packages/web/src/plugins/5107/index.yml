@@ -1,0 +1,12 @@
+version: 1
+name: DeepSeek-Harness-biaoqingbao
+github:
+  owner: moononnn
+  repo: DeepSeek-Harness-biaoqingbao
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 1
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

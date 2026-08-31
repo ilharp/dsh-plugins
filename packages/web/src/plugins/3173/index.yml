@@ -1,0 +1,16 @@
+version: 1
+name: dsh-open-file
+github:
+  owner: hyper-dsh-plugins
+  repo: dsh-open-file
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-open-file
+versions:
+  - packageVersion: 0.1.1-rc.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

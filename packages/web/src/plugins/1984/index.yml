@@ -1,0 +1,16 @@
+version: 1
+name: deepseekeyes
+github:
+  owner: dttxorg
+  repo: deepseekeyes
+  language: JavaScript
+  license: MIT
+  stars: 7
+  forks: 1
+npm:
+  name: '@dttxorg/deepseekeyes'
+versions:
+  - packageVersion: 0.8.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.8.2
+    dshVersion: v0.1.2-alpha.1

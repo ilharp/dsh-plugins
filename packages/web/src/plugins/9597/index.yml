@@ -1,0 +1,15 @@
+version: 1
+name: dsh-feishu-bridge
+github:
+  owner: wz-heng
+  repo: dsh-feishu-bridge
+  language: Python
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-feishu-bridge
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

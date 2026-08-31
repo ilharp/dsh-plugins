@@ -1,0 +1,14 @@
+version: 1
+name: dsh-bili-taskmaster
+github:
+  owner: jokerwen666
+  repo: dsh-bili-taskmaster
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-bili-taskmaster
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

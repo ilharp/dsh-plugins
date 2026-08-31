@@ -1,0 +1,13 @@
+version: 1
+name: open-sea-skin
+github:
+  owner: d-dev0101
+  repo: open-sea-skin
+  language: JavaScript
+  license: MIT
+  stars: 194
+  forks: 4
+  openIssues: 5
+versions:
+  - packageVersion: 1.2.1
+    dshVersion: v0.1.2-alpha.1

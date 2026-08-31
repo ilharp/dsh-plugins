@@ -1,0 +1,11 @@
+version: 1
+name: memtrace-public
+github:
+  owner: syncable-dev
+  repo: memtrace-public
+  language: Python
+  license: NOASSERTION
+  stars: 467
+  forks: 41
+  openIssues: 20
+versions: []

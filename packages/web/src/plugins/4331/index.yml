@@ -1,0 +1,11 @@
+version: 1
+name: liuli-theme
+github:
+  owner: LilycleHeart
+  repo: liuli-theme
+  language: TypeScript
+  license: NOASSERTION
+  stars: 3
+  forks: 1
+  openIssues: 0
+versions: []

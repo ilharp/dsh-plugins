@@ -1,0 +1,12 @@
+version: 1
+name: dsh-tool-vision-read
+github:
+  owner: Mappedinfo
+  repo: dsh-tool-vision-read
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0-rc.6
+    dshVersion: v0.1.2-alpha.1

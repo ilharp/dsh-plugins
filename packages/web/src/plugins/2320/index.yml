@@ -1,0 +1,14 @@
+version: 1
+name: dsh-firecrawl
+github:
+  owner: firecrawl
+  repo: dsh-firecrawl
+  language: TypeScript
+  license: MIT
+  stars: 9
+  forks: 1
+npm:
+  name: '@firecrawl/dsh-firecrawl'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

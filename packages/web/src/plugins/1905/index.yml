@@ -1,0 +1,16 @@
+version: 1
+name: dsh-local-link
+github:
+  owner: donoteatme
+  repo: dsh-local-link
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-local-link
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-agent-replay
+github:
+  owner: forrestsweet
+  repo: dsh-agent-replay
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

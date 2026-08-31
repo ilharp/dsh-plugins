@@ -1,0 +1,16 @@
+version: 1
+name: dsh-subagent-library
+github:
+  owner: MaRi23333
+  repo: dsh-subagent-library
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 1
+npm:
+  name: dsh-subagent-library
+versions:
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.5
+    dshVersion: v0.1.2-alpha.1

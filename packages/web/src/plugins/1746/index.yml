@@ -1,0 +1,14 @@
+version: 1
+name: dsh-new-ui
+github:
+  owner: Developerprit
+  repo: dsh-new-ui
+  language: HTML
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-new-ui
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

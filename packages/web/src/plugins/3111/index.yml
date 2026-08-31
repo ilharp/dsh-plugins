@@ -1,0 +1,14 @@
+version: 1
+name: DSH-QrPairing
+github:
+  owner: huaxiren6
+  repo: DSH-QrPairing
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-remote-qr-button
+versions:
+  - packageVersion: 0.2.7
+    dshVersion: v0.1.2-alpha.1

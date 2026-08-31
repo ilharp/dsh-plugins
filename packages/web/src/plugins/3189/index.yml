@@ -1,0 +1,14 @@
+version: 1
+name: dsh-todolist
+github:
+  owner: HZ-JasonLin
+  repo: dsh-todolist
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@hz-jasonlin/dsh-todolist'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

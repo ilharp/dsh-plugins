@@ -1,0 +1,12 @@
+version: 1
+name: weiwen-law-dsh
+github:
+  owner: Shaky77
+  repo: weiwen-law-dsh
+  language: HTML
+  license: AGPL-3.0
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

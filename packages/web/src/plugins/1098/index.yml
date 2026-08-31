@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-pet
+github:
+  owner: c-ling
+  repo: dsh-plugin-pet
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions: []

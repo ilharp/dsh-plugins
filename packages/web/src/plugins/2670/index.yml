@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-subagent-manager
+github:
+  owner: greatwhitesharklab
+  repo: dsh-plugin-subagent-manager
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

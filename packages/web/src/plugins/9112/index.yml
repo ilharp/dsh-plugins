@@ -1,0 +1,13 @@
+version: 1
+name: sai
+github:
+  owner: Very12345
+  repo: sai
+  language: Kotlin
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 1
+npm:
+  name: sai
+versions: []

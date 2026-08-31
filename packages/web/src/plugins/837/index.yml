@@ -1,0 +1,13 @@
+version: 1
+name: amber-protocol
+github:
+  owner: Bandersnatch0x
+  repo: amber-protocol
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 4
+npm:
+  name: amber-protocol
+versions: []

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-nailong-desktop-pet
+github:
+  owner: 2002yxy
+  repo: dsh-nailong-desktop-pet
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 1
+npm:
+  name: dsh-desktop-pet
+versions:
+  - packageVersion: 0.1.0-alpha.2
+    dshVersion: v0.1.2-alpha.1

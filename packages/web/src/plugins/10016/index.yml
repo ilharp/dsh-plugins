@@ -1,0 +1,12 @@
+version: 1
+name: dsh-image-vision
+github:
+  owner: xsoc1
+  repo: dsh-image-vision
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

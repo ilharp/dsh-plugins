@@ -1,0 +1,11 @@
+version: 1
+name: dsh-Agentlink
+github:
+  owner: hootandy321
+  repo: dsh-Agentlink
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-naiwa-theme
+github:
+  owner: DevourerM
+  repo: dsh-naiwa-theme
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1

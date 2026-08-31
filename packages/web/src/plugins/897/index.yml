@@ -1,0 +1,13 @@
+version: 1
+name: dsh-mobile-gate
+github:
+  owner: Bernardxu123
+  repo: dsh-mobile-gate
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 1
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

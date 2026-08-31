@@ -1,0 +1,13 @@
+version: 1
+name: dsh-slice-agent-loop
+github:
+  owner: TT-Wang
+  repo: dsh-slice-agent-loop
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 6
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1

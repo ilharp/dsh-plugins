@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-skin
+github:
+  owner: HeiGeAi
+  repo: deepseek-harness-skin
+  language: TypeScript
+  license: MIT
+  stars: 51
+  forks: 2
+  openIssues: 0
+versions: []

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-moyan
+github:
+  owner: elviszhang007
+  repo: dsh-moyan
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-moyan
+versions:
+  - packageVersion: 0.5.3
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: browser-automation
+github:
+  owner: JohnXu22786
+  repo: browser-automation
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: web-bridge-mcp
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

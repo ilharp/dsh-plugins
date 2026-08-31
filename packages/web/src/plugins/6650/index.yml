@@ -1,0 +1,14 @@
+version: 1
+name: dsh-check-for-updates
+github:
+  owner: ShanHaiFish
+  repo: dsh-check-for-updates
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-check-for-updates
+versions:
+  - packageVersion: 1.13.2
+    dshVersion: v0.1.2-alpha.1

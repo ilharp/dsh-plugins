@@ -1,0 +1,15 @@
+version: 1
+name: dsh-univer-office
+github:
+  owner: dream-num
+  repo: dsh-univer-office
+  language: TypeScript
+  license: Apache-2.0
+  stars: 204
+  forks: 19
+  openIssues: 4
+npm:
+  name: dsh-univer-office
+versions:
+  - packageVersion: 0.2.10
+    dshVersion: v0.1.2-alpha.1

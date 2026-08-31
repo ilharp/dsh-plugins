@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-search
+github:
+  owner: zoahdev
+  repo: dsh-plugin-search
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

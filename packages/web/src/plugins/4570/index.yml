@@ -1,0 +1,11 @@
+version: 1
+name: AgentCat
+github:
+  owner: LRainner
+  repo: AgentCat
+  language: Rust
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

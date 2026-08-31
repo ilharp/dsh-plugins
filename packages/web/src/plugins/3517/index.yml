@@ -1,0 +1,11 @@
+version: 1
+name: Tokdash
+github:
+  owner: JingbiaoMei
+  repo: Tokdash
+  language: Python
+  license: MIT
+  stars: 64
+  forks: 10
+  openIssues: 1
+versions: []

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-better-model-thinking-control
+github:
+  owner: Guyao146
+  repo: dsh-better-model-thinking-control
+  language: JavaScript
+  license: LGPL-2.1
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 0.2.9
+    dshVersion: v0.1.2-alpha.1

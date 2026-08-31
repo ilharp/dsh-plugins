@@ -1,0 +1,14 @@
+version: 1
+name: dsh-webgate
+github:
+  owner: yyyq0325-ai
+  repo: dsh-webgate
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@yyyq0325/dsh-webgate'
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

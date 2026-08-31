@@ -1,0 +1,16 @@
+version: 1
+name: AgentsGitFlowController
+github:
+  owner: FeatureAgents
+  repo: AgentsGitFlowController
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: agents-gitflow-guard
+versions:
+  - packageVersion: 0.0.18
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.0.19
+    dshVersion: v0.1.2-alpha.1

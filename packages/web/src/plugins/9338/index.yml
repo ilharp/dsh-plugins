@@ -1,0 +1,11 @@
+version: 1
+name: DSH-Launcher
+github:
+  owner: WEP-56
+  repo: DSH-Launcher
+  language: Rust
+  license: NOASSERTION
+  stars: 29
+  forks: 3
+  openIssues: 1
+versions: []

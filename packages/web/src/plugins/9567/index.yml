@@ -1,0 +1,8 @@
+version: 1
+name: dsh-workspace-files
+github:
+  owner: wuyh
+  repo: dsh-workspace-files
+  stars: 1
+  forks: 0
+versions: []

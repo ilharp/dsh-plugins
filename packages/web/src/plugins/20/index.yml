@@ -1,0 +1,14 @@
+version: 1
+name: dsh-voice-input
+github:
+  owner: 0nt-one
+  repo: dsh-voice-input
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-voice-input-web
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

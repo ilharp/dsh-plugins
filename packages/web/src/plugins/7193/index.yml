@@ -1,0 +1,12 @@
+version: 1
+name: dsh-beige-theme
+github:
+  owner: SweetCandy-gift
+  repo: dsh-beige-theme
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

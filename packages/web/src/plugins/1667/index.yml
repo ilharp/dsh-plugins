@@ -1,0 +1,13 @@
+version: 1
+name: dsh-green-meter
+github:
+  owner: dclichang2022
+  repo: dsh-green-meter
+  language: TypeScript
+  license: MIT
+  stars: 80
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-green-meter
+versions: []

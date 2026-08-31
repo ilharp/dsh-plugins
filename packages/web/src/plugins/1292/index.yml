@@ -1,0 +1,13 @@
+version: 1
+name: dsh-mindmap
+github:
+  owner: chenw2759-wq
+  repo: dsh-mindmap
+  language: TypeScript
+  license: NOASSERTION
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

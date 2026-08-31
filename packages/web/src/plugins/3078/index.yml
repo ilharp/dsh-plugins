@@ -1,0 +1,15 @@
+version: 1
+name: dsh-plugin-aigc-canvas
+github:
+  owner: HuanLinOTO
+  repo: dsh-plugin-aigc-canvas
+  language: TypeScript
+  license: NOASSERTION
+  stars: 15
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@huanlin/dsh-plugin-aigc-canvas'
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

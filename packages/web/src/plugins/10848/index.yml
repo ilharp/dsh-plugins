@@ -1,0 +1,12 @@
+version: 1
+name: dsh-whale-pet
+github:
+  owner: zuishi2006-pixel
+  repo: dsh-whale-pet
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

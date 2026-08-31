@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-manager-lite
+github:
+  owner: ShanHaiFish
+  repo: dsh-plugin-manager-lite
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-plugin-manager-lite
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

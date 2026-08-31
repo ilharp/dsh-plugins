@@ -1,0 +1,17 @@
+version: 1
+name: dsh-skin-market
+github:
+  owner: kingOfSoySauce
+  repo: dsh-skin-market
+  language: TypeScript
+  license: MIT
+  stars: 110
+  forks: 12
+  openIssues: 1
+npm:
+  name: dsh-skin-market
+versions:
+  - packageVersion: 0.1.46
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.47
+    dshVersion: v0.1.2-alpha.1

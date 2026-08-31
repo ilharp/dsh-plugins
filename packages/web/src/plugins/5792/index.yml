@@ -1,0 +1,16 @@
+version: 1
+name: dsh-local-ai
+github:
+  owner: PerryLink
+  repo: dsh-local-ai
+  language: TypeScript
+  license: Apache-2.0
+  stars: 4
+  forks: 1
+npm:
+  name: dsh-local-ai
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

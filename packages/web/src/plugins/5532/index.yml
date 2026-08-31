@@ -1,0 +1,13 @@
+version: 1
+name: dsh-sidechain
+github:
+  owner: omdsh-dev
+  repo: dsh-sidechain
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 11
+  forks: 4
+  openIssues: 1
+versions:
+  - packageVersion: 0.6.7
+    dshVersion: v0.1.2-alpha.1

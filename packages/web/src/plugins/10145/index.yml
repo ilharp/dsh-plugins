@@ -1,0 +1,14 @@
+version: 1
+name: dsh-opencode-go-box
+github:
+  owner: yascitom
+  repo: dsh-opencode-go-box
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 2
+npm:
+  name: dsh-opencode-go-usage
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

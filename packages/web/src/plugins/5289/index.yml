@@ -1,0 +1,14 @@
+version: 1
+name: dsh-open-a2a-net
+github:
+  owner: NelsonLongxiang
+  repo: dsh-open-a2a-net
+  language: TypeScript
+  license: NOASSERTION
+  stars: 5
+  forks: 1
+npm:
+  name: '@nelsonlongxiang/dsh-open-a2a-net'
+versions:
+  - packageVersion: 0.5.31
+    dshVersion: v0.1.2-alpha.1

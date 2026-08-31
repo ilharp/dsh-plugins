@@ -1,0 +1,12 @@
+version: 1
+name: dsh-at-skill
+github:
+  owner: '452926826'
+  repo: dsh-at-skill
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

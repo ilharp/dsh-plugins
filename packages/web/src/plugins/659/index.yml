@@ -1,0 +1,15 @@
+version: 1
+name: dsh-wordbox
+github:
+  owner: arcmosin
+  repo: dsh-wordbox
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-wordbox
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

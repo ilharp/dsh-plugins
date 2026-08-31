@@ -1,0 +1,16 @@
+version: 1
+name: dsh-experience-plugin
+github:
+  owner: SouleyMoni1
+  repo: dsh-experience-plugin
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-experience-plugin
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.4
+    dshVersion: v0.1.2-alpha.1

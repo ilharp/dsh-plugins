@@ -1,0 +1,15 @@
+version: 1
+name: dsh-whale-musume
+github:
+  owner: Sutera-Diffusus
+  repo: dsh-whale-musume
+  language: JavaScript
+  license: MIT
+  stars: 48
+  forks: 4
+  openIssues: 0
+versions:
+  - packageVersion: 1.4.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1

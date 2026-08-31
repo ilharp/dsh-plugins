@@ -1,0 +1,11 @@
+version: 1
+name: dsh-companion
+github:
+  owner: yyh-001
+  repo: dsh-companion
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-cos
+github:
+  owner: annexwu
+  repo: dsh-cos
+  language: TypeScript
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-cos
+versions:
+  - packageVersion: 0.1.17
+    dshVersion: v0.1.2-alpha.1

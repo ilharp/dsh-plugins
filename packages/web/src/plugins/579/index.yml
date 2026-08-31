@@ -1,0 +1,11 @@
+version: 1
+name: graphlint
+github:
+  owner: AngelosZou
+  repo: graphlint
+  language: Python
+  license: MIT
+  stars: 7
+  forks: 1
+  openIssues: 4
+versions: []

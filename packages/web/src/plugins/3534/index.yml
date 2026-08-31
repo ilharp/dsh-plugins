@@ -1,0 +1,11 @@
+version: 1
+name: safe-find-dsh-plugins
+github:
+  owner: Jinsong-Zhou
+  repo: safe-find-dsh-plugins
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions: []

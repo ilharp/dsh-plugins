@@ -1,0 +1,14 @@
+version: 1
+name: dsh-ui-billing
+github:
+  owner: HenryHwong
+  repo: dsh-ui-billing
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@huanghanheng/dsh-ui-billing'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-channel-view
+github:
+  owner: RGarvel
+  repo: dsh-channel-view
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-channel-view
+versions:
+  - packageVersion: 0.0.1-spike.4
+    dshVersion: v0.1.2-alpha.1

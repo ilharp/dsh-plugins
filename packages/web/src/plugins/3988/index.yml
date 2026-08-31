@@ -1,0 +1,14 @@
+version: 1
+name: dsh-tokstat
+github:
+  owner: kongjianguan
+  repo: dsh-tokstat
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@kongjianguan/dsh-tokstat'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

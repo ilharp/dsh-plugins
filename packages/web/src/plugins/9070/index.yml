@@ -1,0 +1,15 @@
+version: 1
+name: dsh-code
+github:
+  owner: UNLINEARITY
+  repo: dsh-code
+  language: TypeScript
+  license: MIT
+  stars: 32
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-code
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

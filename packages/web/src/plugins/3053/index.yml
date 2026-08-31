@@ -1,0 +1,15 @@
+version: 1
+name: dsh-auto-continue
+github:
+  owner: HsiangNianian
+  repo: dsh-auto-continue
+  language: TypeScript
+  license: MIT
+  stars: 44
+  forks: 3
+  openIssues: 0
+npm:
+  name: dsh-client-auto-continue
+versions:
+  - packageVersion: 0.8.1
+    dshVersion: v0.1.2-alpha.1

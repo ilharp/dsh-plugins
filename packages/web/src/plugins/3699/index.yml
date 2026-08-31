@@ -1,0 +1,17 @@
+version: 1
+name: dsh-layered-memory
+github:
+  owner: JunNanLYS
+  repo: dsh-layered-memory
+  language: TypeScript
+  license: MIT
+  stars: 10
+  forks: 2
+  openIssues: 1
+npm:
+  name: dsh-layered-memory
+versions:
+  - packageVersion: 0.8.6
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.8.10
+    dshVersion: v0.1.2-alpha.1

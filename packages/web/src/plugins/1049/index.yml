@@ -1,0 +1,16 @@
+version: 1
+name: dsh-update-center
+github:
+  owner: Britneycode
+  repo: dsh-update-center
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-update-center
+versions:
+  - packageVersion: 0.8.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.8.2
+    dshVersion: v0.1.2-alpha.1

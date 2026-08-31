@@ -1,0 +1,16 @@
+version: 1
+name: dsh-github-workbench
+github:
+  owner: meyaomiao
+  repo: dsh-github-workbench
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-github-workbench
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

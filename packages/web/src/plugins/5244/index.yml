@@ -1,0 +1,11 @@
+version: 1
+name: dsh-win-launchscript
+github:
+  owner: NaNExist
+  repo: dsh-win-launchscript
+  language: PowerShell
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

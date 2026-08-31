@@ -1,0 +1,15 @@
+version: 1
+name: dsh-openai-oauth
+github:
+  owner: DGPisces
+  repo: dsh-openai-oauth
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-openai-oauth
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

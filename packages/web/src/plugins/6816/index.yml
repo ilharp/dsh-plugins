@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-vision-plugin
+github:
+  owner: sjscy05
+  repo: deepseek-harness-vision-plugin
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

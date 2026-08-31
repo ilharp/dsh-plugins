@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-manager-registry
+github:
+  owner: Jesse-njx
+  repo: dsh-plugin-manager-registry
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

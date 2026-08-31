@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-om
+github:
+  owner: FanetheDivine
+  repo: dsh-plugin-om
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-plugin-om
+versions:
+  - packageVersion: 0.0.18
+    dshVersion: v0.1.2-alpha.1

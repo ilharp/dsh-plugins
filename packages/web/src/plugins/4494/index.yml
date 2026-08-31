@@ -1,0 +1,14 @@
+version: 1
+name: dsh-injection-guard
+github:
+  owner: loeanxi
+  repo: dsh-injection-guard
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-injection-guard
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

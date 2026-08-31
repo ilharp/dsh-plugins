@@ -1,0 +1,14 @@
+version: 1
+name: dsh-lego-plugin
+github:
+  owner: XIAOke8698
+  repo: dsh-lego-plugin
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-lego-plugin
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

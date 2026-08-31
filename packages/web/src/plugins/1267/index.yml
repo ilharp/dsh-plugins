@@ -1,0 +1,14 @@
+version: 1
+name: dsh-file
+github:
+  owner: chengzhi43
+  repo: dsh-file
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 2
+npm:
+  name: '@rose43/dsh-file'
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

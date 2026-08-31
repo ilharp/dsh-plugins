@@ -1,0 +1,15 @@
+version: 1
+name: dsh-browser
+github:
+  owner: Lum1104
+  repo: dsh-browser
+  language: TypeScript
+  license: MIT
+  stars: 481
+  forks: 4
+  openIssues: 2
+npm:
+  name: dsh-browser
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

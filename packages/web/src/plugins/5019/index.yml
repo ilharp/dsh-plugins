@@ -1,0 +1,14 @@
+version: 1
+name: dsh-evidence-task-board
+github:
+  owner: MkaliezZ
+  repo: dsh-evidence-task-board
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@mkaliezz/dsh-task-board'
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,18 @@
+version: 1
+name: xingyuan-dsh
+github:
+  owner: starwish-ai
+  repo: xingyuan-dsh
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@starwish-ai/xingyuan-dsh'
+versions:
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.5
+    dshVersion: v0.1.2-alpha.1

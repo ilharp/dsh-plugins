@@ -1,0 +1,15 @@
+version: 1
+name: dsh-ads
+github:
+  owner: Nagi-ovo
+  repo: dsh-ads
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 590
+  forks: 4
+  openIssues: 5
+npm:
+  name: dsh-ads
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

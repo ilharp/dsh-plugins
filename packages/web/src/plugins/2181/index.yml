@@ -1,0 +1,13 @@
+version: 1
+name: dsh-client-ui-skin-denia
+github:
+  owner: Ewnscat-ya
+  repo: dsh-client-ui-skin-denia
+  language: JavaScript
+  license: NOASSERTION
+  stars: 32
+  forks: 4
+  openIssues: 1
+versions:
+  - packageVersion: 0.0.5
+    dshVersion: v0.1.2-alpha.1

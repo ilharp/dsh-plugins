@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-github-search
+github:
+  owner: Tianbaidi
+  repo: dsh-plugin-github-search
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

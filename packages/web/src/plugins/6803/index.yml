@@ -1,0 +1,12 @@
+version: 1
+name: dsh-opencode-go-monitor
+github:
+  owner: sixtysevenlf
+  repo: dsh-opencode-go-monitor
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

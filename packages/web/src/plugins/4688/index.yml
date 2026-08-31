@@ -1,0 +1,11 @@
+version: 1
+name: DshCockpit
+github:
+  owner: Lxiayu
+  repo: DshCockpit
+  language: JavaScript
+  license: MIT
+  stars: 23
+  forks: 0
+  openIssues: 0
+versions: []

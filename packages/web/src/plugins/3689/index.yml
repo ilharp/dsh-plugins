@@ -1,0 +1,14 @@
+version: 1
+name: dsh-theme-stardew
+github:
+  owner: jungeer
+  repo: dsh-theme-stardew
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-theme-stardew
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

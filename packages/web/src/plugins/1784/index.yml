@@ -1,0 +1,17 @@
+version: 1
+name: dsh-imagegen
+github:
+  owner: dickpy
+  repo: dsh-imagegen
+  language: TypeScript
+  license: Apache-2.0
+  stars: 41
+  forks: 7
+  openIssues: 0
+npm:
+  name: '@dickpy/dsh-imagegen'
+versions:
+  - packageVersion: 1.2.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.4.0
+    dshVersion: v0.1.2-alpha.1

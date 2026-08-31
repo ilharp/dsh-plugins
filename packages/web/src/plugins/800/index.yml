@@ -1,0 +1,14 @@
+version: 1
+name: bash-on-windows
+github:
+  owner: bainianlaoyao
+  repo: bash-on-windows
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: windows-bash
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

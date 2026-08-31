@@ -1,0 +1,16 @@
+version: 1
+name: dsh-llm-github-copilot
+github:
+  owner: lujianjun19
+  repo: dsh-llm-github-copilot
+  language: JavaScript
+  license: MIT
+  stars: 8
+  forks: 4
+npm:
+  name: '@lujianjun19/dsh-llm-github-copilot'
+versions:
+  - packageVersion: 0.4.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.5
+    dshVersion: v0.1.2-alpha.1

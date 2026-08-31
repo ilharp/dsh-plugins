@@ -1,0 +1,11 @@
+version: 1
+name: dsh-desktop
+github:
+  owner: SnowCrescenter-tech
+  repo: dsh-desktop
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 0
+  openIssues: 0
+versions: []

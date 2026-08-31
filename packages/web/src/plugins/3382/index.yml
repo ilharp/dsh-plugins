@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-provider-quota
+github:
+  owner: jasper-zsh
+  repo: dsh-plugin-provider-quota
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

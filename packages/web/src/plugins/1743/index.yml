@@ -1,0 +1,11 @@
+version: 1
+name: DSH-Wiki
+github:
+  owner: detpecca
+  repo: DSH-Wiki
+  language: Python
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

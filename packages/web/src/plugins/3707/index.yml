@@ -1,0 +1,10 @@
+version: 1
+name: deepagent
+github:
+  owner: justinhuangai
+  repo: deepagent
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

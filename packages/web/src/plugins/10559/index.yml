@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-phone-remote
+github:
+  owner: zetaluolang-cyber
+  repo: deepseek-harness-phone-remote
+  language: JavaScript
+  license: NOASSERTION
+  stars: 10
+  forks: 0
+  openIssues: 1
+versions: []

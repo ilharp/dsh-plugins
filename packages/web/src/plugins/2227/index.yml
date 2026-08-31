@@ -1,0 +1,14 @@
+version: 1
+name: dsh-origin-plugin
+github:
+  owner: Fantasality
+  repo: dsh-origin-plugin
+  language: Python
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-origin-plugin
+versions:
+  - packageVersion: 2.0.6
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-trace-compare
+github:
+  owner: lamost423
+  repo: dsh-trace-compare
+  language: HTML
+  license: MIT
+  stars: 47
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-trace-compare
+versions:
+  - packageVersion: 0.6.2
+    dshVersion: v0.1.2-alpha.1

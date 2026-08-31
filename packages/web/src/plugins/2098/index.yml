@@ -1,0 +1,12 @@
+version: 1
+name: dsh-cost-insights
+github:
+  owner: elviass
+  repo: dsh-cost-insights
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

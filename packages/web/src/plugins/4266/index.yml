@@ -1,0 +1,14 @@
+version: 1
+name: dsh-archived-conversation
+github:
+  owner: Li-canghai
+  repo: dsh-archived-conversation
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-satori
+github:
+  owner: Ri0n72Y
+  repo: dsh-satori
+  stars: 2
+  forks: 0
+  openIssues: 1
+npm:
+  name: dsh-satori
+versions: []

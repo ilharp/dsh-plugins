@@ -1,0 +1,11 @@
+version: 1
+name: dsh-usage-widget
+github:
+  owner: xinmo114514
+  repo: dsh-usage-widget
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

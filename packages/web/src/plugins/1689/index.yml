@@ -1,0 +1,11 @@
+version: 1
+name: '@ddtcorex/agent-dev-skills'
+github:
+  owner: ddtcorex
+  repo: agent-dev-skills
+  license: MIT
+  stars: 2
+  forks: 2
+versions:
+  - packageVersion: 1.0.6
+    dshVersion: v0.1.2-alpha.1

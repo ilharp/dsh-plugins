@@ -1,0 +1,12 @@
+version: 1
+name: dsh-web-theme
+github:
+  owner: luckzhangfengbo
+  repo: dsh-web-theme
+  language: JavaScript
+  stars: 0
+npm:
+  name: dsh-web-theme
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

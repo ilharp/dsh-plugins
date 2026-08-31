@@ -1,0 +1,14 @@
+version: 1
+name: the-binding-of-dsh
+github:
+  owner: CH4ACKO3
+  repo: the-binding-of-dsh
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: the-binding-of-dsh
+versions:
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1

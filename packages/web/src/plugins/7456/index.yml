@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-trust-center
+github:
+  owner: TonyWang-hub
+  repo: dsh-plugin-trust-center
+  language: TypeScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

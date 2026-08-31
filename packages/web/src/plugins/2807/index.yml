@@ -1,0 +1,16 @@
+version: 1
+name: dsh-usage-dashboard
+github:
+  owner: Hann428
+  repo: dsh-usage-dashboard
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-usage-dashboard
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

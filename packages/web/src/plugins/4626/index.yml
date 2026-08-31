@@ -1,0 +1,14 @@
+version: 1
+name: dsh-side-chat
+github:
+  owner: Lukeknow0
+  repo: dsh-side-chat
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@lukeknow0/dsh-side-chat'
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

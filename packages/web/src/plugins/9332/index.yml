@@ -1,0 +1,11 @@
+version: 1
+name: dsh-themes
+github:
+  owner: wenliang9527
+  repo: dsh-themes
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

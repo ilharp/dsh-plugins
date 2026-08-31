@@ -1,0 +1,12 @@
+version: 1
+name: dsh-coding-companion
+github:
+  owner: FxRayHughes
+  repo: dsh-coding-companion
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-snapshot
+github:
+  owner: Hyna-hla
+  repo: dsh-snapshot
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-snapshot
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

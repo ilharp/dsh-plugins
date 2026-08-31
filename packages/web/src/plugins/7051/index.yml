@@ -1,0 +1,11 @@
+version: 1
+name: dsh-triad
+github:
+  owner: statem-li
+  repo: dsh-triad
+  language: JavaScript
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

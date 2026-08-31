@@ -1,0 +1,14 @@
+version: 1
+name: dsh-llm-qwen-local
+github:
+  owner: starefinger
+  repo: dsh-llm-qwen-local
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-llm-qwen-local
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

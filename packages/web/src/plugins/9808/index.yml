@@ -1,0 +1,15 @@
+version: 1
+name: dsh-portable-tavern
+github:
+  owner: XCNXNXNX
+  repo: dsh-portable-tavern
+  language: TypeScript
+  license: MIT
+  stars: 20
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-portable-tavern
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

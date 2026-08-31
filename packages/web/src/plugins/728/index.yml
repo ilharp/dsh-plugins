@@ -1,0 +1,11 @@
+version: 1
+name: dsh-client-ui-monitor
+github:
+  owner: Auran-Lu
+  repo: dsh-client-ui-monitor
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

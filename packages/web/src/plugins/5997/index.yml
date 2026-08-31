@@ -1,0 +1,14 @@
+version: 1
+name: dsh-reasoning-slider
+github:
+  owner: qjcnmd
+  repo: dsh-reasoning-slider
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 1
+npm:
+  name: reasoning-slider
+versions:
+  - packageVersion: 0.0.3
+    dshVersion: v0.1.2-alpha.1

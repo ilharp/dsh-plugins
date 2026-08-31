@@ -1,0 +1,15 @@
+version: 1
+name: dsh-replay
+github:
+  owner: MingoZhou
+  repo: dsh-replay
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 1
+npm:
+  name: '@mingozhou/dsh-replay'
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

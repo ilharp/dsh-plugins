@@ -1,0 +1,12 @@
+version: 1
+name: dsh-reconnect
+github:
+  owner: MistRain-1
+  repo: dsh-reconnect
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1

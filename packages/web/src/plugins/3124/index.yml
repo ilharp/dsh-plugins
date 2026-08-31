@@ -1,0 +1,13 @@
+version: 1
+name: trio
+github:
+  owner: huey1in
+  repo: trio
+  language: TypeScript
+  license: MIT
+  stars: 19
+  forks: 0
+  openIssues: 0
+npm:
+  name: trio
+versions: []

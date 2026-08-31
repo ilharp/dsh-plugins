@@ -1,0 +1,13 @@
+version: 1
+name: dsh-personalize
+github:
+  owner: Zephyr-vibe
+  repo: dsh-personalize
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

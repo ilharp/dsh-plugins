@@ -1,0 +1,12 @@
+version: 1
+name: dsh-conversation-strip
+github:
+  owner: mldhao
+  repo: dsh-conversation-strip
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.3.4
+    dshVersion: v0.1.2-alpha.1

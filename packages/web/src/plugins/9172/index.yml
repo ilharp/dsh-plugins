@@ -1,0 +1,11 @@
+version: 1
+name: OpenViking
+github:
+  owner: volcengine
+  repo: OpenViking
+  language: Python
+  license: AGPL-3.0
+  stars: 34375
+  forks: 2622
+  openIssues: 585
+versions: []

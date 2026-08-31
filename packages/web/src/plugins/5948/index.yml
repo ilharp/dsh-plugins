@@ -1,0 +1,11 @@
+version: 1
+name: '@qimidandapigu/dsh-game-agent'
+github:
+  owner: qimidandapigu
+  repo: dsh-xiaotangyuan-game
+  license: MIT
+  stars: 10
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

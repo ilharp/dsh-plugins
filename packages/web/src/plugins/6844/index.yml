@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-for-vscode
+github:
+  owner: skymecode
+  repo: deepseek-harness-for-vscode
+  language: TypeScript
+  license: MIT
+  stars: 82
+  forks: 1
+  openIssues: 0
+versions: []

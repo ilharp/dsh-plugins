@@ -1,0 +1,14 @@
+version: 1
+name: dsh-updater-npm
+github:
+  owner: SiriusWJ
+  repo: dsh-updater-npm
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-updater-npm
+versions:
+  - packageVersion: 1.9.0
+    dshVersion: v0.1.2-alpha.1

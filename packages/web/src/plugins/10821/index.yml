@@ -1,0 +1,11 @@
+version: 1
+name: WhaleKit
+github:
+  owner: zprolab
+  repo: WhaleKit
+  language: Shell
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

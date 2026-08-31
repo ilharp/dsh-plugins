@@ -1,0 +1,14 @@
+version: 1
+name: dsh-tokensforce
+github:
+  owner: spirits001
+  repo: dsh-tokensforce
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-tokensforce
+versions:
+  - packageVersion: 0.5.2
+    dshVersion: v0.1.2-alpha.1

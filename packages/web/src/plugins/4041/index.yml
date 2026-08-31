@@ -1,0 +1,12 @@
+version: 1
+name: dsh-ayaka-theme
+github:
+  owner: l-vM2k
+  repo: dsh-ayaka-theme
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

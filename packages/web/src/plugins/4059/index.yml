@@ -1,0 +1,14 @@
+version: 1
+name: dsh-maze
+github:
+  owner: lamost423
+  repo: dsh-maze
+  language: HTML
+  license: MIT
+  stars: 59
+  forks: 3
+npm:
+  name: dsh-maze
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

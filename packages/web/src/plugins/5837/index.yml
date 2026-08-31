@@ -1,0 +1,11 @@
+version: 1
+name: url-manager
+github:
+  owner: Piccolo123
+  repo: url-manager
+  language: Python
+  license: MIT
+  stars: 4
+  forks: 1
+  openIssues: 1
+versions: []

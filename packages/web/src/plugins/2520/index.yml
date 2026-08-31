@@ -1,0 +1,12 @@
+version: 1
+name: dsh-chat-widener
+github:
+  owner: garrisonz
+  repo: dsh-chat-widener
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

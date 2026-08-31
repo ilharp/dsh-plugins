@@ -1,0 +1,11 @@
+version: 1
+name: learning-dsh
+github:
+  owner: yangl326-Dylan
+  repo: learning-dsh
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

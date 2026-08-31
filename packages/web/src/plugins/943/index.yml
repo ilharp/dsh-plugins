@@ -1,0 +1,14 @@
+version: 1
+name: Personal_MCP
+github:
+  owner: BingoAgentTouch
+  repo: Personal_MCP
+  language: TypeScript
+  license: AGPL-3.0
+  stars: 2
+  forks: 0
+npm:
+  name: '@bingo_touth/memory-mcp-server'
+versions:
+  - packageVersion: 0.9.2
+    dshVersion: v0.1.2-alpha.1

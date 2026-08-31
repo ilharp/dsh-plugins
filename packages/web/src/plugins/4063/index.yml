@@ -1,0 +1,14 @@
+version: 1
+name: dsh-windows-shell-policy
+github:
+  owner: LAN-TINA-WS
+  repo: dsh-windows-shell-policy
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-windows-shell-policy
+versions:
+  - packageVersion: 0.0.5
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-deepseek-peak-valley
+github:
+  owner: z-col
+  repo: dsh-deepseek-peak-valley
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-compass
+github:
+  owner: Happy2Git
+  repo: dsh-compass
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.15.0
+    dshVersion: v0.1.2-alpha.1

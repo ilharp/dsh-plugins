@@ -1,0 +1,16 @@
+version: 1
+name: dsh-acp-adapter
+github:
+  owner: zaimokuza-yoshiteru
+  repo: dsh-acp-adapter
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@zaimokuza/dsh-acp-adapter'
+versions:
+  - packageVersion: 0.1.0-rc.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0-rc.7
+    dshVersion: v0.1.2-alpha.1

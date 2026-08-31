@@ -1,0 +1,14 @@
+version: 1
+name: dsh-ctl
+github:
+  owner: w2831120407
+  repo: dsh-ctl
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-ctl
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

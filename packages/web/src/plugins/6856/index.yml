@@ -1,0 +1,11 @@
+version: 1
+name: dsh-whale-tui
+github:
+  owner: slicenferqin
+  repo: dsh-whale-tui
+  language: Rust
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

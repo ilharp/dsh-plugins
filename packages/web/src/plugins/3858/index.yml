@@ -1,0 +1,11 @@
+version: 1
+name: dsh-envoy
+github:
+  owner: KhalilYamber
+  repo: dsh-envoy
+  language: JavaScript
+  license: NOASSERTION
+  stars: 6
+  forks: 1
+  openIssues: 0
+versions: []

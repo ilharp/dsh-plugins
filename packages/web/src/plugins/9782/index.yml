@@ -1,0 +1,12 @@
+version: 1
+name: xby-structured-argumentation
+github:
+  owner: xby-skill
+  repo: xby-structured-argumentation
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

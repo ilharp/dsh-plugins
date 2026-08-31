@@ -1,0 +1,14 @@
+version: 1
+name: dsh-generative-ui
+github:
+  owner: CNSeniorious000
+  repo: dsh-generative-ui
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-generative-ui
+versions:
+  - packageVersion: 0.0.2
+    dshVersion: v0.1.2-alpha.1

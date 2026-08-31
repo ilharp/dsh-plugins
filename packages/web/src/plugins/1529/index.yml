@@ -1,0 +1,11 @@
+version: 1
+name: dsh-header-status
+github:
+  owner: crystalWinter666
+  repo: dsh-header-status
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 1
+  openIssues: 3
+versions: []

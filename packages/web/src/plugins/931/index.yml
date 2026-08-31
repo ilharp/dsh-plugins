@@ -1,0 +1,15 @@
+version: 1
+name: dsh-drag-and-drop
+github:
+  owner: bill9109
+  repo: dsh-drag-and-drop
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 24
+  forks: 4
+  openIssues: 0
+npm:
+  name: dsh-drag-and-drop
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

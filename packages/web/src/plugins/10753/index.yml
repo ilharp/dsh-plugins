@@ -1,0 +1,16 @@
+version: 1
+name: dsh-harness-zh-cn
+github:
+  owner: zjl1989-li
+  repo: dsh-harness-zh-cn
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 0
+npm:
+  name: dsh-harness-zh-cn
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

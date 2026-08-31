@@ -1,0 +1,14 @@
+version: 1
+name: dsh-usage-dashboard
+github:
+  owner: xinmo114514
+  repo: dsh-usage-dashboard
+  language: TypeScript
+  license: Unlicense
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-usage-dashboard
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,10 @@
+version: 1
+name: zotero-wave-rag
+github:
+  owner: Fisfzy
+  repo: zotero-wave-rag
+  language: TypeScript
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

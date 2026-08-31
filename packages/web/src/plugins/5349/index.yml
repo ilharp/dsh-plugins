@@ -1,0 +1,15 @@
+version: 1
+name: dsh-kimino-theme
+github:
+  owner: niiang
+  repo: dsh-kimino-theme
+  language: JavaScript
+  license: MIT
+  stars: 27
+  forks: 0
+  openIssues: 3
+npm:
+  name: dsh-kimino-theme
+versions:
+  - packageVersion: 66.2.0
+    dshVersion: v0.1.2-alpha.1

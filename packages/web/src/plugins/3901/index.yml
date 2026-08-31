@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-builder
+github:
+  owner: kingjly
+  repo: dsh-plugin-builder
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

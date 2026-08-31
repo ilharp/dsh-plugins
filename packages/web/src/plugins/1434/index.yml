@@ -1,0 +1,12 @@
+version: 1
+name: dsh-client-ui-skill-fuzzy
+github:
+  owner: CnsMaple
+  repo: dsh-client-ui-skill-fuzzy
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-market
+github:
+  owner: losebird
+  repo: dsh-plugin-market
+  language: JavaScript
+  license: NOASSERTION
+  stars: 5
+  forks: 10
+npm:
+  name: '@ace-zone/dsh-market'
+versions:
+  - packageVersion: 0.1.66
+    dshVersion: v0.1.2-alpha.1

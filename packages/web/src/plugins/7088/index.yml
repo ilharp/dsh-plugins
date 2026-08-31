@@ -1,0 +1,14 @@
+version: 1
+name: dsh-chat-history
+github:
+  owner: Stylelinzzz
+  repo: dsh-chat-history
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-chat-history
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

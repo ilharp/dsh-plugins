@@ -1,0 +1,15 @@
+version: 1
+name: skillhub
+github:
+  owner: cocofhu
+  repo: skillhub
+  language: TypeScript
+  license: MIT
+  stars: 6
+  forks: 0
+  openIssues: 0
+npm:
+  name: skillhub-plugin
+versions:
+  - packageVersion: 0.2.16
+    dshVersion: v0.1.2-alpha.1

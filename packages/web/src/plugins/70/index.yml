@@ -1,0 +1,12 @@
+version: 1
+name: dsh-popper
+github:
+  owner: '1473382'
+  repo: dsh-popper
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.0-rc.8
+    dshVersion: v0.1.2-alpha.1

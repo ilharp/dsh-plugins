@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-usage-report
+github:
+  owner: csiroqa
+  repo: dsh-plugin-usage-report
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

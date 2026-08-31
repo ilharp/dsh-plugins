@@ -1,0 +1,11 @@
+version: 1
+name: dsh-multi-cot
+github:
+  owner: AprilWizard
+  repo: dsh-multi-cot
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

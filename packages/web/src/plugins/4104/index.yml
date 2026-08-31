@@ -1,0 +1,16 @@
+version: 1
+name: dsh-composer-layout
+github:
+  owner: lavapapa
+  repo: dsh-composer-layout
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-composer-layout
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.12
+    dshVersion: v0.1.2-alpha.1

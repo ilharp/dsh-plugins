@@ -1,0 +1,14 @@
+version: 1
+name: dsh-message-edit
+github:
+  owner: Moeblack
+  repo: dsh-message-edit
+  language: TypeScript
+  stars: 41
+  forks: 11
+  openIssues: 3
+npm:
+  name: dsh-message-edit
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

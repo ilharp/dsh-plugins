@@ -1,0 +1,15 @@
+version: 1
+name: dsh-emoji
+github:
+  owner: hellodigua
+  repo: dsh-emoji
+  language: TypeScript
+  license: MIT
+  stars: 39
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-emoji
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

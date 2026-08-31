@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-table-zoom
+github:
+  owner: Pasumao
+  repo: dsh-plugin-table-zoom
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-plugin-table-zoom
+versions:
+  - packageVersion: 0.3.4
+    dshVersion: v0.1.2-alpha.1

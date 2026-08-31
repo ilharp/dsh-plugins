@@ -1,0 +1,11 @@
+version: 1
+name: graycode-for-dsh
+github:
+  owner: Komeiji-Shiki
+  repo: graycode-for-dsh
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 1
+  openIssues: 0
+versions: []

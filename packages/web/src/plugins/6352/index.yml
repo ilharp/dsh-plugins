@@ -1,0 +1,12 @@
+version: 1
+name: dsh-dev-team-manager
+github:
+  owner: SASE223
+  repo: dsh-dev-team-manager
+  language: MDX
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

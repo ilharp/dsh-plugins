@@ -1,0 +1,12 @@
+version: 1
+name: dsh-sound-cue
+github:
+  owner: Nixz0824
+  repo: dsh-sound-cue
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

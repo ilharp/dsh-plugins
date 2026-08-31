@@ -1,0 +1,11 @@
+version: 1
+name: QAQ
+github:
+  owner: WTStarMark
+  repo: QAQ
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 1
+  openIssues: 0
+versions: []

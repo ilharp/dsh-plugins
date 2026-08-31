@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-web-docker
+github:
+  owner: Xidong-AI
+  repo: deepseek-harness-web-docker
+  language: Shell
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

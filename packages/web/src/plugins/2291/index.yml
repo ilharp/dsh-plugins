@@ -1,0 +1,12 @@
+version: 1
+name: dsh-goodjob
+github:
+  owner: fentz26
+  repo: dsh-goodjob
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 2026.8.3
+    dshVersion: v0.1.2-alpha.1

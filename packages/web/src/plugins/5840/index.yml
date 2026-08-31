@@ -1,0 +1,14 @@
+version: 1
+name: dsh-pi-kit
+github:
+  owner: Pidreamleaves
+  repo: dsh-pi-kit
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-pi-kit
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

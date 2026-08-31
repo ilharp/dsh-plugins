@@ -1,0 +1,12 @@
+version: 1
+name: dsh-archscope
+github:
+  owner: lvxinrong
+  repo: dsh-archscope
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1

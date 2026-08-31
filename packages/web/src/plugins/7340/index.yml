@@ -1,0 +1,16 @@
+version: 1
+name: DeepSeek-TUI
+github:
+  owner: TheMcSwift
+  repo: DeepSeek-TUI
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@mcswift/dsh-tui'
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

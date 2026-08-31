@@ -1,0 +1,17 @@
+version: 1
+name: dsh-lark-link
+github:
+  owner: amlyczz
+  repo: dsh-lark-link
+  language: TypeScript
+  license: MIT
+  stars: 32
+  forks: 6
+  openIssues: 0
+npm:
+  name: dsh-lark-link
+versions:
+  - packageVersion: 0.5.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.2
+    dshVersion: v0.1.2-alpha.1

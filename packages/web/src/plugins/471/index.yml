@@ -1,0 +1,16 @@
+version: 1
+name: dsh-balance-monitor
+github:
+  owner: alanzhao0128
+  repo: dsh-balance-monitor
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-balance-monitor
+versions:
+  - packageVersion: 0.3.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.5
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-smart-restart
+github:
+  owner: edusrez
+  repo: dsh-smart-restart
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 0
+npm:
+  name: dsh-smart-restart
+versions:
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.1
+    dshVersion: v0.1.2-alpha.1

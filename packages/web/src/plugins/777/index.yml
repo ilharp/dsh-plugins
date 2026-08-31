@@ -1,0 +1,11 @@
+version: 1
+name: dsh-codex-oauth
+github:
+  owner: Babulubobo
+  repo: dsh-codex-oauth
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

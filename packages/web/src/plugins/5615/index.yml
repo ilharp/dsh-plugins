@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-typescript-sdk
+github:
+  owner: openma-ai
+  repo: deepseek-harness-typescript-sdk
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

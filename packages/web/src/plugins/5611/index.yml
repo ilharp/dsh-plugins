@@ -1,0 +1,11 @@
+version: 1
+name: openguardrails
+github:
+  owner: openguardrails
+  repo: openguardrails
+  language: Python
+  license: Apache-2.0
+  stars: 35
+  forks: 5
+  openIssues: 0
+versions: []

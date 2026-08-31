@@ -1,0 +1,10 @@
+version: 1
+name: dsh-power-launch
+github:
+  owner: pwping
+  repo: dsh-power-launch
+  language: TypeScript
+  stars: 1
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: awesome-deepseek-harness
+github:
+  owner: 0xsline
+  repo: awesome-deepseek-harness
+  language: Python
+  license: CC0-1.0
+  stars: 919
+  forks: 120
+  openIssues: 24
+versions: []

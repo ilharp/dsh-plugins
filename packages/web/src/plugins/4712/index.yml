@@ -1,0 +1,14 @@
+version: 1
+name: dsh-skill-panel
+github:
+  owner: lywusichen
+  repo: dsh-skill-panel
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-skill-panel
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

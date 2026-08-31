@@ -1,0 +1,16 @@
+version: 1
+name: dsh-plugin-xiaomi-mimo-tts
+github:
+  owner: ppy-web
+  repo: dsh-plugin-xiaomi-mimo-tts
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+npm:
+  name: dsh-xiaomi-tts
+versions:
+  - packageVersion: 2.3.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2.3.2
+    dshVersion: v0.1.2-alpha.1

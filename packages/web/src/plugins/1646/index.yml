@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-deepseek-pricing
+github:
+  owner: Dasooul03
+  repo: dsh-plugin-deepseek-pricing
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 1
+versions: []

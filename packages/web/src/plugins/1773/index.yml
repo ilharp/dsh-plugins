@@ -1,0 +1,15 @@
+version: 1
+name: dsh-reverse-skill
+github:
+  owner: dhicoc
+  repo: dsh-reverse-skill
+  language: PowerShell
+  license: MIT
+  stars: 95
+  forks: 13
+  openIssues: 1
+npm:
+  name: '@dhicoc/dsh-reverse-skill'
+versions:
+  - packageVersion: 1.0.5
+    dshVersion: v0.1.2-alpha.1

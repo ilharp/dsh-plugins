@@ -1,0 +1,11 @@
+version: 1
+name: dsh-ui-whale
+github:
+  owner: lhh010
+  repo: dsh-ui-whale
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 29
+  forks: 0
+  openIssues: 1
+versions: []

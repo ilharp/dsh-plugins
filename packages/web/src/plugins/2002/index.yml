@@ -1,0 +1,16 @@
+version: 1
+name: dsh-data-insight
+github:
+  owner: duyanta123
+  repo: dsh-data-insight
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-data-insight
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

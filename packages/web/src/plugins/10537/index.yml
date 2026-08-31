@@ -1,0 +1,11 @@
+version: 1
+name: allinluna
+github:
+  owner: zenx0x
+  repo: allinluna
+  language: Python
+  license: Apache-2.0
+  stars: 47
+  forks: 0
+  openIssues: 0
+versions: []

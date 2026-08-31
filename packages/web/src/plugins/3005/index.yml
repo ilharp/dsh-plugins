@@ -1,0 +1,13 @@
+version: 1
+name: dsh-memory
+github:
+  owner: hmlyx
+  repo: dsh-memory
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-memory
+versions:
+  - packageVersion: 3.0.0
+    dshVersion: v0.1.2-alpha.1

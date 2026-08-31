@@ -1,0 +1,16 @@
+version: 1
+name: dsh-knowledge
+github:
+  owner: lemoncat7
+  repo: dsh-knowledge
+  language: TypeScript
+  license: MIT
+  stars: 6
+  forks: 2
+npm:
+  name: '@lemoncat7/dsh-knowledge'
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1

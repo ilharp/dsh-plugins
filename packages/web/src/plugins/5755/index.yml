@@ -1,0 +1,13 @@
+version: 1
+name: dsh-quick-view
+github:
+  owner: pengls
+  repo: dsh-quick-view
+  language: TypeScript
+  stars: 1
+  forks: 0
+npm:
+  name: '@pengls/dsh-quick-view'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

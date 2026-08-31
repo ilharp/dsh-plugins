@@ -1,0 +1,15 @@
+version: 1
+name: dsh-web-attention-badge
+github:
+  owner: Luaphes
+  repo: dsh-web-attention-badge
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-web-attention-badge
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

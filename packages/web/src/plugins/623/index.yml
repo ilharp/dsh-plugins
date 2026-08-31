@@ -1,0 +1,17 @@
+version: 1
+name: dsh-browser
+github:
+  owner: anweat
+  repo: dsh-browser
+  language: TypeScript
+  license: MIT
+  stars: 16
+  forks: 4
+  openIssues: 0
+npm:
+  name: '@anweat/dsh-browser'
+versions:
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.9
+    dshVersion: v0.1.2-alpha.1

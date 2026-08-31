@@ -1,0 +1,15 @@
+version: 1
+name: dsh-model-failover
+github:
+  owner: Letter2025
+  repo: dsh-model-failover
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-model-failover
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

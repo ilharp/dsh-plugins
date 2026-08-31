@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-custom-provider-enhancer
+github:
+  owner: cinob
+  repo: dsh-plugin-custom-provider-enhancer
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

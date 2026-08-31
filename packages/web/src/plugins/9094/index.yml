@@ -1,0 +1,14 @@
+version: 1
+name: dsh-auth-plugin
+github:
+  owner: v1xingyue
+  repo: dsh-auth-plugin
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-auth-plugin
+versions:
+  - packageVersion: 1.8.0
+    dshVersion: v0.1.2-alpha.1

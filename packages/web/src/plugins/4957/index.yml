@@ -1,0 +1,16 @@
+version: 1
+name: dsh-agent-compact
+github:
+  owner: MimicHunterZ
+  repo: dsh-agent-compact
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 1
+npm:
+  name: '@mimichunterz/agent-compact'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

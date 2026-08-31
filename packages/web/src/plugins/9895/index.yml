@@ -1,0 +1,12 @@
+version: 1
+name: dsh-lmstudio-router
+github:
+  owner: xiaoyizhuang03-droid
+  repo: dsh-lmstudio-router
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

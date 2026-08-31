@@ -1,0 +1,13 @@
+version: 1
+name: gewu-tools
+github:
+  owner: nyantused-cpun
+  repo: gewu-tools
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: gewu-tools
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

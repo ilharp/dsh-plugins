@@ -1,0 +1,11 @@
+version: 1
+name: dsh-godot-tool
+github:
+  owner: Fromlan
+  repo: dsh-godot-tool
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

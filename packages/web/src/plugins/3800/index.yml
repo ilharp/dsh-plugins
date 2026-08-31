@@ -1,0 +1,11 @@
+version: 1
+name: awesome-dsh-plugins
+github:
+  owner: kejixiaoliang
+  repo: awesome-dsh-plugins
+  language: JavaScript
+  license: MIT
+  stars: 29
+  forks: 5
+  openIssues: 0
+versions: []

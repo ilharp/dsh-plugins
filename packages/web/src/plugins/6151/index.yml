@@ -1,0 +1,16 @@
+version: 1
+name: dsh-recall
+github:
+  owner: Relistencode
+  repo: dsh-recall
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-recall
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

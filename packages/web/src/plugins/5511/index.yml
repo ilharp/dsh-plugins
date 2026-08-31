@@ -1,0 +1,15 @@
+version: 1
+name: dsh-lark
+github:
+  owner: omdsh-dev
+  repo: dsh-lark
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 40
+  forks: 9
+  openIssues: 1
+npm:
+  name: dsh-lark-channel
+versions:
+  - packageVersion: 0.0.7
+    dshVersion: v0.1.2-alpha.1

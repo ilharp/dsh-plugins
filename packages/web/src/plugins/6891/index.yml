@@ -1,0 +1,11 @@
+version: 1
+name: dsh-launcher
+github:
+  owner: SnowCrescenter-tech
+  repo: dsh-launcher
+  language: PowerShell
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-agent-life
+github:
+  owner: jonah791
+  repo: dsh-agent-life
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

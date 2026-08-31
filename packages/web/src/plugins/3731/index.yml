@@ -1,0 +1,14 @@
+version: 1
+name: dsh-vsceditor
+github:
+  owner: k-ying
+  repo: dsh-vsceditor
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 1
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.4
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-tool-accurate-vision
+github:
+  owner: imkingjh999
+  repo: dsh-tool-accurate-vision
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-tool-accurate-vision
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

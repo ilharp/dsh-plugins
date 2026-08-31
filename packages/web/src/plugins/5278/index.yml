@@ -1,0 +1,16 @@
+version: 1
+name: dsh-codex-relay
+github:
+  owner: necokeine
+  repo: dsh-codex-relay
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@necokeine/dsh-codex-relay'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-custom-header
+github:
+  owner: Asaiuta
+  repo: dsh-custom-header
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 1
+npm:
+  name: dsh-custom-header
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

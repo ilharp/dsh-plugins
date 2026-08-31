@@ -1,0 +1,13 @@
+version: 1
+name: deepseek-harness-remote
+github:
+  owner: liguobao
+  repo: deepseek-harness-remote
+  language: TypeScript
+  license: NOASSERTION
+  stars: 129
+  forks: 12
+  openIssues: 4
+versions:
+  - packageVersion: 0.3.33
+    dshVersion: v0.1.2-alpha.1

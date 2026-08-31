@@ -1,0 +1,11 @@
+version: 1
+name: DeepSeek-Harness-for-VS-Code
+github:
+  owner: NEXTINDIE
+  repo: DeepSeek-Harness-for-VS-Code
+  language: TypeScript
+  license: NOASSERTION
+  stars: 7
+  forks: 2
+  openIssues: 4
+versions: []

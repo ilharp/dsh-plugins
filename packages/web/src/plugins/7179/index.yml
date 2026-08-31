@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin
+github:
+  owner: Suxeca
+  repo: dsh-plugin
+  language: TypeScript
+  license: NOASSERTION
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,11 @@
+version: 1
+name: colleague-skill
+github:
+  owner: titanwings
+  repo: colleague-skill
+  language: Python
+  license: MIT
+  stars: 24046
+  forks: 2043
+  openIssues: 34
+versions: []

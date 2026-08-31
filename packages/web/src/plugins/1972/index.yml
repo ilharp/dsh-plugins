@@ -1,0 +1,11 @@
+version: 1
+name: dsh-notify
+github:
+  owner: dshiq04
+  repo: dsh-notify
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-session-terminal
+github:
+  owner: GHJIVHIDD
+  repo: dsh-plugin-session-terminal
+  language: JavaScript
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.0.2
+    dshVersion: v0.1.2-alpha.1

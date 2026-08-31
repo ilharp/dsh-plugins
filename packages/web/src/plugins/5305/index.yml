@@ -1,0 +1,14 @@
+version: 1
+name: dsh-tui
+github:
+  owner: nexlineai
+  repo: dsh-tui
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@nexlineai/dsh-tui'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-call-shrink
+github:
+  owner: zhuzichen362
+  repo: dsh-call-shrink
+  language: JavaScript
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 13.0.0
+    dshVersion: v0.1.2-alpha.1

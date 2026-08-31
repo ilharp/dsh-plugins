@@ -1,0 +1,12 @@
+version: 1
+name: dsh-thinkmeter
+github:
+  owner: dmz2922990
+  repo: dsh-thinkmeter
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.8.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-balance
+github:
+  owner: lmmzss-jk
+  repo: dsh-plugin-balance
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@lmmzss/dsh-plugin-balance'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

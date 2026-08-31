@@ -1,0 +1,11 @@
+version: 1
+name: dib
+github:
+  owner: MaimoryLab
+  repo: dib
+  language: Go
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions: []

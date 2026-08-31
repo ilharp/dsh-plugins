@@ -1,0 +1,14 @@
+version: 1
+name: dsh-forge
+github:
+  owner: activeing123
+  repo: dsh-forge
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-forge
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

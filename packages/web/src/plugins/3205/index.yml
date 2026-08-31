@@ -1,0 +1,14 @@
+version: 1
+name: dsh-clean-desktop-shell
+github:
+  owner: Icather
+  repo: dsh-clean-desktop-shell
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-clean-desktop-shell
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

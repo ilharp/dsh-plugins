@@ -1,0 +1,14 @@
+version: 1
+name: dsh-usage-stats
+github:
+  owner: Tastelessor
+  repo: dsh-usage-stats
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-token-usage
+versions:
+  - packageVersion: 2.2.0
+    dshVersion: v0.1.2-alpha.1

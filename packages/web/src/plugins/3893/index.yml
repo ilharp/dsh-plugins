@@ -1,0 +1,12 @@
+version: 1
+name: dsh-chaingate-wallet-plugin
+github:
+  owner: king-bcolor
+  repo: dsh-chaingate-wallet-plugin
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

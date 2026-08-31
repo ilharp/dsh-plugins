@@ -1,0 +1,15 @@
+version: 1
+name: dsh-llm-fallbacks
+github:
+  owner: btspoony
+  repo: dsh-llm-fallbacks
+  language: TypeScript
+  license: MIT
+  stars: 17
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-llm-fallbacks
+versions:
+  - packageVersion: 0.1.0-alpha.1
+    dshVersion: v0.1.2-alpha.1

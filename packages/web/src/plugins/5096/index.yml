@@ -1,0 +1,16 @@
+version: 1
+name: dsh-peak-cost-mode
+github:
+  owner: moon09300731
+  repo: dsh-peak-cost-mode
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-peak-cost-mode
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

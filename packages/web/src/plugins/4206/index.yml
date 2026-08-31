@@ -1,0 +1,12 @@
+version: 1
+name: dsh-web-speech-input
+github:
+  owner: leozou320-ai
+  repo: dsh-web-speech-input
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 1
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

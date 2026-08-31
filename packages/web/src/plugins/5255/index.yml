@@ -1,0 +1,13 @@
+version: 1
+name: dsh-qa
+github:
+  owner: naodeng
+  repo: dsh-qa
+  language: JavaScript
+  stars: 7
+  forks: 0
+npm:
+  name: dsh-qa
+versions:
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1

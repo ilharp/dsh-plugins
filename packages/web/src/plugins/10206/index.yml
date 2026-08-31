@@ -1,0 +1,14 @@
+version: 1
+name: dsh-session-sight
+github:
+  owner: Yidien
+  repo: dsh-session-sight
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-session-sight
+versions:
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

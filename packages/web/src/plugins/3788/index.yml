@@ -1,0 +1,11 @@
+version: 1
+name: dsh-github-connector
+github:
+  owner: kaziii
+  repo: dsh-github-connector
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-markdown-xyy
+github:
+  owner: mengnanxyyyy
+  repo: dsh-markdown-xyy
+  language: JavaScript
+  stars: 1
+npm:
+  name: dsh-markdown-xyy
+versions:
+  - packageVersion: 2.0.2
+    dshVersion: v0.1.2-alpha.1

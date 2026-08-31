@@ -1,0 +1,12 @@
+version: 1
+name: dsh-todo-guard
+github:
+  owner: a903067276-rgb
+  repo: dsh-todo-guard
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

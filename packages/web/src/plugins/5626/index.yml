@@ -1,0 +1,12 @@
+version: 1
+name: dsh-codex-shim
+github:
+  owner: OpenTritium
+  repo: dsh-codex-shim
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

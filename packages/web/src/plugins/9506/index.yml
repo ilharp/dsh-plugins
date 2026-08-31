@@ -1,0 +1,11 @@
+version: 1
+name: oh-story-dsh
+github:
+  owner: worldwonderer
+  repo: oh-story-dsh
+  language: Python
+  license: MIT
+  stars: 207
+  forks: 30
+  openIssues: 0
+versions: []

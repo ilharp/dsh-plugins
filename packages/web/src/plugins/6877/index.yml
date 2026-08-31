@@ -1,0 +1,15 @@
+version: 1
+name: godot-bridge
+github:
+  owner: Smalldy
+  repo: godot-bridge
+  language: GDScript
+  license: MIT
+  stars: 12
+  forks: 2
+  openIssues: 0
+npm:
+  name: godot-bridge
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

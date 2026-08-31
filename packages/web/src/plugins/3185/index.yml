@@ -1,0 +1,17 @@
+version: 1
+name: dsh-thinking-effort
+github:
+  owner: hytime
+  repo: dsh-thinking-effort
+  language: JavaScript
+  license: MIT
+  stars: 19
+  forks: 0
+  openIssues: 3
+npm:
+  name: '@hytime/dsh-thinking-effort'
+versions:
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1

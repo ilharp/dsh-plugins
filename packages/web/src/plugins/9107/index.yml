@@ -1,0 +1,12 @@
+version: 1
+name: InfiniteDSH
+github:
+  owner: vdnight89
+  repo: InfiniteDSH
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 2
+versions:
+  - packageVersion: 0.4.13
+    dshVersion: v0.1.2-alpha.1

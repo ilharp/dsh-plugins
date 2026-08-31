@@ -1,0 +1,8 @@
+version: 1
+name: dsh-plugin-knowledge-base
+github:
+  owner: ds-customize
+  repo: dsh-plugin-knowledge-base
+  stars: 0
+  forks: 0
+versions: []

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-shutup
+github:
+  owner: DosterBool
+  repo: dsh-shutup
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,10 @@
+version: 1
+name: dsh-web-search-tavily
+github:
+  owner: my-dsh
+  repo: dsh-web-search-tavily
+  language: JavaScript
+  stars: 1
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

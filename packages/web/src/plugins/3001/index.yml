@@ -1,0 +1,13 @@
+version: 1
+name: dsh-sm-context-piano
+github:
+  owner: hjj345
+  repo: dsh-sm-context-piano
+  language: TypeScript
+  stars: 1
+  forks: 0
+npm:
+  name: '@hjj345345/dsh-sm-context-piano'
+versions:
+  - packageVersion: 1.1.2
+    dshVersion: v0.1.2-alpha.1

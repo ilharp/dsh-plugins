@@ -1,0 +1,14 @@
+version: 1
+name: talon-ui
+github:
+  owner: awnlight
+  repo: talon-ui
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: talon-ui
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

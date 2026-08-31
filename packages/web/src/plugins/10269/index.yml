@@ -1,0 +1,8 @@
+version: 1
+name: dsh-agentmemory
+github:
+  owner: Yogioo
+  repo: dsh-agentmemory
+  license: MIT
+  stars: 1
+versions: []

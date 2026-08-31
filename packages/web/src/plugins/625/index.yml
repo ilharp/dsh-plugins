@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-dev-guide
+github:
+  owner: anweat
+  repo: dsh-plugin-dev-guide
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

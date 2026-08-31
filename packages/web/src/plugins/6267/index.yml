@@ -1,0 +1,15 @@
+version: 1
+name: dsh-launcher-lifetime
+github:
+  owner: Ruler4396
+  repo: dsh-launcher-lifetime
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-launcher-lifetime
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

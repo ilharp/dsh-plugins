@@ -1,0 +1,15 @@
+version: 1
+name: dsh-mermaid
+github:
+  owner: AKS1st
+  repo: dsh-mermaid
+  language: TypeScript
+  license: MIT
+  stars: 9
+  forks: 2
+  openIssues: 2
+npm:
+  name: dsh-mermaid
+versions:
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1

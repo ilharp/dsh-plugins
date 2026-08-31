@@ -1,0 +1,15 @@
+version: 1
+name: dsh-discord
+github:
+  owner: suuuuuu-1
+  repo: dsh-discord
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-discord
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

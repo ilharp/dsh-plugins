@@ -1,0 +1,13 @@
+version: 1
+name: zat-dsh-engine
+github:
+  owner: mishibeikejie
+  repo: zat-dsh-engine
+  language: TypeScript
+  license: MIT
+  stars: 77
+  forks: 4
+  openIssues: 2
+versions:
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1

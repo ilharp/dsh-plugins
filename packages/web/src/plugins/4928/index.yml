@@ -1,0 +1,14 @@
+version: 1
+name: dsh-session-hover-preview
+github:
+  owner: MichaelGong
+  repo: dsh-session-hover-preview
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-session-hover-preview
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

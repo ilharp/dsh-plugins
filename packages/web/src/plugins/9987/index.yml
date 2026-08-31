@@ -1,0 +1,14 @@
+version: 1
+name: dsh-synthv-bridge
+github:
+  owner: XKLMY-hi
+  repo: dsh-synthv-bridge
+  language: TypeScript
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+npm:
+  name: '@xklmy/dsh-synthv-bridge'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

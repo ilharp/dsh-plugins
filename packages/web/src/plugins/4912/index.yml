@@ -1,0 +1,15 @@
+version: 1
+name: dsh-web-mobile
+github:
+  owner: mexiaosqwq
+  repo: dsh-web-mobile
+  language: JavaScript
+  license: MIT
+  stars: 70
+  forks: 17
+  openIssues: 0
+versions:
+  - packageVersion: 2.1.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2.2.0
+    dshVersion: v0.1.2-alpha.1

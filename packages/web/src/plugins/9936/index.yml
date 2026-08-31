@@ -1,0 +1,15 @@
+version: 1
+name: dsh-vision-bridge
+github:
+  owner: ximengxiaolan
+  repo: dsh-vision-bridge
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-vision-bridge
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

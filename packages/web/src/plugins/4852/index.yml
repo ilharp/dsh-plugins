@@ -1,0 +1,11 @@
+version: 1
+name: dsh-hermes-memory
+github:
+  owner: mbj733
+  repo: dsh-hermes-memory
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

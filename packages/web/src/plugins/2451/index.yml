@@ -1,0 +1,14 @@
+version: 1
+name: dsh-kanban
+github:
+  owner: FuncWei
+  repo: dsh-kanban
+  language: Python
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-kanban
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

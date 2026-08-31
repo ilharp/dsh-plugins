@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-describe-image
+github:
+  owner: whitelonng
+  repo: dsh-plugin-describe-image
+  language: TypeScript
+  license: MIT
+  stars: 6
+  forks: 0
+  openIssues: 0
+versions: []

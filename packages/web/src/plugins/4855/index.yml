@@ -1,0 +1,13 @@
+version: 1
+name: dsh-multimodal
+github:
+  owner: MC5lan
+  repo: dsh-multimodal
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.7.2
+    dshVersion: v0.1.2-alpha.1

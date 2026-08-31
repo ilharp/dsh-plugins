@@ -1,0 +1,15 @@
+version: 1
+name: dsh-tool-browser
+github:
+  owner: MashedPotato817
+  repo: dsh-tool-browser
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-tool-browser
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

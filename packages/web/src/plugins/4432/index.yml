@@ -1,0 +1,17 @@
+version: 1
+name: modsearch
+github:
+  owner: liustack
+  repo: modsearch
+  language: TypeScript
+  license: MIT
+  stars: 324
+  forks: 12
+  openIssues: 2
+npm:
+  name: '@liustack/modsearch'
+versions:
+  - packageVersion: 5.9.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 5.10.0
+    dshVersion: v0.1.2-alpha.1

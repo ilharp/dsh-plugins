@@ -1,0 +1,11 @@
+version: 1
+name: dsh-client-ui-responsive
+github:
+  owner: kelai141
+  repo: dsh-client-ui-responsive
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 1
+versions: []

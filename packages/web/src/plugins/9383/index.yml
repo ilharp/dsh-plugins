@@ -1,0 +1,17 @@
+version: 1
+name: plugin-notify
+github:
+  owner: whyihaveyou
+  repo: dsh-suite
+  language: HTML
+  license: MIT
+  stars: 49
+  forks: 2
+  openIssues: 4
+npm:
+  name: '@dsh-suite/plugin-notify'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

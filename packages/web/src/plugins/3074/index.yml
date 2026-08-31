@@ -1,0 +1,14 @@
+version: 1
+name: dsh-custom-instructions
+github:
+  owner: huanghai-lab
+  repo: dsh-custom-instructions
+  language: TypeScript
+  license: Apache-2.0
+  stars: 2
+  forks: 0
+npm:
+  name: '@huanghai-lab/dsh-custom-instructions'
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

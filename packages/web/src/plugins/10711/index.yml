@@ -1,0 +1,14 @@
+version: 1
+name: dsh-im-gateway
+github:
+  owner: zhuiyueya
+  repo: dsh-im-gateway
+  language: TypeScript
+  license: MIT
+  stars: 32
+  forks: 2
+npm:
+  name: dsh-im-gateway
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-luvian-ui-wallpaper
+github:
+  owner: EnernityLune
+  repo: dsh-luvian-ui-wallpaper
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1

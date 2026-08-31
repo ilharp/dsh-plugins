@@ -1,0 +1,10 @@
+version: 1
+name: dsh-model-plus
+github:
+  owner: kingsunb
+  repo: dsh-model-plus
+  language: JavaScript
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

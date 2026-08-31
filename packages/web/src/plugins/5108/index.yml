@@ -1,0 +1,12 @@
+version: 1
+name: DeepSeek-Harness-Hanako-Memory
+github:
+  owner: moononnn
+  repo: DeepSeek-Harness-Hanako-Memory
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

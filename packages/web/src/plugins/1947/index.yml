@@ -1,0 +1,17 @@
+version: 1
+name: dsh-market
+github:
+  owner: dsh-market
+  repo: dsh-market
+  language: TypeScript
+  license: MIT
+  stars: 2829
+  forks: 152
+  openIssues: 7
+npm:
+  name: dshmarket
+versions:
+  - packageVersion: 1.31.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.36.0
+    dshVersion: v0.1.2-alpha.1

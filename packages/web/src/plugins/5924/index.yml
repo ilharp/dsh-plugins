@@ -1,0 +1,12 @@
+version: 1
+name: dsh-ask-guard
+github:
+  owner: Q1hangL
+  repo: dsh-ask-guard
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 1
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

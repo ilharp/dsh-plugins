@@ -1,0 +1,10 @@
+version: 1
+name: peanut-dsh-plugin
+github:
+  owner: PeanutsDou
+  repo: peanut-dsh-plugin
+  language: TypeScript
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

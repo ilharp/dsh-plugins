@@ -1,0 +1,13 @@
+version: 1
+name: dsh-ding
+github:
+  owner: CAOGGL
+  repo: dsh-ding
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

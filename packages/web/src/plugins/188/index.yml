@@ -1,0 +1,16 @@
+version: 1
+name: dsh-chat-fold
+github:
+  owner: 502399493zjw-lgtm
+  repo: dsh-chat-fold
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-chat-fold
+versions:
+  - packageVersion: 0.1.0-rc.8
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0-rc.9
+    dshVersion: v0.1.2-alpha.1

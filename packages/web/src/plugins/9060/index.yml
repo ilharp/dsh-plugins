@@ -1,0 +1,14 @@
+version: 1
+name: dsh-think-translate
+github:
+  owner: UncleK
+  repo: dsh-think-translate
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-think-translate
+versions:
+  - packageVersion: 1.0.10
+    dshVersion: v0.1.2-alpha.1

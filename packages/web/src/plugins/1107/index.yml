@@ -1,0 +1,14 @@
+version: 1
+name: dsh-profile-multica
+github:
+  owner: caizhihaoczh
+  repo: dsh-profile-multica
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-profile-multica
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-desktop
+github:
+  owner: ahikl
+  repo: dsh-desktop
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@ahikl/dsh-desktop'
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

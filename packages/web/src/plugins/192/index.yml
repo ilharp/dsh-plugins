@@ -1,0 +1,12 @@
+version: 1
+name: chicheng-cron
+github:
+  owner: '534119219'
+  repo: chicheng-cron
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: hana-dsh-bridge
+github:
+  owner: KhalilYamber
+  repo: hana-dsh-bridge
+  language: JavaScript
+  license: NOASSERTION
+  stars: 6
+  forks: 1
+  openIssues: 0
+versions: []

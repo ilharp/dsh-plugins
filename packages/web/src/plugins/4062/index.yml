@@ -1,0 +1,15 @@
+version: 1
+name: dsh-gui-customization
+github:
+  owner: LAN-TINA-WS
+  repo: dsh-gui-customization
+  language: TypeScript
+  license: MIT
+  stars: 17
+  forks: 0
+  openIssues: 1
+npm:
+  name: dsh-gui-customization
+versions:
+  - packageVersion: 0.6.3
+    dshVersion: v0.1.2-alpha.1

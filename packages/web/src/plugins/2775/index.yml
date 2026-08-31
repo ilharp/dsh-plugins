@@ -1,0 +1,14 @@
+version: 1
+name: dsh-vision-mix
+github:
+  owner: haiziyao
+  repo: dsh-vision-mix
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-vision-mix
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

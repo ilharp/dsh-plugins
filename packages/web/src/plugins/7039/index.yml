@@ -1,0 +1,11 @@
+version: 1
+name: dsh-tool-council
+github:
+  owner: starsinc1708
+  repo: dsh-tool-council
+  language: TypeScript
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.1-rc.2
+    dshVersion: v0.1.2-alpha.1

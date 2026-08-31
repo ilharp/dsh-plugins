@@ -1,0 +1,13 @@
+version: 1
+name: dsh-session-import
+github:
+  owner: kinyokun
+  repo: dsh-session-import
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-session-import
+versions: []

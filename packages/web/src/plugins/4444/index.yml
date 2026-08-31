@@ -1,0 +1,14 @@
+version: 1
+name: dsh-browser-bridge
+github:
+  owner: liyongzheng666
+  repo: dsh-browser-bridge
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-browser-bridge
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,8 @@
+version: 1
+name: dsh-vision
+github:
+  owner: xzyonline
+  repo: dsh-vision
+  license: BSD-3-Clause
+  stars: 1
+versions: []

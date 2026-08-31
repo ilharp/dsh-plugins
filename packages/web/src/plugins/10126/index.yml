@@ -1,0 +1,15 @@
+version: 1
+name: dsh-plugin-audiolib
+github:
+  owner: yangyue1974
+  repo: dsh-plugin-audiolib
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-plugin-audiolib
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

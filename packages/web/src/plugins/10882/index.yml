@@ -1,0 +1,8 @@
+version: 1
+name: dsh-web-gate
+github:
+  owner: zzy2210
+  repo: dsh-web-gate
+  license: NOASSERTION
+  stars: 0
+versions: []

@@ -1,0 +1,10 @@
+version: 1
+name: dsh-launcher
+github:
+  owner: entireyu
+  repo: dsh-launcher
+  language: Rust
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,15 @@
+version: 1
+name: snapgrep
+github:
+  owner: Owen718
+  repo: snapgrep
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 1
+  openIssues: 3
+npm:
+  name: snapgrep
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

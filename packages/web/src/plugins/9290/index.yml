@@ -1,0 +1,21 @@
+version: 1
+name: pi2dsh
+github:
+  owner: weijiafu14
+  repo: pi2dsh
+  language: TypeScript
+  license: MIT
+  stars: 175
+  forks: 32
+  openIssues: 0
+npm:
+  name: pi2dsh
+versions:
+  - packageVersion: 0.12.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.12.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.19.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.22.0
+    dshVersion: v0.1.2-alpha.1

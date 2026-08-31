@@ -1,0 +1,11 @@
+version: 1
+name: dsh-research-notes
+github:
+  owner: fff122
+  repo: dsh-research-notes
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

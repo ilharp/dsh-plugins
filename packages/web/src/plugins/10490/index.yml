@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugins-store
+github:
+  owner: ZASENJC
+  repo: dsh-plugins-store
+  language: TypeScript
+  license: MIT
+  stars: 67
+  forks: 3
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-client-ui-skin-verdandi
+github:
+  owner: Sddft97
+  repo: dsh-client-ui-skin-verdandi
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@hjbztlbr/dsh-client-ui-skin-verdandi'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-self-checking-profile
+github:
+  owner: SLAPaper
+  repo: dsh-self-checking-profile
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

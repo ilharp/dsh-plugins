@@ -1,0 +1,10 @@
+version: 1
+name: deep_option
+github:
+  owner: Alyosha28
+  repo: deep_option
+  language: Python
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

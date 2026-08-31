@@ -1,0 +1,14 @@
+version: 1
+name: dsh-directive-compact
+github:
+  owner: ya8D
+  repo: dsh-directive-compact
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@ya8d/dsh-directive-compact'
+versions:
+  - packageVersion: 0.1.0-rc.1
+    dshVersion: v0.1.2-alpha.1

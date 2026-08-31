@@ -1,0 +1,11 @@
+version: 1
+name: dsh-deepseek-balance
+github:
+  owner: wangxiang0605qvq
+  repo: dsh-deepseek-balance
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

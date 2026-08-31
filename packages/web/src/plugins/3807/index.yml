@@ -1,0 +1,11 @@
+version: 1
+name: dsh-shell-termux
+github:
+  owner: kelai141
+  repo: dsh-shell-termux
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

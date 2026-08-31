@@ -1,0 +1,14 @@
+version: 1
+name: dsh-craft-your-textbook
+github:
+  owner: xx-hub
+  repo: dsh-craft-your-textbook
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+npm:
+  name: dsh-craft-your-textbook
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

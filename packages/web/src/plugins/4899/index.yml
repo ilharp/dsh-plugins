@@ -1,0 +1,16 @@
+version: 1
+name: dsh-codex-pet
+github:
+  owner: mengyun233
+  repo: dsh-codex-pet
+  language: JavaScript
+  license: NOASSERTION
+  stars: 5
+  forks: 0
+npm:
+  name: dsh-codex-pet
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

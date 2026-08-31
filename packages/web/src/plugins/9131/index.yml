@@ -1,0 +1,14 @@
+version: 1
+name: dsh-pilot
+github:
+  owner: Viger1
+  repo: dsh-pilot
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-pilot
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

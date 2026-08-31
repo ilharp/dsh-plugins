@@ -1,0 +1,17 @@
+version: 1
+name: dsh-mneme
+github:
+  owner: modusensus
+  repo: dsh-mneme
+  language: JavaScript
+  license: MIT
+  stars: 67
+  forks: 4
+  openIssues: 6
+npm:
+  name: '@modusensus/dsh-mneme'
+versions:
+  - packageVersion: 0.7.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.7.2
+    dshVersion: v0.1.2-alpha.1

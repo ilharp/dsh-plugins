@@ -1,0 +1,17 @@
+version: 1
+name: dsh-prompt-stash
+github:
+  owner: Wine-Red
+  repo: dsh-prompt-stash
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-prompt-stash
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.5
+    dshVersion: v0.1.2-alpha.1

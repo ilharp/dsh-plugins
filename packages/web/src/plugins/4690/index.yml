@@ -1,0 +1,14 @@
+version: 1
+name: dsh-theme-customizer
+github:
+  owner: lxxz1918
+  repo: dsh-theme-customizer
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-theme-customizer
+versions:
+  - packageVersion: 1.0.5
+    dshVersion: v0.1.2-alpha.1

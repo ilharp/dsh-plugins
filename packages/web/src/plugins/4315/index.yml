@@ -1,0 +1,14 @@
+version: 1
+name: dsh-term
+github:
+  owner: lijian-ui
+  repo: dsh-term
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@lijian-ui/dsh-term'
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

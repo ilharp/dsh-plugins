@@ -1,0 +1,16 @@
+version: 1
+name: dsh-usage-meter-harness
+github:
+  owner: faith1688
+  repo: dsh-usage-meter-harness
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@faith1688/dsh-usage-meter-harness'
+versions:
+  - packageVersion: 1.0.30
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.33
+    dshVersion: v0.1.2-alpha.1

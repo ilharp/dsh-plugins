@@ -1,0 +1,15 @@
+version: 1
+name: dsh-file-panel
+github:
+  owner: yu2025-luo
+  repo: dsh-file-panel
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-file-panel
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

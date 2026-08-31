@@ -1,0 +1,15 @@
+version: 1
+name: dsh-workbench
+github:
+  owner: Dpf555
+  repo: dsh-workbench
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-workbench
+versions:
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

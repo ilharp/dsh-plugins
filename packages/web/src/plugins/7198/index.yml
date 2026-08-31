@@ -1,0 +1,14 @@
+version: 1
+name: dsh-opencode-usage
+github:
+  owner: SyamStud
+  repo: dsh-opencode-usage
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-opencode-usage
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: deepseek-harness-picture-in-picture
+github:
+  owner: syncended
+  repo: deepseek-harness-picture-in-picture
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@syncended/dsh-pip'
+versions:
+  - packageVersion: 0.1.15
+    dshVersion: v0.1.2-alpha.1

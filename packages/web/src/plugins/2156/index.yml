@@ -1,0 +1,16 @@
+version: 1
+name: dsh-ui-three-body
+github:
+  owner: EternalNight996
+  repo: dsh-ui-three-body
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-ui-three-body
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.9
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-tui
+github:
+  owner: openma-ai
+  repo: deepseek-harness-tui
+  language: Rust
+  license: MIT
+  stars: 63
+  forks: 2
+  openIssues: 1
+versions: []

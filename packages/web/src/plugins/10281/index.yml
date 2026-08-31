@@ -1,0 +1,15 @@
+version: 1
+name: dsh-client-ui-custom
+github:
+  owner: yoli-mi
+  repo: dsh-client-ui-custom
+  language: TypeScript
+  license: MIT
+  stars: 23
+  forks: 0
+  openIssues: 2
+npm:
+  name: '@ha-na-bi/dsh-client-ui-custom'
+versions:
+  - packageVersion: 0.1.0-rc.6
+    dshVersion: v0.1.2-alpha.1

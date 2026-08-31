@@ -1,0 +1,14 @@
+version: 1
+name: dsh-skill-manage
+github:
+  owner: Nay-1
+  repo: dsh-skill-manage
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@nay-1/dsh-skill-manage'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

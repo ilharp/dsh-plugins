@@ -1,0 +1,15 @@
+version: 1
+name: codex-plugin-dsh
+github:
+  owner: wingoo
+  repo: codex-plugin-dsh
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 1
+  openIssues: 0
+npm:
+  name: codex-plugin-dsh
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

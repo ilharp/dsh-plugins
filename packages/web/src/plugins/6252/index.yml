@@ -1,0 +1,16 @@
+version: 1
+name: dsh-quota-status
+github:
+  owner: ruby1304
+  repo: dsh-quota-status
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-quota-status
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

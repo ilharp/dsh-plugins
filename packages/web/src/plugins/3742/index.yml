@@ -1,0 +1,14 @@
+version: 1
+name: dsh-complete-notify
+github:
+  owner: kaixinbaba
+  repo: dsh-complete-notify
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-complete-notify
+versions:
+  - packageVersion: 0.6.2
+    dshVersion: v0.1.2-alpha.1

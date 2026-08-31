@@ -1,0 +1,11 @@
+version: 1
+name: dsh-desktop-hub
+github:
+  owner: FlashingChen
+  repo: dsh-desktop-hub
+  language: TypeScript
+  license: MIT
+  stars: 58
+  forks: 8
+  openIssues: 3
+versions: []

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-pet
+github:
+  owner: Vulcan626
+  repo: dsh-pet
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

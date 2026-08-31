@@ -1,0 +1,15 @@
+version: 1
+name: dsh-plugin-market
+github:
+  owner: cyber-moshen
+  repo: dsh-plugin-market
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 2
+  openIssues: 0
+npm:
+  name: '@cyber-moshen/dsh-plugin-market'
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

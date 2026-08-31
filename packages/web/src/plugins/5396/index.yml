@@ -1,0 +1,10 @@
+version: 1
+name: dsh-model-switch
+github:
+  owner: NOirBRight
+  repo: dsh-model-switch
+  language: TypeScript
+  stars: 0
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

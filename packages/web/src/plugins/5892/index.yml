@@ -1,0 +1,12 @@
+version: 1
+name: dsh-question-jump-bar
+github:
+  owner: popeye1113
+  repo: dsh-question-jump-bar
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.2.2
+    dshVersion: v0.1.2-alpha.1

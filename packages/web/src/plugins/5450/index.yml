@@ -1,0 +1,14 @@
+version: 1
+name: dsh-pet-whale
+github:
+  owner: nzl153
+  repo: dsh-pet-whale
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 1
+npm:
+  name: pet-whale
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,8 @@
+version: 1
+name: DeepSeek-Harness-Core
+github:
+  owner: muvuula
+  repo: DeepSeek-Harness-Core
+  stars: 3
+  forks: 1
+versions: []

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-mcp-manager
+github:
+  owner: hyqhyq3
+  repo: dsh-mcp-manager
+  language: JavaScript
+  license: MIT
+  stars: 11
+  forks: 2
+  openIssues: 2
+npm:
+  name: dsh-mcp-manager
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

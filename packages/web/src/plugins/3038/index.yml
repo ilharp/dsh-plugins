@@ -1,0 +1,11 @@
+version: 1
+name: dsh-token-heatmap
+github:
+  owner: Hou-DL
+  repo: dsh-token-heatmap
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.5-beta
+    dshVersion: v0.1.2-alpha.1

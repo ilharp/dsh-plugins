@@ -1,0 +1,8 @@
+version: 1
+name: dsh-plugin-vision
+github:
+  owner: Tianbaidi
+  repo: dsh-plugin-vision
+  stars: 1
+  forks: 0
+versions: []

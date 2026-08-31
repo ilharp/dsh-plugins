@@ -1,0 +1,11 @@
+version: 1
+name: metera
+github:
+  owner: Sutera-Diffusus
+  repo: metera
+  language: Rust
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

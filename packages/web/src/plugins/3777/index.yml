@@ -1,0 +1,14 @@
+version: 1
+name: dsh-bundle-manager
+github:
+  owner: KaramachiA217
+  repo: dsh-bundle-manager
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-bundle-manager
+versions:
+  - packageVersion: 0.5.6
+    dshVersion: v0.1.2-alpha.1

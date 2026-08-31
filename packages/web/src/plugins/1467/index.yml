@@ -1,0 +1,14 @@
+version: 1
+name: dsh-qqchat
+github:
+  owner: Coffeiz
+  repo: dsh-qqchat
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-qqchat
+versions:
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

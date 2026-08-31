@@ -1,0 +1,12 @@
+version: 1
+name: dsh-question-locator
+github:
+  owner: M2-Z
+  repo: dsh-question-locator
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1

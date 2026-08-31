@@ -1,0 +1,15 @@
+version: 1
+name: dsh-pdf
+github:
+  owner: sunshine-lang
+  repo: dsh-pdf
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 1
+  openIssues: 2
+npm:
+  name: dsh-pdf
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

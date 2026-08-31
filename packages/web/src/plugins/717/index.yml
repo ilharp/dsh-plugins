@@ -1,0 +1,16 @@
+version: 1
+name: dsh-memory-triage
+github:
+  owner: AtinyFurina
+  repo: dsh-memory-triage
+  language: JavaScript
+  license: GPL-3.0
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-memory-triage
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,17 @@
+version: 1
+name: '@nonamelego/dsh-catppuccin'
+github:
+  owner: NoNameLeGo
+  repo: dsh-catppuccin
+  language: TypeScript
+  license: MIT
+  stars: 6
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-catppuccin
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

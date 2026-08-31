@@ -1,0 +1,13 @@
+version: 1
+name: dsh-bilibili
+github:
+  owner: CZX2244
+  repo: dsh-bilibili
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.7.5
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-guandan
+github:
+  owner: wenbobodley
+  repo: dsh-guandan
+  language: JavaScript
+  license: Apache-2.0
+  stars: 2
+  forks: 0
+npm:
+  name: '@zhonglianchuwei/dsh-guandan'
+versions:
+  - packageVersion: 3.0.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 3.0.1
+    dshVersion: v0.1.2-alpha.1

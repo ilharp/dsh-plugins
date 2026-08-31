@@ -1,0 +1,12 @@
+version: 1
+name: dsh-workspace-tree
+github:
+  owner: pipipigu
+  repo: dsh-workspace-tree
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

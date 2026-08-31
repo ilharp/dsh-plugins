@@ -1,0 +1,11 @@
+version: 1
+name: dsh-anchored-flash
+github:
+  owner: ruler770525
+  repo: dsh-anchored-flash
+  language: JavaScript
+  license: NOASSERTION
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions: []

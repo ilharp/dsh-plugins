@@ -1,0 +1,12 @@
+version: 1
+name: simple-dock
+github:
+  owner: StarsHarryZhu
+  repo: simple-dock
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

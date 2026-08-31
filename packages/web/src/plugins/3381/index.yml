@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-llm-codex
+github:
+  owner: jasper-zsh
+  repo: dsh-plugin-llm-codex
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

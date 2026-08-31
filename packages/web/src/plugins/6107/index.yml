@@ -1,0 +1,13 @@
+version: 1
+name: dsh-obvious-grid
+github:
+  owner: ray062
+  repo: dsh-obvious-grid
+  language: HTML
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-obvious-grid
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

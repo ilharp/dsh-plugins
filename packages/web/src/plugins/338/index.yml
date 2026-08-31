@@ -1,0 +1,15 @@
+version: 1
+name: dsh-web-lan-access
+github:
+  owner: AcidGr
+  repo: dsh-web-lan-access
+  language: JavaScript
+  license: MIT
+  stars: 25
+  forks: 4
+  openIssues: 2
+npm:
+  name: dsh-web-lan-access
+versions:
+  - packageVersion: 1.2.1
+    dshVersion: v0.1.2-alpha.1

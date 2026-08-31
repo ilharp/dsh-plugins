@@ -1,0 +1,8 @@
+version: 1
+name: dsh-mcp-server-manager
+github:
+  owner: sky-unicorn
+  repo: dsh-mcp-server-manager
+  stars: 1
+  forks: 0
+versions: []

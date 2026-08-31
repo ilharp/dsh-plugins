@@ -1,0 +1,13 @@
+version: 1
+name: dsh-loop-engine
+github:
+  owner: kuun993
+  repo: dsh-loop-engine
+  language: TypeScript
+  stars: 4
+  forks: 1
+npm:
+  name: '@kuun993/dsh-loop-engine'
+versions:
+  - packageVersion: 1.0.0-rc1
+    dshVersion: v0.1.2-alpha.1

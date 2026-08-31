@@ -1,0 +1,12 @@
+version: 1
+name: dsh-balance
+github:
+  owner: mxl2498
+  repo: dsh-balance
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-token-price
+github:
+  owner: spoon-man569
+  repo: dsh-token-price
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-token-price
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

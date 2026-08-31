@@ -1,0 +1,14 @@
+version: 1
+name: codegraph
+github:
+  owner: JohnXu22786
+  repo: codegraph
+  language: Python
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-codegraph
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

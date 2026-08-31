@@ -1,0 +1,14 @@
+version: 1
+name: dsh-md-viewer
+github:
+  owner: 2017java
+  repo: dsh-md-viewer
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-md-viewer
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-side-chat-plus-plus
+github:
+  owner: anzhaohao
+  repo: dsh-side-chat-plus-plus
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-side-chat-plus-plus
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

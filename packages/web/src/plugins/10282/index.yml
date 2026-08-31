@@ -1,0 +1,13 @@
+version: 1
+name: dsh-ssh-plugin
+github:
+  owner: YOLO-LZL
+  repo: dsh-ssh-plugin
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

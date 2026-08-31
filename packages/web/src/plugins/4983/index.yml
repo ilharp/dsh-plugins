@@ -1,0 +1,14 @@
+version: 1
+name: lan-im
+github:
+  owner: mishiqian
+  repo: lan-im
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@mishiqian/lan-im'
+versions:
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1

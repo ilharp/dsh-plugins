@@ -1,0 +1,11 @@
+version: 1
+name: dsh-phone
+github:
+  owner: railgun0325
+  repo: dsh-phone
+  language: Java
+  license: MIT
+  stars: 18
+  forks: 1
+  openIssues: 0
+versions: []

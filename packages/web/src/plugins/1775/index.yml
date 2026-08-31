@@ -1,0 +1,13 @@
+version: 1
+name: dsh-wuyun-liuqi
+github:
+  owner: dhicoc
+  repo: dsh-wuyun-liuqi
+  language: Python
+  stars: 3
+  forks: 0
+npm:
+  name: '@dhicoc/dsh-wuyun-liuqi'
+versions:
+  - packageVersion: 1.0.4
+    dshVersion: v0.1.2-alpha.1

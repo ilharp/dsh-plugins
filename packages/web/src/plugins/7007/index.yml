@@ -1,0 +1,17 @@
+version: 1
+name: octie-dsh-plugin
+github:
+  owner: StarChen-Cycler
+  repo: octie-dsh-plugin
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: octie-cli
+versions:
+  - packageVersion: 1.2.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.2.4
+    dshVersion: v0.1.2-alpha.1

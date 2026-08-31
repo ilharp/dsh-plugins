@@ -1,0 +1,11 @@
+version: 1
+name: dsh-desktop
+github:
+  owner: o-Sakurajimamai-o
+  repo: dsh-desktop
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

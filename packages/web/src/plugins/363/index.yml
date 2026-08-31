@@ -1,0 +1,14 @@
+version: 1
+name: dsh-auto-model-router
+github:
+  owner: ADVeRTs13
+  repo: dsh-auto-model-router
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@adverts13/dsh-auto-model-router'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-tav2
+github:
+  owner: Drhushi
+  repo: dsh-plugin-tav2
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

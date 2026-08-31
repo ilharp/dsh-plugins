@@ -1,0 +1,12 @@
+version: 1
+name: dsh-upload-file
+github:
+  owner: OctKwong30
+  repo: dsh-upload-file
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 1
+versions:
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1

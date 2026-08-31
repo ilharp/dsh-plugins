@@ -1,0 +1,11 @@
+version: 1
+name: dsh-llm-opencode-go
+github:
+  owner: NOirBRight
+  repo: dsh-llm-opencode-go
+  language: TypeScript
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.12
+    dshVersion: v0.1.2-alpha.1

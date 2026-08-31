@@ -1,0 +1,11 @@
+version: 1
+name: beautiCode
+github:
+  owner: starsstreaming
+  repo: beautiCode
+  language: JavaScript
+  license: MIT
+  stars: 67
+  forks: 3
+  openIssues: 3
+versions: []

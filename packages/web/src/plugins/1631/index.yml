@@ -1,0 +1,14 @@
+version: 1
+name: dsh-history-sync
+github:
+  owner: danglong0313
+  repo: dsh-history-sync
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@danglong0313/dsh-history-sync'
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

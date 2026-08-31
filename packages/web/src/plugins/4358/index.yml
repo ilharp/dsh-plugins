@@ -1,0 +1,10 @@
+version: 1
+name: harmony-next.skills
+github:
+  owner: linhay
+  repo: harmony-next.skills
+  language: Python
+  stars: 336
+  forks: 24
+  openIssues: 1
+versions: []

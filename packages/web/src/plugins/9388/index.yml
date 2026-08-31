@@ -1,0 +1,7 @@
+version: 1
+name: plugin-session-export
+github:
+  owner: whyihaveyou
+  repo: plugin-session-export
+  stars: 49
+versions: []

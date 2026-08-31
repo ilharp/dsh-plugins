@@ -1,0 +1,13 @@
+version: 1
+name: dsh-design-skills
+github:
+  owner: zhaiyateng
+  repo: dsh-design-skills
+  language: JavaScript
+  license: NOASSERTION
+  stars: 15
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

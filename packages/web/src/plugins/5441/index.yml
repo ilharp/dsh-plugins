@@ -1,0 +1,21 @@
+version: 1
+name: dsh-chat-import
+github:
+  owner: Nwflower
+  repo: dsh-chat-import
+  language: JavaScript
+  license: MIT
+  stars: 125
+  forks: 16
+  openIssues: 1
+npm:
+  name: dsh-chat-import
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.8.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.8.1
+    dshVersion: v0.1.2-alpha.1

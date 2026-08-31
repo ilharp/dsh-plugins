@@ -1,0 +1,14 @@
+version: 1
+name: dsh-llm-net-retry
+github:
+  owner: fan56
+  repo: dsh-llm-net-retry
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@aiwayds/dsh-llm-net-retry'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

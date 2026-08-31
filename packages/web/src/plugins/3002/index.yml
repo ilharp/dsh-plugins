@@ -1,0 +1,14 @@
+version: 1
+name: dsh-memory-vault
+github:
+  owner: hjj588
+  repo: dsh-memory-vault
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-memory-vault
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

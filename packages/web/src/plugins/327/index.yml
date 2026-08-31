@@ -1,0 +1,16 @@
+version: 1
+name: dsh-request-flight-recorder
+github:
+  owner: abinzhao
+  repo: dsh-request-flight-recorder
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-request-flight-recorder
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

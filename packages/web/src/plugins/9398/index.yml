@@ -1,0 +1,11 @@
+version: 1
+name: dsh-companion
+github:
+  owner: william-jin-cmu
+  repo: dsh-companion
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 2
+versions: []

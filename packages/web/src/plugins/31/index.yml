@@ -1,0 +1,16 @@
+version: 1
+name: dsh-freeroute
+github:
+  owner: 0xrushmoon
+  repo: dsh-freeroute
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-freeroute
+versions:
+  - packageVersion: 0.7.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.8.4
+    dshVersion: v0.1.2-alpha.1

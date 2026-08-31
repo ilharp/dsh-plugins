@@ -1,0 +1,11 @@
+version: 1
+name: dsh-deepseek-meter
+github:
+  owner: jiangsuyuan
+  repo: dsh-deepseek-meter
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

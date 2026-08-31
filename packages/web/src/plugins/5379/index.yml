@@ -1,0 +1,11 @@
+version: 1
+name: dsh-explorer
+github:
+  owner: No-PRM
+  repo: dsh-explorer
+  language: TypeScript
+  license: MIT
+  stars: 9
+  forks: 2
+  openIssues: 1
+versions: []

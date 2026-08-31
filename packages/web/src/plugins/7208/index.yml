@@ -1,0 +1,14 @@
+version: 1
+name: deepseek-harness-automations
+github:
+  owner: syncended
+  repo: deepseek-harness-automations
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@syncended/dsh-automations'
+versions:
+  - packageVersion: 0.8.8
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-token-stats
+github:
+  owner: FantasyStarry
+  repo: dsh-token-stats
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

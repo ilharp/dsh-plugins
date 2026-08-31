@@ -1,0 +1,14 @@
+version: 1
+name: loongport-dsh
+github:
+  owner: SailingLoong
+  repo: loongport-dsh
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: loongport
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

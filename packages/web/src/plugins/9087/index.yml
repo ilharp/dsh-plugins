@@ -1,0 +1,14 @@
+version: 1
+name: dsh-unarchive
+github:
+  owner: uwu9039
+  repo: dsh-unarchive
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-unarchive
+versions:
+  - packageVersion: 0.1.9
+    dshVersion: v0.1.2-alpha.1

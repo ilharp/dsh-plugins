@@ -1,0 +1,13 @@
+version: 1
+name: dsh-eva-theme-plugin
+github:
+  owner: oceanxuikun
+  repo: dsh-eva-theme-plugin
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

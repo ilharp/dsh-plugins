@@ -1,0 +1,15 @@
+version: 1
+name: dsh-mcp-apps
+github:
+  owner: sugarforever
+  repo: dsh-mcp-apps
+  language: TypeScript
+  stars: 2
+  forks: 1
+npm:
+  name: '@sugarforever/dsh-mcp-apps'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

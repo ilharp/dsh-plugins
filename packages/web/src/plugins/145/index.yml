@@ -1,0 +1,16 @@
+version: 1
+name: dsh-turn-diff
+github:
+  owner: '2436238575'
+  repo: dsh-turn-diff
+  language: TypeScript
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-turn-diff
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

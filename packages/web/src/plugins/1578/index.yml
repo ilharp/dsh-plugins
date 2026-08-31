@@ -1,0 +1,11 @@
+version: 1
+name: surfing-plugin
+github:
+  owner: cyijun
+  repo: surfing-plugin
+  language: TypeScript
+  license: MIT
+  stars: 15
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-solution-explorer
+github:
+  owner: xiaoksio
+  repo: dsh-solution-explorer
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 0
+npm:
+  name: dsh-solution-explorer
+versions:
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-enhance
+github:
+  owner: vcxmug
+  repo: dsh-enhance
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

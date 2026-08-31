@@ -1,0 +1,11 @@
+version: 1
+name: Top
+github:
+  owner: xiaohai-78
+  repo: Top
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: top
+versions: []

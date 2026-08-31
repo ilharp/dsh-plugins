@@ -1,0 +1,14 @@
+version: 1
+name: dsh-ai-wallet
+github:
+  owner: gouzijing0821
+  repo: dsh-ai-wallet
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-ai-wallet
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

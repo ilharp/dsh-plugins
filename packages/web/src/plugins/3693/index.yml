@@ -1,0 +1,14 @@
+version: 1
+name: dsh-lark-channel
+github:
+  owner: JunguangJiang
+  repo: dsh-lark-channel
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-lark-channel
+versions:
+  - packageVersion: 0.0.6
+    dshVersion: v0.1.2-alpha.1

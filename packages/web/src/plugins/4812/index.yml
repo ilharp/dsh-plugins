@@ -1,0 +1,14 @@
+version: 1
+name: dsh-sidebar-enhancement-search
+github:
+  owner: mastereal
+  repo: dsh-sidebar-enhancement-search
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.6
+    dshVersion: v0.1.2-alpha.1

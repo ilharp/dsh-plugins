@@ -1,0 +1,13 @@
+version: 1
+name: dsh-model-profile
+github:
+  owner: ztlovelsw
+  repo: dsh-model-profile
+  language: TypeScript
+  stars: 1
+  forks: 0
+npm:
+  name: '@ztlovelsw/dsh-model-profile'
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

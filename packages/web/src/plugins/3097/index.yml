@@ -1,0 +1,14 @@
+version: 1
+name: dsh-token-stats
+github:
+  owner: huantian1223
+  repo: dsh-token-stats
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-token-stats
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

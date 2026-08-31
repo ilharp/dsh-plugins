@@ -1,0 +1,15 @@
+version: 1
+name: dsh-context-doctor
+github:
+  owner: Zhenyu98
+  repo: dsh-context-doctor
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 18
+  forks: 4
+  openIssues: 3
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: oh-dsh-desktop
+github:
+  owner: hust-open-atom-club
+  repo: oh-dsh-desktop
+  language: TypeScript
+  license: MIT
+  stars: 287
+  forks: 13
+  openIssues: 7
+versions: []

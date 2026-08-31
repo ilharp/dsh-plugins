@@ -1,0 +1,15 @@
+version: 1
+name: dsh-conversation-manager
+github:
+  owner: lanlandeli
+  repo: dsh-conversation-manager
+  language: TypeScript
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-conversation-manager
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,8 @@
+version: 1
+name: dsh-sub-agent
+github:
+  owner: sky-unicorn
+  repo: dsh-sub-agent
+  stars: 2
+  forks: 0
+versions: []

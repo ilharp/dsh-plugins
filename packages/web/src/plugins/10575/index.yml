@@ -1,0 +1,15 @@
+version: 1
+name: dsh-plugin-installer
+github:
+  owner: zhang66633
+  repo: dsh-plugin-installer
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-plugin-installer
+versions:
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1

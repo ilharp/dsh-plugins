@@ -1,0 +1,17 @@
+version: 1
+name: dsh-browser
+github:
+  owner: wqty123
+  repo: dsh-browser
+  language: TypeScript
+  license: MIT
+  stars: 40
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-builtin-browser
+versions:
+  - packageVersion: 0.1.15
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.20
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,18 @@
+version: 1
+name: dsh-cost-tracker
+github:
+  owner: lyfZhixing
+  repo: dsh-cost-tracker
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 1
+npm:
+  name: dsh-cost-tracker
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.2.0
+    dshVersion: v0.1.2-alpha.1

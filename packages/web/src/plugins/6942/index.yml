@@ -1,0 +1,13 @@
+version: 1
+name: dsh-salary-cat
+github:
+  owner: sorry123maker
+  repo: dsh-salary-cat
+  language: JavaScript
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-salary-cat
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

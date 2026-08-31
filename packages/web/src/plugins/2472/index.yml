@@ -1,0 +1,16 @@
+version: 1
+name: dsh-peak-indicator
+github:
+  owner: future007s
+  repo: dsh-peak-indicator
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 1
+npm:
+  name: dsh-peak-indicator
+versions:
+  - packageVersion: 0.1.25
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.26
+    dshVersion: v0.1.2-alpha.1

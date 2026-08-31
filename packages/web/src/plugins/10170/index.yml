@@ -1,0 +1,14 @@
+version: 1
+name: dsh-ppt
+github:
+  owner: yejiming
+  repo: dsh-ppt
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@yejiming/dsh-ppt'
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1

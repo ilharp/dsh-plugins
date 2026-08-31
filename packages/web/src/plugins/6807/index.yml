@@ -1,0 +1,15 @@
+version: 1
+name: dsh-translator
+github:
+  owner: SiYue-ZO
+  repo: dsh-translator
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-translator
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

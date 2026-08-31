@@ -1,0 +1,15 @@
+version: 1
+name: dsh-office
+github:
+  owner: omdsh-dev
+  repo: dsh-office
+  language: TypeScript
+  license: Apache-2.0
+  stars: 17
+  forks: 1
+  openIssues: 0
+npm:
+  name: '@huiliyi37/dsh-office'
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

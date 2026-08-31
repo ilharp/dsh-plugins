@@ -1,0 +1,16 @@
+version: 1
+name: dsh-daemon
+github:
+  owner: chenkai2
+  repo: dsh-daemon
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@chenkai114/dsh-daemon'
+versions:
+  - packageVersion: 0.1.16
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.17
+    dshVersion: v0.1.2-alpha.1

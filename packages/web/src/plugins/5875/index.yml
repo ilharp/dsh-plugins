@@ -1,0 +1,11 @@
+version: 1
+name: Abu-Cowork
+github:
+  owner: PM-Shawn
+  repo: Abu-Cowork
+  language: TypeScript
+  license: NOASSERTION
+  stars: 351
+  forks: 77
+  openIssues: 19
+versions: []

@@ -1,0 +1,15 @@
+version: 1
+name: qiushi-dsh-evidence-audit
+github:
+  owner: '030611'
+  repo: qiushi-dsh-evidence-audit
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: qiushi-dsh-evidence-audit
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

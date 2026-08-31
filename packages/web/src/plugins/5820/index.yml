@@ -1,0 +1,17 @@
+version: 1
+name: dsh-meow-memory
+github:
+  owner: Phant0Meow
+  repo: dsh-meow-memory
+  language: TypeScript
+  license: MIT
+  stars: 62
+  forks: 3
+  openIssues: 4
+npm:
+  name: meow-memory
+versions:
+  - packageVersion: 0.15.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.20.0
+    dshVersion: v0.1.2-alpha.1

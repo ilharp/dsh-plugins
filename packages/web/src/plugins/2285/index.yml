@@ -1,0 +1,12 @@
+version: 1
+name: dsh-session-title-cold
+github:
+  owner: fengs2021
+  repo: dsh-session-title-cold
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

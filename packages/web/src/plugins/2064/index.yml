@@ -1,0 +1,8 @@
+version: 1
+name: dsh-git-push
+github:
+  owner: EIGHTfs
+  repo: dsh-git-push
+  stars: 0
+  forks: 0
+versions: []

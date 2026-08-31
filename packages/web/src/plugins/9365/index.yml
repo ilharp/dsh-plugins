@@ -1,0 +1,13 @@
+version: 1
+name: dsh-openbiliclaw
+github:
+  owner: whiteguo233
+  repo: dsh-openbiliclaw
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 54
+  forks: 3
+  openIssues: 0
+versions:
+  - packageVersion: 0.3.206
+    dshVersion: v0.1.2-alpha.1

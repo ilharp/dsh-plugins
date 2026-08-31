@@ -1,0 +1,15 @@
+version: 1
+name: dsh-trusted-host-proxy-403-fix
+github:
+  owner: roojay
+  repo: dsh-trusted-host-proxy-403-fix
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-trusted-host-proxy-403-fix
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: shl-session-history
+github:
+  owner: sunyuhuirong
+  repo: shl-session-history
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 1
+versions:
+  - packageVersion: 1.1.5
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-side-chat
+github:
+  owner: AHGGG
+  repo: dsh-side-chat
+  language: TypeScript
+  license: MIT
+  stars: 13
+  forks: 2
+  openIssues: 0
+npm:
+  name: '@ahggg/dsh-side-chat'
+versions:
+  - packageVersion: 0.7.2
+    dshVersion: v0.1.2-alpha.1

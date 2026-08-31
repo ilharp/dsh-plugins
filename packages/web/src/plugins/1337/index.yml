@@ -1,0 +1,11 @@
+version: 1
+name: dsh-specify-subagent-suite
+github:
+  owner: Cho-Geer
+  repo: dsh-specify-subagent-suite
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 1
+  openIssues: 0
+versions: []

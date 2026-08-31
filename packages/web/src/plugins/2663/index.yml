@@ -1,0 +1,12 @@
+version: 1
+name: dsh-api-balance
+github:
+  owner: GPIOX
+  repo: dsh-api-balance
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 1
+versions:
+  - packageVersion: 1.6.6
+    dshVersion: v0.1.2-alpha.1

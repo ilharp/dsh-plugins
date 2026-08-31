@@ -1,0 +1,14 @@
+version: 1
+name: dsh-approval-mode
+github:
+  owner: NEVSTOP-LAB
+  repo: dsh-approval-mode
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1-rc.3
+    dshVersion: v0.1.2-alpha.1

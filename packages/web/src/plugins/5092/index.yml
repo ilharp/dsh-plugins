@@ -1,0 +1,14 @@
+version: 1
+name: dsh-multiprovider
+github:
+  owner: monotykamary
+  repo: dsh-multiprovider
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-multiprovider
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

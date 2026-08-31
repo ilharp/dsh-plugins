@@ -1,0 +1,14 @@
+version: 1
+name: dsh-lit-search
+github:
+  owner: Flan246
+  repo: dsh-lit-search
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-lit-search
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,8 @@
+version: 1
+name: dsh-code-review
+github:
+  owner: Badegg404
+  repo: dsh-code-review
+  stars: 0
+  forks: 0
+versions: []

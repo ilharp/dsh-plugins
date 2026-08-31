@@ -1,0 +1,12 @@
+version: 1
+name: dsh-mnemos
+github:
+  owner: Rottenwooood
+  repo: dsh-mnemos
+  language: TypeScript
+  stars: 0
+npm:
+  name: dsh-mnemos
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

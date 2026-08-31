@@ -1,0 +1,9 @@
+version: 1
+name: dsh-plugins
+github:
+  owner: 0sour
+  repo: dsh-plugins
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

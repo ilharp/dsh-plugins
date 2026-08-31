@@ -1,0 +1,11 @@
+version: 1
+name: ds-web-ui
+github:
+  owner: xing-shuyin
+  repo: ds-web-ui
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

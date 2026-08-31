@@ -1,0 +1,15 @@
+version: 1
+name: dsh-liangxiang
+github:
+  owner: liang-today
+  repo: dsh-liangxiang
+  language: TypeScript
+  license: MIT
+  stars: 9
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-liangxiang
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

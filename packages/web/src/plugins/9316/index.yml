@@ -1,0 +1,15 @@
+version: 1
+name: dsh-mmx-bridge
+github:
+  owner: welsione
+  repo: dsh-mmx-bridge
+  language: JavaScript
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 1
+npm:
+  name: dsh-mmx-bridge
+versions:
+  - packageVersion: 1.0.8
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-pkg-info
+github:
+  owner: ZhijiangTang
+  repo: dsh-pkg-info
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-pkg-info
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

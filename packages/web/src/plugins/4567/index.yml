@@ -1,0 +1,13 @@
+version: 1
+name: paste-to-workspace
+github:
+  owner: LQ-1123
+  repo: paste-to-workspace
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.8.1
+    dshVersion: v0.1.2-alpha.1

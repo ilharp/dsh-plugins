@@ -1,0 +1,11 @@
+version: 1
+name: dsh-see-image
+github:
+  owner: tiefeiyu
+  repo: dsh-see-image
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

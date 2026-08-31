@@ -1,0 +1,14 @@
+version: 1
+name: dsh-vscode
+github:
+  owner: Hyna-hla
+  repo: dsh-vscode
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-vscode
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

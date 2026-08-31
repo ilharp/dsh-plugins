@@ -1,0 +1,11 @@
+version: 1
+name: cordis-course
+github:
+  owner: curtiseng
+  repo: cordis-course
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

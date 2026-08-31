@@ -1,0 +1,14 @@
+version: 1
+name: dsh-skin-studio
+github:
+  owner: realMisakaMikoto
+  repo: dsh-skin-studio
+  language: TypeScript
+  license: AGPL-3.0
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-skin-studio
+versions:
+  - packageVersion: 0.5.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,10 @@
+version: 1
+name: Qwen-MM-Plugins
+github:
+  owner: omdsh-dev
+  repo: Qwen-MM-Plugins
+  language: TypeScript
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions: []

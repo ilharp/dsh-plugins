@@ -1,0 +1,14 @@
+version: 1
+name: dsh-mcp-tunnel
+github:
+  owner: 988hj7tczd-oss
+  repo: dsh-mcp-tunnel
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-mcp-tunnel
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

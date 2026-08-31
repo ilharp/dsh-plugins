@@ -1,0 +1,13 @@
+version: 1
+name: walioffice-dsh-plugin
+github:
+  owner: fuzhengwei
+  repo: walioffice-dsh-plugin
+  language: TypeScript
+  stars: 6
+  forks: 1
+npm:
+  name: walioffice-dsh-plugin
+versions:
+  - packageVersion: 0.1.15
+    dshVersion: v0.1.2-alpha.1

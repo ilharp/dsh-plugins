@@ -1,0 +1,17 @@
+version: 1
+name: dsh-context
+github:
+  owner: bowenliang123
+  repo: dsh-context
+  language: TypeScript
+  license: Apache-2.0
+  stars: 1184
+  forks: 31
+  openIssues: 0
+npm:
+  name: dsh-context
+versions:
+  - packageVersion: 0.33.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.37.0
+    dshVersion: v0.1.2-alpha.1

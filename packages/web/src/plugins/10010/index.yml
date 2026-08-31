@@ -1,0 +1,12 @@
+version: 1
+name: niulai-pet
+github:
+  owner: xs-java2ai
+  repo: niulai-pet
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

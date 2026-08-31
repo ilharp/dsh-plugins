@@ -1,0 +1,15 @@
+version: 1
+name: aifp-mcp
+github:
+  owner: wjabanjj
+  repo: aifp-mcp
+  language: TypeScript
+  stars: 2
+  forks: 0
+npm:
+  name: aifp-mcp
+versions:
+  - packageVersion: 1.5.9
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.5.11
+    dshVersion: v0.1.2-alpha.1

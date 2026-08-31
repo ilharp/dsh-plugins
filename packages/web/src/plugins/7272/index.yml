@@ -1,0 +1,14 @@
+version: 1
+name: dsh-notify
+github:
+  owner: TARS-snail
+  repo: dsh-notify
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-notify
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

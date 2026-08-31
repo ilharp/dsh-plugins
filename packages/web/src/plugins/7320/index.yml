@@ -1,0 +1,11 @@
+version: 1
+name: flowix
+github:
+  owner: text2future
+  repo: flowix
+  language: TypeScript
+  license: MIT
+  stars: 381
+  forks: 44
+  openIssues: 23
+versions: []

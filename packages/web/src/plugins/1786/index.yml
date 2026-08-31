@@ -1,0 +1,15 @@
+version: 1
+name: dsh-user-experience
+github:
+  owner: DietCokewithSugar
+  repo: dsh-user-experience
+  language: TypeScript
+  license: MIT
+  stars: 19
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-user-experience
+versions:
+  - packageVersion: 0.4.2
+    dshVersion: v0.1.2-alpha.1

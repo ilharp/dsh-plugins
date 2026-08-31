@@ -1,0 +1,14 @@
+version: 1
+name: dsh-model-balance
+github:
+  owner: nabin-qq273274877
+  repo: dsh-model-balance
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-model-balance
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

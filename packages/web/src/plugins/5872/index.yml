@@ -1,0 +1,16 @@
+version: 1
+name: dsh-plugins
+github:
+  owner: PlusQi
+  repo: dsh-plugins
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-plugins
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-draw
+github:
+  owner: PerryLink
+  repo: dsh-draw
+  language: TypeScript
+  license: Apache-2.0
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-draw
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

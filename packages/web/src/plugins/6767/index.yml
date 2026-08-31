@@ -1,0 +1,14 @@
+version: 1
+name: dsh-subagent-error-details
+github:
+  owner: sijie-ni-0214
+  repo: dsh-subagent-error-details
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-subagent-error-details
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

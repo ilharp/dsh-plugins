@@ -1,0 +1,16 @@
+version: 1
+name: dsh-maestro-mobile
+github:
+  owner: ddtcorex
+  repo: dsh-maestro-mobile
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@ddtcorex/dsh-maestro-mobile'
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

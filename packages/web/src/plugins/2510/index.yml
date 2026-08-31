@@ -1,0 +1,12 @@
+version: 1
+name: dsh-tool-web-search
+github:
+  owner: gao-gao-zai
+  repo: dsh-tool-web-search
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

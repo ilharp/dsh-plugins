@@ -1,0 +1,16 @@
+version: 1
+name: dsh-session-assistant
+github:
+  owner: AlexKaiqi
+  repo: dsh-session-assistant
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-session-assistant
+versions:
+  - packageVersion: 0.4.6
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.7
+    dshVersion: v0.1.2-alpha.1

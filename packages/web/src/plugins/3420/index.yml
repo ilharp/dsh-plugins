@@ -1,0 +1,15 @@
+version: 1
+name: dsh-custom-workspace
+github:
+  owner: JeremyGuo
+  repo: dsh-custom-workspace
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-custom-workspace
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

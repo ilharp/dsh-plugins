@@ -1,0 +1,14 @@
+version: 1
+name: dsh-deeptutor
+github:
+  owner: TecFancy
+  repo: dsh-deeptutor
+  language: TypeScript
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-deeptutor
+versions:
+  - packageVersion: 0.1.9
+    dshVersion: v0.1.2-alpha.1

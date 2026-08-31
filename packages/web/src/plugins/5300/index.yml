@@ -1,0 +1,12 @@
+version: 1
+name: dsh-cost-stats
+github:
+  owner: newbieYi
+  repo: dsh-cost-stats
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

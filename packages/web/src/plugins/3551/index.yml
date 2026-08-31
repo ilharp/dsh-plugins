@@ -1,0 +1,17 @@
+version: 1
+name: dsh-plugin-audit
+github:
+  owner: jkrandom-sudo
+  repo: dsh-plugin-audit
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-plugin-audit
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

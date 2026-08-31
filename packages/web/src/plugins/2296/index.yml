@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-GUI
+github:
+  owner: festoney8
+  repo: deepseek-harness-GUI
+  language: Rust
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions: []

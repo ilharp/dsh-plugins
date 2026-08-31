@@ -1,0 +1,11 @@
+version: 1
+name: dsh-one-click-launcher
+github:
+  owner: wenliang9527
+  repo: dsh-one-click-launcher
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

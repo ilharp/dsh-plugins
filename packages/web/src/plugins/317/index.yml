@@ -1,0 +1,12 @@
+version: 1
+name: dsh-open-in-code
+github:
+  owner: abbno
+  repo: dsh-open-in-code
+  language: JavaScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1

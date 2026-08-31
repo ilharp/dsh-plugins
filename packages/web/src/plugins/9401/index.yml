@@ -1,0 +1,11 @@
+version: 1
+name: dsh-vision
+github:
+  owner: william-jin-cmu
+  repo: dsh-vision
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 26
+  forks: 4
+  openIssues: 4
+versions: []

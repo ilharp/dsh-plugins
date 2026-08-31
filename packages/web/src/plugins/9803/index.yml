@@ -1,0 +1,12 @@
+version: 1
+name: dsh-reverse-proxy-xc
+github:
+  owner: xchannel1987
+  repo: dsh-reverse-proxy-xc
+  language: JavaScript
+  stars: 0
+npm:
+  name: dsh-reverse-proxy-xc
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

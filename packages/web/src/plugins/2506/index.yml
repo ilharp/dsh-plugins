@@ -1,0 +1,14 @@
+version: 1
+name: dsh-kun-like-pet
+github:
+  owner: GangLongYu
+  repo: dsh-kun-like-pet
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-kun-like-pet
+versions:
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1

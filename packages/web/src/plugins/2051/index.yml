@@ -1,0 +1,11 @@
+version: 1
+name: caliper
+github:
+  owner: edonadei
+  repo: caliper
+  language: Python
+  license: MIT
+  stars: 50
+  forks: 8
+  openIssues: 8
+versions: []

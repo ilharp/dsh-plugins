@@ -1,0 +1,14 @@
+version: 1
+name: dsh-theme-escook
+github:
+  owner: Simon-yyy
+  repo: dsh-theme-escook
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-theme-escook
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

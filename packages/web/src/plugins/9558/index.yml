@@ -1,0 +1,12 @@
+version: 1
+name: dsh-theme-paper
+github:
+  owner: WuWL-98
+  repo: dsh-theme-paper
+  language: PowerShell
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-opencode-go-provider
+github:
+  owner: edynasty
+  repo: dsh-opencode-go-provider
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 3
+npm:
+  name: dsh-opencode-go-provider
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

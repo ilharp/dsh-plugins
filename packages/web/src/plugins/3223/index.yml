@@ -1,0 +1,16 @@
+version: 1
+name: openspec-agents
+github:
+  owner: ifrankwang
+  repo: openspec-agents
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 1
+npm:
+  name: '@ifrankwang/openspec-agents'
+versions:
+  - packageVersion: 0.130.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.132.1
+    dshVersion: v0.1.2-alpha.1

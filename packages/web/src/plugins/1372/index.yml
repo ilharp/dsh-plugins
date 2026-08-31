@@ -1,0 +1,12 @@
+version: 1
+name: dsh-404-panic-lock
+github:
+  owner: chuxumilk
+  repo: dsh-404-panic-lock
+  language: JavaScript
+  license: CC0-1.0
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

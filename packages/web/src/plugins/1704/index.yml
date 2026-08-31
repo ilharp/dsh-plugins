@@ -1,0 +1,16 @@
+version: 1
+name: maestro-skills
+github:
+  owner: ddtcorex
+  repo: maestro-skills
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 2
+npm:
+  name: '@ddtcorex/maestro-skills'
+versions:
+  - packageVersion: 2.3.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2.4.2
+    dshVersion: v0.1.2-alpha.1

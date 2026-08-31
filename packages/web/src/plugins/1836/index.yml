@@ -1,0 +1,14 @@
+version: 1
+name: dsh-workbench
+github:
+  owner: doebkblcya
+  repo: dsh-workbench
+  language: TypeScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: '@doebkblcya/dsh-workbench'
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

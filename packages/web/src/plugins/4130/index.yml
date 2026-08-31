@@ -1,0 +1,14 @@
+version: 1
+name: dsh-mcp-lazy
+github:
+  owner: leaforbook
+  repo: dsh-mcp-lazy
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@yilinxiao/dsh-mcp-lazy'
+versions:
+  - packageVersion: 0.5.1
+    dshVersion: v0.1.2-alpha.1

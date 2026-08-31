@@ -1,0 +1,12 @@
+version: 1
+name: oh-my-ticket
+github:
+  owner: rqwj
+  repo: oh-my-ticket
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

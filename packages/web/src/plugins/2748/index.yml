@@ -1,0 +1,11 @@
+version: 1
+name: dsh-devflow
+github:
+  owner: H97y
+  repo: dsh-devflow
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

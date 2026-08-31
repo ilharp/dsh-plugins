@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-boundary
+github:
+  owner: KoanJan
+  repo: dsh-plugin-boundary
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@koanjan/dsh-plugin-boundary'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

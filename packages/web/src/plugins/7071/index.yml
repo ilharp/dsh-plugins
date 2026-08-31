@@ -1,0 +1,14 @@
+version: 1
+name: dsh-project-kanban
+github:
+  owner: StruggleYang
+  repo: dsh-project-kanban
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-project-kanban
+versions:
+  - packageVersion: 0.8.3
+    dshVersion: v0.1.2-alpha.1

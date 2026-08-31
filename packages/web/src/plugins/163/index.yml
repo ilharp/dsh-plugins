@@ -1,0 +1,11 @@
+version: 1
+name: dsh-market
+github:
+  owner: 2BingLing
+  repo: dsh-market
+  language: TypeScript
+  license: MIT
+  stars: 78
+  forks: 0
+  openIssues: 3
+versions: []

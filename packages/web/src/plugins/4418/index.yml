@@ -1,0 +1,17 @@
+version: 1
+name: dsh-theme-firefly
+github:
+  owner: Liu-ZA-81
+  repo: dsh-theme-firefly
+  language: JavaScript
+  license: MIT
+  stars: 17
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-theme-firefly
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

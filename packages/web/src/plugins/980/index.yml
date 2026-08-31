@@ -1,0 +1,12 @@
+version: 1
+name: dsh-telegram-bot
+github:
+  owner: Blue-2571
+  repo: dsh-telegram-bot
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

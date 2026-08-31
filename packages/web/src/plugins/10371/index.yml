@@ -1,0 +1,14 @@
+version: 1
+name: dsh-vision-bridge
+github:
+  owner: YuLee-314
+  repo: dsh-vision-bridge
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@yulee-314/dsh-vision-bridge'
+versions:
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1

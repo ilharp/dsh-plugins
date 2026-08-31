@@ -1,0 +1,11 @@
+version: 1
+name: oh_my_deepseek_harness
+github:
+  owner: bernardleex526
+  repo: oh_my_deepseek_harness
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 1
+versions: []

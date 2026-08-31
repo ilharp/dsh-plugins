@@ -1,0 +1,15 @@
+version: 1
+name: dsh-find-skill
+github:
+  owner: Moximxxx
+  repo: dsh-find-skill
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-find-skill
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

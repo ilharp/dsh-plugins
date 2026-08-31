@@ -1,0 +1,14 @@
+version: 1
+name: dsh-memory-protocol
+github:
+  owner: baaai123
+  repo: dsh-memory-protocol
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-memory-protocol
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

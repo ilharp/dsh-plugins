@@ -1,0 +1,13 @@
+version: 1
+name: dsh-plugin-subscriptions
+github:
+  owner: randomix777
+  repo: dsh-plugin-subscriptions
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-plugin-subscriptions
+versions:
+  - packageVersion: 1.2.0
+    dshVersion: v0.1.2-alpha.1

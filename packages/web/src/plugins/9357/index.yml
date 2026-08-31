@@ -1,0 +1,15 @@
+version: 1
+name: dsh-pdf-edit
+github:
+  owner: Whatsmore-nf
+  repo: dsh-pdf-edit
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-pdf-edit
+versions:
+  - packageVersion: 0.4.5
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,17 @@
+version: 1
+name: DeepSeek-harness-dingtalk
+github:
+  owner: sliverp
+  repo: DeepSeek-harness-dingtalk
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: deepseek-harness-dingtalk
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

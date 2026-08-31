@@ -1,0 +1,17 @@
+version: 1
+name: dsh-clawrouter
+github:
+  owner: BlockRunAI
+  repo: dsh-clawrouter
+  language: TypeScript
+  license: MIT
+  stars: 20
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-clawrouter
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.10.1
+    dshVersion: v0.1.2-alpha.1

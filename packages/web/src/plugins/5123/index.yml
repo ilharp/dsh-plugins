@@ -1,0 +1,14 @@
+version: 1
+name: dsh-safe-web-fetch
+github:
+  owner: MostlyHarmlessxyz
+  repo: dsh-safe-web-fetch
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-safe-web-fetch
+versions:
+  - packageVersion: 0.1.0-next.0
+    dshVersion: v0.1.2-alpha.1

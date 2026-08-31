@@ -1,0 +1,12 @@
+version: 1
+name: dsh-cache-cost-monitor
+github:
+  owner: eurt-nano
+  repo: dsh-cache-cost-monitor
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

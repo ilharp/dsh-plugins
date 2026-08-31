@@ -1,0 +1,11 @@
+version: 1
+name: agent-fix
+github:
+  owner: qingzhuo-cn
+  repo: agent-fix
+  language: Python
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

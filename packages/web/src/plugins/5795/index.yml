@@ -1,0 +1,17 @@
+version: 1
+name: dsh-mcp-panel
+github:
+  owner: PerryLink
+  repo: dsh-mcp-panel
+  language: TypeScript
+  license: Apache-2.0
+  stars: 52
+  forks: 4
+  openIssues: 3
+npm:
+  name: dsh-mcp-panel
+versions:
+  - packageVersion: 0.5.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.1
+    dshVersion: v0.1.2-alpha.1

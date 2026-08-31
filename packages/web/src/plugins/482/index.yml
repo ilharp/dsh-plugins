@@ -1,0 +1,11 @@
+version: 1
+name: awesome-DSH-plugin
+github:
+  owner: Alex-Yanggg
+  repo: awesome-DSH-plugin
+  language: Python
+  license: CC0-1.0
+  stars: 87
+  forks: 38
+  openIssues: 21
+versions: []

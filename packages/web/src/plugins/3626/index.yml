@@ -1,0 +1,14 @@
+version: 1
+name: session-export
+github:
+  owner: JohnXu22786
+  repo: session-export
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-session-export
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

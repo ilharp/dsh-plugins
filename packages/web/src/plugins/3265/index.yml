@@ -1,0 +1,10 @@
+version: 1
+name: clarify-intent-and-establish-shared-understanding
+github:
+  owner: Inference1
+  repo: clarify-intent-and-establish-shared-understanding
+  license: Apache-2.0
+  stars: 205
+  forks: 3
+  openIssues: 0
+versions: []

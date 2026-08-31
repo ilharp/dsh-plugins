@@ -1,0 +1,11 @@
+version: 1
+name: dsh-client-ui-skin-valley-spring
+github:
+  owner: EachSheep
+  repo: dsh-valley-pixel-skin
+  license: BSD-3-Clause
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

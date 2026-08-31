@@ -1,0 +1,12 @@
+version: 1
+name: dsh-qqbot-bridge
+github:
+  owner: wang-22-code
+  repo: dsh-qqbot-bridge
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 1
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

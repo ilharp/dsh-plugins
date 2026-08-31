@@ -1,0 +1,9 @@
+version: 1
+name: dsh-with-chatgpt
+github:
+  owner: BeforeWave
+  repo: dsh-with-chatgpt
+  stars: 33
+  forks: 2
+  openIssues: 0
+versions: []

@@ -1,0 +1,11 @@
+version: 1
+name: agent-qa
+github:
+  owner: vostride
+  repo: agent-qa
+  language: TypeScript
+  license: NOASSERTION
+  stars: 896
+  forks: 15
+  openIssues: 0
+versions: []

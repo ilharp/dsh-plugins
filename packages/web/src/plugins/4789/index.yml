@@ -1,0 +1,14 @@
+version: 1
+name: deepseek-harness-quota-monitor
+github:
+  owner: marisa-4219
+  repo: deepseek-harness-quota-monitor
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 1
+npm:
+  name: deepseek-harness-quota-monitor
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

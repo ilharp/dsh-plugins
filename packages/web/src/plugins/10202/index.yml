@@ -1,0 +1,12 @@
+version: 1
+name: jarvis-skin-publish-dsh-client-ui-skin-jarvis-own
+github:
+  owner: YiCheng-Zzz
+  repo: jarvis-skin-publish-dsh-client-ui-skin-jarvis-own
+  language: HTML
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

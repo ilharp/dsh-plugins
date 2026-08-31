@@ -1,0 +1,16 @@
+version: 1
+name: dsh-pentester
+github:
+  owner: fb0sh
+  repo: dsh-pentester
+  language: TypeScript
+  license: MIT
+  stars: 6
+  forks: 1
+npm:
+  name: dsh-pentester
+versions:
+  - packageVersion: 0.1.0-alpha.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2.4.0
+    dshVersion: v0.1.2-alpha.1

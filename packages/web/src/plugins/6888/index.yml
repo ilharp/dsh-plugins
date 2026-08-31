@@ -1,0 +1,14 @@
+version: 1
+name: dsh-self-upgrade
+github:
+  owner: snow930
+  repo: dsh-self-upgrade
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-self-upgrade
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: forkprobe
+github:
+  owner: Jayden-X-L
+  repo: forkprobe
+  language: Python
+  license: MIT
+  stars: 70
+  forks: 4
+  openIssues: 0
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: molibot
+github:
+  owner: gusibi
+  repo: molibot
+  language: TypeScript
+  license: NOASSERTION
+  stars: 7
+  forks: 1
+  openIssues: 1
+versions: []

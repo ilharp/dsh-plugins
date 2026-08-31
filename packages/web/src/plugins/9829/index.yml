@@ -1,0 +1,17 @@
+version: 1
+name: dsh-config-manager
+github:
+  owner: xiajiajun516
+  repo: dsh-config-manager
+  language: TypeScript
+  license: MIT
+  stars: 53
+  forks: 1
+  openIssues: 4
+npm:
+  name: dsh-config-manager
+versions:
+  - packageVersion: 0.1.53
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.54
+    dshVersion: v0.1.2-alpha.1

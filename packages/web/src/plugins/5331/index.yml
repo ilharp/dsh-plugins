@@ -1,0 +1,13 @@
+version: 1
+name: vision-exp-tile
+github:
+  owner: Nicholas023
+  repo: vision-exp-tile
+  language: JavaScript
+  license: MIT
+  stars: 13
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.4.2
+    dshVersion: v0.1.2-alpha.1

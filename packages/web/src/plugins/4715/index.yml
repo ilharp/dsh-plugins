@@ -1,0 +1,14 @@
+version: 1
+name: dsh-skin-picker
+github:
+  owner: Lzh-12
+  repo: dsh-skin-picker
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-skin-picker
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

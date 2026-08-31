@@ -1,0 +1,10 @@
+version: 1
+name: dsh-awesome-hud
+github:
+  owner: Ycet
+  repo: dsh-awesome-hud
+  language: JavaScript
+  stars: 1
+versions:
+  - packageVersion: 0.5.5
+    dshVersion: v0.1.2-alpha.1

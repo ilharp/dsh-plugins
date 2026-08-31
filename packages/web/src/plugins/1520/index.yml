@@ -1,0 +1,14 @@
+version: 1
+name: dsh-uni-editor
+github:
+  owner: creativedswork
+  repo: dsh-uni-editor
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@creative-dswork/dsh-uni-editor'
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

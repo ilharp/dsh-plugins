@@ -1,0 +1,17 @@
+version: 1
+name: dsh-qqbot
+github:
+  owner: tencent-connect
+  repo: dsh-qqbot
+  language: TypeScript
+  license: MIT
+  stars: 83
+  forks: 13
+  openIssues: 0
+npm:
+  name: '@tencent-connect/dsh-qqbot'
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

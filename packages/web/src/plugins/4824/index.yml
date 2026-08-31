@@ -1,0 +1,14 @@
+version: 1
+name: dsh-guardian
+github:
+  owner: Max-Null
+  repo: dsh-guardian
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+npm:
+  name: '@max-null/dsh-guardian'
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

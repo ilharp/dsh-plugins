@@ -1,0 +1,13 @@
+version: 1
+name: dsh-inhibition
+github:
+  owner: dncore
+  repo: dsh-inhibition
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-inhibition
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

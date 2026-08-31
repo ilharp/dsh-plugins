@@ -1,0 +1,17 @@
+version: 1
+name: dsh-runtime-nutrition-label
+github:
+  owner: biubiukam
+  repo: dsh-runtime-nutrition-label
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 5
+npm:
+  name: dsh-runtime-nutrition-label
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

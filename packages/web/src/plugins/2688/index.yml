@@ -1,0 +1,11 @@
+version: 1
+name: dsh-tool-see-image
+github:
+  owner: gugu123a
+  repo: dsh-tool-see-image
+  license: MIT
+  stars: 5
+  forks: 0
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

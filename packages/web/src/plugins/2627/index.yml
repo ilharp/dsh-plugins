@@ -1,0 +1,12 @@
+version: 1
+name: dsh-copilot-sdk
+github:
+  owner: GongYuanCaiJi
+  repo: dsh-copilot-sdk
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 1.0.11
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: 中国传统色 MCP
+github:
+  owner: omdsh-dev
+  repo: toybox
+  path: plugins/chinese-colors-mcp
+  license: MIT
+  stars: 2
+versions:
+  - packageVersion: 0.1.0-rc.2
+    dshVersion: v0.1.2-alpha.1

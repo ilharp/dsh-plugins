@@ -1,0 +1,12 @@
+version: 1
+name: xby-mm1-simulation
+github:
+  owner: xby-skill
+  repo: xby-mm1-simulation
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

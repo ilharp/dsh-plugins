@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-desktop
+github:
+  owner: MichengAI
+  repo: deepseek-harness-desktop
+  language: TypeScript
+  license: Apache-2.0
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

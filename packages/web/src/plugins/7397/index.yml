@@ -1,0 +1,17 @@
+version: 1
+name: dsh-approve-for-me
+github:
+  owner: timeance
+  repo: dsh-approve-for-me
+  language: TypeScript
+  license: MIT
+  stars: 11
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-approve-for-me
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

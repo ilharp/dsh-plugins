@@ -1,0 +1,12 @@
+version: 1
+name: skills-summarize-audit-skill
+github:
+  owner: gtbwpkwjnb-alt
+  repo: skills-summarize-audit-skill
+  language: Python
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 9.1.0
+    dshVersion: v0.1.2-alpha.1

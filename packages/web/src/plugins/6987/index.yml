@@ -1,0 +1,13 @@
+version: 1
+name: dsh-web-search-ollama
+github:
+  owner: sryimnoob123
+  repo: dsh-web-search-ollama
+  language: JavaScript
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-web-search-ollama
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,17 @@
+version: 1
+name: dsh-harness-mcp-server
+github:
+  owner: chushixixin
+  repo: dsh-harness-mcp-server
+  language: TypeScript
+  license: MIT
+  stars: 9
+  forks: 2
+  openIssues: 1
+npm:
+  name: '@chushixixin/dsh-harness-mcp-server'
+versions:
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.10
+    dshVersion: v0.1.2-alpha.1

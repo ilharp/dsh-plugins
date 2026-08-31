@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-auxiliary-runtime
+github:
+  owner: Hilbert-beinghappy
+  repo: dsh-plugin-auxiliary-runtime
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

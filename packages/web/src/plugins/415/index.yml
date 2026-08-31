@@ -1,0 +1,10 @@
+version: 1
+name: dsh-ontology-kernel
+github:
+  owner: aiko-dsh-plugins
+  repo: dsh-ontology-kernel
+  language: JavaScript
+  stars: 0
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-market
+github:
+  owner: sstar16
+  repo: dsh-plugin-market
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-plugin-market
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

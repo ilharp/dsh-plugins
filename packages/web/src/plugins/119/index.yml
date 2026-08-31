@@ -1,0 +1,11 @@
+version: 1
+name: dsh-whale-subagent
+github:
+  owner: 1while1
+  repo: dsh-whale-subagent
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

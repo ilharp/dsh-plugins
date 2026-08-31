@@ -1,0 +1,11 @@
+version: 1
+name: dsh-desktop-electron
+github:
+  owner: Void0312Aurora
+  repo: dsh-desktop-electron
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 5
+  forks: 1
+  openIssues: 1
+versions: []

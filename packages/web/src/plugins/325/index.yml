@@ -1,0 +1,12 @@
+version: 1
+name: dsh-custom-enter-key
+github:
+  owner: aberter0x3f
+  repo: dsh-custom-enter-key
+  language: TypeScript
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-feishu-gateway
+github:
+  owner: kriskwok
+  repo: dsh-feishu-gateway
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@kriskwok/dsh-feishu-gateway'
+versions:
+  - packageVersion: 0.2.11
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.15
+    dshVersion: v0.1.2-alpha.1

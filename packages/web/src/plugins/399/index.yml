@@ -1,0 +1,11 @@
+version: 1
+name: dsh-safe-plugin-manager
+github:
+  owner: AI-Scarlett
+  repo: dsh-safe-plugin-manager
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.8.1
+    dshVersion: v0.1.2-alpha.1

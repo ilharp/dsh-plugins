@@ -1,0 +1,12 @@
+version: 1
+name: oh-my-dsh
+github:
+  owner: LaplaceYoung
+  repo: oh-my-dsh
+  language: TypeScript
+  stars: 55
+  forks: 1
+  openIssues: 1
+npm:
+  name: oh-my-dsh
+versions: []

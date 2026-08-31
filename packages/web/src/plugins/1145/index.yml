@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plug-skills
+github:
+  owner: Casually
+  repo: dsh-plug-skills
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-plug-skills
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

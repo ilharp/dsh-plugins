@@ -1,0 +1,17 @@
+version: 1
+name: dsh-context-provenance
+github:
+  owner: '030611'
+  repo: dsh-context-provenance
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-context-provenance
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

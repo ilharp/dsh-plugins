@@ -1,0 +1,17 @@
+version: 1
+name: dsh-rss
+github:
+  owner: STARDUSTLC666
+  repo: dsh-rss
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-rss
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-plugin-image-wallpaper
+github:
+  owner: CaoNing3212
+  repo: dsh-plugin-image-wallpaper
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

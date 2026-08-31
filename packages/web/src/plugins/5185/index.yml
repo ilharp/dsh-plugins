@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-whale-fenggu
+github:
+  owner: Mungbean-Cake
+  repo: dsh-plugin-whale-fenggu
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

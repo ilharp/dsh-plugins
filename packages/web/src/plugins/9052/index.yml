@@ -1,0 +1,12 @@
+version: 1
+name: universal-plugin-hub
+github:
+  owner: Ultmebius
+  repo: universal-plugin-hub
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 1.0.0-preview
+    dshVersion: v0.1.2-alpha.1

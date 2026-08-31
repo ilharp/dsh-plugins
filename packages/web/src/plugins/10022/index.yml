@@ -1,0 +1,15 @@
+version: 1
+name: dsh-full-access-switch
+github:
+  owner: xtd1145
+  repo: dsh-full-access-switch
+  language: PowerShell
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

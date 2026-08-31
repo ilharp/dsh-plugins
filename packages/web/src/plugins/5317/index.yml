@@ -1,0 +1,15 @@
+version: 1
+name: dsh-mcp-adapter
+github:
+  owner: NexusAgentX
+  repo: dsh-mcp-adapter
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-mcp-adapter
+versions:
+  - packageVersion: 0.6.3
+    dshVersion: v0.1.2-alpha.1

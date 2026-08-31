@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-remote
+github:
+  owner: siberiah2o
+  repo: dsh-plugin-remote
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-plugin-remote
+versions:
+  - packageVersion: 0.5.12
+    dshVersion: v0.1.2-alpha.1

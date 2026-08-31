@@ -1,0 +1,11 @@
+version: 1
+name: dsh-gui
+github:
+  owner: chentao326
+  repo: dsh-gui
+  language: Swift
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

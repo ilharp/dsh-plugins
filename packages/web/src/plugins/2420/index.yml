@@ -1,0 +1,11 @@
+version: 1
+name: wesight
+github:
+  owner: freestylefly
+  repo: wesight
+  language: TypeScript
+  license: MIT
+  stars: 904
+  forks: 207
+  openIssues: 6
+versions: []

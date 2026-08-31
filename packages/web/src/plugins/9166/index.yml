@@ -1,0 +1,15 @@
+version: 1
+name: whale-girl
+github:
+  owner: vlln
+  repo: whale-girl
+  language: JavaScript
+  license: MIT
+  stars: 301
+  forks: 16
+  openIssues: 3
+npm:
+  name: whale-girl
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

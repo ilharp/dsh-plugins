@@ -1,0 +1,12 @@
+version: 1
+name: dsh-worktree-studio
+github:
+  owner: Palaiologos1453
+  repo: dsh-worktree-studio
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

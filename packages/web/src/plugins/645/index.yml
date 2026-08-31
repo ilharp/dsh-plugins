@@ -1,0 +1,15 @@
+version: 1
+name: DSH-arena
+github:
+  owner: Apageoflove
+  repo: DSH-arena
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.19
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

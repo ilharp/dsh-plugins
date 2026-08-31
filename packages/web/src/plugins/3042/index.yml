@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-molt
+github:
+  owner: houyongsheng
+  repo: deepseek-harness-molt
+  language: Python
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

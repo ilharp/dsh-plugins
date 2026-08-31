@@ -1,0 +1,11 @@
+version: 1
+name: DSH-Plugs
+github:
+  owner: JustGenius-s
+  repo: DSH-Plugs
+  language: TypeScript
+  license: NOASSERTION
+  stars: 8
+  forks: 2
+  openIssues: 0
+versions: []

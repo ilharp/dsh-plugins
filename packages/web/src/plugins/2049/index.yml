@@ -1,0 +1,11 @@
+version: 1
+name: EchoBird
+github:
+  owner: edison7009
+  repo: EchoBird
+  language: Rust
+  license: MIT
+  stars: 3145
+  forks: 346
+  openIssues: 356
+versions: []

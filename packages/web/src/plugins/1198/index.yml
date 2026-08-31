@@ -1,0 +1,15 @@
+version: 1
+name: dsh-llmwiki
+github:
+  owner: chancelu
+  repo: dsh-llmwiki
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-llmwiki
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

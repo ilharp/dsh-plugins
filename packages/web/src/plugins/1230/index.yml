@@ -1,0 +1,13 @@
+version: 1
+name: dsh-chat-width
+github:
+  owner: chen-001
+  repo: dsh-chat-width
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-chat-width
+versions: []

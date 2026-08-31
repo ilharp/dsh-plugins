@@ -1,0 +1,11 @@
+version: 1
+name: DeepSeek-Harness-linux-
+github:
+  owner: MoneShadow
+  repo: DeepSeek-Harness-linux-
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,11 @@
+version: 1
+name: seeWxapkg
+github:
+  owner: Leslie-SSS
+  repo: seeWxapkg
+  language: Go
+  license: MIT
+  stars: 95
+  forks: 26
+  openIssues: 2
+versions: []

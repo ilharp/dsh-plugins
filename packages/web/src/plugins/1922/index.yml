@@ -1,0 +1,15 @@
+version: 1
+name: dsh-session-manager
+github:
+  owner: dream12347
+  repo: dsh-session-manager
+  language: TypeScript
+  license: MIT
+  stars: 55
+  forks: 3
+  openIssues: 2
+npm:
+  name: dsh-session-manager
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

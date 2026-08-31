@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-rag
+github:
+  owner: mervyn-teo
+  repo: dsh-plugin-rag
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-plugin-rag
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

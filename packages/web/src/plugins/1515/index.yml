@@ -1,0 +1,17 @@
+version: 1
+name: dsh-balance
+github:
+  owner: crazywoola
+  repo: dsh-balance
+  language: TypeScript
+  license: MIT
+  stars: 26
+  forks: 2
+  openIssues: 0
+npm:
+  name: '@pinkbanana/dsh-balance'
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1

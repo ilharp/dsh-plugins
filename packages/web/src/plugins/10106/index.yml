@@ -1,0 +1,16 @@
+version: 1
+name: dsh-knj-menu
+github:
+  owner: yangdongzhen590
+  repo: dsh-knj-menu
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-knj-menu
+versions:
+  - packageVersion: 2026.8.251
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2026.8.252
+    dshVersion: v0.1.2-alpha.1

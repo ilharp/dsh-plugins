@@ -1,0 +1,12 @@
+version: 1
+name: dsh-matrix-agent
+github:
+  owner: evlon
+  repo: dsh-matrix-agent
+  language: TypeScript
+  stars: 0
+npm:
+  name: dsh-matrix-agent
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

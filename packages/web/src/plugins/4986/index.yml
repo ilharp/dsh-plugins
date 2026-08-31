@@ -1,0 +1,12 @@
+version: 1
+name: dsh-missher-memory
+github:
+  owner: Missher12
+  repo: dsh-missher-memory
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

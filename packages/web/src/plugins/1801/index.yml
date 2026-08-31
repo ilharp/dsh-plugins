@@ -1,0 +1,14 @@
+version: 1
+name: dsh-dingtalk
+github:
+  owner: DingTalk-Real-AI
+  repo: dsh-dingtalk
+  language: TypeScript
+  license: MIT
+  stars: 14
+  forks: 2
+npm:
+  name: '@dingtalk-real-ai/dsh-dingtalk'
+versions:
+  - packageVersion: 0.0.0-development
+    dshVersion: v0.1.2-alpha.1

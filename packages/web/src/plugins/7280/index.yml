@@ -1,0 +1,15 @@
+version: 1
+name: dsh-files
+github:
+  owner: taxueseek
+  repo: dsh-files
+  language: TypeScript
+  license: MIT
+  stars: 28
+  forks: 7
+  openIssues: 3
+npm:
+  name: dsh-files
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

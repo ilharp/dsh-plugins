@@ -1,0 +1,13 @@
+version: 1
+name: dsh-composer-polish
+github:
+  owner: tianji-qingtian
+  repo: dsh-composer-polish
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

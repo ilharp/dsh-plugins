@@ -1,0 +1,11 @@
+version: 1
+name: DshDesktopShell
+github:
+  owner: sprite5
+  repo: DshDesktopShell
+  language: Go
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions: []

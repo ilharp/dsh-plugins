@@ -1,0 +1,14 @@
+version: 1
+name: dsh-feed
+github:
+  owner: '863683348'
+  repo: dsh-feed
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-feed
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

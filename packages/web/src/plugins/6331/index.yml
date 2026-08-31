@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-lite
+github:
+  owner: sakurarain1213
+  repo: deepseek-harness-lite
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

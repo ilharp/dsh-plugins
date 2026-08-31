@@ -1,0 +1,16 @@
+version: 1
+name: dsh-network
+github:
+  owner: baixianger
+  repo: dsh-network
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-network
+versions:
+  - packageVersion: 0.1.0-rc.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0-rc.8
+    dshVersion: v0.1.2-alpha.1

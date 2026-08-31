@@ -1,0 +1,12 @@
+version: 1
+name: ai-company-framework
+github:
+  owner: yyyy231209
+  repo: ai-company-framework
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 1
+versions:
+  - packageVersion: 0.3.10
+    dshVersion: v0.1.2-alpha.1

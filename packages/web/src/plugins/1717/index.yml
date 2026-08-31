@@ -1,0 +1,14 @@
+version: 1
+name: dsh-mindmap-chat
+github:
+  owner: DeepVite
+  repo: dsh-mindmap-chat
+  language: JavaScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-mindmap-chat
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-WallpaperAndCost
+github:
+  owner: AppliedYuu
+  repo: dsh-WallpaperAndCost
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

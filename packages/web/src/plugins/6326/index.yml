@@ -1,0 +1,15 @@
+version: 1
+name: dsh-ha-orchestrator
+github:
+  owner: Saktawdi
+  repo: dsh-ha-orchestrator
+  language: JavaScript
+  license: MIT
+  stars: 9
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-ha-orchestrator
+versions:
+  - packageVersion: 0.12.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-desktop
+github:
+  owner: chokwinlee
+  repo: deepseek-harness-desktop
+  language: Kotlin
+  license: MIT
+  stars: 126
+  forks: 1
+  openIssues: 13
+versions: []

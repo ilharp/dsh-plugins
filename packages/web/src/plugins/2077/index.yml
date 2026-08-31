@@ -1,0 +1,15 @@
+version: 1
+name: dsh-tiered-approval
+github:
+  owner: Elaina-real
+  repo: dsh-tiered-approval
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-tiered-approval
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

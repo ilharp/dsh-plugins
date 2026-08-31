@@ -1,0 +1,11 @@
+version: 1
+name: archify
+github:
+  owner: tt-a1i
+  repo: archify
+  language: HTML
+  license: MIT
+  stars: 22142
+  forks: 937
+  openIssues: 13
+versions: []

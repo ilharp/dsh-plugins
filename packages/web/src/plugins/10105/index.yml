@@ -1,0 +1,14 @@
+version: 1
+name: relay-dsh-plugin-workbench
+github:
+  owner: yangbobo2021
+  repo: relay-dsh-plugin-workbench
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: relay-dsh-plugin-workbench
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

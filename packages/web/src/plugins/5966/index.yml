@@ -1,0 +1,11 @@
+version: 1
+name: dsh-file-undo
+github:
+  owner: QinLuza
+  repo: dsh-file-undo
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-dingo
+github:
+  owner: february2015
+  repo: dsh-dingo
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 1
+npm:
+  name: dsh-dingo
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

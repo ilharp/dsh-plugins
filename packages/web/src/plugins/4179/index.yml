@@ -1,0 +1,11 @@
+version: 1
+name: Minke
+github:
+  owner: lencx
+  repo: Minke
+  language: TypeScript
+  license: Apache-2.0
+  stars: 584
+  forks: 65
+  openIssues: 5
+versions: []

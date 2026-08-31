@@ -1,0 +1,12 @@
+version: 1
+name: look-here
+github:
+  owner: ZanderKong
+  repo: look-here
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.5.3
+    dshVersion: v0.1.2-alpha.1

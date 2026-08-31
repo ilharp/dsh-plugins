@@ -1,0 +1,10 @@
+version: 1
+name: dsh-plugin-question-index
+github:
+  owner: antlordGit
+  repo: dsh-plugin-question-index
+  language: JavaScript
+  stars: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

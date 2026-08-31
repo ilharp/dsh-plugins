@@ -1,0 +1,14 @@
+version: 1
+name: dsh-openai-oauth
+github:
+  owner: AdonisSheldon
+  repo: dsh-openai-oauth
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 0
+npm:
+  name: dsh-openai-oauth
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

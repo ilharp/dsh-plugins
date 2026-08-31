@@ -1,0 +1,10 @@
+version: 1
+name: dsh-plugin
+github:
+  owner: Tabbit-Browser
+  repo: dsh-plugin
+  language: JavaScript
+  stars: 95
+  forks: 0
+  openIssues: 1
+versions: []

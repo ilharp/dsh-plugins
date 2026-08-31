@@ -1,0 +1,15 @@
+version: 1
+name: dsh-batch-regression
+github:
+  owner: PangYiMing
+  repo: dsh-batch-regression
+  language: Shell
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-batch-regression
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

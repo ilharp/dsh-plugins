@@ -1,0 +1,17 @@
+version: 1
+name: deepseek-harness-genui
+github:
+  owner: pengyue-polaron
+  repo: deepseek-harness-genui
+  language: TypeScript
+  license: MIT
+  stars: 107
+  forks: 12
+  openIssues: 0
+npm:
+  name: dsh-plugin-genui
+versions:
+  - packageVersion: 0.13.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.13.2
+    dshVersion: v0.1.2-alpha.1

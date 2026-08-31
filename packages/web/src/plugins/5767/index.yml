@@ -1,0 +1,16 @@
+version: 1
+name: dsh-shop-assistant
+github:
+  owner: pengzhou267-ai
+  repo: dsh-shop-assistant
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-shop-assistant
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

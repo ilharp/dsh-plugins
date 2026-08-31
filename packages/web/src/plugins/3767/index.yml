@@ -1,0 +1,15 @@
+version: 1
+name: dsh-deepseek-flow
+github:
+  owner: kanghelyu
+  repo: dsh-deepseek-flow
+  language: JavaScript
+  license: MIT
+  stars: 50
+  forks: 4
+  openIssues: 1
+npm:
+  name: deepseek-flow
+versions:
+  - packageVersion: 0.4.2
+    dshVersion: v0.1.2-alpha.1

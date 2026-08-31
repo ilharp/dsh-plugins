@@ -1,0 +1,14 @@
+version: 1
+name: github-explore
+github:
+  owner: Fectivnfy112357
+  repo: github-explore
+  language: Python
+  license: MIT
+  stars: 2
+  forks: 1
+npm:
+  name: github-explore
+versions:
+  - packageVersion: 3.1.0
+    dshVersion: v0.1.2-alpha.1

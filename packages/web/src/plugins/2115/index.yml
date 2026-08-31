@@ -1,0 +1,11 @@
+version: 1
+name: dsh-whalito-desk
+github:
+  owner: entireyu
+  repo: dsh-whalito-desk
+  language: Rust
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

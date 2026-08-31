@@ -1,0 +1,14 @@
+version: 1
+name: dsh-context-aware-search
+github:
+  owner: helibeiqi
+  repo: dsh-context-aware-search
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@helibeiqi/dsh-context-aware-search'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-plugins
+github:
+  owner: Hanihahaha
+  repo: deepseek-harness-plugins
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

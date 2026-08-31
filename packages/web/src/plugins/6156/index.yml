@@ -1,0 +1,12 @@
+version: 1
+name: dsh-web-archive
+github:
+  owner: renat3u
+  repo: dsh-web-archive
+  language: TypeScript
+  stars: 8
+  forks: 1
+  openIssues: 1
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

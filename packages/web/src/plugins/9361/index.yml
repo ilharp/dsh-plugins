@@ -1,0 +1,11 @@
+version: 1
+name: awesome-dsh-plugins
+github:
+  owner: white0dew
+  repo: awesome-dsh-plugins
+  language: TypeScript
+  license: MIT
+  stars: 12
+  forks: 4
+  openIssues: 3
+versions: []

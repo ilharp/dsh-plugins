@@ -1,0 +1,12 @@
+version: 1
+name: dsh-omni-bridge
+github:
+  owner: baisama-cloud
+  repo: dsh-omni-bridge
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

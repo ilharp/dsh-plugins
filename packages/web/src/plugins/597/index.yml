@@ -1,0 +1,13 @@
+version: 1
+name: dsh-attention
+github:
+  owner: AnLifeX
+  repo: dsh-attention
+  language: JavaScript
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-attention
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-bloom-theme
+github:
+  owner: webkubor
+  repo: dsh-bloom-theme
+  language: JavaScript
+  license: MIT
+  stars: 17
+  forks: 0
+  openIssues: 1
+npm:
+  name: '@kubor/dsh-bloom-theme'
+versions:
+  - packageVersion: 0.8.8
+    dshVersion: v0.1.2-alpha.1

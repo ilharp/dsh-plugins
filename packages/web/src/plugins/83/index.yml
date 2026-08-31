@@ -1,0 +1,11 @@
+version: 1
+name: dsh-Mimir-Academic-research
+github:
+  owner: '1692775560'
+  repo: dsh-Mimir-Academic-research
+  language: TypeScript
+  license: MIT
+  stars: 92
+  forks: 6
+  openIssues: 0
+versions: []

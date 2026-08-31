@@ -1,0 +1,14 @@
+version: 1
+name: dsh-agent-gateway
+github:
+  owner: longnb47
+  repo: dsh-agent-gateway
+  language: TypeScript
+  license: ISC
+  stars: 1
+  forks: 0
+npm:
+  name: '@longnb47/dsh-agent-gateway'
+versions:
+  - packageVersion: 0.1.0-rc.2
+    dshVersion: v0.1.2-alpha.1

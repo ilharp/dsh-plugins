@@ -1,0 +1,17 @@
+version: 1
+name: dsh-compact-activity
+github:
+  owner: wallpap
+  repo: dsh-compact-activity
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-compact-activity
+versions:
+  - packageVersion: 1.2.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.2.4
+    dshVersion: v0.1.2-alpha.1

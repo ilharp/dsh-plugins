@@ -1,0 +1,11 @@
+version: 1
+name: dsh-standalone-tab-sidebar
+github:
+  owner: e2mcc
+  repo: dsh-standalone-tab-sidebar
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

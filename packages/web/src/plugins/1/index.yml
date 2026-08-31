@@ -1,0 +1,17 @@
+version: 1
+name: DSH-better-sidebar
+github:
+  owner: omdsh-dev
+  repo: DSH-better-sidebar
+  language: TypeScript
+  license: MIT
+  stars: 3123
+  forks: 269
+  openIssues: 37
+npm:
+  name: dsh-better-sidebar
+versions:
+  - packageVersion: 0.16.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.17.1
+    dshVersion: v0.1.2-alpha.1

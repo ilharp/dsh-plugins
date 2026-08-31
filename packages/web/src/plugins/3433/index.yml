@@ -1,0 +1,15 @@
+version: 1
+name: dsh-memory
+github:
+  owner: Jesse-njx
+  repo: dsh-memory
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 2
+npm:
+  name: dsh-memory
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-python-env
+github:
+  owner: AngelosZou
+  repo: dsh-python-env
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-python-env
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

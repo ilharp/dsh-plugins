@@ -1,0 +1,13 @@
+version: 1
+name: dsh-plugin-manager
+github:
+  owner: MAXeaglet
+  repo: dsh-plugin-manager
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-plugin-manager
+versions: []

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-ocr-local
+github:
+  owner: balcoz
+  repo: dsh-ocr-local
+  language: JavaScript
+  stars: 6
+  forks: 0
+npm:
+  name: dsh-ocr-local
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1

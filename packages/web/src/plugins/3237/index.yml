@@ -1,0 +1,11 @@
+version: 1
+name: MisakaNet
+github:
+  owner: Ikalus1988
+  repo: MisakaNet
+  language: Python
+  license: Apache-2.0
+  stars: 430
+  forks: 160
+  openIssues: 51
+versions: []

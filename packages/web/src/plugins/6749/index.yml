@@ -1,0 +1,8 @@
+version: 1
+name: dsh-qwen-mm-plugins
+github:
+  owner: ShuiHan268
+  repo: dsh-qwen-mm-plugins
+  license: Apache-2.0
+  stars: 2
+versions: []

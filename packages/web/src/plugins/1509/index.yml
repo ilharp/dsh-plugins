@@ -1,0 +1,13 @@
+version: 1
+name: dsh-web-search-tavily
+github:
+  owner: crayonlu
+  repo: dsh-web-search-tavily
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-web-search-tavily
+versions: []

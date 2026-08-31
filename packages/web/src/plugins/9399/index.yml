@@ -1,0 +1,12 @@
+version: 1
+name: dsh-evolve
+github:
+  owner: william-jin-cmu
+  repo: dsh-evolve
+  language: TypeScript
+  stars: 10
+  forks: 0
+  openIssues: 2
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

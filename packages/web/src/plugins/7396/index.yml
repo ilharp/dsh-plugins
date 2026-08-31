@@ -1,0 +1,14 @@
+version: 1
+name: dsh-agent-arena
+github:
+  owner: Tikzen
+  repo: dsh-agent-arena
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

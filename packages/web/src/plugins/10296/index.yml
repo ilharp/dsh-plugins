@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-gate
+github:
+  owner: youkongling
+  repo: dsh-plugin-gate
+  language: JavaScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-plugin-gate
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

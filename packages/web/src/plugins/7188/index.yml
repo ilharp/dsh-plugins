@@ -1,0 +1,13 @@
+version: 1
+name: dsh-swarmdrop
+github:
+  owner: swarm-apps
+  repo: dsh-swarmdrop
+  language: TypeScript
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-swarmdrop
+versions:
+  - packageVersion: 0.7.1
+    dshVersion: v0.1.2-alpha.1

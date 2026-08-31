@@ -1,0 +1,11 @@
+version: 1
+name: dsh-cost-chip
+github:
+  owner: boNeXY226
+  repo: dsh-cost-chip
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions: []

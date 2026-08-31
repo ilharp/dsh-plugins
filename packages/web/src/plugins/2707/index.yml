@@ -1,0 +1,11 @@
+version: 1
+name: dsh-multi-tenant
+github:
+  owner: GuoMonth
+  repo: dsh-multi-tenant
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 0
+  openIssues: 0
+versions: []

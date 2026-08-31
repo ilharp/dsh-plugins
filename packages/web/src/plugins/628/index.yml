@@ -1,0 +1,17 @@
+version: 1
+name: dsh-web-search-pro
+github:
+  owner: anweat
+  repo: dsh-web-search-pro
+  language: TypeScript
+  license: MIT
+  stars: 57
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-web-search-pro
+versions:
+  - packageVersion: 0.1.9
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.11
+    dshVersion: v0.1.2-alpha.1

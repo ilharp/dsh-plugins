@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-novelai
+github:
+  owner: ysysz0343-web
+  repo: dsh-plugin-novelai
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

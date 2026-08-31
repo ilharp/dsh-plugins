@@ -1,0 +1,11 @@
+version: 1
+name: dsh-paste-input
+github:
+  owner: lhh010
+  repo: dsh-paste-input
+  language: JavaScript
+  license: NOASSERTION
+  stars: 10
+  forks: 0
+  openIssues: 0
+versions: []

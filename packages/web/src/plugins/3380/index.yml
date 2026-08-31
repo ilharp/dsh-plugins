@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-file-manager
+github:
+  owner: jasper-zsh
+  repo: dsh-plugin-file-manager
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

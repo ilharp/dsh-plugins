@@ -1,0 +1,11 @@
+version: 1
+name: GrassVison
+github:
+  owner: moduqishi
+  repo: GrassVison
+  language: Python
+  license: NOASSERTION
+  stars: 3
+  forks: 1
+  openIssues: 0
+versions: []

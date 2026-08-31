@@ -1,0 +1,14 @@
+version: 1
+name: dsh-dictation
+github:
+  owner: WSL043
+  repo: dsh-dictation
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-dictation
+versions:
+  - packageVersion: 0.1.0-beta.1
+    dshVersion: v0.1.2-alpha.1

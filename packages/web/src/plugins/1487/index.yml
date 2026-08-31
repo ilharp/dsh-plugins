@@ -1,0 +1,15 @@
+version: 1
+name: dsh-siyuan
+github:
+  owner: coolgech
+  repo: dsh-siyuan
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-siyuan
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

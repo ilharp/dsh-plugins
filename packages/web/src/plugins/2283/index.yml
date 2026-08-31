@@ -1,0 +1,12 @@
+version: 1
+name: dsh-narrow-screen-fix
+github:
+  owner: fengs2021
+  repo: dsh-narrow-screen-fix
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

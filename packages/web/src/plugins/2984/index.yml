@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-tui
+github:
+  owner: Hilbert-beinghappy
+  repo: deepseek-tui
+  language: JavaScript
+  license: MIT
+  stars: 90
+  forks: 0
+  openIssues: 0
+versions: []

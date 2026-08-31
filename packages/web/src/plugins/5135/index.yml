@@ -1,0 +1,10 @@
+version: 1
+name: dsh-lan
+github:
+  owner: moxisuki
+  repo: dsh-lan
+  language: JavaScript
+  stars: 6
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,10 @@
+version: 1
+name: dsh-draft-shield
+github:
+  owner: johndfowler
+  repo: dsh-draft-shield
+  language: JavaScript
+  stars: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,8 @@
+version: 1
+name: deerflow-dsh
+github:
+  owner: devrobbin
+  repo: deerflow-dsh
+  stars: 0
+  forks: 0
+versions: []

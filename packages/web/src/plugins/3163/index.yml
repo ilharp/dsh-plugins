@@ -1,0 +1,13 @@
+version: 1
+name: dsh-ambience
+github:
+  owner: Hyna-hla
+  repo: dsh-ambience
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 1.1.1
+    dshVersion: v0.1.2-alpha.1

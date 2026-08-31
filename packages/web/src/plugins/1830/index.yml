@@ -1,0 +1,11 @@
+version: 1
+name: dsh-tool-market-data
+github:
+  owner: dmsobtl
+  repo: dsh-tool-market-data
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

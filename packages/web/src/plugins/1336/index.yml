@@ -1,0 +1,15 @@
+version: 1
+name: dsh-plugin-market
+github:
+  owner: chnjames
+  repo: dsh-plugin-market
+  language: TypeScript
+  license: NOASSERTION
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-plugin-market
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-specflow
+github:
+  owner: lonelymoon87
+  repo: dsh-specflow
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-specflow
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-github-token-injector
+github:
+  owner: pan17
+  repo: dsh-github-token-injector
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

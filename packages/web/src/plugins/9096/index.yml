@@ -1,0 +1,12 @@
+version: 1
+name: dsh-custom-skin
+github:
+  owner: v587d
+  repo: dsh-custom-skin
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

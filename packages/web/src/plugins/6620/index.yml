@@ -1,0 +1,11 @@
+version: 1
+name: mcp-for-stata
+github:
+  owner: SepineTam
+  repo: mcp-for-stata
+  language: Python
+  license: AGPL-3.0
+  stars: 253
+  forks: 33
+  openIssues: 2
+versions: []

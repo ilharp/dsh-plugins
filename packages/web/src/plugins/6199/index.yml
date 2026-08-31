@@ -1,0 +1,11 @@
+version: 1
+name: dsh-melody-launcher
+github:
+  owner: rirko
+  repo: dsh-melody-launcher
+  language: TypeScript
+  license: NOASSERTION
+  stars: 21
+  forks: 10
+  openIssues: 16
+versions: []

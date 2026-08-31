@@ -1,0 +1,11 @@
+version: 1
+name: dsh-robotic-harness
+github:
+  owner: dingkaihu63
+  repo: dsh-robotic-harness
+  language: Python
+  license: MIT
+  stars: 17
+  forks: 2
+  openIssues: 0
+versions: []

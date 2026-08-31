@@ -1,0 +1,8 @@
+version: 1
+name: dsh-quota-hub
+github:
+  owner: penguin-oo
+  repo: dsh-quota-hub
+  stars: 0
+  forks: 0
+versions: []

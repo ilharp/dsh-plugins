@@ -1,0 +1,14 @@
+version: 1
+name: dsh-mermaid
+github:
+  owner: GongYuanCaiJi
+  repo: dsh-mermaid
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-mermaid
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

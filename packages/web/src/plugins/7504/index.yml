@@ -1,0 +1,13 @@
+version: 1
+name: dsh-plugin-vetting
+github:
+  owner: truelove-dreamer
+  repo: dsh-plugin-vetting
+  language: JavaScript
+  stars: 5
+  forks: 2
+npm:
+  name: dsh-plugin-vetting
+versions:
+  - packageVersion: 0.5.6
+    dshVersion: v0.1.2-alpha.1

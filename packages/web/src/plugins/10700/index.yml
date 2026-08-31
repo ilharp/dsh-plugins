@@ -1,0 +1,11 @@
+version: 1
+name: dsh-save-money
+github:
+  owner: zhu168
+  repo: dsh-save-money
+  language: JavaScript
+  license: MIT
+  stars: 35
+  forks: 1
+  openIssues: 1
+versions: []

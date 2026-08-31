@@ -1,0 +1,15 @@
+version: 1
+name: dsh-solo-thinking
+github:
+  owner: fredalxin
+  repo: dsh-solo-thinking
+  language: TypeScript
+  license: MIT
+  stars: 20
+  forks: 0
+  openIssues: 1
+npm:
+  name: dsh-plugin-solo-thinking
+versions:
+  - packageVersion: 0.1.19
+    dshVersion: v0.1.2-alpha.1

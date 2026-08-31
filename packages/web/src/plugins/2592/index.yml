@@ -1,0 +1,11 @@
+version: 1
+name: dsh-drop-file-to-path
+github:
+  owner: GLFzr
+  repo: dsh-drop-file-to-path
+  language: JavaScript
+  license: MIT
+  stars: 9
+  forks: 0
+  openIssues: 0
+versions: []

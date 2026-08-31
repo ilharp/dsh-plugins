@@ -1,0 +1,11 @@
+version: 1
+name: DSH-Transparent-UI-Plugin
+github:
+  owner: WYH66666666
+  repo: DSH-Transparent-UI-Plugin
+  language: TypeScript
+  license: MIT
+  stars: 47
+  forks: 0
+  openIssues: 0
+versions: []

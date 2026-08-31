@@ -1,0 +1,11 @@
+version: 1
+name: DSHLauncher
+github:
+  owner: xuanyvne
+  repo: DSHLauncher
+  language: C#
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

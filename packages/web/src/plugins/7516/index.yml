@@ -1,0 +1,13 @@
+version: 1
+name: dsh-workspace-search
+github:
+  owner: tsonglew
+  repo: dsh-workspace-search
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

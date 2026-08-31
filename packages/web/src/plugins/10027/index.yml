@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-workbench
+github:
+  owner: xuan-ao-1
+  repo: deepseek-harness-workbench
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

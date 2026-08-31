@@ -1,0 +1,13 @@
+version: 1
+name: dsh-reasoning-settings
+github:
+  owner: JuneLearn
+  repo: dsh-reasoning-settings
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-desktop-automation
+github:
+  owner: Junkrat9527
+  repo: dsh-desktop-automation
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-desktop-automation
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

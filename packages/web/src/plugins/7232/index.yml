@@ -1,0 +1,12 @@
+version: 1
+name: dsh-fusion-pixel-ui-adapt
+github:
+  owner: TableRogue
+  repo: dsh-fusion-pixel-ui-adapt
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: '@dsh-external/dsh-course-writer'
+github:
+  owner: bettermen
+  repo: dsh-course-writer
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

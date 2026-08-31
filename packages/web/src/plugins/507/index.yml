@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-genshin-startup
+github:
+  owner: allen546
+  repo: dsh-plugin-genshin-startup
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

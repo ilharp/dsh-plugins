@@ -1,0 +1,15 @@
+version: 1
+name: dsh-815-skin
+github:
+  owner: lengduan
+  repo: dsh-815-skin
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@lengduan/dsh-client-ui-skin-815'
+versions:
+  - packageVersion: 0.1.9
+    dshVersion: v0.1.2-alpha.1

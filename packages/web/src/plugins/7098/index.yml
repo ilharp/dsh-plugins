@@ -1,0 +1,14 @@
+version: 1
+name: dsh-lark
+github:
+  owner: sugarforever
+  repo: dsh-lark
+  language: TypeScript
+  license: MIT
+  stars: 24
+  forks: 7
+npm:
+  name: '@sugarforever/dsh-lark'
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

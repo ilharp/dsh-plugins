@@ -1,0 +1,15 @@
+version: 1
+name: free-vision-skill
+github:
+  owner: niyongsheng
+  repo: free-vision-skill
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 1
+npm:
+  name: '@niyongsheng/free-vision-skill'
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

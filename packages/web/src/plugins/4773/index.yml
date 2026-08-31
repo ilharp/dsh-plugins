@@ -1,0 +1,10 @@
+version: 1
+name: DSH-Launcher
+github:
+  owner: MarcoG-h
+  repo: DSH-Launcher
+  language: TypeScript
+  stars: 5
+  forks: 1
+  openIssues: 0
+versions: []

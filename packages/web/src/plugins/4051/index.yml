@@ -1,0 +1,14 @@
+version: 1
+name: smooth-cursor
+github:
+  owner: Lacquervii
+  repo: smooth-cursor
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-smooth-cursor
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

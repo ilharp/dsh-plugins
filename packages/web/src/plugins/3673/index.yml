@@ -1,0 +1,11 @@
+version: 1
+name: dsh-memory-sqlite
+github:
+  owner: JTSDM
+  repo: dsh-memory-sqlite
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

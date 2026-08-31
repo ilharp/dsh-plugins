@@ -1,0 +1,15 @@
+version: 1
+name: dsh-calculator
+github:
+  owner: bobcat848
+  repo: dsh-calculator
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-calculator
+versions:
+  - packageVersion: 1.3.4
+    dshVersion: v0.1.2-alpha.1

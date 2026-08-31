@@ -1,0 +1,14 @@
+version: 1
+name: dsh-codex-connect-plus
+github:
+  owner: stoneface10
+  repo: dsh-codex-connect-plus
+  language: TypeScript
+  license: Apache-2.0
+  stars: 4
+  forks: 1
+npm:
+  name: dsh-codex-connect-plus
+versions:
+  - packageVersion: 0.1.0-beta.4
+    dshVersion: v0.1.2-alpha.1

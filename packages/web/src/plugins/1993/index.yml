@@ -1,0 +1,15 @@
+version: 1
+name: dsh-video-lens
+github:
+  owner: dundunhan
+  repo: dsh-video-lens
+  language: JavaScript
+  license: MIT
+  stars: 22
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-video-lens
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

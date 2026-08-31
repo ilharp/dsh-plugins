@@ -1,0 +1,16 @@
+version: 1
+name: dsh-codex-migrate
+github:
+  owner: polarskicpl
+  repo: dsh-codex-migrate
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+npm:
+  name: dsh-codex-migrate
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1

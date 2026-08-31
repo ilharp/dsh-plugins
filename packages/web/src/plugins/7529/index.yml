@@ -1,0 +1,13 @@
+version: 1
+name: dsh-task-models
+github:
+  owner: TTTPOB
+  repo: dsh-task-models
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

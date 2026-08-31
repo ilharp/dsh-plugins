@@ -1,0 +1,13 @@
+version: 1
+name: dsh-cyber-particle
+github:
+  owner: AKS1st
+  repo: dsh-cyber-particle
+  language: JavaScript
+  license: MIT
+  stars: 11
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

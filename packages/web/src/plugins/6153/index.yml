@@ -1,0 +1,11 @@
+version: 1
+name: dsh-theme-rhine-lab
+github:
+  owner: ReLuckyLucy
+  repo: dsh_Rhine_Lab_themo
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

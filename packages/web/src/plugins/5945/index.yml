@@ -1,0 +1,12 @@
+version: 1
+name: dsh-workflow-groups
+github:
+  owner: qichuang321
+  repo: dsh-workflow-groups
+  language: TypeScript
+  license: Apache-2.0
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

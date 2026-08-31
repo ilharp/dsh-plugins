@@ -1,0 +1,17 @@
+version: 1
+name: dsh-chat-sync
+github:
+  owner: nan1010082085
+  repo: dsh-chat-sync
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-chat-sync
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.4
+    dshVersion: v0.1.2-alpha.1

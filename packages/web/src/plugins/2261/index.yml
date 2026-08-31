@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-whitepaper
+github:
+  owner: feicaiclub
+  repo: deepseek-harness-whitepaper
+  language: HTML
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+versions: []

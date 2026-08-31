@@ -1,0 +1,11 @@
+version: 1
+name: iPolloWork
+github:
+  owner: Devin-AXIS
+  repo: iPolloWork
+  language: HTML
+  license: NOASSERTION
+  stars: 4977
+  forks: 806
+  openIssues: 75
+versions: []

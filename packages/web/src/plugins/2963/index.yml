@@ -1,0 +1,14 @@
+version: 1
+name: dsh-music-player
+github:
+  owner: hey-ruomei
+  repo: dsh-music-player
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-music-player
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

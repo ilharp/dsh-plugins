@@ -1,0 +1,14 @@
+version: 1
+name: dsh-spec
+github:
+  owner: rongyishuaige7
+  repo: dsh-spec
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@rongyi7/dsh-spec'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-llm-codebuddy
+github:
+  owner: Axiaohungry
+  repo: dsh-llm-codebuddy
+  language: JavaScript
+  license: MIT
+  stars: 17
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-llm-codebuddy
+versions:
+  - packageVersion: 1.3.5
+    dshVersion: v0.1.2-alpha.1

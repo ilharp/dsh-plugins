@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-no-workspace
+github:
+  owner: SpookySandwich
+  repo: dsh-plugin-no-workspace
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-plugin-no-workspace
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

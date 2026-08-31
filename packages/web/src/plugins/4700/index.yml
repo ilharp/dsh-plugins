@@ -1,0 +1,11 @@
+version: 1
+name: dsh-model-capabilities
+github:
+  owner: lylarcher
+  repo: dsh-model-capabilities
+  language: TypeScript
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

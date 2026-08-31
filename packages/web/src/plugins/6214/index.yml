@@ -1,0 +1,14 @@
+version: 1
+name: dsh-session-admin
+github:
+  owner: robin758
+  repo: dsh-session-admin
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-session-admin
+versions:
+  - packageVersion: 0.0.6
+    dshVersion: v0.1.2-alpha.1

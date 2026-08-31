@@ -1,0 +1,10 @@
+version: 1
+name: '@cdxdnrf/dsh-client-ui-skin-wishadel'
+github:
+  owner: cdxDNRF
+  repo: wishadel-theme
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

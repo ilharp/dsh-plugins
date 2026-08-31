@@ -1,0 +1,14 @@
+version: 1
+name: dsh-luna-vision-bridge
+github:
+  owner: ycp424c
+  repo: dsh-luna-vision-bridge
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 1
+npm:
+  name: '@ycp424c/dsh-luna-vision-bridge'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

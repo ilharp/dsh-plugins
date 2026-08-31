@@ -1,0 +1,14 @@
+version: 1
+name: dsh-milvus
+github:
+  owner: zilliztech
+  repo: dsh-milvus
+  language: JavaScript
+  license: Apache-2.0
+  stars: 4
+  forks: 1
+npm:
+  name: '@zilliz/dsh-milvus'
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

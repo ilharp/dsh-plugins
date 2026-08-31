@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-deploy
+github:
+  owner: Octo-o-o-o
+  repo: dsh-plugin-deploy
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-plugin-deploy
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

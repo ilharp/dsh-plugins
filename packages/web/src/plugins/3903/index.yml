@@ -1,0 +1,13 @@
+version: 1
+name: dsh-liang-skin
+github:
+  owner: kingOfSoySauce
+  repo: dsh-liang-skin
+  language: TypeScript
+  license: NOASSERTION
+  stars: 121
+  forks: 10
+  openIssues: 3
+versions:
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1

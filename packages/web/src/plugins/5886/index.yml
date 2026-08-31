@@ -1,0 +1,19 @@
+version: 1
+name: dsh-personal-center
+github:
+  owner: PolinniZhong
+  repo: dsh-personal-center
+  language: JavaScript
+  license: MIT
+  stars: 25
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-personal-center
+versions:
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.8.1
+    dshVersion: v0.1.2-alpha.1

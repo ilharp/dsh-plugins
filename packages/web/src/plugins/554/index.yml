@@ -1,0 +1,14 @@
+version: 1
+name: dsh-omp-advisor
+github:
+  owner: AndrasSama
+  repo: dsh-omp-advisor
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.7.8
+    dshVersion: v0.1.2-alpha.1

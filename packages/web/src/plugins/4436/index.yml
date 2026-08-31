@@ -1,0 +1,16 @@
+version: 1
+name: dsh-muyu
+github:
+  owner: liuwenji007
+  repo: dsh-muyu
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-muyu
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

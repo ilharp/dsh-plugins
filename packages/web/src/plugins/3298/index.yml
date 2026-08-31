@@ -1,0 +1,14 @@
+version: 1
+name: DeepSeek_Harness_Balance_Banner
+github:
+  owner: iskshadow195563
+  repo: DeepSeek_Harness_Balance_Banner
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: deepseek-balance-banner
+versions:
+  - packageVersion: 1.1.3
+    dshVersion: v0.1.2-alpha.1

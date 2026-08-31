@@ -1,0 +1,11 @@
+version: 1
+name: dsh-gui
+github:
+  owner: kipozannaki
+  repo: dsh-gui
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

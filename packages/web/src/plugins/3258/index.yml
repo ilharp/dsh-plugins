@@ -1,0 +1,12 @@
+version: 1
+name: dsh-archive
+github:
+  owner: imrascal
+  repo: dsh-archive
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

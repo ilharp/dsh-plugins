@@ -1,0 +1,16 @@
+version: 1
+name: dsh-automation
+github:
+  owner: MichengAI
+  repo: dsh-automation
+  language: JavaScript
+  license: Apache-2.0
+  stars: 12
+  forks: 1
+npm:
+  name: '@michengai/dsh-automation'
+versions:
+  - packageVersion: 0.1.14
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.22
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-windows-workspace-guard
+github:
+  owner: julescules
+  repo: dsh-windows-workspace-guard
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 1
+versions:
+  - packageVersion: 0.8.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.9.0
+    dshVersion: v0.1.2-alpha.1

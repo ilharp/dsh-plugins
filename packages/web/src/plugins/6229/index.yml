@@ -1,0 +1,11 @@
+version: 1
+name: dsh-ui-background
+github:
+  owner: ropz12138
+  repo: dsh-ui-background
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-pr-description
+github:
+  owner: 988hj7tczd-oss
+  repo: dsh-pr-description
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-pr-description
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

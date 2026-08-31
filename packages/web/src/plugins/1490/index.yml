@@ -1,0 +1,11 @@
+version: 1
+name: dsh-doctor
+github:
+  owner: coppynight
+  repo: dsh-doctor
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 6
+  forks: 0
+  openIssues: 0
+versions: []

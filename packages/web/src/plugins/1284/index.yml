@@ -1,0 +1,11 @@
+version: 1
+name: knowledge-from-literature-and-bilibili
+github:
+  owner: ChenSheg
+  repo: knowledge-from-literature-and-bilibili
+  language: Python
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

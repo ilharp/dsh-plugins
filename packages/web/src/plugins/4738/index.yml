@@ -1,0 +1,15 @@
+version: 1
+name: deepseek-harness-zh_pro
+github:
+  owner: magian1127
+  repo: deepseek-harness-zh_pro
+  language: TypeScript
+  license: MIT
+  stars: 25
+  forks: 0
+  openIssues: 1
+npm:
+  name: deepseek-harness-zh_pro
+versions:
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1

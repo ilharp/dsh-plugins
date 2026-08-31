@@ -1,0 +1,12 @@
+version: 1
+name: dsh-effort-bars
+github:
+  owner: imdeniil
+  repo: dsh-effort-bars
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

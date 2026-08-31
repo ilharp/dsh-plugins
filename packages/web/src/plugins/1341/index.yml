@@ -1,0 +1,16 @@
+version: 1
+name: dsh-footer-order
+github:
+  owner: Choi-Peng
+  repo: dsh-footer-order
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@choi-p/dsh-footer-order'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

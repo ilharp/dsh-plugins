@@ -1,0 +1,16 @@
+version: 1
+name: dsh-model-router
+github:
+  owner: fonlan
+  repo: dsh-model-router
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@fonlan/dsh-model-router'
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1

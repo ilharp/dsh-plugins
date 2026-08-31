@@ -1,0 +1,18 @@
+version: 1
+name: dsh-coding-subscription-oauth
+github:
+  owner: lninghaha
+  repo: dsh-coding-subscription-oauth
+  language: JavaScript
+  stars: 16
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-coding-subscription-oauth
+versions:
+  - packageVersion: 0.6.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.3
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dshacp
+github:
+  owner: ECHOUniverse
+  repo: dshacp
+  language: MDX
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@hanxu131/dshacp'
+versions:
+  - packageVersion: 0.1.9
+    dshVersion: v0.1.2-alpha.1

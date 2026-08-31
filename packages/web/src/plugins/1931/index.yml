@@ -1,0 +1,15 @@
+version: 1
+name: dsh-theme-neko
+github:
+  owner: drfccv
+  repo: dsh-theme-neko
+  language: TypeScript
+  license: NOASSERTION
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-theme-neko
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

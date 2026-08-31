@@ -1,0 +1,11 @@
+version: 1
+name: hello-dsh
+github:
+  owner: pingfanfan
+  repo: hello-dsh
+  language: Python
+  license: MIT
+  stars: 84
+  forks: 2
+  openIssues: 0
+versions: []

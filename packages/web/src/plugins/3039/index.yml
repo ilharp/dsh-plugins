@@ -1,0 +1,12 @@
+version: 1
+name: dsh-token-pulse
+github:
+  owner: Hou-DL
+  repo: dsh-token-pulse
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.2.2-beta
+    dshVersion: v0.1.2-alpha.1

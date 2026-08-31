@@ -1,0 +1,13 @@
+version: 1
+name: Perfect-Web-Clone
+github:
+  owner: ericshang98
+  repo: Perfect-Web-Clone
+  language: Python
+  license: MIT
+  stars: 253
+  forks: 24
+  openIssues: 6
+versions:
+  - packageVersion: 3.0.0
+    dshVersion: v0.1.2-alpha.1

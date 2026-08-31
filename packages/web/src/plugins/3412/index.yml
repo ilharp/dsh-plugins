@@ -1,0 +1,12 @@
+version: 1
+name: dsh-3d-plugin-graph
+github:
+  owner: jelly-000
+  repo: dsh-3d-plugin-graph
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

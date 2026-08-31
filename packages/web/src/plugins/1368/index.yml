@@ -1,0 +1,12 @@
+version: 1
+name: craft-mermaid
+github:
+  owner: chunkithwang
+  repo: craft-mermaid
+  language: JavaScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

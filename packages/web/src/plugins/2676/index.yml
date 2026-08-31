@@ -1,0 +1,18 @@
+version: 1
+name: dsh-acp-enhanced
+github:
+  owner: grunmin
+  repo: dsh-acp-enhanced
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 1
+npm:
+  name: dsh-acp-enhanced
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.6
+    dshVersion: v0.1.2-alpha.1

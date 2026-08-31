@@ -1,0 +1,15 @@
+version: 1
+name: dsh-marketplace
+github:
+  owner: ouyangyipeng
+  repo: dsh-marketplace
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-marketplace
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

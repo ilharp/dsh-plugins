@@ -1,0 +1,12 @@
+version: 1
+name: dsh-message-navigation
+github:
+  owner: RyensX
+  repo: dsh-message-navigation
+  language: TypeScript
+  license: AGPL-3.0
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

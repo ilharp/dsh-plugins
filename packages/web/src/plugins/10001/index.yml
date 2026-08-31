@@ -1,0 +1,14 @@
+version: 1
+name: dsh-subagent-router
+github:
+  owner: XMoon
+  repo: dsh-subagent-router
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+npm:
+  name: '@xmoon76/dsh-subagent-router'
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

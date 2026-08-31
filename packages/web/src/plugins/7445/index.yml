@@ -1,0 +1,9 @@
+version: 1
+name: deepseek-harness-rs
+github:
+  owner: Tokimorphling
+  repo: deepseek-harness-rs
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

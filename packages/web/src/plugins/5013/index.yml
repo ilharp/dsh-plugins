@@ -1,0 +1,14 @@
+version: 1
+name: dsh-change-attestor
+github:
+  owner: MkaliezZ
+  repo: dsh-change-attestor
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+npm:
+  name: '@mkaliezz/dsh-change-attestor'
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

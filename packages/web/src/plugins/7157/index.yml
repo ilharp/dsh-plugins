@@ -1,0 +1,13 @@
+version: 1
+name: dsh-chat-focus
+github:
+  owner: supergameboy
+  repo: dsh-chat-focus
+  language: TypeScript
+  stars: 0
+  forks: 1
+npm:
+  name: dsh-chat-focus
+versions:
+  - packageVersion: 0.2.6
+    dshVersion: v0.1.2-alpha.1

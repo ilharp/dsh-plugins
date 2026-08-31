@@ -1,0 +1,15 @@
+version: 1
+name: dsh-desktop-windowos
+github:
+  owner: RAFOLIE
+  repo: dsh-desktop-windowos
+  language: TypeScript
+  license: MIT
+  stars: 15
+  forks: 3
+  openIssues: 2
+npm:
+  name: dsh-desktop-plugin
+versions:
+  - packageVersion: 1.5.10
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-computer-use
+github:
+  owner: ZRui-C
+  repo: dsh-computer-use
+  language: Swift
+  license: Apache-2.0
+  stars: 21
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-audio-copilot
+github:
+  owner: ai-yucheng
+  repo: dsh-audio-copilot
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-audio-copilot
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

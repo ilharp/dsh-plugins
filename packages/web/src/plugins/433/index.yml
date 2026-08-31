@@ -1,0 +1,12 @@
+version: 1
+name: dsh-wechat-article
+github:
+  owner: aiworkskills
+  repo: dsh-wechat-article
+  language: TypeScript
+  license: Apache-2.0
+  stars: 7
+  forks: 1
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

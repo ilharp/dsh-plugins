@@ -1,0 +1,13 @@
+version: 1
+name: '@ramify/dsh-ramify'
+github:
+  owner: yanglongyun
+  repo: dsh-ramify
+  language: TypeScript
+  license: MIT
+  stars: 10
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

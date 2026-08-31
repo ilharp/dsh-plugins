@@ -1,0 +1,16 @@
+version: 1
+name: dsh-codex-switch
+github:
+  owner: ZChenW
+  repo: dsh-codex-switch
+  language: JavaScript
+  license: Apache-2.0
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-codex-switch
+versions:
+  - packageVersion: 0.1.0-alpha.6
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0-alpha.8
+    dshVersion: v0.1.2-alpha.1

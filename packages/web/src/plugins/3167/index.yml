@@ -1,0 +1,13 @@
+version: 1
+name: dsh-md-table-formatter
+github:
+  owner: Hyna-hla
+  repo: dsh-md-table-formatter
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

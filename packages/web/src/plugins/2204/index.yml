@@ -1,0 +1,16 @@
+version: 1
+name: dsh-force-compact
+github:
+  owner: falling-ts
+  repo: dsh-force-compact
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@falling-ts/dsh-force-compact'
+versions:
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.6
+    dshVersion: v0.1.2-alpha.1

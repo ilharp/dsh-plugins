@@ -1,0 +1,14 @@
+version: 1
+name: dsh-deepseek-console
+github:
+  owner: whisperflo
+  repo: dsh-deepseek-console
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@hzjjxc/dsh-deepseek-console'
+versions:
+  - packageVersion: 1.5.5
+    dshVersion: v0.1.2-alpha.1

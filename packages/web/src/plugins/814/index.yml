@@ -1,0 +1,16 @@
+version: 1
+name: dsh-weave
+github:
+  owner: baixianger
+  repo: dsh-weave
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-weave
+versions:
+  - packageVersion: 0.1.0-rc.13
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0-rc.14
+    dshVersion: v0.1.2-alpha.1

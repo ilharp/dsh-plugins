@@ -1,0 +1,12 @@
+version: 1
+name: dsh-focal
+github:
+  owner: Haoran2099
+  repo: dsh-focal
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-migrate
+github:
+  owner: kkkkkkkkki
+  repo: dsh-migrate
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@ersss/dsh-migrate'
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

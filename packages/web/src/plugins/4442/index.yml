@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-action
+github:
+  owner: Lixiaoyiao
+  repo: deepseek-harness-action
+  language: TypeScript
+  license: MIT
+  stars: 14
+  forks: 1
+  openIssues: 0
+versions: []

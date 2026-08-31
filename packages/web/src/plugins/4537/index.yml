@@ -1,0 +1,11 @@
+version: 1
+name: pocket-dsh
+github:
+  owner: LOrz-3
+  repo: pocket-dsh
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

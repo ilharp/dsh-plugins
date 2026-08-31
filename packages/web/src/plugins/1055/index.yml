@@ -1,0 +1,11 @@
+version: 1
+name: dsh-desktop
+github:
+  owner: bruc3van
+  repo: dsh-desktop
+  language: TypeScript
+  license: MIT
+  stars: 76
+  forks: 3
+  openIssues: 1
+versions: []

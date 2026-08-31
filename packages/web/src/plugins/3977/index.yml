@@ -1,0 +1,14 @@
+version: 1
+name: dsh-market-desktop
+github:
+  owner: KokuYu-sysu
+  repo: dsh-market-desktop
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dshmarket
+versions:
+  - packageVersion: 1.11.3
+    dshVersion: v0.1.2-alpha.1

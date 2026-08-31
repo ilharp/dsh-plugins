@@ -1,0 +1,11 @@
+version: 1
+name: '@deepseek-ai/dsh-session-message-revision'
+github:
+  owner: xie-tj
+  repo: deepseek-harness-latest-user-message-revision
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

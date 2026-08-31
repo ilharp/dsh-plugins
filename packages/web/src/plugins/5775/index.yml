@@ -1,0 +1,15 @@
+version: 1
+name: dsh-todo-list
+github:
+  owner: perry-ai
+  repo: dsh-todo-list
+  language: TypeScript
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-todo-list
+versions:
+  - packageVersion: 1.4.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.5.0
+    dshVersion: v0.1.2-alpha.1

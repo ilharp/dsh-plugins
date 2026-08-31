@@ -1,0 +1,11 @@
+version: 1
+name: DSH-closerAI
+github:
+  owner: sb1733831438-maker
+  repo: DSH-closerAI
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-plugin-usage-meter
+github:
+  owner: fancr-code
+  repo: dsh-plugin-usage-meter
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-plugin-usage-meter
+versions:
+  - packageVersion: 1.8.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.8.4
+    dshVersion: v0.1.2-alpha.1

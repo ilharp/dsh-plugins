@@ -1,0 +1,12 @@
+version: 1
+name: dsh-ccTUI
+github:
+  owner: agentforce314
+  repo: dsh-ccTUI
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.3.18
+    dshVersion: v0.1.2-alpha.1

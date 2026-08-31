@@ -1,0 +1,13 @@
+version: 1
+name: dsh-mcp-adapter
+github:
+  owner: fan56
+  repo: dsh-mcp-adapter
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: '@aiwayds/dsh-mcp-adapter'
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-open-in-finder
+github:
+  owner: moduqishi
+  repo: dsh-open-in-finder
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

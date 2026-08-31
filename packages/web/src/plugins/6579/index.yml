@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness
+github:
+  owner: scwlkq
+  repo: deepseek-harness
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

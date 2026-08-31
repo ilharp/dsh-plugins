@@ -1,0 +1,15 @@
+version: 1
+name: dsh-memory-system
+github:
+  owner: zhujunpeng12
+  repo: dsh-memory-system
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@zhujunpeng12/dsh-memory-system'
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

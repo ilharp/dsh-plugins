@@ -1,0 +1,12 @@
+version: 1
+name: dsh-service-manage
+github:
+  owner: Xs1KVerOA
+  repo: dsh-service-manage
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

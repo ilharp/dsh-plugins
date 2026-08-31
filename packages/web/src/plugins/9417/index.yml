@@ -1,0 +1,11 @@
+version: 1
+name: paper_plane_x
+github:
+  owner: WindLX
+  repo: paper_plane_x
+  language: Python
+  license: AGPL-3.0
+  stars: 3
+  forks: 1
+  openIssues: 0
+versions: []

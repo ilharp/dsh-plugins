@@ -1,0 +1,10 @@
+version: 1
+name: dsh-plugin-pack-web
+github:
+  owner: baihejiangnan
+  repo: dsh-plugin-pack-web
+  license: MIT
+  stars: 8
+  forks: 2
+  openIssues: 0
+versions: []

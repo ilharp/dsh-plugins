@@ -1,0 +1,13 @@
+version: 1
+name: dsh-go-rotator
+github:
+  owner: echo-xianyu
+  repo: dsh-go-rotator
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

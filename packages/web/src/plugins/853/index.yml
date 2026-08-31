@@ -1,0 +1,11 @@
+version: 1
+name: awesome-dsh-plugin
+github:
+  owner: beancookie
+  repo: awesome-dsh-plugin
+  language: HTML
+  license: CC0-1.0
+  stars: 121
+  forks: 4
+  openIssues: 2
+versions: []

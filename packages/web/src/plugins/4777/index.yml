@@ -1,0 +1,14 @@
+version: 1
+name: dsh-serverchan-watchdog
+github:
+  owner: MaRi23333
+  repo: dsh-serverchan-watchdog
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-serverchan-watchdog
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

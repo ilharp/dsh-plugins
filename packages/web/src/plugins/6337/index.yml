@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-qcc
+github:
+  owner: Samge0
+  repo: dsh-plugin-qcc
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-whale-tank
+github:
+  owner: swell05
+  repo: dsh-whale-tank
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: '@swell05/dsh-whale-tank'
+versions:
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-llm-assistant
+github:
+  owner: NOirBRight
+  repo: dsh-llm-assistant
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

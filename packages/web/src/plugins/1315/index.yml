@@ -1,0 +1,15 @@
+version: 1
+name: promptwall
+github:
+  owner: Chhlafiu4312
+  repo: promptwall
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: promptwall
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

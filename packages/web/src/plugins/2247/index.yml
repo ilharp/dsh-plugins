@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-studio
+github:
+  owner: fazhu4
+  repo: dsh-plugin-studio
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-plugin-studio
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

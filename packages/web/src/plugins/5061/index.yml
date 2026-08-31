@@ -1,0 +1,11 @@
+version: 1
+name: dsh-opencode-usage
+github:
+  owner: moduqishi
+  repo: dsh-opencode-usage
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 1
+  openIssues: 0
+versions: []

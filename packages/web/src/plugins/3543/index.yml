@@ -1,0 +1,14 @@
+version: 1
+name: zen-useragent
+github:
+  owner: jiujiezongheti
+  repo: zen-useragent
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 1
+npm:
+  name: dsh-plugin-zen-useragent
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugins
+github:
+  owner: eeyzs1
+  repo: dsh-plugins
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

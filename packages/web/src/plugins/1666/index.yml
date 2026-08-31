@@ -1,0 +1,15 @@
+version: 1
+name: dsh-onlyne
+github:
+  owner: dbydd
+  repo: dsh-onlyne
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 1
+  openIssues: 1
+npm:
+  name: dsh-onlyne
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

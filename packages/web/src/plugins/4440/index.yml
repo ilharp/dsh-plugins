@@ -1,0 +1,11 @@
+version: 1
+name: dsh-client-ui-peak-valley
+github:
+  owner: liuyun847
+  repo: dsh-client-ui-peak-valley
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

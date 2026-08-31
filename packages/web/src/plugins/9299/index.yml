@@ -1,0 +1,11 @@
+version: 1
+name: agent-handoff-skill
+github:
+  owner: WeirdSky924
+  repo: agent-handoff-skill
+  language: Python
+  license: NOASSERTION
+  stars: 26
+  forks: 3
+  openIssues: 0
+versions: []

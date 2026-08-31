@@ -1,0 +1,15 @@
+version: 1
+name: dsh-ui-quote-selection
+github:
+  owner: nekogpt
+  repo: dsh-ui-quote-selection
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-ui-quote-selection
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

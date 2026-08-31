@@ -1,0 +1,17 @@
+version: 1
+name: dsh-notify-windows
+github:
+  owner: SeverusZh
+  repo: dsh-notify-windows
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-notify-windows
+versions:
+  - packageVersion: 0.7.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.7.3
+    dshVersion: v0.1.2-alpha.1

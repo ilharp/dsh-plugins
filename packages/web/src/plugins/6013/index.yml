@@ -1,0 +1,12 @@
+version: 1
+name: dsh-calendar-todo
+github:
+  owner: qschen86
+  repo: dsh-calendar-todo
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

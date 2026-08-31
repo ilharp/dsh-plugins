@@ -1,0 +1,11 @@
+version: 1
+name: dsh-lan-proxy
+github:
+  owner: bluecobaltum
+  repo: dsh-lan-proxy
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

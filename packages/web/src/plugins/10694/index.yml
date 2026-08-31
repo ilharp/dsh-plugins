@@ -1,0 +1,14 @@
+version: 1
+name: dsh-kit
+github:
+  owner: zhouzhencheng07
+  repo: dsh-kit
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-kit
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

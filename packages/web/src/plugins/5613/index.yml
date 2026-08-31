@@ -1,0 +1,15 @@
+version: 1
+name: deepseek-harness-acp
+github:
+  owner: openma-ai
+  repo: deepseek-harness-acp
+  language: TypeScript
+  license: NOASSERTION
+  stars: 20
+  forks: 4
+  openIssues: 0
+npm:
+  name: '@openma/deepseek-harness-acp'
+versions:
+  - packageVersion: 0.4.26
+    dshVersion: v0.1.2-alpha.1

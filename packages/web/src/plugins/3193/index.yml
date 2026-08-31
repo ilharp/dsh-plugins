@@ -1,0 +1,12 @@
+version: 1
+name: context-assembler-DSH
+github:
+  owner: i1j
+  repo: context-assembler-DSH
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+versions:
+  - packageVersion: 0.99.0
+    dshVersion: v0.1.2-alpha.1

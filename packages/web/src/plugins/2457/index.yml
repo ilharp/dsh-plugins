@@ -1,0 +1,15 @@
+version: 1
+name: dsh-lingshu-memory
+github:
+  owner: FuRongJun-1999
+  repo: CommonTrustProtocol
+  language: Python
+  license: CC0-1.0
+  stars: 9
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@furongjun1999/dsh-memory'
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

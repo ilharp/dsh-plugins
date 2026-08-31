@@ -1,0 +1,14 @@
+version: 1
+name: dsh-feishucard
+github:
+  owner: cmfok
+  repo: dsh-feishucard
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 2
+npm:
+  name: dsh-feishucard
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

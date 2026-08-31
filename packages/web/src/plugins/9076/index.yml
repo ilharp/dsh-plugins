@@ -1,0 +1,12 @@
+version: 1
+name: agent-project-manager
+github:
+  owner: Urbanrook
+  repo: agent-project-manager
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1

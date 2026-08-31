@@ -1,0 +1,11 @@
+version: 1
+name: dsh-supervisor
+github:
+  owner: Wha1eChai
+  repo: dsh-supervisor
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-file-fix
+github:
+  owner: re-ITRT
+  repo: dsh-file-fix
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 1
+npm:
+  name: dsh-file-fix
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,17 @@
+version: 1
+name: tencentcloud-agentobs-sdk-dsh
+github:
+  owner: TencentCloud
+  repo: tencentcloud-agentobs-sdk-dsh
+  language: TypeScript
+  license: Apache-2.0
+  stars: 12
+  forks: 3
+  openIssues: 0
+npm:
+  name: tencentcloud-agentobs-sdk-dsh
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

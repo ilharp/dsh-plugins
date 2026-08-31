@@ -1,0 +1,14 @@
+version: 1
+name: oh-my-dsh
+github:
+  owner: amplifthq
+  repo: oh-my-dsh
+  language: TypeScript
+  license: MIT
+  stars: 11
+  forks: 1
+npm:
+  name: oh-my-dsh
+versions:
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1

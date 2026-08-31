@@ -1,0 +1,15 @@
+version: 1
+name: dsh-client-ui-skin-claude
+github:
+  owner: PAKIKNOWLEDGE
+  repo: dsh-client-ui-skin-claude
+  language: JavaScript
+  license: MIT
+  stars: 9
+  forks: 1
+  openIssues: 0
+npm:
+  name: '@pakiknowledge/dsh-client-ui-skin-claude'
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

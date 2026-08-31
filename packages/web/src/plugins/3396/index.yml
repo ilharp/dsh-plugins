@@ -1,0 +1,14 @@
+version: 1
+name: api-monitor
+github:
+  owner: jcleener
+  repo: api-monitor
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: api-monitor
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

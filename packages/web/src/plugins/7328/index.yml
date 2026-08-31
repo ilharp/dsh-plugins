@@ -1,0 +1,12 @@
+version: 1
+name: dsh-memory-search-plus
+github:
+  owner: the-thinker0
+  repo: dsh-memory-search-plus
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

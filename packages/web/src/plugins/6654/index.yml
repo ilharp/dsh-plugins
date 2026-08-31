@@ -1,0 +1,14 @@
+version: 1
+name: sent-msg-locator
+github:
+  owner: ShanHaiFish
+  repo: sent-msg-locator
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: sent-msg-locator
+versions:
+  - packageVersion: 2.3.5
+    dshVersion: v0.1.2-alpha.1

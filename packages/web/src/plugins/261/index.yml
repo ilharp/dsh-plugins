@@ -1,0 +1,14 @@
+version: 1
+name: dsh-skill-creator
+github:
+  owner: 988hj7tczd-oss
+  repo: dsh-skill-creator
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-skill-creator
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

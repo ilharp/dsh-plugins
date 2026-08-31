@@ -1,0 +1,14 @@
+version: 1
+name: dsh-assembly.resume
+github:
+  owner: kanchengw
+  repo: dsh-assembly.resume
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-assembly.resume
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

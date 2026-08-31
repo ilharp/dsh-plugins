@@ -1,0 +1,14 @@
+version: 1
+name: dsh-approve-for-me
+github:
+  owner: watericetangcw
+  repo: dsh-approve-for-me
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-approve-for-me
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

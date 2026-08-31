@@ -1,0 +1,11 @@
+version: 1
+name: dsh-drag-and-drop
+github:
+  owner: omdsh-dev
+  repo: dsh-drag-and-drop
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions: []

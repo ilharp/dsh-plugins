@@ -1,0 +1,13 @@
+version: 1
+name: dsh-auto-chess
+github:
+  owner: omdsh-dev
+  repo: dsh-auto-chess
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1

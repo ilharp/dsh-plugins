@@ -1,0 +1,17 @@
+version: 1
+name: dsh-openpencil
+github:
+  owner: ZSeven-W
+  repo: dsh-openpencil
+  language: TypeScript
+  license: MIT
+  stars: 156
+  forks: 6
+  openIssues: 0
+npm:
+  name: '@zseven-w/dsh-openpencil'
+versions:
+  - packageVersion: 0.1.0-rc.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0-rc.7
+    dshVersion: v0.1.2-alpha.1

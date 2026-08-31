@@ -1,0 +1,15 @@
+version: 1
+name: logicprobe
+github:
+  owner: AmethystLuna
+  repo: logicprobe
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-logicprobe
+versions:
+  - packageVersion: 0.5.2
+    dshVersion: v0.1.2-alpha.1

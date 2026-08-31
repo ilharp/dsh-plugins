@@ -1,0 +1,15 @@
+version: 1
+name: dsh-role-router
+github:
+  owner: SnowAmberX
+  repo: dsh-role-router
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@snowamberx/dsh-role-router'
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

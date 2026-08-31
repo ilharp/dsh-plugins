@@ -1,0 +1,11 @@
+version: 1
+name: dsh-filexplore
+github:
+  owner: darker2016
+  repo: dsh-filexplore
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

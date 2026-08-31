@@ -1,0 +1,11 @@
+version: 1
+name: dsh-interface-settings
+github:
+  owner: Qiongkura
+  repo: dsh-interface-settings
+  language: _No response_
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

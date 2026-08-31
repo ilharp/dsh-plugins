@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-suite
+github:
+  owner: crTnT
+  repo: dsh-plugin-suite
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

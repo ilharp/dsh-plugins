@@ -1,0 +1,13 @@
+version: 1
+name: dsh-novel-writer
+github:
+  owner: akira399
+  repo: dsh-novel-writer
+  language: TypeScript
+  license: MIT
+  stars: 29
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1

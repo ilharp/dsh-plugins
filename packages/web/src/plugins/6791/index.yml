@@ -1,0 +1,16 @@
+version: 1
+name: dsh-edit-approval
+github:
+  owner: SiriLee
+  repo: dsh-edit-approval
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-edit-approval
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

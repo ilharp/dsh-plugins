@@ -1,0 +1,15 @@
+version: 1
+name: dsh-message-rail
+github:
+  owner: wx-yss
+  repo: dsh-message-rail
+  language: JavaScript
+  license: MIT
+  stars: 16
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-message-rail
+versions:
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-search-enhance
+github:
+  owner: KKKneko
+  repo: dsh-search-enhance
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-search-enhance
+versions:
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1

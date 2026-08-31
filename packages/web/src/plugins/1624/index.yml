@@ -1,0 +1,14 @@
+version: 1
+name: dsh-image-pathify
+github:
+  owner: dami9527
+  repo: dsh-image-pathify
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+npm:
+  name: dsh-image-pathify
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

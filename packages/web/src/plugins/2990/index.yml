@@ -1,0 +1,11 @@
+version: 1
+name: dsh-balance
+github:
+  owner: HiNEM66
+  repo: deepseek-harness-balance
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

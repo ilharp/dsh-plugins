@@ -1,0 +1,10 @@
+version: 1
+name: dsh-fun-ticker
+github:
+  owner: omdsh-dev
+  repo: dsh-fun-ticker
+  language: TypeScript
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions: []

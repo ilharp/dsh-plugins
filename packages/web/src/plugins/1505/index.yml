@@ -1,0 +1,11 @@
+version: 1
+name: petdex
+github:
+  owner: crafter-station
+  repo: petdex
+  language: TypeScript
+  license: MIT
+  stars: 3999
+  forks: 192
+  openIssues: 11
+versions: []

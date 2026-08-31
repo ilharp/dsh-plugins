@@ -1,0 +1,15 @@
+version: 1
+name: runtime36
+github:
+  owner: 398894496-arch
+  repo: runtime36
+  language: Python
+  license: MIT
+  stars: 17
+  forks: 1
+  openIssues: 2
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.3
+    dshVersion: v0.1.2-alpha.1

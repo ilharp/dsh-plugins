@@ -1,0 +1,13 @@
+version: 1
+name: dsh-git
+github:
+  owner: ayumedaze
+  repo: dsh-git
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: '@ayumedaze/dsh-git'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

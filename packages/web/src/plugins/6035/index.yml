@@ -1,0 +1,12 @@
+version: 1
+name: dsh-client-sidebar-overlay
+github:
+  owner: quei4r
+  repo: dsh-client-sidebar-overlay
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

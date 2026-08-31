@@ -1,0 +1,15 @@
+version: 1
+name: dsh-gpu
+github:
+  owner: zytsyj
+  repo: dsh-gpu
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-gpu
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

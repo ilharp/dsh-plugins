@@ -1,0 +1,14 @@
+version: 1
+name: dsh-task-notifier
+github:
+  owner: AnCoSONG
+  repo: dsh-task-notifier
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: '@anco-dsh/dsh-task-notifier'
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

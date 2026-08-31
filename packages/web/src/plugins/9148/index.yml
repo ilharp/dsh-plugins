@@ -1,0 +1,14 @@
+version: 1
+name: dsh-delete-message
+github:
+  owner: viplocco
+  repo: dsh-delete-message
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-delete-message
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

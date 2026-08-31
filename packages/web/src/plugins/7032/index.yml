@@ -1,0 +1,10 @@
+version: 1
+name: dsh-peer-mailbox
+github:
+  owner: stark-L-1
+  repo: dsh-peer-mailbox
+  license: NOASSERTION
+  stars: 1
+versions:
+  - packageVersion: 0.0.2
+    dshVersion: v0.1.2-alpha.1

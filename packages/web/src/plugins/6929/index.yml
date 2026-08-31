@@ -1,0 +1,14 @@
+version: 1
+name: dsh-virtual-product-team
+github:
+  owner: songoao25
+  repo: dsh-virtual-product-team
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+versions:
+  - packageVersion: 1.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.3.0
+    dshVersion: v0.1.2-alpha.1

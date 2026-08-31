@@ -1,0 +1,10 @@
+version: 1
+name: dsh-commandcode
+github:
+  owner: wjf1
+  repo: dsh-commandcode
+  language: TypeScript
+  stars: 0
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

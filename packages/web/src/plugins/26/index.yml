@@ -1,0 +1,14 @@
+version: 1
+name: dsh-pwsh-direct
+github:
+  owner: '0x1a27'
+  repo: dsh-pwsh-direct
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-pwsh-direct
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

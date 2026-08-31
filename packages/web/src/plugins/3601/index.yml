@@ -1,0 +1,14 @@
+version: 1
+name: command-scout
+github:
+  owner: JohnXu22786
+  repo: command-scout
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-command-scout
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: live-talk
+github:
+  owner: eddiehuang227-source
+  repo: live-talk
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-live-talk
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

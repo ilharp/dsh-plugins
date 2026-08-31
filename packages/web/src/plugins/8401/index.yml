@@ -1,0 +1,14 @@
+version: 1
+name: dsh-json-csv
+github:
+  owner: uckkk
+  repo: dsh-json-csv
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-json-csv
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

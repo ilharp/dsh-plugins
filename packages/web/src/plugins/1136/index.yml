@@ -1,0 +1,13 @@
+version: 1
+name: dsh-router
+github:
+  owner: CARVIN94
+  repo: dsh-router
+  language: TypeScript
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-router
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

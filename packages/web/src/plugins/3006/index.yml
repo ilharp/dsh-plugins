@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-deepseek-balance
+github:
+  owner: hnmrxz
+  repo: dsh-plugin-deepseek-balance
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 1
+  openIssues: 1
+versions: []

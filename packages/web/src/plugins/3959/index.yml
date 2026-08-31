@@ -1,0 +1,13 @@
+version: 1
+name: powercontext-dsh
+github:
+  owner: knqiufan
+  repo: powercontext-dsh
+  language: TypeScript
+  license: Apache-2.0
+  stars: 11
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.0.5
+    dshVersion: v0.1.2-alpha.1

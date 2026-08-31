@@ -1,0 +1,14 @@
+version: 1
+name: dsh-sleep-send
+github:
+  owner: Awu12277
+  repo: dsh-sleep-send
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-sleep-send
+versions:
+  - packageVersion: 1.2.3
+    dshVersion: v0.1.2-alpha.1

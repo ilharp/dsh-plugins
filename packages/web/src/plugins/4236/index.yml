@@ -1,0 +1,14 @@
+version: 1
+name: dsh-df-memory
+github:
+  owner: lhdrc
+  repo: dsh-df-memory
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-df-memory
+versions:
+  - packageVersion: 0.5.1
+    dshVersion: v0.1.2-alpha.1

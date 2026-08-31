@@ -1,0 +1,11 @@
+version: 1
+name: dsh-restart-button
+github:
+  owner: keyiadiannao
+  repo: dsh-restart-button
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

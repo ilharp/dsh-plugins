@@ -1,0 +1,16 @@
+version: 1
+name: dsh-tavern
+github:
+  owner: chen731215-dev
+  repo: dsh-tavern
+  language: JavaScript
+  license: MIT
+  stars: 40
+  forks: 6
+npm:
+  name: dsh-tavern
+versions:
+  - packageVersion: 1.9.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.9.2
+    dshVersion: v0.1.2-alpha.1

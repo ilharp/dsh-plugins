@@ -1,0 +1,12 @@
+version: 1
+name: dsh-pet-travel
+github:
+  owner: uckkk
+  repo: dsh-pet-travel
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

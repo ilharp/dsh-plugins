@@ -1,0 +1,15 @@
+version: 1
+name: Martty
+github:
+  owner: openma-ai
+  repo: Martty
+  language: Rust
+  license: MIT
+  stars: 65
+  forks: 4
+  openIssues: 1
+npm:
+  name: martty
+versions:
+  - packageVersion: 0.2.23
+    dshVersion: v0.1.2-alpha.1

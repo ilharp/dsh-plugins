@@ -1,0 +1,15 @@
+version: 1
+name: dsh-auto-collapse
+github:
+  owner: a179-sanae
+  repo: dsh-auto-collapse
+  language: JavaScript
+  license: MIT
+  stars: 53
+  forks: 9
+  openIssues: 3
+npm:
+  name: dsh-auto-collapse
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

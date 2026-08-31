@@ -1,0 +1,14 @@
+version: 1
+name: dsh-telegram
+github:
+  owner: sazzadurrahmaan
+  repo: dsh-telegram
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-telegram
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: GitHub-Road
+github:
+  owner: iTrimut
+  repo: GitHub-Road
+  language: PowerShell
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

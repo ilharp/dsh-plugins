@@ -1,0 +1,11 @@
+version: 1
+name: dsh-edge
+github:
+  owner: pawaca
+  repo: dsh-edge
+  language: TypeScript
+  license: MIT
+  stars: 11
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-html-parse
+github:
+  owner: uckkk
+  repo: dsh-html-parse
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-html-parse
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

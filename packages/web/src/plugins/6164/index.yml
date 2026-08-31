@@ -1,0 +1,13 @@
+version: 1
+name: dsh-tmcra-memory
+github:
+  owner: reshuibuduo
+  repo: dsh-tmcra-memory
+  language: TypeScript
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

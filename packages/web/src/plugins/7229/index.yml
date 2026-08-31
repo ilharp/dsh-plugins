@@ -1,0 +1,14 @@
+version: 1
+name: dsh-tabbit
+github:
+  owner: Tabbit-Browser
+  repo: dsh-tabbit
+  language: JavaScript
+  stars: 94
+  forks: 9
+  openIssues: 11
+npm:
+  name: dsh-tabbit
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

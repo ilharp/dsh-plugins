@@ -1,0 +1,12 @@
+version: 1
+name: galgame-dsh-plugin
+github:
+  owner: mchenziyi
+  repo: galgame-dsh-plugin
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

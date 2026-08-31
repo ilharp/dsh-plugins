@@ -1,0 +1,15 @@
+version: 1
+name: dsh-damage-pulse
+github:
+  owner: wssfk12138
+  repo: dsh-damage-pulse
+  language: TypeScript
+  license: MIT
+  stars: 144
+  forks: 3
+  openIssues: 0
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 4.0.0
+    dshVersion: v0.1.2-alpha.1

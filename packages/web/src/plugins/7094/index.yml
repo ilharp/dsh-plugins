@@ -1,0 +1,14 @@
+version: 1
+name: dsh-version-update
+github:
+  owner: SuCriss
+  repo: dsh-version-update
+  language: JavaScript
+  license: Apache-2.0
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-version-update
+versions:
+  - packageVersion: 1.0.6
+    dshVersion: v0.1.2-alpha.1

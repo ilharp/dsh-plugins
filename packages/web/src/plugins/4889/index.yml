@@ -1,0 +1,12 @@
+version: 1
+name: dsh-image-tiler
+github:
+  owner: meng-114
+  repo: dsh-image-tiler
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

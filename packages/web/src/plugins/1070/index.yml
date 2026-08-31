@@ -1,0 +1,11 @@
+version: 1
+name: mstar-harness
+github:
+  owner: btspoony
+  repo: mstar-harness
+  language: TypeScript
+  license: MIT
+  stars: 57
+  forks: 2
+  openIssues: 1
+versions: []

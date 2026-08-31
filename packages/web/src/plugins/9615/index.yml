@@ -1,0 +1,14 @@
+version: 1
+name: dsh-doc-impact
+github:
+  owner: xarleyn
+  repo: dsh-doc-impact
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-doc-impact
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

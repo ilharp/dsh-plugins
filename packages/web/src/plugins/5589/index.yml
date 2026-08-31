@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-kit
+github:
+  owner: OneZero-Y
+  repo: dsh-plugin-kit
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

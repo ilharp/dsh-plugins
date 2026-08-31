@@ -1,0 +1,11 @@
+version: 1
+name: rpg-maker-mac-skill
+github:
+  owner: HomophonicFate
+  repo: rpg-maker-mac-skill
+  language: JavaScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

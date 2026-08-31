@@ -1,0 +1,17 @@
+version: 1
+name: dsh-agy
+github:
+  owner: chaos-03x
+  repo: dsh-agy
+  language: TypeScript
+  license: MIT
+  stars: 19
+  forks: 8
+  openIssues: 1
+npm:
+  name: dsh-agy
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

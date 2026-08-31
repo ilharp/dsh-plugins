@@ -1,0 +1,11 @@
+version: 1
+name: internalcot
+github:
+  owner: morluto
+  repo: internalcot
+  language: TypeScript
+  license: MIT
+  stars: 12
+  forks: 1
+  openIssues: 0
+versions: []

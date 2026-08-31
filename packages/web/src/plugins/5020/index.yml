@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-firewall
+github:
+  owner: MkaliezZ
+  repo: dsh-plugin-firewall
+  language: TypeScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: '@mkaliezz/dsh-plugin-firewall'
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dingtalk-dsh-assistant
+github:
+  owner: HiQ-AI
+  repo: dingtalk-dsh-assistant
+  language: JavaScript
+  stars: 2
+  forks: 1
+npm:
+  name: dingtalk-dsh-assistant
+versions:
+  - packageVersion: 0.5.8
+    dshVersion: v0.1.2-alpha.1

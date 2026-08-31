@@ -1,0 +1,14 @@
+version: 1
+name: dsh-quicklook
+github:
+  owner: Hoemr
+  repo: dsh-quicklook
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-quicklook
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

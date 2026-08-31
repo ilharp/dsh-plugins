@@ -1,0 +1,12 @@
+version: 1
+name: dsh-win-bash-fix
+github:
+  owner: Jyleaves
+  repo: dsh-win-bash-fix
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 1.0.6
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: canon-deepseek-harness-plugin
+github:
+  owner: HeyBobChan
+  repo: canon-deepseek-harness-plugin
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@canonmsg/deepseek-harness-plugin'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

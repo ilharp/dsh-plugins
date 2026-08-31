@@ -1,0 +1,14 @@
+version: 1
+name: dsh-client-ui-pet
+github:
+  owner: tangyuewei
+  repo: dsh-client-ui-pet
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+npm:
+  name: '@tangyuewei/dsh-client-ui-pet'
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

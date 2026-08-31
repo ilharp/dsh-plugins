@@ -1,0 +1,12 @@
+version: 1
+name: dsh-desktop-tauriapp
+github:
+  owner: hyperion2144
+  repo: dsh-desktop-tauriapp
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.6.4
+    dshVersion: v0.1.2-alpha.1

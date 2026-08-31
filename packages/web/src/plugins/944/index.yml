@@ -1,0 +1,16 @@
+version: 1
+name: bga-dsh-workbench
+github:
+  owner: bingoogolapple
+  repo: bga-dsh-workbench
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+npm:
+  name: bga-dsh-workbench
+versions:
+  - packageVersion: 0.0.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.0.9
+    dshVersion: v0.1.2-alpha.1

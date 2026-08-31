@@ -1,0 +1,15 @@
+version: 1
+name: harness-plugin-store-optimized
+github:
+  owner: yiqizhuapangxiema
+  repo: harness-plugin-store-optimized
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-plugin-store-optimized
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

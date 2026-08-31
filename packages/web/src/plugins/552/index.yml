@@ -1,0 +1,16 @@
+version: 1
+name: dsh-ultramath
+github:
+  owner: Andiii208
+  repo: dsh-ultramath
+  language: Python
+  license: MIT
+  stars: 8
+  forks: 0
+npm:
+  name: dsh-ultramath
+versions:
+  - packageVersion: 0.6.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.3
+    dshVersion: v0.1.2-alpha.1

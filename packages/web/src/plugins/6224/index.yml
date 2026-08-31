@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-app
+github:
+  owner: RongleCat
+  repo: deepseek-app
+  language: TypeScript
+  license: MIT
+  stars: 35
+  forks: 4
+  openIssues: 0
+versions: []

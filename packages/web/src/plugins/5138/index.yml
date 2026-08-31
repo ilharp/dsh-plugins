@@ -1,0 +1,14 @@
+version: 1
+name: dsh-deepseek-monitor
+github:
+  owner: moyuer233
+  repo: dsh-deepseek-monitor
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-deepseek-monitor-moyuer233
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

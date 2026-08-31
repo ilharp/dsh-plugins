@@ -1,0 +1,15 @@
+version: 1
+name: dsh-safe-delete
+github:
+  owner: Qintsg
+  repo: dsh-safe-delete
+  language: TypeScript
+  license: Apache-2.0
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-safe-delete
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

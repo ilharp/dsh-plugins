@@ -1,0 +1,14 @@
+version: 1
+name: dsh-task-kanban
+github:
+  owner: fonlan
+  repo: dsh-task-kanban
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@fonlan/dsh-task-kanban'
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

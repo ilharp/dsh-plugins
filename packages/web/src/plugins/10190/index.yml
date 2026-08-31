@@ -1,0 +1,14 @@
+version: 1
+name: dsh-tui-app
+github:
+  owner: yhfgyyf
+  repo: dsh-tui-app
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-tui-app
+versions:
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1

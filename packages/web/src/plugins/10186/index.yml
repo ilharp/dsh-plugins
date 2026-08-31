@@ -1,0 +1,11 @@
+version: 1
+name: dsh-subagent-admission
+github:
+  owner: yha9806
+  repo: dsh-subagent-admission
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

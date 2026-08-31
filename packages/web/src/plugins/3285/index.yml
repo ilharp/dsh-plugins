@@ -1,0 +1,16 @@
+version: 1
+name: dsh-omc-tui
+github:
+  owner: ipromise2021
+  repo: dsh-omc-tui
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 1
+npm:
+  name: dsh-omc-tui
+versions:
+  - packageVersion: 0.2.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.8
+    dshVersion: v0.1.2-alpha.1

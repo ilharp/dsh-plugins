@@ -1,0 +1,8 @@
+version: 1
+name: dsh-code-memory
+github:
+  owner: dsh-tui-ecosystem
+  repo: dsh-code-memory
+  stars: 1
+  forks: 0
+versions: []

@@ -1,0 +1,17 @@
+version: 1
+name: dsh-im-connect
+github:
+  owner: MichengAI
+  repo: dsh-im-connect
+  language: JavaScript
+  license: Apache-2.0
+  stars: 9
+  forks: 1
+  openIssues: 0
+npm:
+  name: '@michengai/dsh-im-connect'
+versions:
+  - packageVersion: 0.1.23
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.26
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-trellis
+github:
+  owner: '1264459640'
+  repo: dsh-trellis
+  language: JavaScript
+  license: NOASSERTION
+  stars: 6
+  forks: 0
+npm:
+  name: '@banana-peeljj12/dsh-trellis'
+versions:
+  - packageVersion: 0.1.0-rc.9
+    dshVersion: v0.1.2-alpha.1

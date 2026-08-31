@@ -1,0 +1,13 @@
+version: 1
+name: dsh-split-panes
+github:
+  owner: lehhair
+  repo: dsh-split-panes
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 5
+  forks: 0
+  openIssues: 1
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

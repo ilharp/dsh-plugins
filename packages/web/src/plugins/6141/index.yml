@@ -1,0 +1,12 @@
+version: 1
+name: redfox-community-dsh
+github:
+  owner: redfox-data
+  repo: redfox-community-dsh
+  language: Python
+  license: MIT
+  stars: 5
+  forks: 2
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-session-roots
+github:
+  owner: yan4342
+  repo: dsh-session-roots
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.4.4
+    dshVersion: v0.1.2-alpha.1

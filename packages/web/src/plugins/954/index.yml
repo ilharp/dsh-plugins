@@ -1,0 +1,14 @@
+version: 1
+name: dsh-github-picker
+github:
+  owner: bitxeno
+  repo: dsh-github-picker
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-github-picker
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

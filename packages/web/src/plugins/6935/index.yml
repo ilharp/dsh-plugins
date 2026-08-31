@@ -1,0 +1,12 @@
+version: 1
+name: dsh-bookmarks-dock
+github:
+  owner: songying2024
+  repo: dsh-bookmarks-dock
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

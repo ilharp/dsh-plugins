@@ -1,0 +1,14 @@
+version: 1
+name: dsh-session-repair
+github:
+  owner: Equinox7379
+  repo: dsh-session-repair
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-session-repair
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

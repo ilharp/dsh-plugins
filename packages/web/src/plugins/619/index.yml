@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-session-batch-archive
+github:
+  owner: antlordGit
+  repo: dsh-plugin-session-batch-archive
+  language: JavaScript
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

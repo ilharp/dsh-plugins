@@ -1,0 +1,15 @@
+version: 1
+name: dsh-turn-rewind
+github:
+  owner: Anionex
+  repo: dsh-turn-rewind
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 105
+  forks: 10
+  openIssues: 0
+npm:
+  name: '@anionex/dsh-turn-rewind'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: task-chime
+github:
+  owner: Abel-86
+  repo: task-chime
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: task-chime
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1

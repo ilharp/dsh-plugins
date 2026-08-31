@@ -1,0 +1,14 @@
+version: 1
+name: dsh-rick-and-morty
+github:
+  owner: zsyayo112
+  repo: dsh-rick-and-morty
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@zsy1126/dsh-rick-and-morty'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

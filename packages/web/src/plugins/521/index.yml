@@ -1,0 +1,14 @@
+version: 1
+name: dsh-computer-use-windows
+github:
+  owner: Altairpaca
+  repo: dsh-computer-use-windows
+  language: PowerShell
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-computer-use-windows
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-zh-output
+github:
+  owner: YKennen
+  repo: dsh-zh-output
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

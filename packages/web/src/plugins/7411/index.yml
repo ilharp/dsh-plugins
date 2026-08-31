@@ -1,0 +1,12 @@
+version: 1
+name: dsh-vision-api-localorweb
+github:
+  owner: TIPSONG
+  repo: dsh-vision-api-localorweb
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,9 @@
+version: 1
+name: whaletv-workbench
+github:
+  owner: KK-Irving
+  repo: whaletv-workbench
+  license: MIT
+  stars: 1
+  forks: 0
+versions: []

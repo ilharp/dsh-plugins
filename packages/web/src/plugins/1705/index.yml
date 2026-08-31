@@ -1,0 +1,14 @@
+version: 1
+name: dsh-hash-edit
+github:
+  owner: ddv12138
+  repo: dsh-hash-edit
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@ddv12138/dsh-hash-edit'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-llm-grok
+github:
+  owner: NOirBRight
+  repo: dsh-llm-grok
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 1
+npm:
+  name: dsh-llm-grok
+versions:
+  - packageVersion: 0.2.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

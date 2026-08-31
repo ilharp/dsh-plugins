@@ -1,0 +1,14 @@
+version: 1
+name: ai-search-dsh
+github:
+  owner: Anspire-AI
+  repo: ai-search-dsh
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 1
+npm:
+  name: '@anspire-ai/ai-search-dsh-plugin'
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

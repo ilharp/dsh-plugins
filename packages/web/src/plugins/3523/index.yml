@@ -1,0 +1,15 @@
+version: 1
+name: dsh-survey
+github:
+  owner: jinhuang712
+  repo: dsh-survey
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-survey
+versions:
+  - packageVersion: 1.1.2
+    dshVersion: v0.1.2-alpha.1

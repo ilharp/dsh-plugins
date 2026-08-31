@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-box
+github:
+  owner: BeyondXinXin
+  repo: deepseek-harness-box
+  language: Go
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+versions: []

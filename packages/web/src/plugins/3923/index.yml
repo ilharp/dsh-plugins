@@ -1,0 +1,17 @@
+version: 1
+name: dsh-compaction-instant
+github:
+  owner: KitDoesIt
+  repo: dsh-compaction-instant
+  language: JavaScript
+  license: MIT
+  stars: 8
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-compaction-instant
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

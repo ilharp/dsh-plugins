@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin.github.io
+github:
+  owner: dsh-plugin
+  repo: dsh-plugin.github.io
+  language: HTML
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

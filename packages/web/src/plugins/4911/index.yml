@@ -1,0 +1,17 @@
+version: 1
+name: DeepSeek-Balance-Whale-Widget
+github:
+  owner: MeteorNOX
+  repo: DeepSeek-Balance-Whale-Widget
+  language: JavaScript
+  license: MIT
+  stars: 1377
+  forks: 49
+  openIssues: 16
+npm:
+  name: dsh-whale-widget
+versions:
+  - packageVersion: 0.2.9
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.10
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,17 @@
+version: 1
+name: dsh-tool-describe-image
+github:
+  owner: sala003
+  repo: dsh-tool-describe-image
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-tool-describe-image
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.1
+    dshVersion: v0.1.2-alpha.1

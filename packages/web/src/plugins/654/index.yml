@@ -1,0 +1,14 @@
+version: 1
+name: dsh-memory
+github:
+  owner: aqsk-BLG
+  repo: dsh-memory
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-file-memory
+versions:
+  - packageVersion: 1.3.2
+    dshVersion: v0.1.2-alpha.1

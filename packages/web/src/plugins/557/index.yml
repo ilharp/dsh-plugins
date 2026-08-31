@@ -1,0 +1,16 @@
+version: 1
+name: dsh-plugin-balance
+github:
+  owner: Andrew111888
+  repo: dsh-plugin-balance
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 5
+  forks: 1
+npm:
+  name: dsh-plugin-balance
+versions:
+  - packageVersion: 1.4.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.4.4
+    dshVersion: v0.1.2-alpha.1

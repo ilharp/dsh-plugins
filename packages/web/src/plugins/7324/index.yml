@@ -1,0 +1,12 @@
+version: 1
+name: comm-protocol-hub
+github:
+  owner: Thanksgiver233
+  repo: comm-protocol-hub
+  language: TypeScript
+  license: MIT
+  stars: 16
+  forks: 1
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

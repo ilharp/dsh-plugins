@@ -1,0 +1,13 @@
+version: 1
+name: dsh-plugin-text-translation
+github:
+  owner: '1738348785'
+  repo: dsh-plugin-text-translation
+  language: Python
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

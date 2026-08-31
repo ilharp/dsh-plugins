@@ -1,0 +1,11 @@
+version: 1
+name: dsh-terminal
+github:
+  owner: ZgblKylin
+  repo: dsh-terminal
+  language: TypeScript
+  license: Unlicense
+  stars: 3
+  forks: 1
+  openIssues: 0
+versions: []

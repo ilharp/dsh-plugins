@@ -1,0 +1,12 @@
+version: 1
+name: dsh-narrative-voice
+github:
+  owner: TellToday
+  repo: dsh-narrative-voice
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1

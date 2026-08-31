@@ -1,0 +1,10 @@
+version: 1
+name: DSH-plugin-switch
+github:
+  owner: Nexus-Aethra
+  repo: DSH-plugin-switch
+  language: TypeScript
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

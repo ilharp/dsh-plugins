@@ -1,0 +1,14 @@
+version: 1
+name: DeepSeek_Harness_Files_Panel
+github:
+  owner: iskshadow195563
+  repo: DeepSeek_Harness_Files_Panel
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: deepseek-files-panel
+versions:
+  - packageVersion: 1.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-composer-expand
+github:
+  owner: '13071301808'
+  repo: dsh-composer-expand
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 2
+npm:
+  name: dsh-composer-expand
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

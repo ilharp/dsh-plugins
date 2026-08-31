@@ -1,0 +1,10 @@
+version: 1
+name: dsh
+github:
+  owner: Bin-hy
+  repo: dsh
+  license: MIT
+  stars: 15
+  forks: 1
+  openIssues: 0
+versions: []

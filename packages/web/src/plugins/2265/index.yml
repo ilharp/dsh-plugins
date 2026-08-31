@@ -1,0 +1,16 @@
+version: 1
+name: dsh-mobile-remote
+github:
+  owner: feiyang-dev
+  repo: dsh-mobile-remote
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@feiyang666/dsh-mobile-remote'
+versions:
+  - packageVersion: 1.6.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.7.0
+    dshVersion: v0.1.2-alpha.1

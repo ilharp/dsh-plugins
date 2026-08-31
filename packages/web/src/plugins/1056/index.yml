@@ -1,0 +1,17 @@
+version: 1
+name: dsh-desktop-safe-market
+github:
+  owner: bruc3van
+  repo: dsh-desktop-safe-market
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-desktop-safe-market
+versions:
+  - packageVersion: 0.2.16
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

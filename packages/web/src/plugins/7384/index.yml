@@ -1,0 +1,10 @@
+version: 1
+name: dsh-session-search
+github:
+  owner: Tieboyh
+  repo: dsh-session-search
+  language: JavaScript
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

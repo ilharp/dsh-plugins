@@ -1,0 +1,16 @@
+version: 1
+name: dsh-auto-approval-llm
+github:
+  owner: cuddly-guacamole
+  repo: dsh-auto-approval-llm
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 5
+  forks: 0
+npm:
+  name: '@quill507/dsh-auto-approval-llm'
+versions:
+  - packageVersion: 0.0.8
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.0.11
+    dshVersion: v0.1.2-alpha.1

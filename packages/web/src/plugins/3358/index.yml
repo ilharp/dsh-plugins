@@ -1,0 +1,16 @@
+version: 1
+name: dsh-bill
+github:
+  owner: Jannchie
+  repo: dsh-bill
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 1
+npm:
+  name: dsh-bill
+versions:
+  - packageVersion: 0.13.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.14.0
+    dshVersion: v0.1.2-alpha.1

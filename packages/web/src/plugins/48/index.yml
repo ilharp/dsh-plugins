@@ -1,0 +1,14 @@
+version: 1
+name: dsh-lark-bridge
+github:
+  owner: '1210316560'
+  repo: dsh-lark-bridge
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-lark-bridge
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

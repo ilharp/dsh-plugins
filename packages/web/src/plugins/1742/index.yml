@@ -1,0 +1,13 @@
+version: 1
+name: dsh-llm-wiki
+github:
+  owner: detpecca
+  repo: dsh-llm-wiki
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 2
+  openIssues: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

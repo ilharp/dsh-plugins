@@ -1,0 +1,13 @@
+version: 1
+name: treg
+github:
+  owner: superdesigndev
+  repo: treg
+  language: Python
+  license: NOASSERTION
+  stars: 704
+  forks: 63
+  openIssues: 23
+versions:
+  - packageVersion: 0.12.1
+    dshVersion: v0.1.2-alpha.1

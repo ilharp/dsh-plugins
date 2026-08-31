@@ -1,0 +1,14 @@
+version: 1
+name: wallpaper-engine-dsh
+github:
+  owner: Weilv-D
+  repo: wallpaper-engine-dsh
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: wallpaper-engine-dsh
+versions:
+  - packageVersion: 1.0.7
+    dshVersion: v0.1.2-alpha.1

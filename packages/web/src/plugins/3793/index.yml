@@ -1,0 +1,11 @@
+version: 1
+name: clawock
+github:
+  owner: KCNyu
+  repo: clawock
+  language: Python
+  license: MIT
+  stars: 14
+  forks: 1
+  openIssues: 68
+versions: []

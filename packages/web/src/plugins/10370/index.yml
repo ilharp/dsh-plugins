@@ -1,0 +1,14 @@
+version: 1
+name: dsh-statecore
+github:
+  owner: yul761
+  repo: dsh-statecore
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-statecore
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

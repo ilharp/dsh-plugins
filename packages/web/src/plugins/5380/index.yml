@@ -1,0 +1,14 @@
+version: 1
+name: dsh-webview-wrapper
+github:
+  owner: no1xsyzy
+  repo: dsh-webview-wrapper
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-webview-wrapper
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

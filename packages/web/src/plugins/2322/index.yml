@@ -1,0 +1,14 @@
+version: 1
+name: dsh-danus
+github:
+  owner: Fisfzy
+  repo: dsh-danus
+  language: TypeScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-danus
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

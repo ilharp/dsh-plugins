@@ -1,0 +1,7 @@
+version: 1
+name: rulebase
+github:
+  owner: mycodesite
+  repo: rulebase
+  stars: 0
+versions: []

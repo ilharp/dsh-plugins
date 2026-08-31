@@ -1,0 +1,15 @@
+version: 1
+name: dsh-archive-viewer
+github:
+  owner: keepermttl
+  repo: dsh-archive-viewer
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 3.0.0-test
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-TUI
+github:
+  owner: ccch1mneyyy
+  repo: dsh-TUI
+  language: TypeScript
+  license: MIT
+  stars: 2715
+  forks: 139
+  openIssues: 47
+npm:
+  name: '@deepseek-harness-tui/dsh-tui'
+versions:
+  - packageVersion: 0.9.3
+    dshVersion: v0.1.2-alpha.1

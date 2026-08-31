@@ -1,0 +1,15 @@
+version: 1
+name: dsh-billing
+github:
+  owner: TheTianzz
+  repo: dsh-billing
+  language: JavaScript
+  license: MIT
+  stars: 7
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-billing
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,9 @@
+version: 1
+name: dsh-subagent-model-override
+github:
+  owner: sd1g1
+  repo: dsh-subagent-model-override
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions: []

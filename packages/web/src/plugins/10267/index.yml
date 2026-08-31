@@ -1,0 +1,13 @@
+version: 1
+name: DeepSeek_Prism
+github:
+  owner: YOGEMOW
+  repo: DeepSeek_Prism
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@yogemow/deepseek-prism-dsh'
+versions: []

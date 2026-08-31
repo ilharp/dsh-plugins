@@ -1,0 +1,11 @@
+version: 1
+name: Vibe-Skills
+github:
+  owner: foryourhealth111-pixel
+  repo: Vibe-Skills
+  language: Python
+  license: Apache-2.0
+  stars: 3073
+  forks: 255
+  openIssues: 38
+versions: []

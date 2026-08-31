@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-installer-pkg
+github:
+  owner: bertonhan
+  repo: dsh-plugin-installer-pkg
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

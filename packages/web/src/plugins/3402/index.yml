@@ -1,0 +1,14 @@
+version: 1
+name: dsh-drawio
+github:
+  owner: jean3690
+  repo: dsh-drawio
+  language: JavaScript
+  license: Apache-2.0
+  stars: 5
+  forks: 1
+npm:
+  name: dsh-drawio
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

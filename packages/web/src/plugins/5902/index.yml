@@ -1,0 +1,14 @@
+version: 1
+name: dsh-kun-pet
+github:
+  owner: Practice019
+  repo: dsh-kun-pet
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-kun-pet
+versions:
+  - packageVersion: 1.0.6
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: deepseek-harness-hub
+github:
+  owner: MarecGents
+  repo: deepseek-harness-hub
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 1
+npm:
+  name: '@marecgents/dsh-hub'
+versions:
+  - packageVersion: 0.0.2-rc.7
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.0.2-rc.14
+    dshVersion: v0.1.2-alpha.1

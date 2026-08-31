@@ -1,0 +1,8 @@
+version: 1
+name: dsh-workflow-enforcer
+github:
+  owner: ch1bug
+  repo: dsh-workflow-enforcer
+  stars: 0
+  forks: 0
+versions: []

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-ui-agents-pixe
+github:
+  owner: EternalNight996
+  repo: dsh-ui-agents-pixe
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-ui-agents-pixe
+versions:
+  - packageVersion: 1.0.16
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.18
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-client-ui-voice-input
+github:
+  owner: zjzqs
+  repo: dsh-client-ui-voice-input
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

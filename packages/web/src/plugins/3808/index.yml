@@ -1,0 +1,11 @@
+version: 1
+name: dsh-lowtide
+github:
+  owner: KelaoHu
+  repo: dsh-lowtide
+  language: TypeScript
+  license: MIT
+  stars: 23
+  forks: 2
+  openIssues: 0
+versions: []

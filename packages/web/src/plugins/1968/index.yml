@@ -1,0 +1,15 @@
+version: 1
+name: dsh-tui
+github:
+  owner: dsh-tui
+  repo: dsh-tui
+  language: TypeScript
+  license: NOASSERTION
+  stars: 24
+  forks: 1
+  openIssues: 0
+npm:
+  name: '@dsh-tui/dsh-tui'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

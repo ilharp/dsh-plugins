@@ -1,0 +1,15 @@
+version: 1
+name: dsh-compliancehub
+github:
+  owner: wwumit
+  repo: dsh-compliancehub
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@wwumit/dsh-compliancehub'
+versions:
+  - packageVersion: 1.1.1
+    dshVersion: v0.1.2-alpha.1

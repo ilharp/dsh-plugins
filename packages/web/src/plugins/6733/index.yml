@@ -1,0 +1,14 @@
+version: 1
+name: dsh-memory-porter
+github:
+  owner: Shiye-10Pages
+  repo: dsh-memory-porter
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-memory-porter
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

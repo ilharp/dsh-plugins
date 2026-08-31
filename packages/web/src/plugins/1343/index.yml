@@ -1,0 +1,17 @@
+version: 1
+name: Vibe-Mathematics
+github:
+  owner: ChongCyrus
+  repo: Vibe-Mathematics
+  language: JavaScript
+  license: MIT
+  stars: 17
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-vibe-math
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.4.1
+    dshVersion: v0.1.2-alpha.1

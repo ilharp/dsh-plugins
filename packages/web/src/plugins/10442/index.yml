@@ -1,0 +1,17 @@
+version: 1
+name: dsh-plugin-meta-memory
+github:
+  owner: YYTbit
+  repo: dsh-plugin-meta-memory
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-plugin-meta-memory
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

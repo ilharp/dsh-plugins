@@ -1,0 +1,11 @@
+version: 1
+name: dsh-bottom-info-bar
+github:
+  owner: songoao25
+  repo: dsh-bottom-info-bar
+  language: JavaScript
+  license: MIT
+  stars: 26
+  forks: 2
+  openIssues: 3
+versions: []

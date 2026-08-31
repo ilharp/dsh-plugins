@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-desktop
+github:
+  owner: ningbainb
+  repo: deepseek-harness-desktop
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 242
+  forks: 10
+  openIssues: 9
+versions: []

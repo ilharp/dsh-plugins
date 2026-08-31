@@ -1,0 +1,11 @@
+version: 1
+name: wecom-bridge
+github:
+  owner: krudiy
+  repo: wecom-bridge
+  language: Python
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,11 @@
+version: 1
+name: claude-parchment-theme
+github:
+  owner: RayYeung1989
+  repo: claude-parchment-theme
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

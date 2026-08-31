@@ -1,0 +1,17 @@
+version: 1
+name: dsh-spend
+github:
+  owner: nonewind
+  repo: dsh-spend
+  language: JavaScript
+  license: MIT
+  stars: 8
+  forks: 2
+  openIssues: 2
+npm:
+  name: dsh-spend
+versions:
+  - packageVersion: 0.4.6
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.2
+    dshVersion: v0.1.2-alpha.1

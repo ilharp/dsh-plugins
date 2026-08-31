@@ -1,0 +1,12 @@
+version: 1
+name: dsh-quick-launch
+github:
+  owner: acebang0303
+  repo: dsh-quick-launch
+  language: JavaScript
+  license: CC-BY-4.0
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

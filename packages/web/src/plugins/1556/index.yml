@@ -1,0 +1,16 @@
+version: 1
+name: dsh-electro-lab
+github:
+  owner: curtainsmall
+  repo: dsh-electro-lab
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-electro-lab
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

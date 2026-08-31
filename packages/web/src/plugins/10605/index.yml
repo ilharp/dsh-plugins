@@ -1,0 +1,15 @@
+version: 1
+name: dsh-token-monitor
+github:
+  owner: zhangzheng25
+  repo: dsh-token-monitor
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-token-monitor
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

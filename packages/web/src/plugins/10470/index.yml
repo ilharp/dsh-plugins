@@ -1,0 +1,14 @@
+version: 1
+name: dsh-SkillsManagePlugins
+github:
+  owner: z-col
+  repo: dsh-SkillsManagePlugins
+  language: TypeScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-skills-manager
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

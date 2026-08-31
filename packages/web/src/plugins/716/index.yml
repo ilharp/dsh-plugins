@@ -1,0 +1,11 @@
+version: 1
+name: dsh-adapter-feishu
+github:
+  owner: AtinyFurina
+  repo: dsh-adapter-feishu
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

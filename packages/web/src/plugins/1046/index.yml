@@ -1,0 +1,14 @@
+version: 1
+name: dsh-workspace-files
+github:
+  owner: brickmaker
+  repo: dsh-workspace-files
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-workspace-files
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: brooks-lint
+github:
+  owner: hyhmrright
+  repo: brooks-lint
+  language: JavaScript
+  license: MIT
+  stars: 1422
+  forks: 62
+  openIssues: 2
+versions: []

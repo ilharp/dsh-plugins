@@ -1,0 +1,11 @@
+version: 1
+name: dsh-vision-complete
+github:
+  owner: Yts1919
+  repo: dsh-vision-complete
+  language: PowerShell
+  license: MIT
+  stars: 42
+  forks: 3
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-subagent-vision
+github:
+  owner: niuniuaba
+  repo: dsh-subagent-vision
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-subagent-vision
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

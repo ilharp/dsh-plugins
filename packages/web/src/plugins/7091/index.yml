@@ -1,0 +1,14 @@
+version: 1
+name: dsh-standard-toolkit
+github:
+  owner: suanniniu
+  repo: dsh-standard-toolkit
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-standard-toolkit
+versions:
+  - packageVersion: 1.1.1
+    dshVersion: v0.1.2-alpha.1

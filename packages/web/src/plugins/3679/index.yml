@@ -1,0 +1,12 @@
+version: 1
+name: DSH-RESTART-TOOL
+github:
+  owner: julensun-ir
+  repo: DSH-RESTART-TOOL
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: DSH-remote-console
+github:
+  owner: ZSLsherly
+  repo: DSH-remote-console
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@wahu/dsh-mobile'
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

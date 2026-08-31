@@ -1,0 +1,11 @@
+version: 1
+name: AI-Novel-Writer
+github:
+  owner: EthanYoQ
+  repo: AI-Novel-Writer
+  language: TypeScript
+  license: GPL-3.0
+  stars: 493
+  forks: 70
+  openIssues: 0
+versions: []

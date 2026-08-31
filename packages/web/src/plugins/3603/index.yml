@@ -1,0 +1,14 @@
+version: 1
+name: context-pruner
+github:
+  owner: JohnXu22786
+  repo: context-pruner
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-context-triage
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-vision-toolkit
+github:
+  owner: Anionex
+  repo: dsh-vision-toolkit
+  language: TypeScript
+  license: MIT
+  stars: 842
+  forks: 39
+  openIssues: 0
+npm:
+  name: '@anionex/dsh-vision-toolkit'
+versions:
+  - packageVersion: 0.1.39
+    dshVersion: v0.1.2-alpha.1

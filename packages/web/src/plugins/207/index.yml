@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-market
+github:
+  owner: 6kongbai
+  repo: dsh-plugin-market
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-llm-as-a-verifier
+github:
+  owner: TaurenMountain
+  repo: dsh-llm-as-a-verifier
+  language: TypeScript
+  stars: 5
+  forks: 0
+npm:
+  name: dsh-llm-as-a-verifier
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

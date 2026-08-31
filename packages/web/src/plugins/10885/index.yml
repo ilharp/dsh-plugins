@@ -1,0 +1,7 @@
+version: 1
+name: dev-flow-deepseek
+npm:
+  name: dev-flow-deepseek
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

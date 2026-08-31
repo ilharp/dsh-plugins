@@ -1,0 +1,11 @@
+version: 1
+name: awesome-deepseek-harness-plugins
+github:
+  owner: imsai-sh
+  repo: awesome-deepseek-harness-plugins
+  language: TypeScript
+  license: MIT
+  stars: 197
+  forks: 1
+  openIssues: 1
+versions: []

@@ -1,0 +1,10 @@
+version: 1
+name: dsh-localhost-cost
+github:
+  owner: iamfitzwu
+  repo: dsh-localhost-cost
+  language: TypeScript
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,17 @@
+version: 1
+name: dsh-session-health
+github:
+  owner: omdsh-dev
+  repo: dsh-session-health
+  language: TypeScript
+  license: MIT
+  stars: 9
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-session-health
+versions:
+  - packageVersion: 0.0.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-skill-manager-ytxue
+github:
+  owner: YTxue
+  repo: dsh-skill-manager-ytxue
+  language: JavaScript
+  license: MIT
+  stars: 9
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1

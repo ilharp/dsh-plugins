@@ -1,0 +1,15 @@
+version: 1
+name: dsh-whale-pet
+github:
+  owner: Er1c0v0
+  repo: dsh-whale-pet
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-whale-pet
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-ego-browser
+github:
+  owner: Fisfzy
+  repo: dsh-ego-browser
+  language: JavaScript
+  license: NOASSERTION
+  stars: 67
+  forks: 8
+  openIssues: 11
+versions:
+  - packageVersion: 0.8.0
+    dshVersion: v0.1.2-alpha.1

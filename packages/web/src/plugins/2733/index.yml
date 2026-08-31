@@ -1,0 +1,11 @@
+version: 1
+name: SapBuddy-dsh
+github:
+  owner: gxx950224
+  repo: SapBuddy-dsh
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

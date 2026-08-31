@@ -1,0 +1,15 @@
+version: 1
+name: dsh-token-panel
+github:
+  owner: juhe291
+  repo: dsh-token-panel
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-token-panel
+versions:
+  - packageVersion: 0.4.7
+    dshVersion: v0.1.2-alpha.1

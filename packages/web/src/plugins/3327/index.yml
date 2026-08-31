@@ -1,0 +1,14 @@
+version: 1
+name: dsh-devtools
+github:
+  owner: izz-BLUE
+  repo: dsh-devtools
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-devtools
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

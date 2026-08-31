@@ -1,0 +1,13 @@
+version: 1
+name: dsh-workspace-hub
+github:
+  owner: Jadramcool
+  repo: dsh-workspace-hub
+  language: JavaScript
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-workspace-hub
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-use-wallpaper
+github:
+  owner: yu502950715yang
+  repo: dsh-use-wallpaper
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@dsh-use/wallpaper-engine'
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

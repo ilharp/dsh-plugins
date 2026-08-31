@@ -1,0 +1,12 @@
+version: 1
+name: dsh-simple-memory
+github:
+  owner: a903067276-rgb
+  repo: dsh-simple-memory
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.2.6
+    dshVersion: v0.1.2-alpha.1

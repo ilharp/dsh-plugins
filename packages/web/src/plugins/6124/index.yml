@@ -1,0 +1,17 @@
+version: 1
+name: dsh-cloudflare-browser-run
+github:
+  owner: RealAlexandreAI
+  repo: dsh-cloudflare-browser-run
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-cloudflare-browser-run
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-web-open
+github:
+  owner: dawsondx
+  repo: dsh-web-open
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@dawsondx/dsh-web-open'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

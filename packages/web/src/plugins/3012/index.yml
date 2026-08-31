@@ -1,0 +1,16 @@
+version: 1
+name: dsh-better-overleaf
+github:
+  owner: Hoemr
+  repo: dsh-better-overleaf
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-better-overleaf
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-event-auditor
+github:
+  owner: qing3a
+  repo: dsh-event-auditor
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@qing3a/dsh-event-auditor'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

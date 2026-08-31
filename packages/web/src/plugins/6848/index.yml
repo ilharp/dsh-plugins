@@ -1,0 +1,9 @@
+version: 1
+name: DSH-CLI
+github:
+  owner: SKzrui
+  repo: DSH-CLI
+  license: MIT
+  stars: 3
+  forks: 0
+versions: []

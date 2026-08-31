@@ -1,0 +1,11 @@
+version: 1
+name: dsh-anchored-standard
+github:
+  owner: xiaobright
+  repo: dsh-anchored-standard
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3779
+  forks: 21
+  openIssues: 5
+versions: []

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-client-ui-side-tasks
+github:
+  owner: uluckystar
+  repo: dsh-client-ui-side-tasks
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

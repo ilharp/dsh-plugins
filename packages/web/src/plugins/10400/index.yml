@@ -1,0 +1,14 @@
+version: 1
+name: dsh-remote-picker
+github:
+  owner: Yuuichu
+  repo: dsh-remote-picker
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-remote-picker
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

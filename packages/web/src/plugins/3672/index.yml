@@ -1,0 +1,11 @@
+version: 1
+name: dsh-live-voice
+github:
+  owner: Jstn-1g
+  repo: dsh-live-voice
+  language: TypeScript
+  stars: 0
+  forks: 1
+versions:
+  - packageVersion: 0.3.0-preview.1
+    dshVersion: v0.1.2-alpha.1

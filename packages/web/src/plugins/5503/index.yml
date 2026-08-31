@@ -1,0 +1,17 @@
+version: 1
+name: dsh-genui
+github:
+  owner: omdsh-dev
+  repo: dsh-genui
+  language: TypeScript
+  license: MIT
+  stars: 372
+  forks: 36
+  openIssues: 2
+npm:
+  name: '@changfenhuang/dsh-genui'
+versions:
+  - packageVersion: 0.9.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.9.6
+    dshVersion: v0.1.2-alpha.1

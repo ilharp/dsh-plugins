@@ -1,0 +1,14 @@
+version: 1
+name: dsh-repo-health
+github:
+  owner: uckkk
+  repo: dsh-repo-health
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-repo-health
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

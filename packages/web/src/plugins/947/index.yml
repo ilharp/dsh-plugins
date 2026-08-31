@@ -1,0 +1,15 @@
+version: 1
+name: dsh-science
+github:
+  owner: biociao
+  repo: dsh-science
+  language: JavaScript
+  license: MIT
+  stars: 26
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-science
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

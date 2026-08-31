@@ -1,0 +1,14 @@
+version: 1
+name: dsh-nuphus-mcp
+github:
+  owner: mrpulor-gh
+  repo: dsh-nuphus-mcp
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 1
+npm:
+  name: dsh-nuphus-mcp
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

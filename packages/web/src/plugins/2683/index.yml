@@ -1,0 +1,14 @@
+version: 1
+name: dsh-commerce-cockpit
+github:
+  owner: guannan1031
+  repo: dsh-commerce-cockpit
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 1
+npm:
+  name: '@guannan1031/dsh-commerce-cockpit'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

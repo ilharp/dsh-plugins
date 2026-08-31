@@ -1,0 +1,14 @@
+version: 1
+name: dsh-tool-visibility
+github:
+  owner: rayfalling
+  repo: dsh-tool-visibility
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@rayfalling/dsh-tool-visibility'
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1

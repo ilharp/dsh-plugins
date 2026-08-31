@@ -1,0 +1,14 @@
+version: 1
+name: dsh-whale-background
+github:
+  owner: tuogusa
+  repo: dsh-whale-background
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-whale-background
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

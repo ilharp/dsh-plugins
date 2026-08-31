@@ -1,0 +1,14 @@
+version: 1
+name: dsh-command-palette
+github:
+  owner: hajimixiaojie
+  repo: dsh-command-palette
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@dsh-community/dsh-command-palette'
+versions:
+  - packageVersion: 0.1.0-alpha.0
+    dshVersion: v0.1.2-alpha.1

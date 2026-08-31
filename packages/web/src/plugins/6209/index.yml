@@ -1,0 +1,14 @@
+version: 1
+name: GraphFlow
+github:
+  owner: Roarpeng
+  repo: GraphFlow
+  language: TypeScript
+  license: Apache-2.0
+  stars: 4
+  forks: 0
+npm:
+  name: '@roarpeng/graphflow'
+versions:
+  - packageVersion: 1.13.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-knowledge
+github:
+  owner: Soren-ABT
+  repo: dsh-knowledge
+  language: TypeScript
+  license: AGPL-3.0
+  stars: 19
+  forks: 6
+  openIssues: 4
+npm:
+  name: dsh-knowledge
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-ai-brief
+github:
+  owner: bozhang1214
+  repo: dsh-ai-brief
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-ai-brief
+versions:
+  - packageVersion: 0.5.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-archived-sessions
+github:
+  owner: GroupWork888
+  repo: dsh-plugin-archived-sessions
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

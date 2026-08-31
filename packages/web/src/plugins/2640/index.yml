@@ -1,0 +1,14 @@
+version: 1
+name: dsh-mobile-remote
+github:
+  owner: good-boy4069
+  repo: dsh-mobile-remote
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-mobile-remote
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

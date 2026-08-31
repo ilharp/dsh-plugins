@@ -1,0 +1,14 @@
+version: 1
+name: dsh-notepad
+github:
+  owner: 43456-awa
+  repo: dsh-notepad
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-notepad
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

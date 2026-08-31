@@ -1,0 +1,15 @@
+version: 1
+name: dsh-scholar
+github:
+  owner: lzszq
+  repo: dsh-scholar
+  language: TypeScript
+  license: MIT
+  stars: 25
+  forks: 1
+  openIssues: 1
+npm:
+  name: dsh-scholar
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

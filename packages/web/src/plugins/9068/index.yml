@@ -1,0 +1,11 @@
+version: 1
+name: anchorlaw
+github:
+  owner: unknowbug
+  repo: anchorlaw
+  language: Python
+  license: MIT
+  stars: 5
+  forks: 1
+  openIssues: 0
+versions: []

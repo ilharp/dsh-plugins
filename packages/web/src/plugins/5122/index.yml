@@ -1,0 +1,12 @@
+version: 1
+name: dsh-web-splash-loader
+github:
+  owner: moshe-233
+  repo: dsh-web-splash-loader
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

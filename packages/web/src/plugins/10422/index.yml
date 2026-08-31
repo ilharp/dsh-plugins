@@ -1,0 +1,11 @@
+version: 1
+name: dsh-vision-dashscope
+github:
+  owner: ywleeo
+  repo: dsh-vision-dashscope
+  language: Python
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

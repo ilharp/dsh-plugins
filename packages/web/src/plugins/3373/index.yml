@@ -1,0 +1,13 @@
+version: 1
+name: dsh-superpowers
+github:
+  owner: JasonFreeLab
+  repo: dsh-superpowers
+  language: JavaScript
+  stars: 1
+  forks: 0
+npm:
+  name: '@jasonfreelab/dsh-superpowers'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

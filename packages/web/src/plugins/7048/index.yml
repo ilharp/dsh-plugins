@@ -1,0 +1,9 @@
+version: 1
+name: dsh-image-gallery
+github:
+  owner: statem-li
+  repo: dsh-image-gallery
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions: []

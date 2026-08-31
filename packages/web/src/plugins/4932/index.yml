@@ -1,0 +1,16 @@
+version: 1
+name: dsh-archive-manager
+github:
+  owner: MichengAI
+  repo: dsh-archive-manager
+  language: JavaScript
+  license: Apache-2.0
+  stars: 32
+  forks: 4
+npm:
+  name: '@michengai/dsh-archive-manager'
+versions:
+  - packageVersion: 0.1.14
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.18
+    dshVersion: v0.1.2-alpha.1

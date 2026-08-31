@@ -1,0 +1,14 @@
+version: 1
+name: read-paper
+github:
+  owner: louwenbo580
+  repo: read-paper
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: paper-review
+versions:
+  - packageVersion: 2.0.1
+    dshVersion: v0.1.2-alpha.1

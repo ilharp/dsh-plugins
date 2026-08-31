@@ -1,0 +1,11 @@
+version: 1
+name: dsh-remote-acces
+github:
+  owner: wuwuzhige-sudo
+  repo: dsh-remote-acces
+  language: Shell
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

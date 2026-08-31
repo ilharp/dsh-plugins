@@ -1,0 +1,15 @@
+version: 1
+name: dsh-wallpaper-engine
+github:
+  owner: elysia395
+  repo: dsh-wallpaper-engine
+  language: JavaScript
+  license: NOASSERTION
+  stars: 213
+  forks: 21
+  openIssues: 5
+npm:
+  name: dsh-plugin-wallpaper-engine
+versions:
+  - packageVersion: 0.6.6
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-status-bar-config
+github:
+  owner: leonardoxr
+  repo: dsh-status-bar-config
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-trellis-dashboard
+github:
+  owner: QianziTech
+  repo: dsh-trellis-dashboard
+  language: Python
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-trellis-dashboard
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

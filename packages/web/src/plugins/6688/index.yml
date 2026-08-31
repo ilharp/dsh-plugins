@@ -1,0 +1,14 @@
+version: 1
+name: dsh-obsidian-channel
+github:
+  owner: ShengenWu
+  repo: dsh-obsidian-channel
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1-rc.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-vault
+github:
+  owner: feiyang-dev
+  repo: dsh-vault
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@feiyang666/dsh-vault'
+versions:
+  - packageVersion: 1.5.0
+    dshVersion: v0.1.2-alpha.1

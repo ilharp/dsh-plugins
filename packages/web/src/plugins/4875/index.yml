@@ -1,0 +1,12 @@
+version: 1
+name: agent-board
+github:
+  owner: meisam2236
+  repo: agent-board
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

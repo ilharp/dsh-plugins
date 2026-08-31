@@ -1,0 +1,17 @@
+version: 1
+name: dsh-read-url
+github:
+  owner: '2672243194'
+  repo: dsh-read-url
+  language: JavaScript
+  license: MIT
+  stars: 16
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-read-url
+versions:
+  - packageVersion: 1.3.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.4.0
+    dshVersion: v0.1.2-alpha.1

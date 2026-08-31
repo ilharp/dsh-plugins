@@ -1,0 +1,12 @@
+version: 1
+name: dsh-weneed
+github:
+  owner: Nwflower
+  repo: dsh-weneed
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

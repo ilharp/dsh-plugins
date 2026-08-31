@@ -1,0 +1,11 @@
+version: 1
+name: Deepseek-omnimodal
+github:
+  owner: good-boy4069
+  repo: Deepseek-omnimodal
+  language: Python
+  license: MIT
+  stars: 4
+  forks: 1
+  openIssues: 5
+versions: []

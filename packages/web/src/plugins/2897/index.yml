@@ -1,0 +1,15 @@
+version: 1
+name: dsh-side-chat
+github:
+  owner: heartmove
+  repo: dsh-side-chat
+  language: TypeScript
+  license: MIT
+  stars: 9
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-side-chat
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

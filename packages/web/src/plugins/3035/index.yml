@@ -1,0 +1,15 @@
+version: 1
+name: dsh-onebot
+github:
+  owner: Hoshino-Yumetsuki
+  repo: dsh-onebot
+  language: TypeScript
+  license: MPL-2.0
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-onebot
+versions:
+  - packageVersion: 1.2.4
+    dshVersion: v0.1.2-alpha.1

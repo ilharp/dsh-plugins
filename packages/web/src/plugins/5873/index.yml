@@ -1,0 +1,17 @@
+version: 1
+name: dsh-lark-bot
+github:
+  owner: PlutoKeating
+  repo: dsh-lark-bot
+  language: TypeScript
+  license: AGPL-3.0
+  stars: 37
+  forks: 5
+  openIssues: 0
+npm:
+  name: dsh-lark-bot
+versions:
+  - packageVersion: 0.19.11
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.19.16
+    dshVersion: v0.1.2-alpha.1

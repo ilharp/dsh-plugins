@@ -1,0 +1,14 @@
+version: 1
+name: dsh-skin-center
+github:
+  owner: bruce-hmz
+  repo: dsh-skin-center
+  language: CSS
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-skin-center
+versions:
+  - packageVersion: 2.1.0-rc.2
+    dshVersion: v0.1.2-alpha.1

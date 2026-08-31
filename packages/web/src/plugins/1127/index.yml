@@ -1,0 +1,17 @@
+version: 1
+name: dsh-ssh-ops
+github:
+  owner: caoyiwei850
+  repo: dsh-ssh-ops
+  language: JavaScript
+  license: MIT
+  stars: 14
+  forks: 2
+  openIssues: 1
+npm:
+  name: dsh-ssh-ops
+versions:
+  - packageVersion: 0.2.13
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.15
+    dshVersion: v0.1.2-alpha.1

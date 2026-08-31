@@ -1,0 +1,16 @@
+version: 1
+name: dsh-verify
+github:
+  owner: 263311487-ux
+  repo: dsh-verify
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-verify
+versions:
+  - packageVersion: 0.9.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.9.1
+    dshVersion: v0.1.2-alpha.1

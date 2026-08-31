@@ -1,0 +1,8 @@
+version: 1
+name: dsh-web-default-session
+github:
+  owner: wjy9902
+  repo: dsh-web-default-session
+  stars: 3
+  forks: 0
+versions: []

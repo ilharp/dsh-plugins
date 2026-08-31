@@ -1,0 +1,12 @@
+version: 1
+name: deep-flow
+github:
+  owner: hunterxxn
+  repo: deep-flow
+  language: TypeScript
+  stars: 0
+npm:
+  name: '@jkxie/dsh-deep-flow'
+versions:
+  - packageVersion: 0.3.8
+    dshVersion: v0.1.2-alpha.1

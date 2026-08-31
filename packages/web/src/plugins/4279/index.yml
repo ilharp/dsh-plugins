@@ -1,0 +1,14 @@
+version: 1
+name: GitHub-dsh-plugin-market
+github:
+  owner: Liaominduyh
+  repo: GitHub-dsh-plugin-market
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsw-workshop-plugin
+versions:
+  - packageVersion: 2.0.3
+    dshVersion: v0.1.2-alpha.1

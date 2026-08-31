@@ -1,0 +1,13 @@
+version: 1
+name: dsh-better-model-setting
+github:
+  owner: HiSeax
+  repo: dsh-better-model-setting
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-better-model-setting
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

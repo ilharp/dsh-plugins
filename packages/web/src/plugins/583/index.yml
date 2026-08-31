@@ -1,0 +1,14 @@
+version: 1
+name: dsh-superpowers
+github:
+  owner: anht3889
+  repo: dsh-superpowers
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@anht3889/dsh-superpowers'
+versions:
+  - packageVersion: 0.0.3
+    dshVersion: v0.1.2-alpha.1

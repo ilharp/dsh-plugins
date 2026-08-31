@@ -1,0 +1,14 @@
+version: 1
+name: dsh-balance
+github:
+  owner: TwotwoPiggy
+  repo: dsh-balance
+  language: JavaScript
+  stars: 11
+  forks: 0
+  openIssues: 1
+npm:
+  name: dsh-balance
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

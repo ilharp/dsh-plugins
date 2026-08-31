@@ -1,0 +1,14 @@
+version: 1
+name: dsh-input-history
+github:
+  owner: sunshaobei
+  repo: dsh-input-history
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-input-history
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

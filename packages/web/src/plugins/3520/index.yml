@@ -1,0 +1,15 @@
+version: 1
+name: iterate-plugin
+github:
+  owner: jingzhao-l
+  repo: iterate-plugin
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: iterate-plugin
+versions:
+  - packageVersion: 2.12.1
+    dshVersion: v0.1.2-alpha.1

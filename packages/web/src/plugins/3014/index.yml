@@ -1,0 +1,11 @@
+version: 1
+name: dsh-quote-reply
+github:
+  owner: HOFO-GYG
+  repo: dsh-quote-reply
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

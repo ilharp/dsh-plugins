@@ -1,0 +1,14 @@
+version: 1
+name: dsh-zhushou
+github:
+  owner: Starlight-bananice
+  repo: dsh-zhushou
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@bananiceee/dsh-zhushou'
+versions:
+  - packageVersion: 0.0.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-desktop-pet
+github:
+  owner: crabossss
+  repo: dsh-desktop-pet
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-desktop-pet
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

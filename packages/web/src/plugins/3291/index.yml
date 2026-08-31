@@ -1,0 +1,13 @@
+version: 1
+name: dsh-mimo-vision-hint
+github:
+  owner: Isekai-Mfu
+  repo: dsh-mimo-vision-hint
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

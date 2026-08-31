@@ -1,0 +1,12 @@
+version: 1
+name: DeepSeekHarness-community-index
+github:
+  owner: RiRi9909
+  repo: DeepSeekHarness-community-index
+  language: HTML
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

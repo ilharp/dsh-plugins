@@ -1,0 +1,10 @@
+version: 1
+name: dsh-plugin-runcat-inventory
+github:
+  owner: runcat-tommy
+  repo: dsh-plugin-runcat-inventory
+  language: JavaScript
+  stars: 0
+versions:
+  - packageVersion: 0.3.7
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-vscode-shell
+github:
+  owner: lonebone
+  repo: dsh-vscode-shell
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-vscode-shell
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

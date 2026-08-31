@@ -1,0 +1,14 @@
+version: 1
+name: dsh-web-search-thirdparty
+github:
+  owner: sunx16963-design
+  repo: dsh-web-search-thirdparty
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-web-search-thirdparty
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

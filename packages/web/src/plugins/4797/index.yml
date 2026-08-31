@@ -1,0 +1,12 @@
+version: 1
+name: dsh-realtime-voice
+github:
+  owner: martinbear1
+  repo: dsh-realtime-voice
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0-alpha.9
+    dshVersion: v0.1.2-alpha.1

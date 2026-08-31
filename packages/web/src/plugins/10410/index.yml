@@ -1,0 +1,12 @@
+version: 1
+name: dsh-voice-prompt-compressor
+github:
+  owner: yuzh1090
+  repo: dsh-voice-prompt-compressor
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

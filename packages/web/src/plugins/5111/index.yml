@@ -1,0 +1,14 @@
+version: 1
+name: dsh-openrouter-providers
+github:
+  owner: MoRanYue
+  repo: dsh-openrouter-providers
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-openrouter-providers
+versions:
+  - packageVersion: 1.0.6
+    dshVersion: v0.1.2-alpha.1

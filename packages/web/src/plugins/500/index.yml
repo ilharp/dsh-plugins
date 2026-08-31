@@ -1,0 +1,9 @@
+version: 1
+name: meoo-cli
+github:
+  owner: ali-meoo
+  repo: meoo-cli
+  stars: 22
+  forks: 1
+  openIssues: 0
+versions: []

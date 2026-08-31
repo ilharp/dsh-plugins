@@ -1,0 +1,14 @@
+version: 1
+name: dsh-ponytail
+github:
+  owner: HB123X
+  repo: dsh-ponytail
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-ponytail
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

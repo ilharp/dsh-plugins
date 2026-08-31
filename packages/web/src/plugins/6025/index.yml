@@ -1,0 +1,12 @@
+version: 1
+name: Weave-for-DSH
+github:
+  owner: Quan-Chan
+  repo: Weave-for-DSH
+  language: HTML
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

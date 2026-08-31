@@ -1,0 +1,12 @@
+version: 1
+name: dsh-plugin-token-heatmap
+github:
+  owner: P-CAmilE
+  repo: dsh-plugin-token-heatmap
+  language: TypeScript
+  stars: 0
+npm:
+  name: dsh-plugin-token-heatmap
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

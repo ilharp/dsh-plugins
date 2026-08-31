@@ -1,0 +1,17 @@
+version: 1
+name: dsh-agency-agents
+github:
+  owner: MichengAI
+  repo: dsh-agency-agents
+  language: JavaScript
+  license: Apache-2.0
+  stars: 26
+  forks: 6
+  openIssues: 0
+npm:
+  name: '@michengai/dsh-agency-agents'
+versions:
+  - packageVersion: 0.1.21
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.22
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,17 @@
+version: 1
+name: dsh-ui-harmonizer
+github:
+  owner: Physicolor
+  repo: dsh-ui-harmonizer
+  language: TypeScript
+  license: MIT
+  stars: 12
+  forks: 0
+  openIssues: 1
+npm:
+  name: dsh-ui-harmonizer
+versions:
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.8.3
+    dshVersion: v0.1.2-alpha.1

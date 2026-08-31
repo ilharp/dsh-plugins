@@ -1,0 +1,13 @@
+version: 1
+name: freestyle-dsh-theme
+github:
+  owner: suzike
+  repo: freestyle-dsh-theme
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 12
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

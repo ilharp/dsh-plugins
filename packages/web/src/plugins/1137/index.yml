@@ -1,0 +1,13 @@
+version: 1
+name: dsh-router-codebuddy
+github:
+  owner: CARVIN94
+  repo: dsh-router-codebuddy
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-router-codebuddy
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

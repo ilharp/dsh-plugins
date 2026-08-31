@@ -1,0 +1,12 @@
+version: 1
+name: dsh_plugin_file_attach
+github:
+  owner: TestTheBoy
+  repo: dsh_plugin_file_attach
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

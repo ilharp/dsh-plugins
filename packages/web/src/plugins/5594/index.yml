@@ -1,0 +1,14 @@
+version: 1
+name: deepseek-harness-gui
+github:
+  owner: oodzchen
+  repo: deepseek-harness-gui
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: deepseek-harness-gui
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

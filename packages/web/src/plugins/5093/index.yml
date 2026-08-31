@@ -1,0 +1,15 @@
+version: 1
+name: dsh-web-file-uploader
+github:
+  owner: Mooling0602
+  repo: dsh-web-file-uploader
+  language: JavaScript
+  license: MIT
+  stars: 11
+  forks: 0
+  openIssues: 2
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

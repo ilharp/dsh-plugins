@@ -1,0 +1,15 @@
+version: 1
+name: dsh-free-vision
+github:
+  owner: FuzzySoul
+  repo: dsh-free-vision
+  language: JavaScript
+  license: MIT
+  stars: 6
+  forks: 1
+  openIssues: 1
+npm:
+  name: dsh-free-vision
+versions:
+  - packageVersion: 1.0.8
+    dshVersion: v0.1.2-alpha.1

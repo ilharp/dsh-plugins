@@ -1,0 +1,14 @@
+version: 1
+name: dsh-icon-theme
+github:
+  owner: yzke
+  repo: dsh-icon-theme
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 1
+npm:
+  name: dsh-icon-theme
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

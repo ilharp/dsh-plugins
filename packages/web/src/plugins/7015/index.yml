@@ -1,0 +1,17 @@
+version: 1
+name: dsh-email
+github:
+  owner: STARDUSTLC666
+  repo: dsh-email
+  language: JavaScript
+  license: MIT
+  stars: 10
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-email
+versions:
+  - packageVersion: 0.6.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.8.0
+    dshVersion: v0.1.2-alpha.1

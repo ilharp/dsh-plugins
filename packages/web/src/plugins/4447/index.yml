@@ -1,0 +1,11 @@
+version: 1
+name: dsh-kun-like-pet
+github:
+  owner: liyupi
+  repo: dsh-kun-like-pet
+  language: JavaScript
+  license: MIT
+  stars: 86
+  forks: 0
+  openIssues: 0
+versions: []

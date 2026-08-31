@@ -1,0 +1,8 @@
+version: 1
+name: dsh-tokenscope
+github:
+  owner: HduSy
+  repo: dsh-tokenscope
+  license: NOASSERTION
+  stars: 0
+versions: []

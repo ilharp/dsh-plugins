@@ -1,0 +1,14 @@
+version: 1
+name: dsh-usage-info
+github:
+  owner: navid-kianfar
+  repo: dsh-usage-info
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@achasoft/dsh-usage-info'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

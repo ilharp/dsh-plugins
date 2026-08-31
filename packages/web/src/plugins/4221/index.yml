@@ -1,0 +1,13 @@
+version: 1
+name: dsh-task-relay
+github:
+  owner: LeslieWylie
+  repo: dsh-task-relay
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

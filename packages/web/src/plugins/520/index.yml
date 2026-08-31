@@ -1,0 +1,14 @@
+version: 1
+name: wechat-clawbot
+github:
+  owner: Alphainfix
+  repo: wechat-clawbot
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: wechat-clawbot
+versions:
+  - packageVersion: 0.9.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-financial-analysis
+github:
+  owner: toplchx
+  repo: dsh-financial-analysis
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-financial-analysis
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

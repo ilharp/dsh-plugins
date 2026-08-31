@@ -1,0 +1,11 @@
+version: 1
+name: TMCRA-Agent-Memory
+github:
+  owner: reshuibuduo
+  repo: TMCRA-Agent-Memory
+  language: Python
+  license: Apache-2.0
+  stars: 7
+  forks: 0
+  openIssues: 0
+versions: []

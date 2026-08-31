@@ -1,0 +1,14 @@
+version: 1
+name: dsh-agent-harness-audit
+github:
+  owner: Leeaoyin
+  repo: dsh-agent-harness-audit
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-harness-audit
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,19 @@
+version: 1
+name: dsh-mcp-sync
+github:
+  owner: nan1010082085
+  repo: dsh-mcp-sync
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-mcp-sync
+versions:
+  - packageVersion: 0.5.8
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.7.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.7.1
+    dshVersion: v0.1.2-alpha.1

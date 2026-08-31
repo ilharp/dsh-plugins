@@ -1,0 +1,15 @@
+version: 1
+name: dsh-fund-research
+github:
+  owner: PerryLink
+  repo: dsh-fund-research
+  language: TypeScript
+  license: Apache-2.0
+  stars: 13
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-fund-research
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

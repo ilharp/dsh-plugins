@@ -1,0 +1,11 @@
+version: 1
+name: opencues
+github:
+  owner: opencues
+  repo: opencues
+  language: TypeScript
+  license: Apache-2.0
+  stars: 40
+  forks: 2
+  openIssues: 3
+versions: []

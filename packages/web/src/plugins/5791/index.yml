@@ -1,0 +1,16 @@
+version: 1
+name: dsh-library
+github:
+  owner: PerryLink
+  repo: dsh-library
+  language: TypeScript
+  license: Apache-2.0
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-library
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

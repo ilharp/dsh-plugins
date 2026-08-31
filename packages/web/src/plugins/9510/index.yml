@@ -1,0 +1,14 @@
+version: 1
+name: dsh-lan-access
+github:
+  owner: woyeshishen
+  repo: dsh-lan-access
+  language: PowerShell
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: '@woyeshishen/dsh-lan-access'
+versions:
+  - packageVersion: 1.0.4
+    dshVersion: v0.1.2-alpha.1

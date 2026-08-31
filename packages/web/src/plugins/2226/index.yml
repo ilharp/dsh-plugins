@@ -1,0 +1,11 @@
+version: 1
+name: dsh-docker-sidebar
+github:
+  owner: fanshong
+  repo: dsh-docker-sidebar
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

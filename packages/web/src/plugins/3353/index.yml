@@ -1,0 +1,14 @@
+version: 1
+name: dsh-managed-approval
+github:
+  owner: jalllychun
+  repo: dsh-managed-approval
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-managed-approval
+versions:
+  - packageVersion: 0.4.0-beta.5
+    dshVersion: v0.1.2-alpha.1

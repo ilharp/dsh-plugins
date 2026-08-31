@@ -1,0 +1,15 @@
+version: 1
+name: dsh-terminal
+github:
+  owner: dongsheng123132
+  repo: dsh-terminal
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-terminal
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

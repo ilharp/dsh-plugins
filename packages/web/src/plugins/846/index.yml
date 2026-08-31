@@ -1,0 +1,12 @@
+version: 1
+name: dsh_chat_index
+github:
+  owner: Barry-Liu-001
+  repo: dsh_chat_index
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

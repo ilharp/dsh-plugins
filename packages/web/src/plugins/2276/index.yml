@@ -1,0 +1,14 @@
+version: 1
+name: dsh-funasr-voice
+github:
+  owner: fenglin-ai
+  repo: dsh-funasr-voice
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-funasr-voice
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

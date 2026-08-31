@@ -1,0 +1,17 @@
+version: 1
+name: dsh-docs
+github:
+  owner: Sqhao-O
+  repo: dsh-docs
+  language: TypeScript
+  license: MIT
+  stars: 10
+  forks: 1
+  openIssues: 9
+npm:
+  name: dsh-doc
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

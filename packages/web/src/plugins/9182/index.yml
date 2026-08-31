@@ -1,0 +1,11 @@
+version: 1
+name: awesome-deepseek-harness-plugins
+github:
+  owner: vvlife
+  repo: awesome-deepseek-harness-plugins
+  language: Python
+  license: NOASSERTION
+  stars: 8
+  forks: 3
+  openIssues: 3
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-gap-feed
+github:
+  owner: faukwaa
+  repo: dsh-gap-feed
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-gap-feed
+versions:
+  - packageVersion: 0.1.9
+    dshVersion: v0.1.2-alpha.1

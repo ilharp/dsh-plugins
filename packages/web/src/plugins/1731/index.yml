@@ -1,0 +1,14 @@
+version: 1
+name: dsh-airdrop
+github:
+  owner: demacia1314
+  repo: dsh-airdrop
+  language: TypeScript
+  license: MIT
+  stars: 6
+  forks: 1
+npm:
+  name: dsh-universal-attachments
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

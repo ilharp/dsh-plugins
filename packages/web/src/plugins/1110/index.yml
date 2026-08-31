@@ -1,0 +1,11 @@
+version: 1
+name: harness-whale
+github:
+  owner: cakeni
+  repo: harness-whale
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,10 @@
+version: 1
+name: BigTimer
+github:
+  owner: kobenfang
+  repo: BigTimer
+  language: Python
+  stars: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

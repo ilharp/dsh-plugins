@@ -1,0 +1,14 @@
+version: 1
+name: dsh-adb-logcat
+github:
+  owner: dxsdyhm
+  repo: dsh-adb-logcat
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-adb-logcat
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

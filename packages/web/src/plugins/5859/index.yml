@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-pixluna
+github:
+  owner: PixLunaLab
+  repo: dsh-plugin-pixluna
+  language: TypeScript
+  license: MPL-2.0
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

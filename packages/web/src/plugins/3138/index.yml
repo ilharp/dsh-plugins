@@ -1,0 +1,15 @@
+version: 1
+name: dsh-record-replay
+github:
+  owner: humblebanana
+  repo: dsh-record-replay
+  language: TypeScript
+  license: MIT
+  stars: 11
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-record-replay
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-skill-mcp-manager
+github:
+  owner: alone-tree
+  repo: dsh-skill-mcp-manager
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-skill-mcp-manager
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-balance-by-token
+github:
+  owner: jsoncode
+  repo: dsh-balance-by-token
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-balance-by-token
+versions:
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1

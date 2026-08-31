@@ -1,0 +1,15 @@
+version: 1
+name: dsh-webui-market-plugin
+github:
+  owner: Sanqi-normal
+  repo: dsh-webui-market-plugin
+  language: JavaScript
+  license: MIT
+  stars: 98
+  forks: 4
+  openIssues: 1
+npm:
+  name: '@sanqi-normal/dsh-webui-market-plugin'
+versions:
+  - packageVersion: 0.5.5
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-housekeeper
+github:
+  owner: guo6x
+  repo: dsh-housekeeper
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1

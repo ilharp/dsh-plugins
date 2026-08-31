@@ -1,0 +1,15 @@
+version: 1
+name: dsh-tidychat
+github:
+  owner: BananaSoldier01
+  repo: dsh-tidychat
+  language: TypeScript
+  license: MIT
+  stars: 11
+  forks: 1
+  openIssues: 0
+npm:
+  name: '@bananasoldier01/dsh-tidychat'
+versions:
+  - packageVersion: 0.2.5
+    dshVersion: v0.1.2-alpha.1

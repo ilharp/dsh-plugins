@@ -1,0 +1,14 @@
+version: 1
+name: dsh-subagent-registry
+github:
+  owner: fan56
+  repo: dsh-subagent-registry
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@aiwayds/dsh-subagent-registry'
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

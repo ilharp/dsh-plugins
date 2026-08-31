@@ -1,0 +1,12 @@
+version: 1
+name: dsh-workflow-isolate
+github:
+  owner: Linxiushen
+  repo: dsh-workflow-isolate
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

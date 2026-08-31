@@ -1,0 +1,17 @@
+version: 1
+name: dsh-tianshu-tui
+github:
+  owner: huiliyi37
+  repo: dsh-tianshu-tui
+  language: TypeScript
+  license: Apache-2.0
+  stars: 250
+  forks: 9
+  openIssues: 2
+npm:
+  name: '@huiliyi37/dsh-tianshu-tui'
+versions:
+  - packageVersion: 0.1.2-rc.18
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.2-rc.26
+    dshVersion: v0.1.2-alpha.1

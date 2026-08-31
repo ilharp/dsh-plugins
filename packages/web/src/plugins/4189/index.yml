@@ -1,0 +1,15 @@
+version: 1
+name: dsh-lan-access
+github:
+  owner: Leon0555
+  repo: dsh-lan-access
+  language: JavaScript
+  license: MIT
+  stars: 11
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-lan-access
+versions:
+  - packageVersion: 0.1.3
+    dshVersion: v0.1.2-alpha.1

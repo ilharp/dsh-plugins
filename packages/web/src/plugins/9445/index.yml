@@ -1,0 +1,14 @@
+version: 1
+name: dsh-inline-media-viewer-plugin
+github:
+  owner: Wisdoverse
+  repo: dsh-inline-media-viewer-plugin
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@wisdoverse/dsh-inline-media-viewer'
+versions:
+  - packageVersion: 1.0.3
+    dshVersion: v0.1.2-alpha.1

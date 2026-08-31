@@ -1,0 +1,10 @@
+version: 1
+name: dsh-plugin-dev-skill
+github:
+  owner: TrueHOOHA
+  repo: dsh-plugin-dev-skill
+  license: Apache-2.0
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

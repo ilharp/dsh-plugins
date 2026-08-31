@@ -1,0 +1,16 @@
+version: 1
+name: dsh-bell-notify
+github:
+  owner: Laplace-bit
+  repo: dsh-bell-notify
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 1
+npm:
+  name: dsh-bell-notify
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

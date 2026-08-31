@@ -1,0 +1,14 @@
+version: 1
+name: ds-balance
+github:
+  owner: Lateautumns
+  repo: ds-balance
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: ds-balance
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

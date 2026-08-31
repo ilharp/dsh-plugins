@@ -1,0 +1,14 @@
+version: 1
+name: dsh-memory-forget
+github:
+  owner: XIAOke8698
+  repo: dsh-memory-forget
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@xiaoke8698/dsh-memory-forget'
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

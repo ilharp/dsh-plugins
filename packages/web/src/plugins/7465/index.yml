@@ -1,0 +1,14 @@
+version: 1
+name: dsh-do
+github:
+  owner: toujianjian
+  repo: dsh-do
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-do
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

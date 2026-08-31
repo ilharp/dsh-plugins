@@ -1,0 +1,11 @@
+version: 1
+name: dsh-bash-encoding
+github:
+  owner: lhh010
+  repo: dsh-bash-encoding
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 8
+  forks: 1
+  openIssues: 0
+versions: []

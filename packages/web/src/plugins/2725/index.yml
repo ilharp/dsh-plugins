@@ -1,0 +1,12 @@
+version: 1
+name: dsh-tool-git
+github:
+  owner: gxinxing
+  repo: dsh-tool-git
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0-rc.1
+    dshVersion: v0.1.2-alpha.1

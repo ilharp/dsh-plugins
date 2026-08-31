@@ -1,0 +1,14 @@
+version: 1
+name: dsh-session-categories
+github:
+  owner: ht719
+  repo: dsh-session-categories
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-session-categories
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

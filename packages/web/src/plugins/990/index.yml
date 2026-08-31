@@ -1,0 +1,12 @@
+version: 1
+name: dolphin-pet-plugin
+github:
+  owner: bo961386926
+  repo: dolphin-pet-plugin
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

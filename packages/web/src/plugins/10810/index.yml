@@ -1,0 +1,10 @@
+version: 1
+name: Deepseek-Harness-EAC
+github:
+  owner: zouyuxuan122
+  repo: Deepseek-Harness-EAC
+  language: JavaScript
+  stars: 1371
+  forks: 42
+  openIssues: 14
+versions: []

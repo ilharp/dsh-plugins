@@ -1,0 +1,15 @@
+version: 1
+name: dsh-btw
+github:
+  owner: iyllyt
+  repo: dsh-btw
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-btw
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

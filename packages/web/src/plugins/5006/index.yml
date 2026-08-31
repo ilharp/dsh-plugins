@@ -1,0 +1,12 @@
+version: 1
+name: skill-bartender
+github:
+  owner: MJorgin
+  repo: skill-bartender
+  language: Python
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

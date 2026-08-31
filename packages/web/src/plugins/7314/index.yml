@@ -1,0 +1,14 @@
+version: 1
+name: dsh-fulltext-search
+github:
+  owner: termanli
+  repo: dsh-fulltext-search
+  language: JavaScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

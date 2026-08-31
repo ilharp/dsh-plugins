@@ -1,0 +1,14 @@
+version: 1
+name: dsh-balance-plugin
+github:
+  owner: r0bert001
+  repo: dsh-balance-plugin
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-model-balance
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: DSH-Deeptop
+github:
+  owner: Sparrived
+  repo: DSH-Deeptop
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 1
+  openIssues: 0
+versions: []

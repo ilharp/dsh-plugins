@@ -1,0 +1,12 @@
+version: 1
+name: dsh-super-injector
+github:
+  owner: jypjypjypjyp
+  repo: dsh-super-injector
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1

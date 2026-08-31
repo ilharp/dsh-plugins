@@ -1,0 +1,12 @@
+version: 1
+name: deepseek-harness-messenger
+github:
+  owner: syncended
+  repo: deepseek-harness-messenger
+  language: TypeScript
+  stars: 0
+npm:
+  name: '@syncended/dsh-messenger'
+versions:
+  - packageVersion: 0.8.2
+    dshVersion: v0.1.2-alpha.1

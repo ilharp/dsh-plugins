@@ -1,0 +1,13 @@
+version: 1
+name: dsh-pentest
+github:
+  owner: howmp
+  repo: dsh-pentest
+  language: JavaScript
+  license: NOASSERTION
+  stars: 327
+  forks: 40
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0-rc.25
+    dshVersion: v0.1.2-alpha.1

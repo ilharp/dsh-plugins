@@ -1,0 +1,15 @@
+version: 1
+name: dsh-anthropic-fonts
+github:
+  owner: Isilsolme
+  repo: dsh-anthropic-fonts
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-anthropic-fonts
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

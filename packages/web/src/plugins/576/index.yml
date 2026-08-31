@@ -1,0 +1,16 @@
+version: 1
+name: dsh-pdf-reader
+github:
+  owner: AngelosZou
+  repo: dsh-pdf-reader
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-pdf-reader
+versions:
+  - packageVersion: 0.1.0-beta.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

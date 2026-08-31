@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness
+github:
+  owner: HenryZ838978
+  repo: deepseek-harness
+  language: Python
+  license: MIT
+  stars: 46
+  forks: 6
+  openIssues: 2
+versions: []

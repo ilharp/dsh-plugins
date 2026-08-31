@@ -1,0 +1,14 @@
+version: 1
+name: dsh-safemode-profile
+github:
+  owner: jinsiyu
+  repo: dsh-safemode-profile
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-safemode-profile
+versions:
+  - packageVersion: 0.3.9
+    dshVersion: v0.1.2-alpha.1

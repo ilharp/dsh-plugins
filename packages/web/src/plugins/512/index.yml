@@ -1,0 +1,19 @@
+version: 1
+name: dsh-xray
+github:
+  owner: alloevil
+  repo: dsh-xray
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-xray
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.7.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.10.2
+    dshVersion: v0.1.2-alpha.1

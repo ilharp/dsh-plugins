@@ -1,0 +1,15 @@
+version: 1
+name: dsh-navbar
+github:
+  owner: vlln
+  repo: dsh-navbar
+  language: TypeScript
+  license: MIT
+  stars: 59
+  forks: 1
+  openIssues: 0
+npm:
+  name: '@vlln/dsh-navbar'
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

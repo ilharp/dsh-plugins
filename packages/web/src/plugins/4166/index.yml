@@ -1,0 +1,14 @@
+version: 1
+name: dsh-research-nudge
+github:
+  owner: Leitarkkk
+  repo: dsh-research-nudge
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-skin-collection
+github:
+  owner: NonchalantLudens
+  repo: dsh-skin-collection
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-skin-collection
+versions:
+  - packageVersion: 0.2.5
+    dshVersion: v0.1.2-alpha.1

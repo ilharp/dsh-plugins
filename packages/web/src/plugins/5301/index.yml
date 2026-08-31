@@ -1,0 +1,11 @@
+version: 1
+name: dsh-dify-builder
+github:
+  owner: newbieYi
+  repo: dsh-dify-builder
+  language: JavaScript
+  license: MIT
+  stars: 13
+  forks: 1
+  openIssues: 0
+versions: []

@@ -1,0 +1,10 @@
+version: 1
+name: dsh-devkit
+github:
+  owner: ophielel
+  repo: dsh-devkit
+  language: JavaScript
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

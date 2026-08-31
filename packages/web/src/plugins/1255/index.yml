@@ -1,0 +1,12 @@
+version: 1
+name: dsh-auto-scheduler
+github:
+  owner: Cheng-xiu
+  repo: dsh-auto-scheduler
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

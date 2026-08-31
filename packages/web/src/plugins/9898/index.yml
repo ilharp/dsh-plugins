@@ -1,0 +1,12 @@
+version: 1
+name: dsh-image-vision
+github:
+  owner: xiaoyuink
+  repo: dsh-image-vision
+  language: JavaScript
+  license: NOASSERTION
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 2.8.0
+    dshVersion: v0.1.2-alpha.1

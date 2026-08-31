@@ -1,0 +1,14 @@
+version: 1
+name: dsh-file-edit
+github:
+  owner: justarook1e
+  repo: dsh-file-edit
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.19.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.21.0
+    dshVersion: v0.1.2-alpha.1

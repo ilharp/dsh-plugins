@@ -1,0 +1,14 @@
+version: 1
+name: dsh-github-connect
+github:
+  owner: Moon-shiyue
+  repo: dsh-github-connect
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 1
+npm:
+  name: dsh-github-connect
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

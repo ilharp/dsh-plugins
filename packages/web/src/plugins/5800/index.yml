@@ -1,0 +1,15 @@
+version: 1
+name: dsh-plugin-guide
+github:
+  owner: PerryLink
+  repo: dsh-plugin-guide
+  language: TypeScript
+  license: Apache-2.0
+  stars: 32
+  forks: 1
+  openIssues: 0
+npm:
+  name: dsh-plugin-guide
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

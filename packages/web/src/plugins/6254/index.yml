@@ -1,0 +1,16 @@
+version: 1
+name: dsh-vision-subagent
+github:
+  owner: ruby1304
+  repo: dsh-vision-subagent
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-vision-subagent
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

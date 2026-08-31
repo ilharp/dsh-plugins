@@ -1,0 +1,16 @@
+version: 1
+name: dsh-git-worktree
+github:
+  owner: wloops
+  repo: dsh-git-worktree
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 1
+npm:
+  name: dsh-git-worktree
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.7.1
+    dshVersion: v0.1.2-alpha.1

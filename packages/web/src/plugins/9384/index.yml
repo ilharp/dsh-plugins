@@ -1,0 +1,7 @@
+version: 1
+name: dsh-suite-all
+github:
+  owner: whyihaveyou
+  repo: dsh-suite-all
+  stars: 49
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-research
+github:
+  owner: dsh-research
+  repo: dsh-research
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-research
+versions:
+  - packageVersion: 0.4.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-balance-chip
+github:
+  owner: AKUSH99
+  repo: dsh-balance-chip
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

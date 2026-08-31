@@ -1,0 +1,13 @@
+version: 1
+name: local-shell-mcp
+github:
+  owner: fwerkor
+  repo: local-shell-mcp
+  language: Python
+  license: MIT
+  stars: 57
+  forks: 13
+  openIssues: 5
+versions:
+  - packageVersion: 4.2.1
+    dshVersion: v0.1.2-alpha.1

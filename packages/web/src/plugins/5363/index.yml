@@ -1,0 +1,14 @@
+version: 1
+name: dsh-chat-timeline-plus
+github:
+  owner: NIU-001-LIU
+  repo: dsh-chat-timeline-plus
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-chat-timeline-plus
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

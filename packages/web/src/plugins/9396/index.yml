@@ -1,0 +1,14 @@
+version: 1
+name: dsh-official-vision
+github:
+  owner: wilianyichen
+  repo: dsh-official-vision
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-official-vision
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

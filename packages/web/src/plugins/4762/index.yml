@@ -1,0 +1,12 @@
+version: 1
+name: dsh-conversation-landmarks
+github:
+  owner: mantonlove
+  repo: dsh-conversation-landmarks
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

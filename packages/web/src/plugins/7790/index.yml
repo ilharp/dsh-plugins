@@ -1,0 +1,14 @@
+version: 1
+name: dsh-blender
+github:
+  owner: uckkk
+  repo: dsh-blender
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-blender
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

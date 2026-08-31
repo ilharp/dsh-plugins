@@ -1,0 +1,11 @@
+version: 1
+name: dsh-cyber-sec
+github:
+  owner: cyzlmh
+  repo: dsh-cyber-sec
+  language: TypeScript
+  license: Apache-2.0
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

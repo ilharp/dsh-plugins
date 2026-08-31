@@ -1,0 +1,14 @@
+version: 1
+name: dsh-yuque-kb
+github:
+  owner: NyaaCaster
+  repo: dsh-yuque-kb
+  language: TypeScript
+  license: AGPL-3.0
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-yuque-kb
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

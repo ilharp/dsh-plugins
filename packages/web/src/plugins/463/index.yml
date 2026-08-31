@@ -1,0 +1,13 @@
+version: 1
+name: model-usage-plugin
+github:
+  owner: AKS1st
+  repo: model-usage-plugin
+  language: JavaScript
+  license: MIT
+  stars: 7
+  forks: 1
+  openIssues: 1
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1

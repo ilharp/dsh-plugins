@@ -1,0 +1,12 @@
+version: 1
+name: dsh-remote-mcp-manager
+github:
+  owner: lwy521
+  repo: dsh-remote-mcp-manager
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.3.1
+    dshVersion: v0.1.2-alpha.1

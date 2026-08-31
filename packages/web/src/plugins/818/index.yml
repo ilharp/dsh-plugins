@@ -1,0 +1,11 @@
+version: 1
+name: dsh-dashboard
+github:
+  owner: baiyun200
+  repo: dsh-dashboard
+  language: TypeScript
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

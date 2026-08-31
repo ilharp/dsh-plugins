@@ -1,0 +1,10 @@
+version: 1
+name: DSH-Project-Initialization
+github:
+  owner: Lorvaste
+  repo: DSH-Project-Initialization
+  language: Go Template
+  stars: 0
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-tkinter-desktop
+github:
+  owner: kuailexiaozixin
+  repo: tkinter-desktop
+  license: MIT
+  stars: 0
+  forks: 1
+versions:
+  - packageVersion: 1.7.10
+    dshVersion: v0.1.2-alpha.1

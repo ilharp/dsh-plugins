@@ -1,0 +1,13 @@
+version: 1
+name: dsh-image-subagent
+github:
+  owner: yuqingsh
+  repo: dsh-image-subagent
+  language: JavaScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

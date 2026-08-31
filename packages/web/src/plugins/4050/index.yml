@@ -1,0 +1,11 @@
+version: 1
+name: sealos-skills
+github:
+  owner: labring
+  repo: sealos-skills
+  language: Python
+  license: NOASSERTION
+  stars: 75
+  forks: 18
+  openIssues: 6
+versions: []

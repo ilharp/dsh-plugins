@@ -1,0 +1,13 @@
+version: 1
+name: Tydora
+github:
+  owner: zuorn
+  repo: Tydora
+  language: TypeScript
+  license: Apache-2.0
+  stars: 107
+  forks: 11
+  openIssues: 13
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1

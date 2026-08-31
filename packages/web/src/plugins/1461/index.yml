@@ -1,0 +1,11 @@
+version: 1
+name: dsh-hub
+github:
+  owner: coderPerseus
+  repo: dsh-hub
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

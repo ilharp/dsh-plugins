@@ -1,0 +1,14 @@
+version: 1
+name: dsh-review
+github:
+  owner: Viger1
+  repo: dsh-review
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-review
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

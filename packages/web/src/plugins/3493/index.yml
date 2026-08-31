@@ -1,0 +1,15 @@
+version: 1
+name: dsh-stream-rules
+github:
+  owner: jiesou
+  repo: dsh-stream-rules
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@jiesou/dsh-stream-rules'
+versions:
+  - packageVersion: 0.1.7
+    dshVersion: v0.1.2-alpha.1

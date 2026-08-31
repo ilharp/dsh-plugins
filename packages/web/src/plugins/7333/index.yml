@@ -1,0 +1,12 @@
+version: 1
+name: dsh-musage
+github:
+  owner: Thedeergod666
+  repo: dsh-musage
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

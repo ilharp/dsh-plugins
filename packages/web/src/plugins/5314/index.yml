@@ -1,0 +1,11 @@
+version: 1
+name: DSHBox
+github:
+  owner: Nexus-Aethra
+  repo: DSHBox
+  language: Rust
+  license: NOASSERTION
+  stars: 30
+  forks: 1
+  openIssues: 0
+versions: []

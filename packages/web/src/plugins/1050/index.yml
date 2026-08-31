@@ -1,0 +1,12 @@
+version: 1
+name: dsh-pet-shura
+github:
+  owner: brittanistrehlowll-oss
+  repo: dsh-pet-shura
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 1.5.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,10 @@
+version: 1
+name: dsh-handbook
+github:
+  owner: Electricitysheep
+  repo: dsh-handbook
+  language: Python
+  stars: 693
+  forks: 5
+  openIssues: 0
+versions: []

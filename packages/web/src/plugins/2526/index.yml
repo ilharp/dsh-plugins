@@ -1,0 +1,11 @@
+version: 1
+name: mcp-sentinel
+github:
+  owner: GCS-ZHN
+  repo: mcp-sentinel
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 10
+versions: []

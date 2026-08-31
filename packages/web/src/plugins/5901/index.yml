@@ -1,0 +1,11 @@
+version: 1
+name: dsh-kun-like-pet
+github:
+  owner: Practice019
+  repo: dsh-kun-like-pet
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.5
+    dshVersion: v0.1.2-alpha.1

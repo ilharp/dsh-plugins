@@ -1,0 +1,12 @@
+version: 1
+name: harness-flow-hub
+github:
+  owner: Harzva
+  repo: harness-flow-hub
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.0.2-m0
+    dshVersion: v0.1.2-alpha.1

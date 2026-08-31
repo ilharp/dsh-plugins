@@ -1,0 +1,17 @@
+version: 1
+name: dsh-bridge
+github:
+  owner: wenbin-wb
+  repo: dsh-bridge
+  language: JavaScript
+  license: MIT
+  stars: 101
+  forks: 2
+  openIssues: 16
+npm:
+  name: '@wenbin_wb/dsh-bridge'
+versions:
+  - packageVersion: 2.6.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2.8.5
+    dshVersion: v0.1.2-alpha.1

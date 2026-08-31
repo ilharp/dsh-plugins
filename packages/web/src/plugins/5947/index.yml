@@ -1,0 +1,12 @@
+version: 1
+name: dsh-llm-headers
+github:
+  owner: QiE2035
+  repo: dsh-llm-headers
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

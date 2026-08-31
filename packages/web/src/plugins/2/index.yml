@@ -1,0 +1,16 @@
+version: 1
+name: dsh-project-memory
+github:
+  owner: '00080000'
+  repo: dsh-project-memory
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 1
+npm:
+  name: '@yolk_vat-y/dsh-project-memory'
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

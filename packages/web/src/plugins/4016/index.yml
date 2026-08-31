@@ -1,0 +1,14 @@
+version: 1
+name: dsh-kungfu
+github:
+  owner: kungfu-systems
+  repo: dsh-kungfu
+  language: TypeScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: '@kungfu-tech/dsh-kungfu'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

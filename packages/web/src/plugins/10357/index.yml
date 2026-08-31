@@ -1,0 +1,10 @@
+version: 1
+name: dsh-prompt-order-fix
+github:
+  owner: yugbin
+  repo: dsh-prompt-order-fix
+  language: TypeScript
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

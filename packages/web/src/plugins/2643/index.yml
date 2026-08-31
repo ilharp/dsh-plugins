@@ -1,0 +1,11 @@
+version: 1
+name: '@goodandready/dsh-fal-image-gen'
+github:
+  owner: GooDAnDReaDY
+  repo: dsh-fal-image-gen
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.6.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-token-usage-sidebar
+github:
+  owner: y2zyyr
+  repo: dsh-token-usage-sidebar
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@y2zyyr/dsh-token-usage-sidebar'
+versions:
+  - packageVersion: 1.1.2
+    dshVersion: v0.1.2-alpha.1

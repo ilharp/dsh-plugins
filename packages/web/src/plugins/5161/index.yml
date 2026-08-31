@@ -1,0 +1,14 @@
+version: 1
+name: dsh-ui-easyfold
+github:
+  owner: MrTrujay
+  repo: dsh-ui-easyfold
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@trujaycc/dsh-ui-easyfold'
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

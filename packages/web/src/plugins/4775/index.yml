@@ -1,0 +1,14 @@
+version: 1
+name: dsh-fish-tts
+github:
+  owner: MaRi23333
+  repo: dsh-fish-tts
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-fish-tts
+versions:
+  - packageVersion: 0.2.10
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,7 @@
+version: 1
+name: dsh-client-ui-prism
+github:
+  owner: mantonlove
+  repo: dsh-client-ui-prism
+  stars: 3
+versions: []

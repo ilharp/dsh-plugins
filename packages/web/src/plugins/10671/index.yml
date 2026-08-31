@@ -1,0 +1,14 @@
+version: 1
+name: file-brief
+github:
+  owner: Zhiyi-Zhao
+  repo: file-brief
+  language: Python
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: file-brief
+versions:
+  - packageVersion: 2.0.1
+    dshVersion: v0.1.2-alpha.1

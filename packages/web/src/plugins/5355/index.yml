@@ -1,0 +1,14 @@
+version: 1
+name: dsh-task-control
+github:
+  owner: ningmengxr
+  repo: dsh-task-control
+  language: TypeScript
+  license: NOASSERTION
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-task-control
+versions:
+  - packageVersion: 0.4.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,9 @@
+version: 1
+name: dsn-finance-lab
+github:
+  owner: looput
+  repo: dsn-finance-lab
+  license: NOASSERTION
+  stars: 1
+  forks: 0
+versions: []

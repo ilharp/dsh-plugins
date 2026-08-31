@@ -1,0 +1,14 @@
+version: 1
+name: dsh-web-search-litellm
+github:
+  owner: brilliant751
+  repo: dsh-web-search-litellm
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@brilliant751/dsh-web-search-litellm'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

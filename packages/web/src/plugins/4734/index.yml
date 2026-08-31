@@ -1,0 +1,11 @@
+version: 1
+name: dsh-trading
+github:
+  owner: maddogfinance
+  repo: dsh-trading
+  language: TypeScript
+  license: MIT
+  stars: 15
+  forks: 1
+  openIssues: 7
+versions: []

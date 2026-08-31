@@ -1,0 +1,12 @@
+version: 1
+name: dsh-bubble-explain
+github:
+  owner: Hanmiao33
+  repo: dsh-bubble-explain
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 6
+  forks: 0
+versions:
+  - packageVersion: 0.0.2
+    dshVersion: v0.1.2-alpha.1

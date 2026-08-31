@@ -1,0 +1,11 @@
+version: 1
+name: dsh-plugin-console
+github:
+  owner: Shizuku-keop
+  repo: dsh-plugin-console
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

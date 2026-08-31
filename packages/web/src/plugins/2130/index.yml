@@ -1,0 +1,15 @@
+version: 1
+name: dsh-ikun-pet
+github:
+  owner: eric-song-dev
+  repo: dsh-ikun-pet
+  language: JavaScript
+  license: NOASSERTION
+  stars: 8
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-ikun-pet
+versions:
+  - packageVersion: 2.2.0
+    dshVersion: v0.1.2-alpha.1

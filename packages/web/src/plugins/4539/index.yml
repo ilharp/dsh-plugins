@@ -1,0 +1,14 @@
+version: 1
+name: dsh-channel-telegram
+github:
+  owner: LosEcher
+  repo: dsh-channel-telegram
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-channel-telegram
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

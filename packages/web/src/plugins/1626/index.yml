@@ -1,0 +1,11 @@
+version: 1
+name: '@jcy2387/dsh-codex-provider-plugin'
+github:
+  owner: DamonBao
+  repo: dsh-codex-suite
+  license: MIT
+  stars: 5
+  forks: 1
+versions:
+  - packageVersion: 0.1.0-rc.11
+    dshVersion: v0.1.2-alpha.1

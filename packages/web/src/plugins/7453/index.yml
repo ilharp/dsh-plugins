@@ -1,0 +1,11 @@
+version: 1
+name: DeepSeek-Harness-Browser
+github:
+  owner: tonyd2wild
+  repo: DeepSeek-Harness-Browser
+  language: JavaScript
+  license: MIT
+  stars: 13
+  forks: 0
+  openIssues: 0
+versions: []

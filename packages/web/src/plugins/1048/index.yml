@@ -1,0 +1,15 @@
+version: 1
+name: dsh-archive-vault
+github:
+  owner: Britneycode
+  repo: dsh-archive-vault
+  language: TypeScript
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-archive-vault
+versions:
+  - packageVersion: 0.2.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.3
+    dshVersion: v0.1.2-alpha.1

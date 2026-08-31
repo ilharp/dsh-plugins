@@ -1,0 +1,17 @@
+version: 1
+name: dsh-pilot
+github:
+  owner: guo6x
+  repo: dsh-pilot
+  language: JavaScript
+  license: MIT
+  stars: 18
+  forks: 1
+  openIssues: 4
+npm:
+  name: dsh-pilot
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.7.1
+    dshVersion: v0.1.2-alpha.1

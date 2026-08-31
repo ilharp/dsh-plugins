@@ -1,0 +1,14 @@
+version: 1
+name: what-was-that
+github:
+  owner: SH-9999
+  repo: what-was-that
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: what-was-that
+versions:
+  - packageVersion: 0.1.9
+    dshVersion: v0.1.2-alpha.1

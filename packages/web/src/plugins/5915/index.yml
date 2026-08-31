@@ -1,0 +1,14 @@
+version: 1
+name: dsh-browserpilot
+github:
+  owner: Puxora
+  repo: dsh-browserpilot
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@puxora/dsh-browserpilot'
+versions:
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

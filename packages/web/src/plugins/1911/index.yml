@@ -1,0 +1,14 @@
+version: 1
+name: dsh-deepseek-usage
+github:
+  owner: dougen
+  repo: dsh-deepseek-usage
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+npm:
+  name: '@dougen/dsh-deepseek-usage'
+versions:
+  - packageVersion: 0.4.4
+    dshVersion: v0.1.2-alpha.1

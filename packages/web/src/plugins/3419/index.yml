@@ -1,0 +1,14 @@
+version: 1
+name: dsh-skill-pack
+github:
+  owner: jeremy9682
+  repo: dsh-skill-pack
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: '@jeremy9682/dsh-skill-pack'
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

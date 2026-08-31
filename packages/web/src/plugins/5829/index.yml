@@ -1,0 +1,15 @@
+version: 1
+name: dsh-imessage
+github:
+  owner: photon-hq
+  repo: dsh-imessage
+  language: TypeScript
+  license: MIT
+  stars: 7
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-imessage
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

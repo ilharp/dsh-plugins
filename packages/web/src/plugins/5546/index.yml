@@ -1,0 +1,11 @@
+version: 1
+name: dsh-ui-progress
+github:
+  owner: omdsh-dev
+  repo: dsh-ui-progress
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

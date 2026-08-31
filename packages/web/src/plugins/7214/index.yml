@@ -1,0 +1,14 @@
+version: 1
+name: deepseek-harness-split-screen
+github:
+  owner: syncended
+  repo: deepseek-harness-split-screen
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@syncended/dsh-split-screen'
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

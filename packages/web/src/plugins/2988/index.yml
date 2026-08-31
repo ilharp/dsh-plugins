@@ -1,0 +1,14 @@
+version: 1
+name: dsh-cordis-plugin-kit
+github:
+  owner: hinayoung23
+  repo: dsh-cordis-plugin-kit
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-cordis-plugin-kit
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

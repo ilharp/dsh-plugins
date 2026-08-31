@@ -1,0 +1,11 @@
+version: 1
+name: dsh-kanban
+github:
+  owner: isolat-3k
+  repo: dsh-kanban
+  language: JavaScript
+  license: MIT
+  stars: 7
+  forks: 0
+  openIssues: 0
+versions: []

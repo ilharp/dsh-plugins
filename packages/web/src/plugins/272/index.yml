@@ -1,0 +1,12 @@
+version: 1
+name: dsh-comfy-video-studio
+github:
+  owner: a1303845406
+  repo: dsh-comfy-video-studio
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.6.1
+    dshVersion: v0.1.2-alpha.1

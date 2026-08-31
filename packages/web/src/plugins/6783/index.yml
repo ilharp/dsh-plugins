@@ -1,0 +1,11 @@
+version: 1
+name: dsh-qq-bot
+github:
+  owner: sindo-s
+  repo: dsh-qq-bot
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

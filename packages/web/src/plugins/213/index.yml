@@ -1,0 +1,12 @@
+version: 1
+name: DSH-Timeline-Navigator
+github:
+  owner: 7A7K
+  repo: DSH-Timeline-Navigator
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+versions:
+  - packageVersion: 0.3.5
+    dshVersion: v0.1.2-alpha.1

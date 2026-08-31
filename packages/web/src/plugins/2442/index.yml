@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-studio
+github:
+  owner: fufankeji
+  repo: deepseek-harness-studio
+  language: TypeScript
+  license: MIT
+  stars: 542
+  forks: 48
+  openIssues: 2
+versions: []

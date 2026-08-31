@@ -1,0 +1,13 @@
+version: 1
+name: dsh-memory-evolve
+github:
+  owner: csyangwen
+  repo: dsh-memory-evolve
+  language: JavaScript
+  license: MIT
+  stars: 260
+  forks: 23
+  openIssues: 4
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

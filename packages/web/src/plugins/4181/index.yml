@@ -1,0 +1,14 @@
+version: 1
+name: dsh-dual-auto
+github:
+  owner: lengquan88
+  repo: dsh-dual-auto
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@lengquan88/dsh-dual-auto'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

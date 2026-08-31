@@ -1,0 +1,11 @@
+version: 1
+name: odai
+github:
+  owner: orziz
+  repo: odai
+  language: JavaScript
+  license: MIT
+  stars: 102
+  forks: 16
+  openIssues: 0
+versions: []

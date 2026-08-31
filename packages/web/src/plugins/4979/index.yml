@@ -1,0 +1,15 @@
+version: 1
+name: dsh-xai
+github:
+  owner: MirDie
+  repo: dsh-xai
+  language: JavaScript
+  license: NOASSERTION
+  stars: 2
+  forks: 2
+  openIssues: 0
+npm:
+  name: dsh-xai
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

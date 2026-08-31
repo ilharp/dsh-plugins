@@ -1,0 +1,13 @@
+version: 1
+name: qmd-autosearch
+github:
+  owner: zhangzhenwen1
+  repo: qmd-autosearch
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: qmd-autosearch
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

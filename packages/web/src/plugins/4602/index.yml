@@ -1,0 +1,13 @@
+version: 1
+name: dsh-plugin-proxy
+github:
+  owner: LucienLL
+  repo: dsh-plugin-proxy
+  language: JavaScript
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-plugin-proxy
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

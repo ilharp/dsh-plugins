@@ -1,0 +1,8 @@
+version: 1
+name: dsh-at-github
+github:
+  owner: bitxeno
+  repo: dsh-at-github
+  stars: 0
+  forks: 0
+versions: []

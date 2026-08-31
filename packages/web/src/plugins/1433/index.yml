@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-desktop
+github:
+  owner: cnskycn
+  repo: deepseek-harness-desktop
+  language: JavaScript
+  license: Apache-2.0
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

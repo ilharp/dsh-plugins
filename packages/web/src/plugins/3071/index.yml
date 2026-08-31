@@ -1,0 +1,14 @@
+version: 1
+name: dsh-speech-plugin
+github:
+  owner: huangdejie
+  repo: dsh-speech-plugin
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-speech-plugin
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

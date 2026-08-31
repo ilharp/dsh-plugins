@@ -1,0 +1,15 @@
+version: 1
+name: dsh-feishu-bot
+github:
+  owner: TingRuDeng
+  repo: dsh-feishu-bot
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@tingrudeng/dsh-feishu-bot'
+versions:
+  - packageVersion: 0.1.0-rc.10
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,8 @@
+version: 1
+name: dsh-auto-execute
+github:
+  owner: 1x1-lab
+  repo: dsh-auto-execute
+  license: Apache-2.0
+  stars: 1
+versions: []

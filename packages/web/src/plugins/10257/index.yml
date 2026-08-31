@@ -1,0 +1,19 @@
+version: 1
+name: dshbase-catalog
+github:
+  owner: ylwl1997
+  repo: dshbase-catalog
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: dshbase-catalog
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.8
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.12
+    dshVersion: v0.1.2-alpha.1

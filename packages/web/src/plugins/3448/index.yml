@@ -1,0 +1,14 @@
+version: 1
+name: dsh-paste-path
+github:
+  owner: jhuanxx44
+  repo: dsh-paste-path
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-paste-path
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

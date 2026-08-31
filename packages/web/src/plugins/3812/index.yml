@@ -1,0 +1,11 @@
+version: 1
+name: dsh-update-checker
+github:
+  owner: KeLearns
+  repo: dsh-update-checker
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

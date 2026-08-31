@@ -1,0 +1,14 @@
+version: 1
+name: dsh-mcp-setting
+github:
+  owner: belowthetree
+  repo: dsh-mcp-setting
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-mcp-setting
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-deepseek-girl-pet
+github:
+  owner: f0909172434
+  repo: dsh-deepseek-girl-pet
+  language: JavaScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,12 @@
+version: 1
+name: dsh-thinking-language-zh
+github:
+  owner: ayanJava111
+  repo: dsh-thinking-language-zh
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

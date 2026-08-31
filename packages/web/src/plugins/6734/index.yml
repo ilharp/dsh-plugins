@@ -1,0 +1,15 @@
+version: 1
+name: dsh-whale-meter
+github:
+  owner: Shiye-10Pages
+  repo: dsh-whale-meter
+  language: TypeScript
+  license: MIT
+  stars: 8
+  forks: 1
+  openIssues: 2
+npm:
+  name: dsh-whale-meter
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

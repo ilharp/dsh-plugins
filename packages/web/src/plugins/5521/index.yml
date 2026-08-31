@@ -1,0 +1,13 @@
+version: 1
+name: dsh-pet-corner
+github:
+  owner: omdsh-dev
+  repo: dsh-pet-corner
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.0.1-rc.3
+    dshVersion: v0.1.2-alpha.1

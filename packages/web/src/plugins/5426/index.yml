@@ -1,0 +1,11 @@
+version: 1
+name: Oh-My-DSH
+github:
+  owner: NoWint
+  repo: Oh-My-DSH
+  language: Python
+  license: MIT
+  stars: 13
+  forks: 1
+  openIssues: 0
+versions: []

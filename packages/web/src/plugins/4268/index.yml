@@ -1,0 +1,14 @@
+version: 1
+name: dsh-motion-memory
+github:
+  owner: li3-feng2-jie2
+  repo: dsh-motion-memory
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.3.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.3.3
+    dshVersion: v0.1.2-alpha.1

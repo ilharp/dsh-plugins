@@ -1,0 +1,14 @@
+version: 1
+name: dsh-forge
+github:
+  owner: mkiea
+  repo: dsh-forge
+  language: JavaScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-forge
+versions:
+  - packageVersion: 0.1.12
+    dshVersion: v0.1.2-alpha.1

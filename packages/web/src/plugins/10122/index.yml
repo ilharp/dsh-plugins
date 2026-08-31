@@ -1,0 +1,17 @@
+version: 1
+name: dsh-notify
+github:
+  owner: yangyongzhen
+  repo: dsh-notify
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-notify
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

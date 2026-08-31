@@ -1,0 +1,12 @@
+version: 1
+name: dsh-auto-maintenance
+github:
+  owner: dong3434
+  repo: dsh-auto-maintenance
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 1.2.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-links
+github:
+  owner: lunaship
+  repo: dsh-links
+  language: JavaScript
+  stars: 5
+  forks: 0
+npm:
+  name: dsh-links
+versions:
+  - packageVersion: 0.1.0-beta.9
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.0-beta.11
+    dshVersion: v0.1.2-alpha.1

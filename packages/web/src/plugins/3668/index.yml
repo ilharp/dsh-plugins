@@ -1,0 +1,15 @@
+version: 1
+name: dsh-get-balance
+github:
+  owner: jsoncode
+  repo: dsh-get-balance
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-get-balance
+versions:
+  - packageVersion: 0.1.20
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.23
+    dshVersion: v0.1.2-alpha.1

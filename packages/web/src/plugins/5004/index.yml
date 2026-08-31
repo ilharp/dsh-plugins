@@ -1,0 +1,12 @@
+version: 1
+name: dsh-media-skills
+github:
+  owner: MJorgin
+  repo: dsh-media-skills
+  language: Python
+  license: MIT
+  stars: 19
+  forks: 2
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: dsh-web-ui
+github:
+  owner: zhu1090093659
+  repo: dsh-web-ui
+  language: TypeScript
+  license: Apache-2.0
+  stars: 6271
+  forks: 97
+  openIssues: 26
+npm:
+  name: '@linxin666/dsh-web-ui-all'
+versions: []

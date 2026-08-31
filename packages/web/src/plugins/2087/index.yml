@@ -1,0 +1,12 @@
+version: 1
+name: coloured-favicon
+github:
+  owner: Elipese568
+  repo: coloured-favicon
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 2.0.0
+    dshVersion: v0.1.2-alpha.1

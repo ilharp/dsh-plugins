@@ -1,0 +1,14 @@
+version: 1
+name: dsh-realtime-voice
+github:
+  owner: zfu691531-hash
+  repo: dsh-realtime-voice
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-realtime-voice
+versions:
+  - packageVersion: 0.12.0
+    dshVersion: v0.1.2-alpha.1

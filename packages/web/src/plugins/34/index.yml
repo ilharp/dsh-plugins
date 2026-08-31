@@ -1,0 +1,12 @@
+version: 1
+name: dsh-okf
+github:
+  owner: 1-CellBio
+  repo: dsh-okf
+  language: TypeScript
+  stars: 0
+npm:
+  name: dsh-okf
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

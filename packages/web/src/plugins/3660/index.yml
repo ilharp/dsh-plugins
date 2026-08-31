@@ -1,0 +1,11 @@
+version: 1
+name: dsh-eco-router
+github:
+  owner: joyfoxai
+  repo: dsh-eco-router
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+  openIssues: 0
+versions: []

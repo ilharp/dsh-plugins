@@ -1,0 +1,17 @@
+version: 1
+name: dsh-requirements-alignment
+github:
+  owner: jiezeng2004-design
+  repo: dsh-requirements-alignment
+  language: TypeScript
+  license: MIT
+  stars: 9
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-requirements-alignment
+versions:
+  - packageVersion: 0.4.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.4.2
+    dshVersion: v0.1.2-alpha.1

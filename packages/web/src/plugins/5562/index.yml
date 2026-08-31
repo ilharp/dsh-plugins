@@ -1,0 +1,11 @@
+version: 1
+name: Bug 驯兽师
+github:
+  owner: omdsh-dev
+  repo: toybox
+  path: plugins/bug-tamer
+  license: MIT
+  stars: 2
+versions:
+  - packageVersion: 0.1.0-rc.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-worktree
+github:
+  owner: alpacachen
+  repo: dsh-worktree
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@alpacachen/dsh-simple-worktree'
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.5
+    dshVersion: v0.1.2-alpha.1

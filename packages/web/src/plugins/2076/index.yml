@@ -1,0 +1,12 @@
+version: 1
+name: roblox-devforum-mcp
+github:
+  owner: EL4CTEO
+  repo: roblox-devforum-mcp
+  language: TypeScript
+  stars: 2
+npm:
+  name: roblox-devforum-mcp
+versions:
+  - packageVersion: 1.1.5
+    dshVersion: v0.1.2-alpha.1

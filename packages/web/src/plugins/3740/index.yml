@@ -1,0 +1,12 @@
+version: 1
+name: dsh-workshpace-plugin
+github:
+  owner: kaiqiangh
+  repo: dsh-workshpace-plugin
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.8.0
+    dshVersion: v0.1.2-alpha.1

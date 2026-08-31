@@ -1,0 +1,15 @@
+version: 1
+name: dsh-mcp-settings
+github:
+  owner: xluomo
+  repo: dsh-mcp-settings
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-mcp-settings
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

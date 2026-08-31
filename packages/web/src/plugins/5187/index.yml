@@ -1,0 +1,12 @@
+version: 1
+name: muretai-dsh-skill
+github:
+  owner: muretai
+  repo: muretai-dsh-skill
+  language: Shell
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.2.44
+    dshVersion: v0.1.2-alpha.1

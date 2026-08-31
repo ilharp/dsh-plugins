@@ -1,0 +1,10 @@
+version: 1
+name: awesome-dsh-plugins
+github:
+  owner: oslook
+  repo: awesome-dsh-plugins
+  license: MIT
+  stars: 2
+  forks: 1
+  openIssues: 1
+versions: []

@@ -1,0 +1,12 @@
+version: 1
+name: tizhuang-agent-skills
+github:
+  owner: weishao2
+  repo: tizhuang-agent-skills
+  language: Python
+  license: MIT
+  stars: 3
+  forks: 0
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

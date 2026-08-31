@@ -1,0 +1,12 @@
+version: 1
+name: dsh-effort
+github:
+  owner: AI-Galaxy-GPU
+  repo: dsh-effort
+  language: JavaScript
+  license: NOASSERTION
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

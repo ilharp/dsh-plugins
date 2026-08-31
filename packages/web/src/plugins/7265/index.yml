@@ -1,0 +1,16 @@
+version: 1
+name: dsh-gsv
+github:
+  owner: TaoruiLiu19
+  repo: dsh-gsv
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-gsv-tts
+versions:
+  - packageVersion: 2.3.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 2.3.3
+    dshVersion: v0.1.2-alpha.1

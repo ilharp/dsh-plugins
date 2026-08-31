@@ -1,0 +1,12 @@
+version: 1
+name: dsh-ds-attach
+github:
+  owner: wqx-txdsyl
+  repo: dsh-ds-attach
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 2
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

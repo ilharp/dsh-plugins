@@ -1,0 +1,15 @@
+version: 1
+name: dsh-jenkins
+github:
+  owner: jsoncode
+  repo: dsh-jenkins
+  language: JavaScript
+  stars: 2
+  forks: 0
+npm:
+  name: dsh-jenkins
+versions:
+  - packageVersion: 0.1.49
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.51
+    dshVersion: v0.1.2-alpha.1

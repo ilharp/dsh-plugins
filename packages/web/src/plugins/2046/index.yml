@@ -1,0 +1,11 @@
+version: 1
+name: '@edge-sky/dsh-oauth-adapter'
+github:
+  owner: edge-sky
+  repo: dsh-auth-adapter
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.1-rc.8
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-subscription-auth
+github:
+  owner: Khellendros97
+  repo: dsh-subscription-auth
+  language: JavaScript
+  license: BSD-3-Clause
+  stars: 5
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-subscription-auth
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

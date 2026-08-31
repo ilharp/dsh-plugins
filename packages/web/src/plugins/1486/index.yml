@@ -1,0 +1,13 @@
+version: 1
+name: dsh-wechat-mp
+github:
+  owner: coolbreezecoin
+  repo: dsh-wechat-mp
+  language: TypeScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-wechat-mp
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,9 @@
+version: 1
+name: mosaic-memory-compress
+github:
+  owner: TuringCorp-net
+  repo: mosaic-memory-compress
+  license: MIT
+  stars: 3
+  forks: 1
+versions: []

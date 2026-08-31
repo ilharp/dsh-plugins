@@ -1,0 +1,15 @@
+version: 1
+name: dsh-model-switch
+github:
+  owner: lincong1987
+  repo: dsh-model-switch
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.3.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1

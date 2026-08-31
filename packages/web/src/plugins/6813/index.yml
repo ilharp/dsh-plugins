@@ -1,0 +1,19 @@
+version: 1
+name: dsh-win32
+github:
+  owner: sjh9714
+  repo: dsh-win32
+  language: TypeScript
+  license: MIT
+  stars: 27
+  forks: 2
+  openIssues: 5
+npm:
+  name: dsh-win32
+versions:
+  - packageVersion: 0.13.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.16.3
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.17.3
+    dshVersion: v0.1.2-alpha.1

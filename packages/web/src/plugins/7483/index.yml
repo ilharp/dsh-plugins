@@ -1,0 +1,12 @@
+version: 1
+name: dsh-request-manager
+github:
+  owner: tree-func
+  repo: dsh-request-manager
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.4.0
+    dshVersion: v0.1.2-alpha.1

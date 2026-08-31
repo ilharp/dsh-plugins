@@ -1,0 +1,17 @@
+version: 1
+name: dsh-milestone
+github:
+  owner: SnowCrescenter-tech
+  repo: dsh-milestone
+  language: TypeScript
+  license: MIT
+  stars: 24
+  forks: 1
+  openIssues: 1
+npm:
+  name: dsh-milestone
+versions:
+  - packageVersion: 0.6.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.6.6
+    dshVersion: v0.1.2-alpha.1

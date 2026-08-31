@@ -1,0 +1,11 @@
+version: 1
+name: vscode-deepseek-harness
+github:
+  owner: kalynnka
+  repo: vscode-deepseek-harness
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+  openIssues: 1
+versions: []

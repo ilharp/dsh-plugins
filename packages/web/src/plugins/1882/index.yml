@@ -1,0 +1,13 @@
+version: 1
+name: dsh-narrative-ledger
+github:
+  owner: dongsheng123132
+  repo: dsh-narrative-ledger
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

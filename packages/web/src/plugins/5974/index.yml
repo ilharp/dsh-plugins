@@ -1,0 +1,14 @@
+version: 1
+name: dsh-plugin-atlas
+github:
+  owner: qinyre
+  repo: dsh-plugin-atlas
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-plugin-atlas
+versions:
+  - packageVersion: 0.2.5
+    dshVersion: v0.1.2-alpha.1

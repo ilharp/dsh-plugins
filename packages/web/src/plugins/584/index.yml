@@ -1,0 +1,11 @@
+version: 1
+name: agent-vision-toolkit
+github:
+  owner: Anionex
+  repo: agent-vision-toolkit
+  language: Python
+  license: MIT
+  stars: 1114
+  forks: 30
+  openIssues: 4
+versions: []

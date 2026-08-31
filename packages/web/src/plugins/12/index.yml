@@ -1,0 +1,15 @@
+version: 1
+name: dsh-gzip
+github:
+  owner: '040822'
+  repo: dsh-gzip
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-gzip
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

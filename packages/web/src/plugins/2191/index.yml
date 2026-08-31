@@ -1,0 +1,14 @@
+version: 1
+name: dsh-pip
+github:
+  owner: extension-hunter
+  repo: dsh-pip
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-pip
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,13 @@
+version: 1
+name: SumSec-Skills
+github:
+  owner: SummerSec
+  repo: SumSec-Skills
+  language: Python
+  license: Apache-2.0
+  stars: 7
+  forks: 1
+  openIssues: 0
+versions:
+  - packageVersion: 1.0.45
+    dshVersion: v0.1.2-alpha.1

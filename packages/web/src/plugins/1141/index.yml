@@ -1,0 +1,15 @@
+version: 1
+name: dsh-usage-dashboard
+github:
+  owner: Cassius0924
+  repo: dsh-usage-dashboard
+  language: TypeScript
+  license: MIT
+  stars: 10
+  forks: 1
+  openIssues: 0
+npm:
+  name: '@cassius0924/dsh-usage-dashboard'
+versions:
+  - packageVersion: 0.5.0
+    dshVersion: v0.1.2-alpha.1

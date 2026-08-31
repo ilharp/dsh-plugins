@@ -1,0 +1,18 @@
+version: 1
+name: dsh-chat-toc
+github:
+  owner: a792883583
+  repo: dsh-chat-toc
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-chat-toc
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.8
+    dshVersion: v0.1.2-alpha.1

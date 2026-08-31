@@ -1,0 +1,13 @@
+version: 1
+name: dsh-usage-monitor
+github:
+  owner: shxtmaker
+  repo: dsh-usage-monitor
+  language: JavaScript
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-quota-monitor
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,11 @@
+version: 1
+name: dsh-artifact
+github:
+  owner: william-jin-cmu
+  repo: dsh-artifact
+  language: TypeScript
+  license: BSD-3-Clause
+  stars: 1
+  forks: 0
+  openIssues: 1
+versions: []

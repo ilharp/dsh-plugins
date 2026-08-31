@@ -1,0 +1,11 @@
+version: 1
+name: deepseek-harness-desktop
+github:
+  owner: xiincs
+  repo: deepseek-harness-desktop
+  language: Rust
+  license: MIT
+  stars: 55
+  forks: 4
+  openIssues: 1
+versions: []

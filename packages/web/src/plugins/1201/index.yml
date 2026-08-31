@@ -1,0 +1,14 @@
+version: 1
+name: deepsee
+github:
+  owner: chang416
+  repo: deepsee
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: '@chang416/deepsee'
+versions:
+  - packageVersion: 4.0.2
+    dshVersion: v0.1.2-alpha.1

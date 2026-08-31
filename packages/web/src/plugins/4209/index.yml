@@ -1,0 +1,11 @@
+version: 1
+name: dsh-memo
+github:
+  owner: lesliechowsh
+  repo: dsh-memo
+  license: MIT
+  stars: 5
+  forks: 1
+versions:
+  - packageVersion: 0.13.2
+    dshVersion: v0.1.2-alpha.1

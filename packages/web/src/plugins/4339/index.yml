@@ -1,0 +1,15 @@
+version: 1
+name: agent-team
+github:
+  owner: limuyang2
+  repo: agent-team
+  language: TypeScript
+  license: MIT
+  stars: 26
+  forks: 2
+  openIssues: 1
+npm:
+  name: '@limuyang2/dsh-agent-team'
+versions:
+  - packageVersion: 0.1.4
+    dshVersion: v0.1.2-alpha.1

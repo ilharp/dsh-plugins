@@ -1,0 +1,14 @@
+version: 1
+name: dsh-skills-mcp-manager
+github:
+  owner: zebbkira
+  repo: dsh-skills-mcp-manager
+  language: TypeScript
+  stars: 15
+  forks: 5
+  openIssues: 0
+npm:
+  name: '@zebbkira/dsh-skills-mcp-manager'
+versions:
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

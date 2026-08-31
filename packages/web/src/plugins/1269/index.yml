@@ -1,0 +1,11 @@
+version: 1
+name: dsh-ccswitch-import-lite
+github:
+  owner: chenhaolove89
+  repo: dsh-ccswitch-import-lite
+  language: JavaScript
+  license: MIT
+  stars: 2
+  forks: 0
+  openIssues: 0
+versions: []

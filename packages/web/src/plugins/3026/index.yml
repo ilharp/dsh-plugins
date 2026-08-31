@@ -1,0 +1,16 @@
+version: 1
+name: dsh-kimicode-swarm
+github:
+  owner: hongyue0721
+  repo: dsh-kimicode-swarm
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 1
+npm:
+  name: dsh-kimicode-swarm
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

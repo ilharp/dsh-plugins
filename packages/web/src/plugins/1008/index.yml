@@ -1,0 +1,16 @@
+version: 1
+name: dsh-focus-overlay
+github:
+  owner: boogoo619
+  repo: dsh-focus-overlay
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-focus-overlay
+versions:
+  - packageVersion: 0.8.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.9.0
+    dshVersion: v0.1.2-alpha.1

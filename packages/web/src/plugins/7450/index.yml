@@ -1,0 +1,12 @@
+version: 1
+name: dsh-mobile-access
+github:
+  owner: TongaiLinC
+  repo: dsh-mobile-access
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 1.0.4
+    dshVersion: v0.1.2-alpha.1

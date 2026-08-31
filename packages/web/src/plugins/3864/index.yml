@@ -1,0 +1,11 @@
+version: 1
+name: Deepseek-Harness-as-Desktop
+github:
+  owner: KhanZou
+  repo: Deepseek-Harness-as-Desktop
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-skill-studio
+github:
+  owner: zhengjy01
+  repo: dsh-skill-studio
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-skill-studio
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

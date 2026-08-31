@@ -1,0 +1,7 @@
+version: 1
+name: '@wannanbigpig/dsh-usage-stats'
+github:
+  owner: wannanbigpig
+  repo: wannanbigpig-dsh-usage-stats
+  stars: 1
+versions: []

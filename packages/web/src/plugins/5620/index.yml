@@ -1,0 +1,12 @@
+version: 1
+name: dsh-bigmodel-catalog
+github:
+  owner: OpenSaozi
+  repo: dsh-bigmodel-catalog
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.1.0-rc.5
+    dshVersion: v0.1.2-alpha.1

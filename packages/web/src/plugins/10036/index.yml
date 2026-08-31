@@ -1,0 +1,16 @@
+version: 1
+name: dsh-opencode-go-usage
+github:
+  owner: xueayi
+  repo: dsh-opencode-go-usage
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 2
+npm:
+  name: '@xueayi/dsh-opencode-go-usage'
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.6
+    dshVersion: v0.1.2-alpha.1

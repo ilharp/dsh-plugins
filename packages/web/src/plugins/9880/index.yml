@@ -1,0 +1,14 @@
+version: 1
+name: dsh-cron
+github:
+  owner: XiaoWind
+  repo: dsh-cron
+  language: JavaScript
+  license: MIT
+  stars: 1
+  forks: 0
+npm:
+  name: dsh-cron
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

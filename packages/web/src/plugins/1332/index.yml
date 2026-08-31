@@ -1,0 +1,14 @@
+version: 1
+name: dsh-trafficlight
+github:
+  owner: ChivasKong
+  repo: dsh-trafficlight
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@chivaskong96/dsh-trafficlight'
+versions:
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

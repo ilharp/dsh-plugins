@@ -1,0 +1,14 @@
+version: 1
+name: dsh-mcp-diff
+github:
+  owner: Fakek0f3sT
+  repo: dsh-mcp-diff
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: dsh-mcp-diff
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dock-files
+github:
+  owner: AKS1st
+  repo: dock-files
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dock-files
+versions:
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.0
+    dshVersion: v0.1.2-alpha.1

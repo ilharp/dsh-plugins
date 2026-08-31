@@ -1,0 +1,17 @@
+version: 1
+name: dsh-cost-meter
+github:
+  owner: Han-1413141
+  repo: dsh-cost-meter
+  language: JavaScript
+  license: MIT
+  stars: 225
+  forks: 18
+  openIssues: 0
+npm:
+  name: dsh-cost-meter
+versions:
+  - packageVersion: 1.6.2
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.6.9
+    dshVersion: v0.1.2-alpha.1

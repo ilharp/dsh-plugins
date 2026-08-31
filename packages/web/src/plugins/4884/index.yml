@@ -1,0 +1,16 @@
+version: 1
+name: dsh-webui-studio
+github:
+  owner: memorax-ai
+  repo: dsh-webui-studio
+  language: TypeScript
+  license: MIT
+  stars: 4
+  forks: 0
+npm:
+  name: dsh-webui-studio
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.2.1
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,16 @@
+version: 1
+name: dsh-web-remote-access
+github:
+  owner: studyzy
+  repo: dsh-web-remote-access
+  language: TypeScript
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: '@studyzy/dsh-web-remote-access'
+versions:
+  - packageVersion: 1.0.1
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

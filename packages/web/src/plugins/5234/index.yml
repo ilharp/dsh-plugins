@@ -1,0 +1,12 @@
+version: 1
+name: dsh-enter-send
+github:
+  owner: Nalleyer
+  repo: dsh-enter-send
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

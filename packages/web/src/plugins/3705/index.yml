@@ -1,0 +1,11 @@
+version: 1
+name: DSH-Desktop
+github:
+  owner: JustGenius-s
+  repo: DSH-Desktop
+  language: TypeScript
+  license: MIT
+  stars: 24
+  forks: 2
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: dsh-scopus-searcher
+github:
+  owner: Gaochenyuen
+  repo: dsh-scopus-searcher
+  language: Python
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-scopus-searcher
+versions:
+  - packageVersion: 1.0.2
+    dshVersion: v0.1.2-alpha.1

@@ -1,0 +1,15 @@
+version: 1
+name: dsh-memory
+github:
+  owner: flymysql
+  repo: dsh-memory
+  language: JavaScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-memory-vault
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

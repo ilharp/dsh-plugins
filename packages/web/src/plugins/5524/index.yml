@@ -1,0 +1,10 @@
+version: 1
+name: dsh-plugin-skills
+github:
+  owner: omdsh-dev
+  repo: dsh-plugin-skills
+  license: MIT
+  stars: 12
+  forks: 1
+  openIssues: 0
+versions: []

@@ -1,0 +1,14 @@
+version: 1
+name: new-project-init
+github:
+  owner: warm-flame-core
+  repo: new-project-init
+  language: PowerShell
+  license: MIT
+  stars: 2
+  forks: 0
+npm:
+  name: new-project-init
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

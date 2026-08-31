@@ -1,0 +1,15 @@
+version: 1
+name: dsh-office
+github:
+  owner: wwumit
+  repo: dsh-office
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@wwumit/dsh-office'
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

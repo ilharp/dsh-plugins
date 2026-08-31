@@ -1,0 +1,15 @@
+version: 1
+name: dsh-recall-unread
+github:
+  owner: hg1048596-pixel
+  repo: dsh-recall-unread
+  language: JavaScript
+  license: MIT
+  stars: 33
+  forks: 0
+  openIssues: 0
+npm:
+  name: dsh-recall-unread
+versions:
+  - packageVersion: 1.1.0
+    dshVersion: v0.1.2-alpha.1

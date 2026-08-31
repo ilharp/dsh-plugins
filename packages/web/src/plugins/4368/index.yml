@@ -1,0 +1,11 @@
+version: 1
+name: DeepSeek-Harness-Desktop
+github:
+  owner: Links2008
+  repo: DeepSeek-Harness-Desktop
+  language: JavaScript
+  license: MIT
+  stars: 34
+  forks: 7
+  openIssues: 0
+versions: []

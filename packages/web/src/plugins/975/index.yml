@@ -1,0 +1,15 @@
+version: 1
+name: dsh-claude-mem
+github:
+  owner: Bleed00
+  repo: dsh-claude-mem
+  language: TypeScript
+  license: NOASSERTION
+  stars: 2
+  forks: 0
+  openIssues: 0
+npm:
+  name: '@bleed00/dsh-claude-mem'
+versions:
+  - packageVersion: 0.1.5
+    dshVersion: v0.1.2-alpha.1

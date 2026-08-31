@@ -1,0 +1,9 @@
+version: 1
+name: awesome-deepseek-harness
+github:
+  owner: libukai
+  repo: awesome-deepseek-harness
+  stars: 215
+  forks: 9
+  openIssues: 8
+versions: []

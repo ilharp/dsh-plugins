@@ -1,0 +1,14 @@
+version: 1
+name: oh-my-deepseek-harness
+github:
+  owner: YYTbit
+  repo: oh-my-deepseek-harness
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+npm:
+  name: oh-my-deepseek-harness
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1

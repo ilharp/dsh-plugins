@@ -1,0 +1,13 @@
+version: 1
+name: dsh-skin-appearance
+github:
+  owner: Vim0x3c
+  repo: dsh-skin-appearance
+  language: TypeScript
+  license: MIT
+  stars: 5
+  forks: 0
+  openIssues: 0
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

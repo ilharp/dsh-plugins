@@ -1,0 +1,13 @@
+version: 1
+name: awesome-dsh-plugins
+github:
+  owner: AdamPlatin123
+  repo: awesome-dsh-plugins
+  language: Python
+  license: MIT
+  stars: 1416
+  forks: 68
+  openIssues: 5
+npm:
+  name: awesome-dsh-plugins
+versions: []

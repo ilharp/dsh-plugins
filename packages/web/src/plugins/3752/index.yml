@@ -1,0 +1,16 @@
+version: 1
+name: dsh-agent-teams-meta
+github:
+  owner: kaka-in-home
+  repo: dsh-agent-teams-meta
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: dsh-agent-teams-meta
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1
+  - packageVersion: 0.1.1
+    dshVersion: v0.1.2-alpha.1

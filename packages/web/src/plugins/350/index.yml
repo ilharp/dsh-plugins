@@ -1,0 +1,11 @@
+version: 1
+name: dsh-tonghuashun
+github:
+  owner: AdamPlatin123
+  repo: dsh-tonghuashun
+  language: TypeScript
+  license: MIT
+  stars: 3
+  forks: 0
+  openIssues: 0
+versions: []

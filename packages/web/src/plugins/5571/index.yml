@@ -1,0 +1,12 @@
+version: 1
+name: omdsh-chatmode
+github:
+  owner: omdsh-plugins
+  repo: omdsh-chatmode
+  language: TypeScript
+  license: MIT
+  stars: 1
+  forks: 0
+versions:
+  - packageVersion: 0.2.4
+    dshVersion: v0.1.2-alpha.1

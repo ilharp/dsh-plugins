@@ -1,0 +1,11 @@
+version: 1
+name: dsh-preset-flash-director
+github:
+  owner: zhaoyilun
+  repo: dsh-preset-flash-director
+  language: JavaScript
+  license: MIT
+  stars: 0
+  forks: 0
+  openIssues: 0
+versions: []

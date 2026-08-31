@@ -1,0 +1,14 @@
+version: 1
+name: dsh-restart-backend
+github:
+  owner: woyeshishen
+  repo: dsh-restart-backend
+  language: PowerShell
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: '@woyeshishen/dsh-restart-backend'
+versions:
+  - packageVersion: 1.0.0
+    dshVersion: v0.1.2-alpha.1

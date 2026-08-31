@@ -1,0 +1,14 @@
+version: 1
+name: dsh-profile-settings
+github:
+  owner: XMoon
+  repo: dsh-profile-settings
+  language: TypeScript
+  license: MIT
+  stars: 0
+  forks: 0
+npm:
+  name: '@xmoon76/dsh-profile-settings'
+versions:
+  - packageVersion: 0.1.0
+    dshVersion: v0.1.2-alpha.1

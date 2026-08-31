@@ -1,0 +1,14 @@
+version: 1
+name: dsh-chime
+github:
+  owner: HtO404
+  repo: dsh-chime
+  language: JavaScript
+  license: Apache-2.0
+  stars: 0
+  forks: 0
+npm:
+  name: '@hto404/dsh-chime'
+versions:
+  - packageVersion: 0.1.2
+    dshVersion: v0.1.2-alpha.1
