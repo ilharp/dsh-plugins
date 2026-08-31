@@ -2,14 +2,37 @@ import { glob } from 'astro/loaders'
 import { z } from 'astro/zod'
 import { defineCollection } from 'astro:content'
 
-const blog = defineCollection({
+const github = z.object({
+  owner: z.string(),
+  repo: z.string(),
+  path: z.string().optional(),
+  language: z.string().optional(),
+  license: z.string().optional(),
+  stars: z.number().optional(),
+  forks: z.number().optional(),
+  openIssues: z.number().optional(),
+})
+
+const plugin = defineCollection({
   loader: glob({ base: './src/plugins', pattern: '*/index.yml' }),
-  schema: z.object({
-    version: z.number(),
-    refs: z.array(z.string()),
-  }),
+  schema: z
+    .object({
+      version: z.number(),
+      name: z.string(),
+      github: github.optional(),
+      npm: z.object({ name: z.string() }).optional(),
+      versions: z.array(
+        z
+          .object({
+            packageVersion: z.string(),
+            dshVersion: z.string(),
+          })
+          .passthrough(),
+      ),
+    })
+    .passthrough(),
 })
 
 export const collections = {
-  blog,
+  plugin,
 }
