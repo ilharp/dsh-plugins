@@ -1,0 +1,142 @@
+---
+import { Button } from '@/components/starwind/button'
+import { Input } from '@/components/starwind/input'
+import Search from '@tabler/icons/outline/search.svg'
+import styles from './SearchModal.module.scss'
+---
+
+<Button type="button" variant="outline" class={styles.trigger} data-search-open>
+  <Search aria-hidden="true" />
+  Search plugins
+  <kbd class={styles.kbd} aria-hidden="true">/</kbd>
+</Button>
+
+<dialog class={styles.dialog} data-search-dialog aria-label="Search plugins">
+  <div class={styles.inner}>
+    <div class={styles.searchRow}>
+      <Input
+        type="search"
+        placeholder="Search name, repository, or package"
+        aria-label="Search plugins"
+        data-search-input
+      />
+      <button
+        class={styles.close}
+        type="button"
+        data-search-close
+        aria-label="Close search"
+      >
+        Esc
+      </button>
+    </div>
+    <p class={styles.status} data-search-status aria-live="polite">
+      Loading search index…
+    </p>
+    <div class={styles.list} data-search-list hidden></div>
+    <div class={styles.empty} data-search-empty hidden>
+      <p>No plugins found for “<span data-empty-query></span>”.</p>
+    </div>
+    <div class={styles.pager}>
+      <button class={styles.pagerButton} type="button" data-search-prev disabled
+        >Previous</button
+      >
+      <span class={styles.pageLabel} data-search-page></span>
+      <button class={styles.pagerButton} type="button" data-search-next disabled
+        >Next</button
+      >
+    </div>
+  </div>
+  <template data-search-row>
+    <a class={styles.row} data-row href="#">
+      <span class={styles.rowId} data-id>#0</span>
+      <span class={styles.rowMain}>
+        <span class={styles.rowName} data-name></span>
+        <span class={styles.rowSub} data-sub></span>
+      </span>
+      <span class={styles.rowPackage} data-package></span>
+    </a>
+  </template>
+</dialog>
+
+<script>
+  import { initSearchUI } from '@/lib/search-ui'
+  import type { SearchUI } from '@/lib/search-ui'
+
+  const dialog = document.querySelector<HTMLDialogElement>(
+    '[data-search-dialog]',
+  )
+  const openButton =
+    document.querySelector<HTMLButtonElement>('[data-search-open]')
+  const closeButton = document.querySelector<HTMLButtonElement>(
+    '[data-search-close]',
+  )
+
+  if (dialog instanceof HTMLDialogElement && openButton) {
+    let ui: SearchUI | undefined
+
+    const open = (): void => {
+      dialog.showModal()
+      if (!ui) {
+        const input = dialog.querySelector<HTMLInputElement>(
+          '[data-search-input]',
+        )
+        const status = dialog.querySelector<HTMLElement>('[data-search-status]')
+        const list = dialog.querySelector<HTMLElement>('[data-search-list]')
+        const empty = dialog.querySelector<HTMLElement>('[data-search-empty]')
+        const rowTemplate =
+          dialog.querySelector<HTMLTemplateElement>('[data-search-row]')
+        const prev =
+          dialog.querySelector<HTMLButtonElement>('[data-search-prev]')
+        const next =
+          dialog.querySelector<HTMLButtonElement>('[data-search-next]')
+        const pageLabel =
+          dialog.querySelector<HTMLElement>('[data-search-page]')
+
+        if (
+          input &&
+          status &&
+          list &&
+          empty &&
+          rowTemplate instanceof HTMLTemplateElement &&
+          prev &&
+          next &&
+          pageLabel
+        ) {
+          ui = initSearchUI({
+            input,
+            status,
+            list,
+            empty,
+            rowTemplate,
+            prev,
+            next,
+            pageLabel,
+            pageSize: 10,
+          })
+          // The dialog is on screen now; only start fetching the index here.
+          ui.preload()
+        }
+      }
+      dialog.querySelector<HTMLInputElement>('[data-search-input]')?.focus()
+    }
+
+    openButton.addEventListener('click', open)
+    closeButton?.addEventListener('click', () => dialog.close())
+    dialog.addEventListener('click', (event) => {
+      if (event.target === dialog) dialog.close()
+    })
+    document.addEventListener('keydown', (event) => {
+      const target = event.target
+      if (
+        event.key === '/' &&
+        !dialog.open &&
+        target instanceof HTMLElement &&
+        !['INPUT', 'TEXTAREA', 'SELECT'].includes(target.tagName) &&
+        !target.isContentEditable
+      ) {
+        event.preventDefault()
+        open()
+      }
+    })
+  }
+</script>

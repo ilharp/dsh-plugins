@@ -1,6 +1,7 @@
 ---
 import PaginationParts from '@/components/starwind/pagination'
 import Layout from '@/layouts/Layout.astro'
+import SearchModal from '@/components/SearchModal.astro'
 import { getCanonicalPlugins, pluginId } from '@/lib/plugins'
 import { pluginUrl } from '@/lib/urls'
 import ArrowRight from '@tabler/icons/outline/arrow-right.svg'
@@ -52,6 +53,10 @@ const pageNumbers = Array.from(
         indexed plugins
       </div>
     </header>
+
+    <div class={styles.searchTrigger}>
+      <SearchModal />
+    </div>
 
     <section aria-labelledby="results-heading">
       <div class={styles.resultsHeader}>

@@ -1,0 +1,112 @@
+---
+import { Input } from '@/components/starwind/input'
+import Layout from '@/layouts/Layout.astro'
+import styles from './search.module.scss'
+---
+
+<Layout
+  title="Search"
+  description="Search the DSH plugin index by name, repository, or npm package."
+>
+  <div class={styles.page}>
+    <header class={styles.header}>
+      <h1 class={styles.title}>Search</h1>
+      <p class={styles.intro}>
+        Find plugins by name, repository, or npm package.
+      </p>
+    </header>
+
+    <noscript>
+      <p class={styles.noscript}>Searching requires JavaScript.</p>
+    </noscript>
+
+    <div class={styles.searchRow}>
+      <Input
+        type="search"
+        placeholder="Search name, repository, or package"
+        aria-label="Search plugins"
+        data-search-input
+      />
+    </div>
+
+    <p class={styles.status} data-search-status aria-live="polite">
+      Type to search the plugin index.
+    </p>
+
+    <div class={styles.list} data-search-list hidden></div>
+    <div class={styles.empty} data-search-empty hidden>
+      <p>No plugins found for “<span data-empty-query></span>”.</p>
+    </div>
+
+    <div class={styles.pager}>
+      <button class={styles.pagerButton} type="button" data-search-prev disabled
+        >Previous</button
+      >
+      <span class={styles.pageLabel} data-search-page></span>
+      <button class={styles.pagerButton} type="button" data-search-next disabled
+        >Next</button
+      >
+    </div>
+  </div>
+
+  <template data-search-row>
+    <a class={styles.row} data-row href="#">
+      <span class={styles.rowId} data-id>#0</span>
+      <span class={styles.rowMain}>
+        <span class={styles.rowName} data-name></span>
+        <span class={styles.rowSub} data-sub></span>
+      </span>
+      <span class={styles.rowPackage} data-package></span>
+    </a>
+  </template>
+
+  <script>
+    import { initSearchUI } from '@/lib/search-ui'
+
+    const input = document.querySelector<HTMLInputElement>(
+      '[data-search-input]',
+    )
+    const status = document.querySelector<HTMLElement>('[data-search-status]')
+    const list = document.querySelector<HTMLElement>('[data-search-list]')
+    const empty = document.querySelector<HTMLElement>('[data-search-empty]')
+    const rowTemplate =
+      document.querySelector<HTMLTemplateElement>('[data-search-row]')
+    const prev = document.querySelector<HTMLButtonElement>('[data-search-prev]')
+    const next = document.querySelector<HTMLButtonElement>('[data-search-next]')
+    const pageLabel = document.querySelector<HTMLElement>('[data-search-page]')
+
+    if (
+      input &&
+      status &&
+      list &&
+      empty &&
+      rowTemplate instanceof HTMLTemplateElement &&
+      prev &&
+      next &&
+      pageLabel
+    ) {
+      const params = new URLSearchParams(location.search)
+      const initialQuery = params.get('q')?.trim() ?? ''
+
+      initSearchUI({
+        input,
+        status,
+        list,
+        empty,
+        rowTemplate,
+        prev,
+        next,
+        pageLabel,
+        pageSize: 36,
+        ...(initialQuery ? { initialQuery } : {}),
+        onStateChange: (query, page) => {
+          const params = new URLSearchParams()
+          if (query) params.set('q', query)
+          if (page > 1) params.set('page', String(page))
+          const value = params.toString()
+          history.replaceState(null, '', value ? `/search?${value}` : '/search')
+        },
+      })
+    }
+  </script>
+</Layout>

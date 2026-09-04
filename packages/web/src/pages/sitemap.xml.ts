@@ -16,7 +16,7 @@ const escapeXml = (value: string): string =>
 export const GET: APIRoute = async ({ site }) => {
   const plugins = await getCanonicalPlugins()
   const blogs = await getBlogs()
-  const paths = new Set<string>(['/', '/blog'])
+  const paths = new Set<string>(['/', '/search', '/blog'])
 
   for (const entry of plugins) {
     paths.add(pluginUrl(pluginId(entry)))
