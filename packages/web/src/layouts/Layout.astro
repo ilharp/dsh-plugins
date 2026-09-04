@@ -1,23 +1,89 @@
+---
+import { ThemeToggle } from '@/components/starwind/theme-toggle'
+import '@/styles/site.scss'
+import '@/styles/starwind.css'
+import { ThemeInitScript } from '@starwind-ui/astro/theme'
+import styles from './Layout.module.scss'
+
+interface Props {
+  title?: string
+  description?: string
+  canonical?: string
+}
+
+const {
+  title = 'DSH Plugins',
+  description = 'A focused index of plugins for DeepSeek Harness.',
+  canonical = Astro.url.pathname,
+} = Astro.props
+const pageTitle = title === 'DSH Plugins' ? title : `${title} · DSH Plugins`
+const canonicalUrl = new URL(canonical, Astro.site ?? Astro.url.origin)
+const pathname = Astro.url.pathname
+---
+
 <!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
-	</head>
-	<body>
-		<slot />
-	</body>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <meta
+      name="theme-color"
+      content="#fafafa"
+      media="(prefers-color-scheme: light)"
+    />
+    <meta
+      name="theme-color"
+      content="#0a0a0a"
+      media="(prefers-color-scheme: dark)"
+    />
+    <link rel="canonical" href={canonicalUrl} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <title>{pageTitle}</title>
+    <ThemeInitScript />
+  </head>
+  <body>
+    <div class={styles.page}>
+      <a class={styles.skipLink} href="#main-content">Skip to content</a>
+      <header class={styles.header}>
+        <div class={styles.headerInner}>
+          <a class={styles.brand} href="/" aria-label="DP — DSH Plugins home">
+            <span class={styles.brandMark} aria-hidden="true">DP</span>
+            <span class={styles.brandLabel}>DSH Plugins</span>
+          </a>
+          <nav class={styles.nav} aria-label="Primary navigation">
+            <a
+              class={styles.navLink}
+              href="/"
+              aria-current={pathname === '/' ? 'page' : undefined}>Plugins</a
+            >
+            <a
+              class={styles.navLink}
+              href="/blog"
+              aria-current={pathname.startsWith('/blog') ? 'page' : undefined}
+              >Blog</a
+            >
+            <ThemeToggle ariaLabel="Toggle color theme" size="sm" />
+          </nav>
+        </div>
+      </header>
+      <main id="main-content" class={styles.main}>
+        <slot />
+      </main>
+      <footer class={styles.footer}>
+        <div class={styles.footerInner}>
+          <span>Independent DSH community index.</span>
+          <a
+            class={styles.footerLink}
+            href="https://github.com/deepseek-ai/deepseek-harness"
+            >DeepSeek Harness</a
+          >
+        </div>
+      </footer>
+    </div>
+  </body>
 </html>
-
-<style>
-	html,
-	body {
-		margin: 0;
-		width: 100%;
-		height: 100%;
-	}
-</style>
