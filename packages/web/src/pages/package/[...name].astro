@@ -1,8 +1,8 @@
 ---
 import PluginDetail from '@/components/PluginDetail.astro'
 import Layout from '@/layouts/Layout.astro'
-import { getBlogsForPlugin } from '@/lib/blogs'
 import { getCanonicalPlugins, pluginId } from '@/lib/plugins'
+import { getPostsForPlugin } from '@/lib/posts'
 import { npmRoute } from '@/lib/urls'
 
 export const prerender = true
@@ -24,7 +24,7 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props
-const blogs = await getBlogsForPlugin(pluginId(entry))
+const posts = await getPostsForPlugin(pluginId(entry))
 ---
 
 <Layout
@@ -32,5 +32,5 @@ const blogs = await getBlogsForPlugin(pluginId(entry))
   description={`${entry.data.name} npm package and DSH compatibility reference.`}
   canonical={npmRoute(entry.data.npm!.name)}
 >
-  <PluginDetail entry={entry} blogs={blogs} context="npm" />
+  <PluginDetail entry={entry} posts={posts} context="npm" />
 </Layout>

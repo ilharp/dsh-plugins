@@ -69,9 +69,10 @@ const pathname = Astro.url.pathname
             >
             <a
               class={styles.navLink}
-              href="/blog"
-              aria-current={pathname.startsWith('/blog') ? 'page' : undefined}
-              >Blog</a
+              href="/posts"
+              aria-current={pathname === '/posts' || pathname.startsWith('/p/')
+                ? 'page'
+                : undefined}>Posts</a
             >
             <ThemeToggle ariaLabel="Toggle color theme" size="sm" />
           </nav>

@@ -1,16 +1,16 @@
 ---
 import { Button } from '@/components/starwind/button'
 import Layout from '@/layouts/Layout.astro'
-import { getBlogs } from '@/lib/blogs'
 import { getPluginById, isPlugin } from '@/lib/plugins'
-import { blogUrl, pluginUrl } from '@/lib/urls'
+import { getPosts } from '@/lib/posts'
+import { pluginUrl, postUrl } from '@/lib/urls'
 import { render } from 'astro:content'
-import styles from './blog.module.scss'
+import styles from './post.module.scss'
 
 export const prerender = true
 
 export async function getStaticPaths() {
-  const posts = await getBlogs()
+  const posts = await getPosts()
   return posts.map((post) => ({ params: { slug: post.id }, props: { post } }))
 }
 
@@ -25,8 +25,8 @@ const linkedPlugin = plugin && isPlugin(plugin) ? plugin : undefined
 
 <Layout
   title={post.data.title}
-  description={post.data.description ?? 'An article from the DSH plugin index.'}
-  canonical={blogUrl(post.id)}
+  description={post.data.description ?? 'A post from the DSH plugin index.'}
+  canonical={postUrl(post.id)}
 >
   <article class={styles.article}>
     <header class={styles.articleHeader}>

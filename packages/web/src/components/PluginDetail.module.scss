@@ -171,12 +171,12 @@
   height: 1rem;
 }
 
-.blogList {
+.postList {
   display: grid;
   border-top: 1px solid var(--border);
 }
 
-.blogLink {
+.postLink {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
   align-items: center;
@@ -186,16 +186,16 @@
   text-decoration: none;
 }
 
-.blogLink:hover .blogTitle {
+.postLink:hover .postTitle {
   text-decoration: underline;
   text-underline-offset: 0.22em;
 }
 
-.blogTitle {
+.postTitle {
   font-weight: 600;
 }
 
-.blogDate {
+.postDate {
   color: var(--muted-foreground);
   font-family: ui-monospace, monospace;
   font-size: 0.75rem;
@@ -247,7 +247,7 @@
     flex-direction: column;
   }
 
-  .blogLink {
+  .postLink {
     grid-template-columns: 1fr;
     gap: 0.2rem;
   }

@@ -2,8 +2,8 @@
 import PluginDetail from '@/components/PluginDetail.astro'
 import RepositoryDetail from '@/components/RepositoryDetail.astro'
 import Layout from '@/layouts/Layout.astro'
-import { getBlogsForPlugin } from '@/lib/blogs'
 import { getCanonicalPlugins, pluginId } from '@/lib/plugins'
+import { getPostsForPlugin } from '@/lib/posts'
 
 export const prerender = true
 
@@ -32,7 +32,7 @@ export async function getStaticPaths() {
 
 const { entries } = Astro.props
 const entry = entries.length === 1 ? entries[0] : undefined
-const blogs = entry ? await getBlogsForPlugin(pluginId(entry)) : []
+const posts = entry ? await getPostsForPlugin(pluginId(entry)) : []
 ---
 
 <Layout
@@ -46,7 +46,7 @@ const blogs = entry ? await getBlogsForPlugin(pluginId(entry)) : []
 >
   {
     entry ? (
-      <PluginDetail entry={entry} blogs={blogs} context="github" />
+      <PluginDetail entry={entry} posts={posts} context="github" />
     ) : (
       <RepositoryDetail entries={entries} />
     )

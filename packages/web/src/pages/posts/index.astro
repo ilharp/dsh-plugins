@@ -1,24 +1,24 @@
 ---
 import Layout from '@/layouts/Layout.astro'
-import { getBlogs } from '@/lib/blogs'
-import { blogUrl } from '@/lib/urls'
-import styles from './blog.module.scss'
+import { getPosts } from '@/lib/posts'
+import { postUrl } from '@/lib/urls'
+import styles from './index.module.scss'
 
 export const prerender = true
 
-const posts = (await getBlogs()).sort((left, right) =>
+const posts = (await getPosts()).sort((left, right) =>
   (right.data.publishedAt ?? '').localeCompare(left.data.publishedAt ?? ''),
 )
 ---
 
 <Layout
-  title="Blog"
+  title="Posts"
   description="Articles and field notes about plugins in the DSH ecosystem."
-  canonical="/blog"
+  canonical="/posts"
 >
   <section class={styles.index}>
     <header class={styles.indexHeader}>
-      <h1 class={styles.title}>Plugin field notes</h1>
+      <h1 class={styles.title}>Posts</h1>
       <p class={styles.intro}>
         Long-form introductions, implementation notes, and practical context for
         indexed plugins.
@@ -28,7 +28,7 @@ const posts = (await getBlogs()).sort((left, right) =>
       posts.length > 0 ? (
         <div class={styles.list}>
           {posts.map((post) => (
-            <a class={styles.item} href={blogUrl(post.id)}>
+            <a class={styles.item} href={postUrl(post.id)}>
               <h2 class={styles.itemTitle}>{post.data.title}</h2>
               {post.data.description && (
                 <p class={styles.itemDescription}>{post.data.description}</p>
@@ -42,7 +42,7 @@ const posts = (await getBlogs()).sort((left, right) =>
           ))}
         </div>
       ) : (
-        <p class={styles.empty}>No articles have been published yet.</p>
+        <p class={styles.empty}>No posts have been published yet.</p>
       )
     }
   </section>
