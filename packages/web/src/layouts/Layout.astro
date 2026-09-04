@@ -63,6 +63,12 @@ const pathname = Astro.url.pathname
             >
             <a
               class={styles.navLink}
+              href="/search"
+              aria-current={pathname.startsWith('/search') ? 'page' : undefined}
+              >Search</a
+            >
+            <a
+              class={styles.navLink}
               href="/blog"
               aria-current={pathname.startsWith('/blog') ? 'page' : undefined}
               >Blog</a
