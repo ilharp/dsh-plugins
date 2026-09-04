@@ -1,0 +1,31 @@
+---
+import Card from '@/components/starwind/card/Card.astro'
+import CardContent from '@/components/starwind/card/CardContent.astro'
+import CardHeader from '@/components/starwind/card/CardHeader.astro'
+import CopyButton from './CopyButton.astro'
+import styles from './InstallPanel.module.scss'
+
+interface Props {
+  command?: string
+}
+
+const { command } = Astro.props
+---
+
+<Card class={styles.panel} size="sm">
+  <CardHeader class={styles.header}>
+    <p class={styles.label}>Install</p>
+  </CardHeader>
+  <CardContent>
+    {
+      command ? (
+        <div class={styles.content}>
+          <code class={styles.command}>{command}</code>
+          <CopyButton value={command} />
+        </div>
+      ) : (
+        <p class={styles.empty}>No install command is available.</p>
+      )
+    }
+  </CardContent>
+</Card>

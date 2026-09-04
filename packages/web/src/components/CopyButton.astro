@@ -1,0 +1,60 @@
+---
+import { Button } from '@/components/starwind/button'
+import Check from '@tabler/icons/outline/check.svg'
+import Copy from '@tabler/icons/outline/copy.svg'
+import styles from './CopyButton.module.scss'
+
+interface Props {
+  value: string
+  label?: string
+}
+
+const { value, label = 'Copy' } = Astro.props
+---
+
+<Button
+  class={styles.button}
+  variant="outline"
+  size="sm"
+  type="button"
+  data-copy-button
+  data-copy-value={value}
+>
+  <Copy class={styles.icon} data-copy-idle aria-hidden="true" />
+  <span data-copy-done hidden
+    ><Check class={styles.icon} aria-hidden="true" /></span
+  >
+  <span data-copy-label>{label}</span>
+</Button>
+
+<script>
+  const bindCopyButtons = () => {
+    for (const button of document.querySelectorAll<HTMLButtonElement>(
+      '[data-copy-button]:not([data-copy-ready])',
+    )) {
+      button.dataset.copyReady = 'true'
+      button.addEventListener('click', async () => {
+        const value = button.dataset.copyValue ?? ''
+        const label = button.querySelector<HTMLElement>('[data-copy-label]')
+        const idle = button.querySelector<HTMLElement>('[data-copy-idle]')
+        const done = button.querySelector<HTMLElement>('[data-copy-done]')
+        try {
+          await navigator.clipboard.writeText(value)
+          if (label) label.textContent = 'Copied'
+          if (idle) idle.hidden = true
+          if (done) done.hidden = false
+          window.setTimeout(() => {
+            if (label) label.textContent = 'Copy'
+            if (idle) idle.hidden = false
+            if (done) done.hidden = true
+          }, 1600)
+        } catch {
+          if (label) label.textContent = 'Copy failed'
+        }
+      })
+    }
+  }
+
+  bindCopyButtons()
+  document.addEventListener('astro:page-load', bindCopyButtons)
+</script>

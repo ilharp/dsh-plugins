@@ -1,0 +1,56 @@
+---
+import { Button } from '@/components/starwind/button'
+import type { PluginData } from '@/lib/plugins'
+import { pluginId } from '@/lib/plugins'
+import { pluginUrl } from '@/lib/urls'
+import ArrowRight from '@tabler/icons/outline/arrow-right.svg'
+import type { CollectionEntry } from 'astro:content'
+import styles from './RepositoryDetail.module.scss'
+
+interface Props {
+  entries: Array<CollectionEntry<'plugin'> & { data: PluginData }>
+}
+
+const { entries } = Astro.props
+const repository = entries[0]?.data.github
+const label = repository
+  ? `${repository.owner}/${repository.repo}`
+  : 'Repository'
+---
+
+<article class={styles.page}>
+  <header class={styles.hero}>
+    <h1 class={styles.title}>{label}</h1>
+    <p class={styles.copy}>
+      This repository contains {entries.length} indexed plugins. Choose a repository
+      path to open its package reference.
+    </p>
+  </header>
+  <div class={styles.list}>
+    {
+      entries.map((entry) => (
+        <article class={styles.item}>
+          <span class={styles.id}>#{pluginId(entry)}</span>
+          <div>
+            <div class={styles.name}>{entry.data.name}</div>
+            <div class={styles.path}>
+              {entry.data.github?.path ?? 'repository root'}
+            </div>
+          </div>
+          <span class={styles.package}>
+            {entry.data.npm?.name ?? 'No npm package'}
+          </span>
+          <Button
+            as="a"
+            href={pluginUrl(pluginId(entry))}
+            variant="outline"
+            size="sm"
+          >
+            Open
+            <ArrowRight aria-hidden="true" />
+          </Button>
+        </article>
+      ))
+    }
+  </div>
+</article>

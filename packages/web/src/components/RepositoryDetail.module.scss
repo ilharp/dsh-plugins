@@ -1,0 +1,83 @@
+.page {
+  display: grid;
+  gap: clamp(2.5rem, 6vw, 5rem);
+}
+
+.hero {
+  max-width: 58rem;
+  padding-block-end: 2.5rem;
+  border-bottom: 1px solid var(--line-strong);
+}
+
+.title {
+  margin: 0;
+  overflow-wrap: anywhere;
+  font-family: ui-monospace, monospace;
+  font-size: clamp(2rem, 6vw, 4.75rem);
+  font-weight: 650;
+  letter-spacing: -0.04em;
+  line-height: 0.95;
+}
+
+.copy {
+  max-width: 48rem;
+  margin: 1.25rem 0 0;
+  color: var(--muted-foreground);
+}
+
+.list {
+  display: grid;
+  border-top: 1px solid var(--line-strong);
+}
+
+.item {
+  display: grid;
+  grid-template-columns: 4rem minmax(0, 1fr) minmax(12rem, 0.7fr) auto;
+  align-items: center;
+  gap: 1rem;
+  padding-block: 1.1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.id,
+.path,
+.package {
+  font-family: ui-monospace, monospace;
+  font-size: 0.78rem;
+}
+
+.id,
+.path {
+  color: var(--muted-foreground);
+}
+
+.name {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  font-weight: 650;
+}
+
+.package {
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 52rem) {
+  .item {
+    grid-template-columns: 3.5rem minmax(0, 1fr) auto;
+  }
+
+  .package {
+    display: none;
+  }
+}
+
+@media (max-width: 34rem) {
+  .item {
+    grid-template-columns: 3rem minmax(0, 1fr);
+  }
+
+  .item > :last-child {
+    grid-column: 2;
+    justify-self: start;
+  }
+}

@@ -1,0 +1,21 @@
+---
+import { Button } from '@/components/starwind/button'
+import styles from './NotFound.module.scss'
+
+interface Props {
+  title?: string
+  message?: string
+}
+
+const {
+  title = 'Not found',
+  message = 'The requested page does not match a plugin or article in this index.',
+} = Astro.props
+---
+
+<section class={styles.root}>
+  <p class={styles.code}>HTTP 404</p>
+  <h1 class={styles.title}>{title}</h1>
+  <p class={styles.copy}>{message}</p>
+  <Button as="a" href="/" variant="outline">Return to plugins</Button>
+</section>

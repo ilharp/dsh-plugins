@@ -1,0 +1,24 @@
+.root {
+  max-width: 42rem;
+  padding-block: 4rem 7rem;
+}
+
+.code {
+  margin: 0 0 1rem;
+  color: var(--muted-foreground);
+  font-family: ui-monospace, monospace;
+  font-size: 0.8rem;
+}
+
+.title {
+  margin: 0;
+  font-size: clamp(2.4rem, 9vw, 5.4rem);
+  letter-spacing: -0.04em;
+  line-height: 0.95;
+}
+
+.copy {
+  max-width: 36rem;
+  margin: 1.5rem 0 2rem;
+  color: var(--muted-foreground);
+}

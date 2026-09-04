@@ -1,0 +1,265 @@
+---
+import ArrowUpRight from '@tabler/icons/outline/arrow-up-right.svg'
+import BrandGithub from '@tabler/icons/outline/brand-github.svg'
+import Box from '@tabler/icons/outline/box.svg'
+import Hash from '@tabler/icons/outline/hash.svg'
+import Article from '@tabler/icons/outline/article.svg'
+import type { CollectionEntry } from 'astro:content'
+import BreadcrumbParts from '@/components/starwind/breadcrumb'
+import { Button } from '@/components/starwind/button'
+import TableParts from '@/components/starwind/table'
+import InstallPanel from './InstallPanel.astro'
+import { installCommand } from '@/lib/install'
+import type { PluginData } from '@/lib/plugins'
+import { pluginId } from '@/lib/plugins'
+import {
+  blogUrl,
+  githubRoute,
+  githubUrl,
+  npmRoute,
+  npmUrl,
+  pluginUrl,
+} from '@/lib/urls'
+import styles from './PluginDetail.module.scss'
+
+interface Props {
+  entry: CollectionEntry<'plugin'> & { data: PluginData }
+  blogs?: CollectionEntry<'blog'>[]
+  context?: 'plugin' | 'npm' | 'github'
+}
+
+const { entry, blogs = [], context = 'plugin' } = Astro.props
+const data = entry.data
+const id = pluginId(entry)
+const command = installCommand(data)
+const repositoryName = data.github
+  ? `${data.github.owner}/${data.github.repo}`
+  : undefined
+const metadata = data.github
+  ? [
+      ['Language', data.github.language],
+      ['License', data.github.license],
+      ['Stars', data.github.stars?.toLocaleString()],
+      ['Forks', data.github.forks?.toLocaleString()],
+      ['Open issues', data.github.openIssues?.toLocaleString()],
+      ['Repository path', data.github.path],
+    ].filter((item): item is [string, string] => Boolean(item[1]))
+  : []
+const canonical = pluginUrl(id)
+---
+
+<article class={styles.page}>
+  <BreadcrumbParts.Root class={styles.breadcrumbs}>
+    <BreadcrumbParts.List>
+      <BreadcrumbParts.Item
+        ><BreadcrumbParts.Link href="/">Plugins</BreadcrumbParts.Link
+        ></BreadcrumbParts.Item
+      >
+      <BreadcrumbParts.Separator />
+      <BreadcrumbParts.Item
+        ><BreadcrumbParts.Page>{data.name}</BreadcrumbParts.Page
+        ></BreadcrumbParts.Item
+      >
+    </BreadcrumbParts.List>
+  </BreadcrumbParts.Root>
+
+  <header class={styles.hero}>
+    <div class={styles.identity}>
+      <h1 class={styles.title}>{data.name}</h1>
+      <div class={styles.coordinates} aria-label="Plugin identities">
+        <span class={styles.coordinate}>plugin:{id}</span>
+        {
+          repositoryName && (
+            <span class={styles.coordinate}>
+              github:{repositoryName}
+              {data.github?.path ? `/${data.github.path}` : ''}
+            </span>
+          )
+        }
+        {data.npm && <span class={styles.coordinate}>npm:{data.npm.name}</span>}
+      </div>
+    </div>
+    <InstallPanel command={command} />
+  </header>
+
+  <div class={styles.body}>
+    <div class={styles.mainColumn}>
+      <section class={styles.section} aria-labelledby="notes-heading">
+        <h2 id="notes-heading" class={styles.sectionHeading}>Plugin notes</h2>
+        <div class={styles.notes}>
+          <p>No additional plugin notes yet.</p>
+        </div>
+      </section>
+
+      <section class={styles.section} aria-labelledby="versions-heading">
+        <h2 id="versions-heading" class={styles.sectionHeading}>Versions</h2>
+        {
+          data.versions.length > 0 ? (
+            <div class={styles.tableShell}>
+              <TableParts.Root>
+                <TableParts.Header>
+                  <TableParts.Row>
+                    <TableParts.Head>Package version</TableParts.Head>
+                    <TableParts.Head>DSH version</TableParts.Head>
+                  </TableParts.Row>
+                </TableParts.Header>
+                <TableParts.Body>
+                  {data.versions.map((version) => (
+                    <TableParts.Row>
+                      <TableParts.Cell>
+                        <code class={styles.version}>
+                          {version.packageVersion}
+                        </code>
+                      </TableParts.Cell>
+                      <TableParts.Cell>
+                        <code class={styles.version}>{version.dshVersion}</code>
+                      </TableParts.Cell>
+                    </TableParts.Row>
+                  ))}
+                </TableParts.Body>
+              </TableParts.Root>
+            </div>
+          ) : (
+            <p class={styles.emptyVersions}>
+              No package versions have been indexed yet.
+            </p>
+          )
+        }
+      </section>
+
+      {
+        metadata.length > 0 && (
+          <section class={styles.section} aria-labelledby="repository-heading">
+            <h2 id="repository-heading" class={styles.sectionHeading}>
+              Repository
+            </h2>
+            <dl class={styles.metadata}>
+              {metadata.map(([label, value]) => (
+                <div class={styles.metric}>
+                  <dt>{label}</dt>
+                  <dd>{value}</dd>
+                </div>
+              ))}
+            </dl>
+          </section>
+        )
+      }
+
+      {
+        blogs.length > 0 && (
+          <section class={styles.section} aria-labelledby="writing-heading">
+            <h2 id="writing-heading" class={styles.sectionHeading}>
+              Writing about this plugin
+            </h2>
+            <div class={styles.blogList}>
+              {blogs.map((post) => (
+                <a class={styles.blogLink} href={blogUrl(post.id)}>
+                  <span class={styles.blogTitle}>{post.data.title}</span>
+                  <span class={styles.blogDate}>
+                    {post.data.publishedAt ?? 'Article'}
+                  </span>
+                </a>
+              ))}
+            </div>
+          </section>
+        )
+      }
+    </div>
+
+    <aside class={styles.sidebar} aria-label="Plugin links">
+      <section class={styles.sidebarSection}>
+        <h2 class={styles.sidebarHeading}>Cross references</h2>
+        <Button
+          class={styles.link}
+          as="a"
+          href={canonical}
+          variant="outline"
+          size="sm"
+          aria-current={context === 'plugin' ? 'page' : undefined}
+        >
+          Plugin #{id}<Hash aria-hidden="true" />
+        </Button>
+        {
+          data.github && (
+            <Button
+              class={styles.link}
+              as="a"
+              href={githubRoute(data.github)}
+              variant="outline"
+              size="sm"
+              aria-current={context === 'github' ? 'page' : undefined}
+            >
+              Repository
+              <BrandGithub aria-hidden="true" />
+            </Button>
+          )
+        }
+        {
+          data.npm && (
+            <Button
+              class={styles.link}
+              as="a"
+              href={npmRoute(data.npm.name)}
+              variant="outline"
+              size="sm"
+              aria-current={context === 'npm' ? 'page' : undefined}
+            >
+              Package
+              <Box aria-hidden="true" />
+            </Button>
+          )
+        }
+      </section>
+
+      <section class={styles.sidebarSection}>
+        <h2 class={styles.sidebarHeading}>External</h2>
+        {
+          data.github && (
+            <Button
+              class={styles.link}
+              as="a"
+              href={githubUrl(data.github)}
+              target="_blank"
+              rel="noreferrer"
+              variant="ghost"
+              size="sm"
+            >
+              GitHub
+              <ArrowUpRight aria-hidden="true" />
+            </Button>
+          )
+        }
+        {
+          data.npm && (
+            <Button
+              class={styles.link}
+              as="a"
+              href={npmUrl(data.npm.name)}
+              target="_blank"
+              rel="noreferrer"
+              variant="ghost"
+              size="sm"
+            >
+              npm
+              <ArrowUpRight aria-hidden="true" />
+            </Button>
+          )
+        }
+        {
+          blogs.length > 0 && (
+            <Button
+              class={styles.link}
+              as="a"
+              href={blogUrl(blogs[0].id)}
+              variant="ghost"
+              size="sm"
+            >
+              Article
+              <Article aria-hidden="true" />
+            </Button>
+          )
+        }
+      </section>
+    </aside>
+  </div>
+</article>
