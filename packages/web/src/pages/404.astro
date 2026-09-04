@@ -1,0 +1,13 @@
+---
+import NotFound from '@/components/NotFound.astro'
+import Layout from '@/layouts/Layout.astro'
+Astro.response.status = 404
+---
+
+<Layout
+  title="Not found"
+  description="The requested page could not be found."
+  canonical={Astro.url.pathname}
+>
+  <NotFound />
+</Layout>

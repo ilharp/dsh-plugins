@@ -1,0 +1,47 @@
+---
+import Layout from '@/layouts/Layout.astro'
+import { getBlogs } from '@/lib/blogs'
+import { blogUrl } from '@/lib/urls'
+import styles from './blog.module.scss'
+
+const posts = (await getBlogs()).sort((left, right) =>
+  (right.data.publishedAt ?? '').localeCompare(left.data.publishedAt ?? ''),
+)
+---
+
+<Layout
+  title="Blog"
+  description="Articles and field notes about plugins in the DSH ecosystem."
+  canonical="/blog"
+>
+  <section class={styles.index}>
+    <header class={styles.indexHeader}>
+      <h1 class={styles.title}>Plugin field notes</h1>
+      <p class={styles.intro}>
+        Long-form introductions, implementation notes, and practical context for
+        indexed plugins.
+      </p>
+    </header>
+    {
+      posts.length > 0 ? (
+        <div class={styles.list}>
+          {posts.map((post) => (
+            <a class={styles.item} href={blogUrl(post.id)}>
+              <h2 class={styles.itemTitle}>{post.data.title}</h2>
+              {post.data.description && (
+                <p class={styles.itemDescription}>{post.data.description}</p>
+              )}
+              <div class={styles.meta}>
+                {post.data.publishedAt && <span>{post.data.publishedAt}</span>}
+                {post.data.author && <span>{post.data.author}</span>}
+                {post.data.plugin && <span>plugin #{post.data.plugin}</span>}
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class={styles.empty}>No articles have been published yet.</p>
+      )
+    }
+  </section>
+</Layout>

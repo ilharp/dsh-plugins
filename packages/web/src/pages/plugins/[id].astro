@@ -1,0 +1,35 @@
+---
+import NotFound from '@/components/NotFound.astro'
+import PluginDetail from '@/components/PluginDetail.astro'
+import Layout from '@/layouts/Layout.astro'
+import { getBlogsForPlugin } from '@/lib/blogs'
+import { getPluginById, isPlugin, isRedirect } from '@/lib/plugins'
+import { pluginUrl } from '@/lib/urls'
+
+const id = Number(Astro.params.id)
+const entry =
+  Number.isInteger(id) && id > 0 ? await getPluginById(id) : undefined
+
+if (entry && isRedirect(entry.data)) {
+  return Astro.redirect(pluginUrl(entry.data.redirect), 301)
+}
+
+if (!entry || !isPlugin(entry)) Astro.response.status = 404
+const blogs = entry && isPlugin(entry) ? await getBlogsForPlugin(id) : []
+---
+
+<Layout
+  title={entry && isPlugin(entry) ? entry.data.name : 'Plugin not found'}
+  description={entry && isPlugin(entry)
+    ? `${entry.data.name} package and compatibility reference.`
+    : 'The requested plugin could not be found.'}
+  canonical={entry && isPlugin(entry) ? pluginUrl(id) : Astro.url.pathname}
+>
+  {
+    entry && isPlugin(entry) ? (
+      <PluginDetail entry={entry} blogs={blogs} context="plugin" />
+    ) : (
+      <NotFound title="Plugin not found" />
+    )
+  }
+</Layout>

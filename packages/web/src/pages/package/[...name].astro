@@ -1,0 +1,36 @@
+---
+import NotFound from '@/components/NotFound.astro'
+import PluginDetail from '@/components/PluginDetail.astro'
+import Layout from '@/layouts/Layout.astro'
+import { getBlogsForPlugin } from '@/lib/blogs'
+import { getPluginByNpm, pluginId } from '@/lib/plugins'
+import { npmRoute } from '@/lib/urls'
+
+let name = Astro.params.name ?? ''
+try {
+  name = decodeURIComponent(name)
+} catch {
+  name = ''
+}
+const entry = name ? await getPluginByNpm(name) : undefined
+if (!entry) Astro.response.status = 404
+const blogs = entry ? await getBlogsForPlugin(pluginId(entry)) : []
+---
+
+<Layout
+  title={entry ? entry.data.name : 'Package not found'}
+  description={entry
+    ? `${entry.data.name} npm package and DSH compatibility reference.`
+    : 'The requested package could not be found.'}
+  canonical={entry
+    ? npmRoute(entry.data.npm?.name ?? name)
+    : Astro.url.pathname}
+>
+  {
+    entry ? (
+      <PluginDetail entry={entry} blogs={blogs} context="npm" />
+    ) : (
+      <NotFound title="Package not found" />
+    )
+  }
+</Layout>

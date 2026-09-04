@@ -1,0 +1,46 @@
+---
+import NotFound from '@/components/NotFound.astro'
+import PluginDetail from '@/components/PluginDetail.astro'
+import RepositoryDetail from '@/components/RepositoryDetail.astro'
+import Layout from '@/layouts/Layout.astro'
+import { getBlogsForPlugin } from '@/lib/blogs'
+import { getPluginsByRepository, pluginId } from '@/lib/plugins'
+
+let owner = Astro.params.owner ?? ''
+let repo = Astro.params.repo ?? ''
+try {
+  owner = decodeURIComponent(owner)
+  repo = decodeURIComponent(repo)
+} catch {
+  owner = ''
+  repo = ''
+}
+const entries = owner && repo ? await getPluginsByRepository(owner, repo) : []
+if (entries.length === 0) Astro.response.status = 404
+const entry = entries.length === 1 ? entries[0] : undefined
+const blogs = entry ? await getBlogsForPlugin(pluginId(entry)) : []
+---
+
+<Layout
+  title={entry
+    ? entry.data.name
+    : entries.length > 1
+      ? `${owner}/${repo}`
+      : 'Repository not found'}
+  description={entry
+    ? `${entry.data.name} GitHub repository and DSH compatibility reference.`
+    : entries.length > 1
+      ? `Indexed DSH plugins in ${owner}/${repo}.`
+      : 'The requested repository could not be found.'}
+  canonical={Astro.url.pathname}
+>
+  {
+    entry ? (
+      <PluginDetail entry={entry} blogs={blogs} context="github" />
+    ) : entries.length > 1 ? (
+      <RepositoryDetail entries={entries} />
+    ) : (
+      <NotFound title="Repository not found" />
+    )
+  }
+</Layout>
