@@ -9,16 +9,27 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "start": "node ./dist/server/entry.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/node": "^11.1.4",
     "@astrojs/react": "^6.0.4",
+    "@starwind-ui/astro": "1.2.0",
+    "@tabler/icons": "^3.37.1",
+    "@tailwindcss/forms": "^0.5",
+    "@tailwindcss/vite": "^4",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.5",
     "astro": "^7.2.7",
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "sass-embedded": "^1.103.1",
+    "tailwind-merge": "^3",
+    "tailwind-variants": "^3.2.2",
+    "tailwindcss": "^4",
+    "tw-animate-css": "^1"
   },
   "allowScripts": {
     "esbuild": true
