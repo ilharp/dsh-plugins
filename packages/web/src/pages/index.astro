@@ -1,29 +1,23 @@
 ---
-import { Button } from '@/components/starwind/button'
-import { Input } from '@/components/starwind/input'
 import PaginationParts from '@/components/starwind/pagination'
 import Layout from '@/layouts/Layout.astro'
-import { getCanonicalPlugins, pluginId, searchPlugins } from '@/lib/plugins'
+import { getCanonicalPlugins, pluginId } from '@/lib/plugins'
 import { pluginUrl } from '@/lib/urls'
 import ArrowRight from '@tabler/icons/outline/arrow-right.svg'
-import Search from '@tabler/icons/outline/search.svg'
 import styles from './index.module.scss'
 
-const allPlugins = (await getCanonicalPlugins()).sort((left, right) =>
+const plugins = (await getCanonicalPlugins()).sort((left, right) =>
   left.data.name.localeCompare(right.data.name),
 )
-const query = Astro.url.searchParams.get('q')?.trim() ?? ''
 const pageParam = Number(Astro.url.searchParams.get('page') ?? '1')
 const perPage = 36
-const filtered = searchPlugins(allPlugins, query)
-const pageCount = Math.max(1, Math.ceil(filtered.length / perPage))
+const pageCount = Math.max(1, Math.ceil(plugins.length / perPage))
 const page = Number.isInteger(pageParam)
   ? Math.min(Math.max(1, pageParam), pageCount)
   : 1
-const entries = filtered.slice((page - 1) * perPage, page * perPage)
+const entries = plugins.slice((page - 1) * perPage, page * perPage)
 const pageUrl = (target: number): string => {
   const params = new URLSearchParams()
-  if (query) params.set('q', query)
   if (target > 1) params.set('page', String(target))
   const value = params.toString()
   return value ? `/?${value}` : '/'
@@ -39,7 +33,7 @@ const pageNumbers = Array.from(
 
 <Layout
   title="DSH Plugins"
-  description="Search GitHub repositories, npm packages, and package versions in the DSH plugin index."
+  description="Browse GitHub repositories, npm packages, and package versions in the DSH plugin index."
 >
   <div class={styles.page}>
     <header class={styles.header}>
@@ -52,36 +46,18 @@ const pageNumbers = Array.from(
       </div>
       <div
         class={styles.count}
-        aria-label={`${allPlugins.length} indexed plugins`}
+        aria-label={`${plugins.length} indexed plugins`}
       >
-        <strong>{allPlugins.length.toLocaleString()}</strong>
+        <strong>{plugins.length.toLocaleString()}</strong>
         indexed plugins
       </div>
     </header>
 
-    <form class={styles.search} method="get" action="/" role="search">
-      <Input
-        name="q"
-        type="search"
-        value={query}
-        placeholder="Search name, repository, package, or version"
-        aria-label="Search plugins"
-      />
-      <Button type="submit" variant="outline">
-        <Search aria-hidden="true" />
-        Search
-      </Button>
-    </form>
-
     <section aria-labelledby="results-heading">
       <div class={styles.resultsHeader}>
-        <h2 id="results-heading" class={styles.resultsTitle}>
-          {query ? `Results for “${query}”` : 'All plugins'}
-        </h2>
+        <h2 id="results-heading" class={styles.resultsTitle}>All plugins</h2>
         <span class={styles.resultCount}>
-          {filtered.length.toLocaleString()} matches · page {page} of {
-            pageCount
-          }
+          {plugins.length.toLocaleString()} plugins · page {page} of {pageCount}
         </span>
       </div>
 
@@ -119,10 +95,7 @@ const pageNumbers = Array.from(
           </div>
         ) : (
           <div class={styles.empty}>
-            <h3 class={styles.emptyTitle}>No matching plugins</h3>
-            <p class={styles.emptyCopy}>
-              Try a package name, repository owner, or version number.
-            </p>
+            <h3 class={styles.emptyTitle}>No plugins indexed yet</h3>
           </div>
         )
       }

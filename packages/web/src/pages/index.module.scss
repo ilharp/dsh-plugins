@@ -44,13 +44,6 @@
   line-height: 1;
 }
 
-.search {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 0.75rem;
-  max-width: 44rem;
-}
-
 .resultsHeader {
   display: flex;
   align-items: baseline;
@@ -146,13 +139,8 @@
 }
 
 .emptyTitle {
-  margin: 0 0 0.5rem;
-  font-size: 1.2rem;
-}
-
-.emptyCopy {
   margin: 0;
-  color: var(--muted-foreground);
+  font-size: 1.2rem;
 }
 
 .pagination {
@@ -206,10 +194,6 @@
 }
 
 @media (max-width: 30rem) {
-  .search {
-    grid-template-columns: 1fr;
-  }
-
   .resultsHeader {
     align-items: flex-start;
     flex-direction: column;
