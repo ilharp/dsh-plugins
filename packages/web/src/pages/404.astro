@@ -1,7 +1,8 @@
 ---
 import NotFound from '@/components/NotFound.astro'
 import Layout from '@/layouts/Layout.astro'
-Astro.response.status = 404
+
+export const prerender = true
 ---
 
 <Layout
