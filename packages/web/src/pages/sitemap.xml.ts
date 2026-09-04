@@ -3,6 +3,8 @@ import { getCanonicalPlugins, pluginId } from '@/lib/plugins'
 import { blogUrl, githubRoute, npmRoute, pluginUrl } from '@/lib/urls'
 import type { APIRoute } from 'astro'
 
+export const prerender = true
+
 const escapeXml = (value: string): string =>
   value
     .replaceAll('&', '&amp;')

@@ -1,35 +1,29 @@
 ---
-import NotFound from '@/components/NotFound.astro'
 import PluginDetail from '@/components/PluginDetail.astro'
 import Layout from '@/layouts/Layout.astro'
 import { getBlogsForPlugin } from '@/lib/blogs'
-import { getPluginById, isPlugin, isRedirect } from '@/lib/plugins'
+import { getPlugins, isPlugin, pluginId } from '@/lib/plugins'
 import { pluginUrl } from '@/lib/urls'
 
-const id = Number(Astro.params.id)
-const entry =
-  Number.isInteger(id) && id > 0 ? await getPluginById(id) : undefined
+export const prerender = true
 
-if (entry && isRedirect(entry.data)) {
-  return Astro.redirect(pluginUrl(entry.data.redirect), 301)
+export async function getStaticPaths() {
+  const entries = (await getPlugins()).filter(isPlugin)
+  return entries.map((entry) => {
+    const id = pluginId(entry)
+    return { params: { id: String(id) }, props: { entry } }
+  })
 }
 
-if (!entry || !isPlugin(entry)) Astro.response.status = 404
-const blogs = entry && isPlugin(entry) ? await getBlogsForPlugin(id) : []
+const { entry } = Astro.props
+const id = pluginId(entry)
+const blogs = await getBlogsForPlugin(id)
 ---
 
 <Layout
-  title={entry && isPlugin(entry) ? entry.data.name : 'Plugin not found'}
-  description={entry && isPlugin(entry)
-    ? `${entry.data.name} package and compatibility reference.`
-    : 'The requested plugin could not be found.'}
-  canonical={entry && isPlugin(entry) ? pluginUrl(id) : Astro.url.pathname}
+  title={entry.data.name}
+  description={`${entry.data.name} package and compatibility reference.`}
+  canonical={pluginUrl(id)}
 >
-  {
-    entry && isPlugin(entry) ? (
-      <PluginDetail entry={entry} blogs={blogs} context="plugin" />
-    ) : (
-      <NotFound title="Plugin not found" />
-    )
-  }
+  <PluginDetail entry={entry} blogs={blogs} context="plugin" />
 </Layout>
