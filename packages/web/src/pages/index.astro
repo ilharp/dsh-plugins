@@ -1,7 +1,7 @@
 ---
+import SearchModal from '@/components/SearchModal.astro'
 import PaginationParts from '@/components/starwind/pagination'
 import Layout from '@/layouts/Layout.astro'
-import SearchModal from '@/components/SearchModal.astro'
 import { getCanonicalPlugins, pluginId } from '@/lib/plugins'
 import { pluginUrl } from '@/lib/urls'
 import ArrowRight from '@tabler/icons/outline/arrow-right.svg'
@@ -34,23 +34,17 @@ const pageNumbers = Array.from(
 
 <Layout
   title="DSH Plugins"
-  description="Browse GitHub repositories, npm packages, and package versions in the DSH plugin index."
+  description="在 DSH 插件索引中浏览 GitHub 仓库、npm 包与版本信息。"
 >
   <div class={styles.page}>
     <header class={styles.header}>
       <div>
-        <h1 class={styles.title}>DSH plugin index</h1>
-        <p class={styles.intro}>
-          A source-neutral reference for package identities, repository
-          coordinates, and DSH compatibility.
-        </p>
+        <h1 class={styles.title}>DSH 插件索引</h1>
+        <p class={styles.intro}>统一收录插件的包名、仓库来源与版本兼容信息。</p>
       </div>
-      <div
-        class={styles.count}
-        aria-label={`${plugins.length} indexed plugins`}
-      >
+      <div class={styles.count} aria-label={`已收录 ${plugins.length} 个插件`}>
         <strong>{plugins.length.toLocaleString()}</strong>
-        indexed plugins
+        个已收录插件
       </div>
     </header>
 
@@ -60,9 +54,9 @@ const pageNumbers = Array.from(
 
     <section aria-labelledby="results-heading">
       <div class={styles.resultsHeader}>
-        <h2 id="results-heading" class={styles.resultsTitle}>All plugins</h2>
+        <h2 id="results-heading" class={styles.resultsTitle}>全部插件</h2>
         <span class={styles.resultCount}>
-          {plugins.length.toLocaleString()} plugins · page {page} of {pageCount}
+          共 {plugins.length.toLocaleString()} 个插件 · 第 {page} / {pageCount} 页
         </span>
       </div>
 
@@ -88,10 +82,10 @@ const pageNumbers = Array.from(
                     )}
                   </span>
                   <span class={styles.package}>
-                    {data.npm?.name ?? 'GitHub source'}
+                    {data.npm?.name ?? 'GitHub 来源'}
                   </span>
                   <span class={styles.version}>
-                    {latest ? `v${latest}` : 'No version'}
+                    {latest ? `v${latest}` : '暂无版本'}
                   </span>
                   <ArrowRight class={styles.arrow} aria-hidden="true" />
                 </a>
@@ -100,7 +94,7 @@ const pageNumbers = Array.from(
           </div>
         ) : (
           <div class={styles.empty}>
-            <h3 class={styles.emptyTitle}>No plugins indexed yet</h3>
+            <h3 class={styles.emptyTitle}>还没有收录任何插件</h3>
           </div>
         )
       }
@@ -112,7 +106,7 @@ const pageNumbers = Array.from(
           <PaginationParts.Content>
             {page > 1 && (
               <PaginationParts.Previous href={pageUrl(page - 1)}>
-                Previous
+                上一页
               </PaginationParts.Previous>
             )}
             {pageNumbers.map((number) => (
@@ -127,7 +121,7 @@ const pageNumbers = Array.from(
             ))}
             {page < pageCount && (
               <PaginationParts.Next href={pageUrl(page + 1)}>
-                Next
+                下一页
               </PaginationParts.Next>
             )}
           </PaginationParts.Content>

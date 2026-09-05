@@ -13,7 +13,7 @@ interface Props {
 
 const {
   title = 'DSH Plugins',
-  description = 'A focused index of plugins for DeepSeek Harness.',
+  description = '收录 DeepSeek Harness 插件的包名、仓库与版本兼容信息。',
   canonical = Astro.url.pathname,
 } = Astro.props
 const pageTitle = title === 'DSH Plugins' ? title : `${title} · DSH Plugins`
@@ -22,7 +22,7 @@ const pathname = Astro.url.pathname
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="zh-CN">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -48,33 +48,33 @@ const pathname = Astro.url.pathname
   </head>
   <body>
     <div class={styles.page}>
-      <a class={styles.skipLink} href="#main-content">Skip to content</a>
+      <a class={styles.skipLink} href="#main-content">跳到主要内容</a>
       <header class={styles.header}>
         <div class={styles.headerInner}>
-          <a class={styles.brand} href="/" aria-label="DP — DSH Plugins home">
+          <a class={styles.brand} href="/" aria-label="DP — DSH Plugins 首页">
             <span class={styles.brandMark} aria-hidden="true">DP</span>
             <span class={styles.brandLabel}>DSH Plugins</span>
           </a>
-          <nav class={styles.nav} aria-label="Primary navigation">
+          <nav class={styles.nav} aria-label="主导航">
             <a
               class={styles.navLink}
               href="/"
-              aria-current={pathname === '/' ? 'page' : undefined}>Plugins</a
+              aria-current={pathname === '/' ? 'page' : undefined}>插件</a
             >
             <a
               class={styles.navLink}
               href="/search"
               aria-current={pathname.startsWith('/search') ? 'page' : undefined}
-              >Search</a
+              >搜索</a
             >
             <a
               class={styles.navLink}
               href="/posts"
               aria-current={pathname === '/posts' || pathname.startsWith('/p/')
                 ? 'page'
-                : undefined}>Posts</a
+                : undefined}>文章</a
             >
-            <ThemeToggle ariaLabel="Toggle color theme" size="sm" />
+            <ThemeToggle ariaLabel="切换深浅色主题" size="sm" />
           </nav>
         </div>
       </header>
@@ -83,7 +83,7 @@ const pathname = Astro.url.pathname
       </main>
       <footer class={styles.footer}>
         <div class={styles.footerInner}>
-          <span>Independent DSH community index.</span>
+          <span>独立的 DSH 社区插件目录。</span>
           <a
             class={styles.footerLink}
             href="https://github.com/deepseek-ai/deepseek-harness"

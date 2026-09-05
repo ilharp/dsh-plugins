@@ -22,7 +22,7 @@ const posts = await getPostsForPlugin(id)
 
 <Layout
   title={entry.data.name}
-  description={`${entry.data.name} package and compatibility reference.`}
+  description={`${entry.data.name} 的包信息与 DSH 兼容版本。`}
   canonical={pluginUrl(id)}
 >
   <PluginDetail entry={entry} posts={posts} context="plugin" />

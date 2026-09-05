@@ -37,12 +37,12 @@ const repositoryName = data.github
   : undefined
 const metadata = data.github
   ? [
-      ['Language', data.github.language],
-      ['License', data.github.license],
-      ['Stars', data.github.stars?.toLocaleString()],
-      ['Forks', data.github.forks?.toLocaleString()],
-      ['Open issues', data.github.openIssues?.toLocaleString()],
-      ['Repository path', data.github.path],
+      ['语言', data.github.language],
+      ['许可证', data.github.license],
+      ['Star 数', data.github.stars?.toLocaleString()],
+      ['Fork 数', data.github.forks?.toLocaleString()],
+      ['开放 issue', data.github.openIssues?.toLocaleString()],
+      ['仓库路径', data.github.path],
     ].filter((item): item is [string, string] => Boolean(item[1]))
   : []
 const canonical = pluginUrl(id)
@@ -52,7 +52,7 @@ const canonical = pluginUrl(id)
   <BreadcrumbParts.Root class={styles.breadcrumbs}>
     <BreadcrumbParts.List>
       <BreadcrumbParts.Item
-        ><BreadcrumbParts.Link href="/">Plugins</BreadcrumbParts.Link
+        ><BreadcrumbParts.Link href="/">插件</BreadcrumbParts.Link
         ></BreadcrumbParts.Item
       >
       <BreadcrumbParts.Separator />
@@ -66,7 +66,7 @@ const canonical = pluginUrl(id)
   <header class={styles.hero}>
     <div class={styles.identity}>
       <h1 class={styles.title}>{data.name}</h1>
-      <div class={styles.coordinates} aria-label="Plugin identities">
+      <div class={styles.coordinates} aria-label="插件标识">
         <span class={styles.coordinate}>plugin:{id}</span>
         {
           repositoryName && (
@@ -85,22 +85,22 @@ const canonical = pluginUrl(id)
   <div class={styles.body}>
     <div class={styles.mainColumn}>
       <section class={styles.section} aria-labelledby="notes-heading">
-        <h2 id="notes-heading" class={styles.sectionHeading}>Plugin notes</h2>
+        <h2 id="notes-heading" class={styles.sectionHeading}>插件说明</h2>
         <div class={styles.notes}>
-          <p>No additional plugin notes yet.</p>
+          <p>暂无补充说明。</p>
         </div>
       </section>
 
       <section class={styles.section} aria-labelledby="versions-heading">
-        <h2 id="versions-heading" class={styles.sectionHeading}>Versions</h2>
+        <h2 id="versions-heading" class={styles.sectionHeading}>版本</h2>
         {
           data.versions.length > 0 ? (
             <div class={styles.tableShell}>
               <TableParts.Root>
                 <TableParts.Header>
                   <TableParts.Row>
-                    <TableParts.Head>Package version</TableParts.Head>
-                    <TableParts.Head>DSH version</TableParts.Head>
+                    <TableParts.Head>包版本</TableParts.Head>
+                    <TableParts.Head>DSH 版本</TableParts.Head>
                   </TableParts.Row>
                 </TableParts.Header>
                 <TableParts.Body>
@@ -120,9 +120,7 @@ const canonical = pluginUrl(id)
               </TableParts.Root>
             </div>
           ) : (
-            <p class={styles.emptyVersions}>
-              No package versions have been indexed yet.
-            </p>
+            <p class={styles.emptyVersions}>尚未收录版本信息。</p>
           )
         }
       </section>
@@ -131,7 +129,7 @@ const canonical = pluginUrl(id)
         metadata.length > 0 && (
           <section class={styles.section} aria-labelledby="repository-heading">
             <h2 id="repository-heading" class={styles.sectionHeading}>
-              Repository
+              仓库
             </h2>
             <dl class={styles.metadata}>
               {metadata.map(([label, value]) => (
@@ -149,14 +147,14 @@ const canonical = pluginUrl(id)
         posts.length > 0 && (
           <section class={styles.section} aria-labelledby="writing-heading">
             <h2 id="writing-heading" class={styles.sectionHeading}>
-              Writing about this plugin
+              相关文章
             </h2>
             <div class={styles.postList}>
               {posts.map((post) => (
                 <a class={styles.postLink} href={postUrl(post.id)}>
                   <span class={styles.postTitle}>{post.data.title}</span>
                   <span class={styles.postDate}>
-                    {post.data.publishedAt ?? 'Post'}
+                    {post.data.publishedAt ?? '文章'}
                   </span>
                 </a>
               ))}
@@ -166,9 +164,9 @@ const canonical = pluginUrl(id)
       }
     </div>
 
-    <aside class={styles.sidebar} aria-label="Plugin links">
+    <aside class={styles.sidebar} aria-label="插件链接">
       <section class={styles.sidebarSection}>
-        <h2 class={styles.sidebarHeading}>Cross references</h2>
+        <h2 class={styles.sidebarHeading}>站内跳转</h2>
         <Button
           class={styles.link}
           as="a"
@@ -177,7 +175,7 @@ const canonical = pluginUrl(id)
           size="sm"
           aria-current={context === 'plugin' ? 'page' : undefined}
         >
-          Plugin #{id}<Hash aria-hidden="true" />
+          插件 #{id}<Hash aria-hidden="true" />
         </Button>
         {
           data.github && (
@@ -189,7 +187,7 @@ const canonical = pluginUrl(id)
               size="sm"
               aria-current={context === 'github' ? 'page' : undefined}
             >
-              Repository
+              仓库
               <BrandGithub aria-hidden="true" />
             </Button>
           )
@@ -204,7 +202,7 @@ const canonical = pluginUrl(id)
               size="sm"
               aria-current={context === 'npm' ? 'page' : undefined}
             >
-              Package
+              包
               <Box aria-hidden="true" />
             </Button>
           )
@@ -212,7 +210,7 @@ const canonical = pluginUrl(id)
       </section>
 
       <section class={styles.sidebarSection}>
-        <h2 class={styles.sidebarHeading}>External</h2>
+        <h2 class={styles.sidebarHeading}>外部链接</h2>
         {
           data.github && (
             <Button
@@ -254,7 +252,7 @@ const canonical = pluginUrl(id)
               variant="ghost"
               size="sm"
             >
-              Post
+              文章
               <Article aria-hidden="true" />
             </Button>
           )

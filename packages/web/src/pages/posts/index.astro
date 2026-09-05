@@ -12,16 +12,15 @@ const posts = (await getPosts()).sort((left, right) =>
 ---
 
 <Layout
-  title="Posts"
-  description="Articles and field notes about plugins in the DSH ecosystem."
+  title="文章"
+  description="关于 DSH 插件的文章与使用笔记。"
   canonical="/posts"
 >
   <section class={styles.index}>
     <header class={styles.indexHeader}>
-      <h1 class={styles.title}>Posts</h1>
+      <h1 class={styles.title}>文章</h1>
       <p class={styles.intro}>
-        Long-form introductions, implementation notes, and practical context for
-        indexed plugins.
+        为收录的插件撰写的介绍文章，包含功能说明与上手方法。
       </p>
     </header>
     {
@@ -36,13 +35,13 @@ const posts = (await getPosts()).sort((left, right) =>
               <div class={styles.meta}>
                 {post.data.publishedAt && <span>{post.data.publishedAt}</span>}
                 {post.data.author && <span>{post.data.author}</span>}
-                {post.data.plugin && <span>plugin #{post.data.plugin}</span>}
+                {post.data.plugin && <span>插件 #{post.data.plugin}</span>}
               </div>
             </a>
           ))}
         </div>
       ) : (
-        <p class={styles.empty}>No posts have been published yet.</p>
+        <p class={styles.empty}>还没有发布文章。</p>
       )
     }
   </section>

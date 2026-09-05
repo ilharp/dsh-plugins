@@ -25,7 +25,7 @@ const linkedPlugin = plugin && isPlugin(plugin) ? plugin : undefined
 
 <Layout
   title={post.data.title}
-  description={post.data.description ?? 'A post from the DSH plugin index.'}
+  description={post.data.description ?? 'DSH 插件索引收录的文章。'}
   canonical={postUrl(post.id)}
 >
   <article class={styles.article}>
@@ -44,7 +44,7 @@ const linkedPlugin = plugin && isPlugin(plugin) ? plugin : undefined
             </time>
           )
         }
-        {post.data.updatedAt && <span>Updated {post.data.updatedAt}</span>}
+        {post.data.updatedAt && <span>更新于 {post.data.updatedAt}</span>}
         {post.data.author && <span>{post.data.author}</span>}
       </div>
     </header>
@@ -54,7 +54,7 @@ const linkedPlugin = plugin && isPlugin(plugin) ? plugin : undefined
     {
       linkedPlugin && post.data.plugin && (
         <aside class={styles.related}>
-          <span class={styles.relatedLabel}>Related plugin</span>
+          <span class={styles.relatedLabel}>相关插件</span>
           <Button
             as="a"
             href={pluginUrl(post.data.plugin)}

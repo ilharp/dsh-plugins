@@ -13,17 +13,14 @@ interface Props {
 
 const { entries } = Astro.props
 const repository = entries[0]?.data.github
-const label = repository
-  ? `${repository.owner}/${repository.repo}`
-  : 'Repository'
+const label = repository ? `${repository.owner}/${repository.repo}` : '仓库'
 ---
 
 <article class={styles.page}>
   <header class={styles.hero}>
     <h1 class={styles.title}>{label}</h1>
     <p class={styles.copy}>
-      This repository contains {entries.length} indexed plugins. Choose a repository
-      path to open its package reference.
+      该仓库收录了 {entries.length} 个插件，选择对应路径查看详情。
     </p>
   </header>
   <div class={styles.list}>
@@ -34,11 +31,11 @@ const label = repository
           <div>
             <div class={styles.name}>{entry.data.name}</div>
             <div class={styles.path}>
-              {entry.data.github?.path ?? 'repository root'}
+              {entry.data.github?.path ?? '仓库根目录'}
             </div>
           </div>
           <span class={styles.package}>
-            {entry.data.npm?.name ?? 'No npm package'}
+            {entry.data.npm?.name ?? '无 npm 包'}
           </span>
           <Button
             as="a"
@@ -46,7 +43,7 @@ const label = repository
             variant="outline"
             size="sm"
           >
-            Open
+            打开
             <ArrowRight aria-hidden="true" />
           </Button>
         </article>

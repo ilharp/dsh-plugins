@@ -14,7 +14,7 @@ const { command } = Astro.props
 
 <Card class={styles.panel} size="sm">
   <CardHeader class={styles.header}>
-    <p class={styles.label}>Install</p>
+    <p class={styles.label}>安装</p>
   </CardHeader>
   <CardContent>
     {
@@ -24,7 +24,7 @@ const { command } = Astro.props
           <CopyButton value={command} />
         </div>
       ) : (
-        <p class={styles.empty}>No install command is available.</p>
+        <p class={styles.empty}>暂无安装命令。</p>
       )
     }
   </CardContent>

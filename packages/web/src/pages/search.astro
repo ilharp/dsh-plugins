@@ -4,47 +4,42 @@ import Layout from '@/layouts/Layout.astro'
 import styles from './search.module.scss'
 ---
 
-<Layout
-  title="Search"
-  description="Search the DSH plugin index by name, repository, or npm package."
->
+<Layout title="搜索" description="按名称、仓库或 npm 包搜索 DSH 插件索引。">
   <div class={styles.page}>
     <header class={styles.header}>
-      <h1 class={styles.title}>Search</h1>
-      <p class={styles.intro}>
-        Find plugins by name, repository, or npm package.
-      </p>
+      <h1 class={styles.title}>搜索</h1>
+      <p class={styles.intro}>按名称、仓库或 npm 包查找插件。</p>
     </header>
 
     <noscript>
-      <p class={styles.noscript}>Searching requires JavaScript.</p>
+      <p class={styles.noscript}>搜索功能需要启用 JavaScript。</p>
     </noscript>
 
     <div class={styles.searchRow}>
       <Input
         type="search"
-        placeholder="Search name, repository, or package"
-        aria-label="Search plugins"
+        placeholder="搜索名称、仓库或包名"
+        aria-label="搜索插件"
         data-search-input
       />
     </div>
 
     <p class={styles.status} data-search-status aria-live="polite">
-      Type to search the plugin index.
+      输入关键词开始搜索
     </p>
 
     <div class={styles.list} data-search-list hidden></div>
     <div class={styles.empty} data-search-empty hidden>
-      <p>No plugins found for “<span data-empty-query></span>”.</p>
+      <p>没有找到与“<span data-empty-query></span>”匹配的插件。</p>
     </div>
 
     <div class={styles.pager}>
       <button class={styles.pagerButton} type="button" data-search-prev disabled
-        >Previous</button
+        >上一页</button
       >
       <span class={styles.pageLabel} data-search-page></span>
       <button class={styles.pagerButton} type="button" data-search-next disabled
-        >Next</button
+        >下一页</button
       >
     </div>
   </div>

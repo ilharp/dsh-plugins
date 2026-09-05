@@ -7,42 +7,42 @@ import styles from './SearchModal.module.scss'
 
 <Button type="button" variant="outline" class={styles.trigger} data-search-open>
   <Search aria-hidden="true" />
-  Search plugins
+  搜索插件
   <kbd class={styles.kbd} aria-hidden="true">/</kbd>
 </Button>
 
-<dialog class={styles.dialog} data-search-dialog aria-label="Search plugins">
+<dialog class={styles.dialog} data-search-dialog aria-label="搜索插件">
   <div class={styles.inner}>
     <div class={styles.searchRow}>
       <Input
         type="search"
-        placeholder="Search name, repository, or package"
-        aria-label="Search plugins"
+        placeholder="搜索名称、仓库或包名"
+        aria-label="搜索插件"
         data-search-input
       />
       <button
         class={styles.close}
         type="button"
         data-search-close
-        aria-label="Close search"
+        aria-label="关闭搜索"
       >
         Esc
       </button>
     </div>
     <p class={styles.status} data-search-status aria-live="polite">
-      Loading search index…
+      搜索索引加载中…
     </p>
     <div class={styles.list} data-search-list hidden></div>
     <div class={styles.empty} data-search-empty hidden>
-      <p>No plugins found for “<span data-empty-query></span>”.</p>
+      <p>没有找到与“<span data-empty-query></span>”匹配的插件。</p>
     </div>
     <div class={styles.pager}>
       <button class={styles.pagerButton} type="button" data-search-prev disabled
-        >Previous</button
+        >上一页</button
       >
       <span class={styles.pageLabel} data-search-page></span>
       <button class={styles.pagerButton} type="button" data-search-next disabled
-        >Next</button
+        >下一页</button
       >
     </div>
   </div>

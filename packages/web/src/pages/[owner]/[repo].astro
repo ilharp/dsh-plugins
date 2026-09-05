@@ -40,8 +40,8 @@ const posts = entry ? await getPostsForPlugin(pluginId(entry)) : []
     ? entry.data.name
     : `${entries[0].data.github!.owner}/${entries[0].data.github!.repo}`}
   description={entry
-    ? `${entry.data.name} GitHub repository and DSH compatibility reference.`
-    : `Indexed DSH plugins in ${entries[0].data.github!.owner}/${entries[0].data.github!.repo}.`}
+    ? `${entry.data.name} 的 GitHub 仓库信息与 DSH 兼容版本。`
+    : `${entries[0].data.github!.owner}/${entries[0].data.github!.repo} 中收录的 DSH 插件。`}
   canonical={Astro.url.pathname}
 >
   {

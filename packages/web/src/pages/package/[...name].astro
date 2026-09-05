@@ -29,7 +29,7 @@ const posts = await getPostsForPlugin(pluginId(entry))
 
 <Layout
   title={entry.data.name}
-  description={`${entry.data.name} npm package and DSH compatibility reference.`}
+  description={`${entry.data.name} 的 npm 包信息与 DSH 兼容版本。`}
   canonical={npmRoute(entry.data.npm!.name)}
 >
   <PluginDetail entry={entry} posts={posts} context="npm" />

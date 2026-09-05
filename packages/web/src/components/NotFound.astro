@@ -8,8 +8,8 @@ interface Props {
 }
 
 const {
-  title = 'Not found',
-  message = 'The requested page does not match a plugin or article in this index.',
+  title = '页面不存在',
+  message = '请求的地址不对应本索引中的插件或文章。',
 } = Astro.props
 ---
 
@@ -17,5 +17,5 @@ const {
   <p class={styles.code}>HTTP 404</p>
   <h1 class={styles.title}>{title}</h1>
   <p class={styles.copy}>{message}</p>
-  <Button as="a" href="/" variant="outline">Return to plugins</Button>
+  <Button as="a" href="/" variant="outline">返回插件列表</Button>
 </section>
