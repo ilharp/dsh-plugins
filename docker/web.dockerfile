@@ -2,6 +2,8 @@ FROM node:26.8.1-alpine3.23
 
 WORKDIR /app
 
+COPY . /app
+
 RUN ["npm", "install", "-g", "corepack"]
 RUN ["corepack", "yarn"]
 RUN ["corepack", "yarn", "workspace", "dsh-plugins-web", "build"]
