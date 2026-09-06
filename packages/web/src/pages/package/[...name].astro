@@ -1,36 +1,54 @@
 ---
+import NotFound from '@/components/NotFound.astro'
 import PluginDetail from '@/components/PluginDetail.astro'
 import Layout from '@/layouts/Layout.astro'
-import { getCanonicalPlugins, pluginId } from '@/lib/plugins'
+import { getPluginByNpm, pluginId } from '@/lib/plugins'
 import { getPostsForPlugin } from '@/lib/posts'
 import { npmRoute } from '@/lib/urls'
 
-export const prerender = true
+// export const prerender = true
+//
+// export async function getStaticPaths() {
+//   const byName = new Map<string, (typeof entries)[number]>()
+//   const entries = await getCanonicalPlugins()
+//   for (const entry of entries) {
+//     const name = entry.data.npm?.name
+//     if (!name) continue
+//     const key = name.toLowerCase()
+//     // First match wins, mirroring getPluginByNpm.
+//     if (!byName.has(key)) byName.set(key, entry)
+//   }
+//   return [...byName.values()].map((entry) => ({
+//     params: { name: entry.data.npm!.name },
+//     props: { entry },
+//   }))
+// }
 
-export async function getStaticPaths() {
-  const byName = new Map<string, (typeof entries)[number]>()
-  const entries = await getCanonicalPlugins()
-  for (const entry of entries) {
-    const name = entry.data.npm?.name
-    if (!name) continue
-    const key = name.toLowerCase()
-    // First match wins, mirroring getPluginByNpm.
-    if (!byName.has(key)) byName.set(key, entry)
-  }
-  return [...byName.values()].map((entry) => ({
-    params: { name: entry.data.npm!.name },
-    props: { entry },
-  }))
+let name = Astro.params.name ?? ''
+try {
+  name = decodeURIComponent(name)
+} catch {
+  name = ''
 }
-
-const { entry } = Astro.props
-const posts = await getPostsForPlugin(pluginId(entry))
+const entry = name ? await getPluginByNpm(name) : undefined
+if (!entry) Astro.response.status = 404
+const posts = entry ? await getPostsForPlugin(pluginId(entry)) : []
 ---
 
 <Layout
-  title={entry.data.name}
-  description={`${entry.data.name} 的 npm 包信息与 DSH 兼容版本。`}
-  canonical={npmRoute(entry.data.npm!.name)}
+  title={entry ? entry.data.name : '页面不存在'}
+  description={entry
+    ? `${entry.data.name} 的 npm 包信息与 DSH 兼容版本。`
+    : '请求的页面不存在。'}
+  canonical={entry
+    ? npmRoute(entry.data.npm?.name ?? name)
+    : Astro.url.pathname}
 >
-  <PluginDetail entry={entry} posts={posts} context="npm" />
+  {
+    entry ? (
+      <PluginDetail entry={entry} posts={posts} context="npm" />
+    ) : (
+      <NotFound title="包不存在" />
+    )
+  }
 </Layout>

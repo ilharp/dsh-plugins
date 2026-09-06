@@ -1,29 +1,45 @@
 ---
+import NotFound from '@/components/NotFound.astro'
 import PluginDetail from '@/components/PluginDetail.astro'
 import Layout from '@/layouts/Layout.astro'
-import { getPlugins, isPlugin, pluginId } from '@/lib/plugins'
+import { getPluginById, isPlugin, isRedirect } from '@/lib/plugins'
 import { getPostsForPlugin } from '@/lib/posts'
 import { pluginUrl } from '@/lib/urls'
 
-export const prerender = true
+// export const prerender = true
+//
+// export async function getStaticPaths() {
+//   const entries = (await getPlugins()).filter(isPlugin)
+//   return entries.map((entry) => {
+//     const id = pluginId(entry)
+//     return { params: { id: String(id) }, props: { entry } }
+//   })
+// }
 
-export async function getStaticPaths() {
-  const entries = (await getPlugins()).filter(isPlugin)
-  return entries.map((entry) => {
-    const id = pluginId(entry)
-    return { params: { id: String(id) }, props: { entry } }
-  })
+const id = Number(Astro.params.id)
+const entry =
+  Number.isInteger(id) && id > 0 ? await getPluginById(id) : undefined
+
+if (entry && isRedirect(entry.data)) {
+  return Astro.redirect(pluginUrl(entry.data.redirect), 301)
 }
 
-const { entry } = Astro.props
-const id = pluginId(entry)
-const posts = await getPostsForPlugin(id)
+if (!entry || !isPlugin(entry)) Astro.response.status = 404
+const posts = entry && isPlugin(entry) ? await getPostsForPlugin(id) : []
 ---
 
 <Layout
-  title={entry.data.name}
-  description={`${entry.data.name} 的包信息与 DSH 兼容版本。`}
-  canonical={pluginUrl(id)}
+  title={entry && isPlugin(entry) ? entry.data.name : '页面不存在'}
+  description={entry && isPlugin(entry)
+    ? `${entry.data.name} 的包信息与 DSH 兼容版本。`
+    : '请求的页面不存在。'}
+  canonical={entry && isPlugin(entry) ? pluginUrl(id) : Astro.url.pathname}
 >
-  <PluginDetail entry={entry} posts={posts} context="plugin" />
+  {
+    entry && isPlugin(entry) ? (
+      <PluginDetail entry={entry} posts={posts} context="plugin" />
+    ) : (
+      <NotFound title="插件不存在" />
+    )
+  }
 </Layout>

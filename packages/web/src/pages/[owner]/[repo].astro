@@ -1,36 +1,47 @@
 ---
+import NotFound from '@/components/NotFound.astro'
 import PluginDetail from '@/components/PluginDetail.astro'
 import RepositoryDetail from '@/components/RepositoryDetail.astro'
 import Layout from '@/layouts/Layout.astro'
-import { getCanonicalPlugins, pluginId } from '@/lib/plugins'
+import { getPluginsByRepository, pluginId } from '@/lib/plugins'
 import { getPostsForPlugin } from '@/lib/posts'
 
-export const prerender = true
+// export const prerender = true
+//
+// export async function getStaticPaths() {
+//   const byRepository = new Map<string, (typeof entries)[number][]>()
+//   const entries = await getCanonicalPlugins()
+//   for (const entry of entries) {
+//     const github = entry.data.github
+//     if (!github) continue
+//     const key = `${github.owner.toLowerCase()}/${github.repo.toLowerCase()}`
+//     if (!byRepository.has(key)) byRepository.set(key, [])
+//     byRepository.get(key)!.push(entry)
+//   }
+//   return [...byRepository.values()].map((group) => {
+//     const { owner, repo } = group[0].data.github!
+//     // Encoded form matches githubRoute so links and routes always agree.
+//     return {
+//       params: {
+//         owner: encodeURIComponent(owner),
+//         repo: encodeURIComponent(repo),
+//       },
+//       props: { entries: group },
+//     }
+//   })
+// }
 
-export async function getStaticPaths() {
-  const byRepository = new Map<string, (typeof entries)[number][]>()
-  const entries = await getCanonicalPlugins()
-  for (const entry of entries) {
-    const github = entry.data.github
-    if (!github) continue
-    const key = `${github.owner.toLowerCase()}/${github.repo.toLowerCase()}`
-    if (!byRepository.has(key)) byRepository.set(key, [])
-    byRepository.get(key)!.push(entry)
-  }
-  return [...byRepository.values()].map((group) => {
-    const { owner, repo } = group[0].data.github!
-    // Encoded form matches githubRoute so links and routes always agree.
-    return {
-      params: {
-        owner: encodeURIComponent(owner),
-        repo: encodeURIComponent(repo),
-      },
-      props: { entries: group },
-    }
-  })
+let owner = Astro.params.owner ?? ''
+let repo = Astro.params.repo ?? ''
+try {
+  owner = decodeURIComponent(owner)
+  repo = decodeURIComponent(repo)
+} catch {
+  owner = ''
+  repo = ''
 }
-
-const { entries } = Astro.props
+const entries = owner && repo ? await getPluginsByRepository(owner, repo) : []
+if (entries.length === 0) Astro.response.status = 404
 const entry = entries.length === 1 ? entries[0] : undefined
 const posts = entry ? await getPostsForPlugin(pluginId(entry)) : []
 ---
@@ -38,17 +49,23 @@ const posts = entry ? await getPostsForPlugin(pluginId(entry)) : []
 <Layout
   title={entry
     ? entry.data.name
-    : `${entries[0].data.github!.owner}/${entries[0].data.github!.repo}`}
+    : entries.length > 1
+      ? `${owner}/${repo}`
+      : '页面不存在'}
   description={entry
     ? `${entry.data.name} 的 GitHub 仓库信息与 DSH 兼容版本。`
-    : `${entries[0].data.github!.owner}/${entries[0].data.github!.repo} 中收录的 DSH 插件。`}
+    : entries.length > 1
+      ? `${owner}/${repo} 中收录的 DSH 插件。`
+      : '请求的页面不存在。'}
   canonical={Astro.url.pathname}
 >
   {
     entry ? (
       <PluginDetail entry={entry} posts={posts} context="github" />
-    ) : (
+    ) : entries.length > 1 ? (
       <RepositoryDetail entries={entries} />
+    ) : (
+      <NotFound title="仓库不存在" />
     )
   }
 </Layout>
