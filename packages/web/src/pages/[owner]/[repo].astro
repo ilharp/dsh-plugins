@@ -6,8 +6,8 @@ import Layout from '@/layouts/Layout.astro'
 import { getPluginsByRepository, pluginId } from '@/utils/plugins'
 import { getPostsForPlugin } from '@/utils/posts'
 
-// export const prerender = true
-//
+export const prerender = false
+
 // export async function getStaticPaths() {
 //   const byRepository = new Map<string, (typeof entries)[number][]>()
 //   const entries = await getCanonicalPlugins()

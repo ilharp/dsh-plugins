@@ -4,6 +4,8 @@ import Layout from '@/layouts/Layout.astro'
 
 // SSR on purpose: a prerendered 404 route short-circuits the pipeline and
 // skips middleware, which must run to serve plugin redirects.
+export const prerender = false
+
 Astro.response.status = 404
 ---
 
