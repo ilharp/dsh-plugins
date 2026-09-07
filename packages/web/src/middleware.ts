@@ -1,5 +1,5 @@
-import { getPlugins, isRedirect, pluginId } from '@/lib/plugins'
-import { pluginUrl } from '@/lib/urls'
+import { getPlugins, isRedirect, pluginId } from '@/utils/plugins'
+import { pluginUrl } from '@/utils/urls'
 import { defineMiddleware } from 'astro:middleware'
 
 let redirectsPromise: Promise<Map<number, number>> | undefined

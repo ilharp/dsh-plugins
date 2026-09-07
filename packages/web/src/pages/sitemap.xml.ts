@@ -1,6 +1,6 @@
-import { getCanonicalPlugins, pluginId } from '@/lib/plugins'
-import { getPosts } from '@/lib/posts'
-import { githubRoute, npmRoute, pluginUrl, postUrl } from '@/lib/urls'
+import { getCanonicalPlugins, pluginId } from '@/utils/plugins'
+import { getPosts } from '@/utils/posts'
+import { githubRoute, npmRoute, pluginUrl, postUrl } from '@/utils/urls'
 import type { APIRoute } from 'astro'
 
 export const prerender = true

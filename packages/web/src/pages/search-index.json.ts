@@ -1,4 +1,4 @@
-import { getCanonicalPlugins, pluginId } from '@/lib/plugins'
+import { getCanonicalPlugins, pluginId } from '@/utils/plugins'
 import type { APIRoute } from 'astro'
 
 export const GET: APIRoute = async () => {
