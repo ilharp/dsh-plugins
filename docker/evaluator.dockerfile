@@ -1,12 +1,13 @@
-FROM node:26.8.1-alpine3.23
+FROM node:26.8.1-trixie
 
 WORKDIR /evaluator
 
 COPY . /evaluator
 
+RUN ["apt", "update"]
+RUN ["apt", "install", "-y", "build-essential", "python3", "git"]
 RUN ["npm", "install", "-g", "corepack"]
 RUN ["corepack", "yarn"]
-RUN ["apk", "add", "--no-cache", "git"]
 RUN ["git", "clone", "https://github.com/deepseek-ai/deepseek-harness.git", "/dsh"]
 
 WORKDIR /dsh
