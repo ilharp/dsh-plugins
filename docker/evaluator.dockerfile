@@ -1,4 +1,4 @@
-FROM node:26.8.1-trixie
+FROM node:26.8.1-trixie-slim
 
 WORKDIR /evaluator
 
