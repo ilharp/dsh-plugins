@@ -4,6 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node src/index.mts"
+    "start": "node src/index.mts",
+    "publish": "node src/publish.mts"
+  },
+  "dependencies": {
+    "js-yaml": "^4.3.2"
   }
 }
