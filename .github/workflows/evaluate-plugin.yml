@@ -1,0 +1,104 @@
+name: Evaluate Plugin
+
+on:
+  workflow_dispatch:
+    inputs:
+      git:
+        description: Git clone URL of the plugin repository
+        required: true
+        type: string
+      path:
+        description: Optional plugin path inside a monorepo
+        required: false
+        default: .
+        type: string
+      resume_run_id:
+        description: Existing workflow run ID to publish from
+        required: false
+        default: ''
+        type: string
+
+permissions:
+  contents: write
+  packages: read
+  actions: read
+  pull-requests: write
+
+jobs:
+  eval:
+    if: ${{ inputs.resume_run_id == '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Run evaluator
+        shell: bash
+        env:
+          DPEVAL_GIT: ${{ inputs.git }}
+          DPEVAL_PATH: ${{ inputs.path }}
+        run: |
+          set +e
+          mkdir -p eval-artifact/results
+          tag="$(git rev-parse --abbrev-ref HEAD)-$(git rev-list --count HEAD)"
+          git_sha="$(git ls-remote "$DPEVAL_GIT" HEAD | awk '{print $1}')"
+          docker run --rm \
+            -e DPEVAL_GIT \
+            -e DPEVAL_PATH \
+            -v "$PWD/eval-artifact/results:/evalenv/results" \
+            "ghcr.io/ilharp/dsh-plugins-evaluator:$tag"
+          status=$?
+          # meta.json marks a publishable (successful) evaluation; failed runs
+          # keep their partial results in the artifact for debugging but can
+          # never be picked up by a resume_run_id publish.
+          if [ "$status" -eq 0 ]; then
+            cat > eval-artifact/meta.json <<EOF
+          {"git":$(jq -Rn --arg value "$DPEVAL_GIT" '$value'),"path":$(jq -Rn --arg value "$DPEVAL_PATH" '$value'),"sha":$(jq -Rn --arg value "$git_sha" '$value'),"evaluator":$(jq -Rn --arg value "$tag" '$value')}
+          EOF
+          fi
+          exit "$status"
+      - name: Upload evaluation artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eval-${{ github.run_id }}
+          path: eval-artifact
+          if-no-files-found: error
+          overwrite: true
+
+  publish:
+    if: ${{ always() && (needs.eval.result == 'success' || inputs.resume_run_id != '') }}
+    needs: eval
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Download evaluation artifact from this run
+        if: ${{ inputs.resume_run_id == '' }}
+        uses: actions/download-artifact@v4
+        with:
+          name: eval-${{ github.run_id }}
+          path: eval-artifact
+      - name: Download evaluation artifact from a historical run
+        if: ${{ inputs.resume_run_id != '' }}
+        uses: actions/download-artifact@v4
+        with:
+          name: eval-${{ inputs.resume_run_id }}
+          path: eval-artifact
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          run-id: ${{ inputs.resume_run_id }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '26'
+      - name: Install dependencies
+        run: |
+          npm install -g corepack
+          corepack yarn
+      - name: Publish evaluation
+        env:
+          DPEVAL_ARTIFACT_DIR: ${{ github.workspace }}/eval-artifact
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+          DPEVAL_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ inputs.resume_run_id || github.run_id }}
+        run: corepack yarn workspace dsh-plugins-evaluator publish
