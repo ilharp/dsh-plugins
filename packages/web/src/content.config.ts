@@ -31,6 +31,7 @@ const plugin = defineCollection({
           dshVersion: z.string(),
         }),
       ),
+      evaluations: z.array(z.looseObject({})).optional(),
     }),
   ]),
 })
