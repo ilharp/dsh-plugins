@@ -110,4 +110,5 @@ jobs:
           DPEVAL_ARTIFACT_DIR: ${{ github.workspace }}/eval-artifact
           GITHUB_WORKSPACE: ${{ github.workspace }}
           DPEVAL_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ inputs.resume_run_id || github.run_id }}
+          GH_TOKEN: ${{ github.token }}
         run: corepack yarn workspace dsh-plugins-evaluator publish
