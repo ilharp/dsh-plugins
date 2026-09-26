@@ -29,6 +29,16 @@ const isWithin = (parent: string, child: string): boolean => {
 const isMissing = (error: unknown): boolean =>
   isRecord(error) && error['code'] === 'ENOENT'
 
+const formatDuration = (ms: number): string =>
+  ms < 1000 ? `${ms}ms` : `${(ms / 1000).toFixed(1)}s`
+
+// One log line per completed fact; the last line printed marks how far a
+// failed run got.
+const log = (message: string, startedAt: number): void =>
+  console.log(
+    `[evaluator] ${message} (${formatDuration(Date.now() - startedAt)})`,
+  )
+
 const repositoryName = (git: string): string => {
   const source = git.replace(/[\\/]+$/, '')
   const separator = Math.max(source.lastIndexOf('/'), source.lastIndexOf(':'))
@@ -159,30 +169,54 @@ export const runEvaluator = async (
   const root = options.root ?? '/evalenv'
   const git = env['DPEVAL_GIT']?.trim()
   if (!git) throw new Error('DPEVAL_GIT is required')
+  const configuredPath = env['DPEVAL_PATH']?.trim()
 
+  let startedAt = Date.now()
   const resultsDirectory = resolve(root, 'results')
   await mkdir(resultsDirectory, { recursive: true })
-
   const repository = resolve(root, repositoryName(git))
-  await runCommand('git', ['clone', git, repository], root)
+  log(`target: ${git} (path: ${configuredPath || '.'})`, startedAt)
 
+  startedAt = Date.now()
+  await runCommand('git', ['clone', git, repository], root)
+  log(`cloned into ${repository}`, startedAt)
+
+  startedAt = Date.now()
   const pluginDirectory = await resolvePluginDirectory(
     repository,
-    env['DPEVAL_PATH'],
+    configuredPath,
   )
+  log(`plugin dir: ${pluginDirectory}`, startedAt)
 
+  startedAt = Date.now()
   const manifest = await readManifest(pluginDirectory)
   const canInstall = isRecord(manifest)
   await writeResult(resultsDirectory, PACKAGE_JSON_RESULT_FILENAME, canInstall)
-  if (canInstall) await runCommand('npm', ['i'], pluginDirectory)
+  log(
+    `package-json-valid: ${canInstall ? 'pass' : 'fail'} → ${PACKAGE_JSON_RESULT_FILENAME}`,
+    startedAt,
+  )
 
-  await writeResult(
-    resultsDirectory,
-    RESULT_FILENAME,
-    canInstall && (await evaluateBundle(pluginDirectory, manifest)),
+  startedAt = Date.now()
+  if (canInstall) await runCommand('npm', ['i'], pluginDirectory)
+  log(`npm i: ${canInstall ? 'done' : 'skipped (invalid manifest)'}`, startedAt)
+
+  startedAt = Date.now()
+  const bundlePass =
+    canInstall && (await evaluateBundle(pluginDirectory, manifest))
+  await writeResult(resultsDirectory, RESULT_FILENAME, bundlePass)
+  log(
+    `package-json-dsh-bundle-valid: ${bundlePass ? 'pass' : 'fail'} → ${RESULT_FILENAME}`,
+    startedAt,
   )
 
   // TODO: Implement dynamic evaluation.
 }
 
-await runEvaluator()
+await runEvaluator().catch((error: unknown) => {
+  console.error(
+    `[evaluator] FAILED: ${error instanceof Error ? error.message : String(error)}`,
+  )
+  if (error instanceof Error && error.stack) console.error(error.stack)
+  process.exitCode = 1
+})

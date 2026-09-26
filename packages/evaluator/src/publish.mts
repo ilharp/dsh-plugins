@@ -1,10 +1,8 @@
 import { dump, load } from 'js-yaml'
 import { execFile } from 'node:child_process'
 import { readFile, readdir, writeFile } from 'node:fs/promises'
-import { join, resolve } from 'node:path'
+import { join, relative, resolve } from 'node:path'
 import { promisify } from 'node:util'
-
-const exec = promisify(execFile)
 
 type JsonObject = Record<string, unknown>
 
@@ -25,6 +23,40 @@ interface Evaluation {
 
 const isObject = (value: unknown): value is JsonObject =>
   typeof value === 'object' && value !== null && !Array.isArray(value)
+
+const formatDuration = (ms: number): string =>
+  ms < 1000 ? `${ms}ms` : `${(ms / 1000).toFixed(1)}s`
+
+// One log line per completed fact; the last line printed marks how far a
+// failed run got. Per-item result values are never logged (the list will
+// grow to hundreds of items) — only the file count here and the PR body.
+const log = (message: string, startedAt: number): void =>
+  console.log(
+    `[publish] ${message} (${formatDuration(Date.now() - startedAt)})`,
+  )
+
+const exec = async (
+  command: string,
+  args: string[],
+  options: { cwd: string },
+): Promise<{ stdout: string }> => {
+  try {
+    return await promisify(execFile)(command, args, options)
+  } catch (error) {
+    if (isObject(error)) {
+      const output = [error['stderr'], error['stdout']]
+        .map((value) => (typeof value === 'string' ? value.trim() : ''))
+        .filter((value) => value !== '')
+        .join('\n')
+      const tail = output ? `\n${output.split('\n').slice(-10).join('\n')}` : ''
+      throw new Error(
+        `${command} ${args.join(' ')} failed${tail ? `:${tail}` : ''}`,
+        { cause: error },
+      )
+    }
+    throw error
+  }
+}
 
 const requiredString = (value: unknown, name: string): string => {
   if (typeof value !== 'string' || value.trim() === '')
@@ -117,6 +149,7 @@ const findPlugin = async (
 }
 
 const run = async (): Promise<void> => {
+  let startedAt = Date.now()
   const artifact = resolve(process.env['DPEVAL_ARTIFACT_DIR'] ?? process.cwd())
   let rawMeta: unknown
   try {
@@ -142,8 +175,28 @@ const run = async (): Promise<void> => {
     throw new Error('meta.json field sha must be a 40-character commit SHA')
   const { owner, repo } = githubIdentity(meta.git)
   const results = await loadResults(artifact)
+  log(
+    `artifact: ${artifact} (results: ${Object.keys(results).length} files, meta: ok)`,
+    startedAt,
+  )
+
+  startedAt = Date.now()
+  log(
+    `meta: ${owner}/${repo} @ ${meta.sha} (evaluator: ${meta.evaluator}${
+      meta.path ? `, path: ${meta.path}` : ''
+    })`,
+    startedAt,
+  )
+
+  startedAt = Date.now()
   const repoRoot = resolve(process.env['GITHUB_WORKSPACE'] ?? process.cwd())
   const plugin = await findPlugin(repoRoot, owner, repo, meta.path)
+  log(
+    `match: plugin ${plugin.id} → ${relative(repoRoot, plugin.path)}`,
+    startedAt,
+  )
+
+  startedAt = Date.now()
   const evaluations = Array.isArray(plugin.document['evaluations'])
     ? plugin.document['evaluations'].filter(isObject)
     : []
@@ -162,40 +215,66 @@ const run = async (): Promise<void> => {
       same(item['results'], evaluation.results),
   )
   if (duplicate) {
-    console.log(`[publish] evaluation already exists for plugin ${plugin.id}`)
+    log('dedup: already recorded, nothing to do', startedAt)
     return
   }
+  log('dedup: new event', startedAt)
+
+  startedAt = Date.now()
   plugin.document['evaluations'] = [...evaluations, evaluation]
   await writeFile(
     plugin.path,
     dump(plugin.document, { lineWidth: -1, sortKeys: false }),
     'utf8',
   )
+  log(
+    `yaml: evaluations ${evaluations.length} → ${evaluations.length + 1}`,
+    startedAt,
+  )
 
   const branch = `eval/plugin-${plugin.id}-${meta.sha.slice(0, 7)}`
+  startedAt = Date.now()
   // -B reuses an existing branch (evaluator upgraded, same sha) instead of
   // failing on `checkout -b`; the branch is always rebuilt from master.
   await exec('git', ['checkout', '-B', branch], { cwd: repoRoot })
+  // Fixed commit identity at repo level (never --global: publish may run on
+  // a dev machine and must not touch the user's global git config).
+  await exec('git', ['config', 'user.email', 'hi@ilharper.com'], {
+    cwd: repoRoot,
+  })
+  await exec('git', ['config', 'user.name', 'Il Harper'], { cwd: repoRoot })
+  log(`git: branch ${branch} rebuilt`, startedAt)
+
+  startedAt = Date.now()
   await exec('git', ['add', plugin.path], { cwd: repoRoot })
   await exec(
     'git',
     ['commit', '-m', `chore: record evaluation for plugin ${plugin.id}`],
     { cwd: repoRoot },
   )
+  log('git: committed', startedAt)
+
+  startedAt = Date.now()
   await exec(
     'git',
     ['push', '--force-with-lease', '--set-upstream', 'origin', branch],
     { cwd: repoRoot },
   )
+  log('git: pushed --force-with-lease', startedAt)
+
+  startedAt = Date.now()
   const { stdout: openPrs } = await exec(
     'gh',
     ['pr', 'list', '--head', branch, '--state', 'open', '--json', 'number'],
     { cwd: repoRoot },
   )
   if (JSON.parse(openPrs).length > 0) {
-    console.log(`[publish] open PR already exists for ${branch}`)
+    log('pr: open PR already exists, skipped', startedAt)
     return
   }
+  log('pr: no open PR on branch', startedAt)
+
+  startedAt = Date.now()
   const resultLines = Object.entries(results)
     .sort(([a], [b]) => (a < b ? -1 : a > b ? 1 : 0))
     .map(([key, pass]) => `- ${key}: ${pass ? 'pass' : 'fail'}`)
@@ -210,7 +289,7 @@ const run = async (): Promise<void> => {
     '',
     ...resultLines,
   ].join('\n')
-  await exec(
+  const { stdout: created } = await exec(
     'gh',
     [
       'pr',
@@ -226,6 +305,13 @@ const run = async (): Promise<void> => {
     ],
     { cwd: repoRoot },
   )
+  log(`pr: created ${created.trim().split('\n').pop() ?? ''}`, startedAt)
 }
 
-await run()
+await run().catch((error: unknown) => {
+  console.error(
+    `[publish] FAILED: ${error instanceof Error ? error.message : String(error)}`,
+  )
+  if (error instanceof Error && error.stack) console.error(error.stack)
+  process.exitCode = 1
+})

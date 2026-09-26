@@ -41,13 +41,18 @@ jobs:
           set +e
           mkdir -p eval-artifact/results
           tag="$(git rev-parse --abbrev-ref HEAD)-$(git rev-list --count HEAD)"
+          t0=$SECONDS
           git_sha="$(git ls-remote "$DPEVAL_GIT" HEAD | awk '{print $1}')"
+          echo "[eval] target: $DPEVAL_GIT (path: $DPEVAL_PATH) @ $git_sha ($((SECONDS - t0))s)"
+          echo "[eval] image: ghcr.io/ilharp/dsh-plugins-evaluator:$tag"
+          t0=$SECONDS
           docker run --rm \
             -e DPEVAL_GIT \
             -e DPEVAL_PATH \
             -v "$PWD/eval-artifact/results:/evalenv/results" \
             "ghcr.io/ilharp/dsh-plugins-evaluator:$tag"
           status=$?
+          echo "[eval] evaluator exited $status ($((SECONDS - t0))s)"
           # meta.json marks a publishable (successful) evaluation; failed runs
           # keep their partial results in the artifact for debugging but can
           # never be picked up by a resume_run_id publish.
@@ -55,6 +60,10 @@ jobs:
             cat > eval-artifact/meta.json <<EOF
           {"git":$(jq -Rn --arg value "$DPEVAL_GIT" '$value'),"path":$(jq -Rn --arg value "$DPEVAL_PATH" '$value'),"sha":$(jq -Rn --arg value "$git_sha" '$value'),"evaluator":$(jq -Rn --arg value "$tag" '$value')}
           EOF
+            count="$(find eval-artifact/results -maxdepth 1 -name '*.json' | wc -l)"
+            echo "[eval] artifact: $count result file(s), meta.json written"
+          else
+            echo "[eval] artifact: meta.json skipped (failed run)"
           fi
           exit "$status"
       - name: Upload evaluation artifact
