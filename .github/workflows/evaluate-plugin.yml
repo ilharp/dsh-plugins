@@ -27,7 +27,7 @@ permissions:
 jobs:
   eval:
     if: ${{ inputs.resume_run_id == '' }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     steps:
       - uses: actions/checkout@v4
         with:
@@ -78,7 +78,7 @@ jobs:
   publish:
     if: ${{ always() && (needs.eval.result == 'success' || inputs.resume_run_id != '') }}
     needs: eval
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     steps:
       - uses: actions/checkout@v4
         with:
