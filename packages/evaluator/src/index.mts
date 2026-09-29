@@ -1,6 +1,7 @@
 import { spawn } from 'node:child_process'
 import { mkdir, readFile, realpath, stat, writeFile } from 'node:fs/promises'
 import { isAbsolute, relative, resolve, sep } from 'node:path'
+import { detectPackageManager, resolveInstallPlan } from './pm.mts'
 
 const RESULT_FILENAME = 'package-json-dsh-bundle-valid.json'
 const PACKAGE_JSON_RESULT_FILENAME = 'package-json-valid.json'
@@ -34,10 +35,11 @@ const formatDuration = (ms: number): string =>
 
 // One log line per completed fact; the last line printed marks how far a
 // failed run got.
-const log = (message: string, startedAt: number): void =>
+const log = (message: string, startedAt: number): void => {
   console.log(
     `[evaluator] ${message} (${formatDuration(Date.now() - startedAt)})`,
   )
+}
 
 const repositoryName = (git: string): string => {
   const source = git.replace(/[\\/]+$/, '')
@@ -53,9 +55,14 @@ const runCommand = async (
   command: string,
   args: string[],
   cwd: string,
+  env?: Record<string, string>,
 ): Promise<void> => {
   await new Promise<void>((resolveCommand, rejectCommand) => {
-    const child = spawn(command, args, { cwd, stdio: 'inherit' })
+    const child = spawn(command, args, {
+      cwd,
+      stdio: 'inherit',
+      ...(env ? { env: { ...process.env, ...env } } : {}),
+    })
     child.once('error', rejectCommand)
     child.once('exit', (code, signal) => {
       if (code === 0) {
@@ -175,7 +182,14 @@ export const runEvaluator = async (
   const resultsDirectory = resolve(root, 'results')
   await mkdir(resultsDirectory, { recursive: true })
   const repository = resolve(root, repositoryName(git))
-  log(`target: ${git} (path: ${configuredPath || '.'})`, startedAt)
+  log(
+    `target: ${git} (path: ${
+      configuredPath === undefined || configuredPath === ''
+        ? '.'
+        : configuredPath
+    })`,
+    startedAt,
+  )
 
   startedAt = Date.now()
   await runCommand('git', ['clone', git, repository], root)
@@ -198,8 +212,23 @@ export const runEvaluator = async (
   )
 
   startedAt = Date.now()
-  if (canInstall) await runCommand('npm', ['i'], pluginDirectory)
-  log(`npm i: ${canInstall ? 'done' : 'skipped (invalid manifest)'}`, startedAt)
+  if (canInstall) {
+    const detection = await detectPackageManager(repository)
+    const plan = resolveInstallPlan(detection)
+    // Install at the repository root: lockfiles and workspace config live
+    // there, and only a root install can resolve `workspace:*` dependencies.
+    await runCommand(plan.command, plan.args, repository, plan.env)
+    log(
+      `install: ${
+        detection.version
+          ? `${detection.pm}@${detection.version}`
+          : detection.pm
+      } (signal: ${detection.signal})`,
+      startedAt,
+    )
+  } else {
+    log('install: skipped (invalid manifest)', startedAt)
+  }
 
   startedAt = Date.now()
   const bundlePass =
