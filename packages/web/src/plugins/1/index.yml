@@ -15,3 +15,11 @@ versions:
     dshVersion: v0.1.2-alpha.1
   - packageVersion: 0.17.1
     dshVersion: v0.1.2-alpha.1
+evaluations:
+  - version: 1
+    sha: 492661a3ea304ad151611de70e7412494be234da
+    evaluatedAt: '2026-09-29T16:08:23.468Z'
+    evaluator: master-68
+    results:
+      package-json-dsh-bundle-valid: true
+      package-json-valid: true
