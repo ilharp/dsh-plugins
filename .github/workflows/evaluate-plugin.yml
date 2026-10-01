@@ -3,14 +3,9 @@ name: Evaluate Plugin
 on:
   workflow_dispatch:
     inputs:
-      git:
-        description: Git clone URL of the plugin repository
+      id:
+        description: Numeric plugin id (packages/web/src/plugins/<id>)
         required: true
-        type: string
-      path:
-        description: Optional plugin path inside a monorepo
-        required: false
-        default: .
         type: string
       resume_run_id:
         description: Existing workflow run ID to publish from
@@ -32,11 +27,35 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '26'
+      - name: Resolve plugin
+        id: resolve
+        env:
+          PLUGIN_ID: ${{ inputs.id }}
+        run: |
+          set -euo pipefail
+          t0=$SECONDS
+          npm install -g corepack
+          corepack yarn workspaces focus dsh-plugins-publish
+          # Absolute path: yarn runs the script with the package dir as cwd.
+          out="$PWD/eval-resolve.json"
+          corepack yarn workspace dsh-plugins-publish resolve "$PLUGIN_ID" "$out"
+          owner="$(jq -r .owner "$out")"
+          repo="$(jq -r .repo "$out")"
+          path="$(jq -r .path "$out")"
+          echo "[eval] resolve: plugin $PLUGIN_ID → $owner/$repo (path: $path) ($((SECONDS - t0))s)"
+          {
+            echo "git=$(jq -r .git "$out")"
+            echo "path=$path"
+          } >> "$GITHUB_OUTPUT"
       - name: Run evaluator
         shell: bash
         env:
-          DPEVAL_GIT: ${{ inputs.git }}
-          DPEVAL_PATH: ${{ inputs.path }}
+          DPEVAL_GIT: ${{ steps.resolve.outputs.git }}
+          DPEVAL_PATH: ${{ steps.resolve.outputs.path }}
+          PLUGIN_ID: ${{ inputs.id }}
         run: |
           set +e
           mkdir -p eval-artifact/results
@@ -58,7 +77,7 @@ jobs:
           # never be picked up by a resume_run_id publish.
           if [ "$status" -eq 0 ]; then
             cat > eval-artifact/meta.json <<EOF
-          {"git":$(jq -Rn --arg value "$DPEVAL_GIT" '$value'),"path":$(jq -Rn --arg value "$DPEVAL_PATH" '$value'),"sha":$(jq -Rn --arg value "$git_sha" '$value'),"evaluator":$(jq -Rn --arg value "$tag" '$value')}
+          {"id":$(jq -Rn --arg value "$PLUGIN_ID" '$value'),"git":$(jq -Rn --arg value "$DPEVAL_GIT" '$value'),"path":$(jq -Rn --arg value "$DPEVAL_PATH" '$value'),"sha":$(jq -Rn --arg value "$git_sha" '$value'),"evaluator":$(jq -Rn --arg value "$tag" '$value')}
           EOF
             count="$(find eval-artifact/results -maxdepth 1 -name '*.json' | wc -l)"
             echo "[eval] artifact: $count result file(s), meta.json written"
@@ -111,4 +130,4 @@ jobs:
           GITHUB_WORKSPACE: ${{ github.workspace }}
           DPEVAL_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ inputs.resume_run_id || github.run_id }}
           GH_TOKEN: ${{ github.token }}
-        run: corepack yarn workspace dsh-plugins-evaluator publish
+        run: corepack yarn workspace dsh-plugins-publish publish
