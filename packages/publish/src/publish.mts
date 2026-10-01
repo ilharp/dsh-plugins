@@ -7,6 +7,7 @@ import { promisify } from 'node:util'
 type JsonObject = Record<string, unknown>
 
 interface Meta {
+  id: string
   git: string
   path?: string
   sha: string
@@ -106,46 +107,74 @@ const loadResults = async (
   return results
 }
 
-const findPlugin = async (
+const loadPlugin = async (
   repoRoot: string,
+  id: string,
+): Promise<{ path: string; document: JsonObject }> => {
+  const path = join(
+    repoRoot,
+    'packages',
+    'web',
+    'src',
+    'plugins',
+    id,
+    'index.yml',
+  )
+  let document: unknown
+  try {
+    document = load(await readFile(path, 'utf8'))
+  } catch (error) {
+    if (isObject(error) && error['code'] === 'ENOENT')
+      throw new Error(
+        `plugin ${id} not found in dataset (${relative(repoRoot, path)})`,
+        { cause: error },
+      )
+    throw error
+  }
+  if (!isObject(document))
+    throw new Error(`plugin ${id} document must be a mapping`)
+  return { path, document }
+}
+
+// The id pins which dataset file is written, so the identity check only has to
+// answer one question: does that file still point at the repository that was
+// actually evaluated? A metadata PR can move or correct a plugin's repository
+// between the trigger and this publish run — that drift fails here instead of
+// silently attributing the results to whichever plugin currently claims it.
+const verifyIdentity = (
+  id: string,
+  document: JsonObject,
   owner: string,
   repo: string,
   configuredPath: string | undefined,
-): Promise<{ id: string; path: string; document: JsonObject }> => {
-  const pluginsRoot = join(repoRoot, 'packages', 'web', 'src', 'plugins')
-  const matches: { id: string; path: string; document: JsonObject }[] = []
-  for (const entry of await readdir(pluginsRoot, { withFileTypes: true })) {
-    if (!entry.isDirectory() || !/^\d+$/.test(entry.name)) continue
-    const path = join(pluginsRoot, entry.name, 'index.yml')
-    try {
-      const document = load(await readFile(path, 'utf8'))
-      if (!isObject(document) || !isObject(document['github'])) continue
-      const github = document['github']
-      if (
-        typeof github['owner'] !== 'string' ||
-        typeof github['repo'] !== 'string' ||
-        github['owner'].toLowerCase() !== owner.toLowerCase() ||
-        github['repo'].toLowerCase() !== repo.toLowerCase()
-      )
-        continue
-      if (
-        configuredPath &&
-        configuredPath !== '.' &&
-        github['path'] !== configuredPath
-      )
-        continue
-      matches.push({ id: entry.name, path, document })
-    } catch {
-      // Invalid collection documents are handled by the web build; ignore them here.
-    }
-  }
-  if (matches.length !== 1)
+): void => {
+  const github = document['github']
+  if (
+    !isObject(github) ||
+    typeof github['owner'] !== 'string' ||
+    typeof github['repo'] !== 'string'
+  )
     throw new Error(
-      `expected exactly one plugin match, found ${matches.length} for ${owner}/${repo}`,
+      `plugin ${id} has no github identity; its evaluation result cannot be attributed`,
     )
-  const match = matches[0]
-  if (!match) throw new Error('plugin match disappeared')
-  return match
+  const datasetPath =
+    typeof github['path'] === 'string' &&
+    github['path'].trim() !== '' &&
+    github['path'].trim() !== '.'
+      ? github['path'].trim()
+      : undefined
+  if (
+    github['owner'].toLowerCase() !== owner.toLowerCase() ||
+    github['repo'].toLowerCase() !== repo.toLowerCase() ||
+    datasetPath !== configuredPath
+  )
+    throw new Error(
+      `plugin ${id} points at ${github['owner']}/${github['repo']}${
+        datasetPath ? ` @ ${datasetPath}` : ''
+      }, but the evaluated repository is ${owner}/${repo}${
+        configuredPath ? ` @ ${configuredPath}` : ''
+      }; the dataset changed since the trigger`,
+    )
 }
 
 const run = async (): Promise<void> => {
@@ -164,6 +193,7 @@ const run = async (): Promise<void> => {
   }
   if (!isObject(rawMeta)) throw new Error('meta.json must contain an object')
   const meta: Meta = {
+    id: requiredString(rawMeta['id'], 'id'),
     git: requiredString(rawMeta['git'], 'git'),
     sha: requiredString(rawMeta['sha'], 'sha'),
     evaluator: requiredString(rawMeta['evaluator'], 'evaluator'),
@@ -173,6 +203,8 @@ const run = async (): Promise<void> => {
   }
   if (!/^[0-9a-f]{40}$/i.test(meta.sha))
     throw new Error('meta.json field sha must be a 40-character commit SHA')
+  if (!/^\d+$/.test(meta.id))
+    throw new Error('meta.json field id must be a numeric plugin id')
   const { owner, repo } = githubIdentity(meta.git)
   const results = await loadResults(artifact)
   log(
@@ -182,7 +214,7 @@ const run = async (): Promise<void> => {
 
   startedAt = Date.now()
   log(
-    `meta: ${owner}/${repo} @ ${meta.sha} (evaluator: ${meta.evaluator}${
+    `meta: plugin ${meta.id} ${owner}/${repo} @ ${meta.sha} (evaluator: ${meta.evaluator}${
       meta.path ? `, path: ${meta.path}` : ''
     })`,
     startedAt,
@@ -190,9 +222,12 @@ const run = async (): Promise<void> => {
 
   startedAt = Date.now()
   const repoRoot = resolve(process.env['GITHUB_WORKSPACE'] ?? process.cwd())
-  const plugin = await findPlugin(repoRoot, owner, repo, meta.path)
+  const plugin = await loadPlugin(repoRoot, meta.id)
+  verifyIdentity(meta.id, plugin.document, owner, repo, meta.path)
   log(
-    `match: plugin ${plugin.id} → ${relative(repoRoot, plugin.path)}`,
+    `verify: plugin ${meta.id} → ${owner}/${repo}${
+      meta.path ? ` @ ${meta.path}` : ''
+    }`,
     startedAt,
   )
 
@@ -232,7 +267,7 @@ const run = async (): Promise<void> => {
     startedAt,
   )
 
-  const branch = `eval/plugin-${plugin.id}-${meta.sha.slice(0, 7)}`
+  const branch = `eval/plugin-${meta.id}-${meta.sha.slice(0, 7)}`
   startedAt = Date.now()
   // -B reuses an existing branch (evaluator upgraded, same sha) instead of
   // failing on `checkout -b`; the branch is always rebuilt from master.
@@ -249,7 +284,7 @@ const run = async (): Promise<void> => {
   await exec('git', ['add', plugin.path], { cwd: repoRoot })
   await exec(
     'git',
-    ['commit', '-m', `chore: record evaluation for plugin ${plugin.id}`],
+    ['commit', '-m', `chore: record evaluation for plugin ${meta.id}`],
     { cwd: repoRoot },
   )
   log('git: committed', startedAt)
@@ -282,6 +317,7 @@ const run = async (): Promise<void> => {
   const body = [
     `Automated evaluation for ${owner}/${repo} at ${meta.sha}.`,
     '',
+    `- plugin: ${meta.id}`,
     `- evaluator: \`${meta.evaluator}\``,
     `- sha: ${meta.sha}`,
     ...(meta.path ? [`- path: ${meta.path}`] : []),
@@ -299,7 +335,7 @@ const run = async (): Promise<void> => {
       '--head',
       branch,
       '--title',
-      `chore: evaluate plugin ${plugin.id}`,
+      `chore: evaluate plugin ${meta.id}`,
       '--body',
       body,
     ],
