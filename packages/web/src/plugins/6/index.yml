@@ -10,3 +10,11 @@ github:
 versions:
   - packageVersion: 0.2.1
     dshVersion: v0.1.2-alpha.1
+evaluations:
+  - version: 1
+    sha: c27c8b61acf97714ab08d99f97b7be3a9007e52e
+    evaluatedAt: '2026-10-07T16:27:22.889Z'
+    evaluator: master-77
+    results:
+      package-json-dsh-bundle-valid: true
+      package-json-valid: true
