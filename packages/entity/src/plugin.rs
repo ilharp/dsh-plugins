@@ -9,13 +9,18 @@ use serde::Serialize;
 pub struct Model {
     #[sea_orm(primary_key)]
     pub id: i32,
+    #[sea_orm(column_type = "String(StringLen::N(214))")]
     pub name: String,
-    /// npm name; not unique — lookups keep first-match-wins by lowest id.
-    pub npm_name: Option<String>,
+    /// npm name; not unique — lookups keep first-match-wins by lowest id;
+    /// empty string when the plugin has no npm identity.
+    #[sea_orm(column_type = "String(StringLen::N(214))")]
+    pub npm_name: String,
     /// GitHub repository; null for npm-only plugins.
     pub repository_id: Option<i32>,
-    /// Plugin-level path inside the repository (monorepo subdirectory).
-    pub github_path: Option<String>,
+    /// Plugin-level path inside the repository (monorepo subdirectory);
+    /// empty string = repository root.
+    #[sea_orm(column_type = "String(StringLen::N(128))")]
+    pub github_path: String,
     pub created_time: DateTime,
     pub updated_time: DateTime,
 }

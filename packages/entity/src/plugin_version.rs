@@ -12,7 +12,9 @@ pub struct Model {
     pub id: i32,
     pub plugin_id: i32,
     pub seq: i32,
+    #[sea_orm(column_type = "String(StringLen::N(64))")]
     pub package_version: String,
+    #[sea_orm(column_type = "String(StringLen::N(64))")]
     pub dsh_version: String,
     pub created_time: DateTime,
     pub updated_time: DateTime,

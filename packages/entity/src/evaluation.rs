@@ -2,12 +2,11 @@ use sea_orm::entity::prelude::*;
 use serde::Deserialize;
 use serde::Serialize;
 
-/// Append-only evaluation event log for one plugin.
-///
-/// The unique key `(plugin_id, sha, version, evaluator, results)` is the
-/// DB-level translation of the historical dedup rule; `evaluated_at` never
-/// participates. `created_time` records when the event landed in the database,
-/// which may differ from `evaluated_at` on the resume path.
+/// Append-only evaluation event log for one plugin. Identity is
+/// `(plugin_id, evaluated_at)`: `evaluated_at` is stamped when the
+/// evaluation ran and travels with the results, so publish retries carrying
+/// the same event are idempotent. `created_time` records when the event
+/// landed in the database, which may differ on the resume path.
 #[derive(Clone, Debug, PartialEq, Eq, Serialize, Deserialize, DeriveEntityModel)]
 #[sea_orm(table_name = "evaluation_v1")]
 pub struct Model {
@@ -22,10 +21,11 @@ pub struct Model {
     /// When the evaluation ran, stored as UTC without time zone.
     pub evaluated_at: DateTime,
     /// Evaluator image tag that produced the results.
+    #[sea_orm(column_type = "String(StringLen::N(64))")]
     pub evaluator: String,
     /// Kebab-case item key -> pass; key presence means the item was evaluated.
     #[sea_orm(column_type = "JsonBinary")]
-    pub results: Json,
+    pub result: Json,
     pub created_time: DateTime,
     pub updated_time: DateTime,
 }
