@@ -2,15 +2,16 @@ use sea_orm::entity::prelude::*;
 use serde::Deserialize;
 use serde::Serialize;
 
-/// One `(package_version, dsh_version)` pair. `ordinal` preserves the source
-/// order; the newest version is the highest ordinal.
+/// One `(package_version, dsh_version)` pair. `seq` is the per-plugin
+/// sequence number of recorded versions (1-based); the newest version is
+/// the highest sequence.
 #[derive(Clone, Debug, PartialEq, Eq, Serialize, Deserialize, DeriveEntityModel)]
 #[sea_orm(table_name = "plugin_version_v1")]
 pub struct Model {
     #[sea_orm(primary_key)]
     pub id: i32,
     pub plugin_id: i32,
-    pub ordinal: i32,
+    pub seq: i32,
     pub package_version: String,
     pub dsh_version: String,
     pub created_time: DateTime,
