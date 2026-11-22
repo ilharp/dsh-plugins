@@ -5,6 +5,7 @@ use std::sync::Arc;
 use anyhow::Context;
 use anyhow::Result;
 use axum::Router;
+use axum::routing::get;
 use axum_tracing_opentelemetry::middleware::OtelAxumLayer;
 use axum_tracing_opentelemetry::middleware::OtelInResponseLayer;
 use opentelemetry::propagation::TextMapCompositePropagator;
@@ -31,6 +32,10 @@ use tracing_subscriber::util::SubscriberInitExt;
 use crate::config::Config;
 use crate::config::load_config;
 use crate::server::controller::notfound::handler_notfound;
+use crate::server::controller::package_get::controller_package_get;
+use crate::server::controller::plugin_get::controller_plugin_get;
+use crate::server::controller::plugin_list::controller_plugin_list;
+use crate::server::controller::repository_get::controller_repository_get;
 
 mod config;
 mod server;
@@ -114,6 +119,10 @@ async fn main_async_intl() -> Result<()> {
     let app_state = AppState::new(config, &shutdown_notify).await?;
 
     let app = Router::new()
+        .route("/v1/plugin", get(controller_plugin_list))
+        .route("/v1/plugin/{id}", get(controller_plugin_get))
+        .route("/v1/package/{name}", get(controller_package_get))
+        .route("/v1/repo/{owner}/{repo}", get(controller_repository_get))
         .fallback(handler_notfound)
         .with_state(app_state.clone())
         .layer(OtelInResponseLayer)
