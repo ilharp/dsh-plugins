@@ -8,6 +8,7 @@ use axum::http::StatusCode;
 use axum::response::IntoResponse;
 use axum::response::Response;
 use serde::Serialize;
+use tracing::error;
 
 pub mod controller;
 
@@ -25,7 +26,7 @@ where
 }
 
 #[derive(Debug, Serialize)]
-struct ResponseBody<D>
+pub struct ResponseBody<D>
 where
     D: Debug + Serialize,
 {
@@ -43,7 +44,7 @@ where
 }
 
 #[derive(Debug, Serialize)]
-struct ErrorResponseBody {
+pub struct ErrorResponseBody {
     code: u16,
     msg: String,
 }
@@ -74,9 +75,16 @@ pub struct AppError(Error);
 
 impl IntoResponse for AppError {
     fn into_response(self) -> Response {
+        // Log the full chain internally; never echo internals to the public
+        // gateway in front of this service.
+        error!("{:?}", self.0);
+
         (
-            StatusCode::INTERNAL_SERVER_ERROR,
-            format!("Error: {}", self.0),
+            StatusCode::OK,
+            Json(ErrorResponseBody {
+                code: StatusCode::INTERNAL_SERVER_ERROR.as_u16(),
+                msg: "internal error".to_owned(),
+            }),
         )
             .into_response()
     }
