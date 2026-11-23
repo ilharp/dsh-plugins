@@ -83,6 +83,7 @@ ORDER BY "pv"."seq" DESC
 LIMIT 1
 ) AS "latest_package_version"
 FROM "plugin_v1"
+LEFT JOIN "repository_v1" ON "repository_v1"."id" = "plugin_v1"."repository_id"
 WHERE "plugin_v1"."repository_id" = {repository_id}
 ORDER BY "plugin_v1"."id"
 "#
