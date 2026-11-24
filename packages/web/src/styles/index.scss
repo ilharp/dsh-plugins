@@ -1,3 +1,13 @@
 @charset 'utf-8';
 
 @use 'normalize.css';
+
+/* Site-wide layout constants shared by SCSS modules. */
+:root {
+  --site-max: 82rem;
+  /* Mirrors the radius ramp of tw.css's `@theme inline` block, which does
+     not emit :root variables — SCSS modules consume these directly. */
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+}
